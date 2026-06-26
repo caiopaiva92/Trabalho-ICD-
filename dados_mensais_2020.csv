@@ -38,16 +38,6 @@ System RAM, 14 GB, 0.23%, +0.03%, Janeiro, 2020
 System RAM, 15 GB, 0.43%, -0.42%, Janeiro, 2020
 System RAM, 16 GB, 38.27%, -2.25%, Janeiro, 2020
 System RAM, More than 16 GB, 6.80%, +0.82%, Janeiro, 2020
-Intel CPU Speeds, Below 1.4 Ghz, 0.45%, -0.03%, Janeiro, 2020
-Intel CPU Speeds, 1.4 Ghz to 1.49 Ghz, 0.28%, +0.01%, Janeiro, 2020
-Intel CPU Speeds, 1.5 Ghz to 1.69 Ghz, 1.07%, -0.05%, Janeiro, 2020
-Intel CPU Speeds, 1.7 Ghz to 1.99 Ghz, 3.52%, +0.02%, Janeiro, 2020
-Intel CPU Speeds, 2.0 Ghz to 2.29 Ghz, 4.96%, +0.21%, Janeiro, 2020
-Intel CPU Speeds, 2.3 Ghz to 2.69 Ghz, 15.25%, +1.68%, Janeiro, 2020
-Intel CPU Speeds, 2.7 Ghz to 2.99 Ghz, 12.80%, -1.97%, Janeiro, 2020
-Intel CPU Speeds, 3.0 Ghz to 3.29 Ghz, 13.24%, -2.96%, Janeiro, 2020
-Intel CPU Speeds, 3.3 Ghz to 3.69 Ghz, 21.65%, +0.65%, Janeiro, 2020
-Intel CPU Speeds, 3.7 Ghz and above, 6.02%, +0.53%, Janeiro, 2020
 Physical CPUs, 1 cpu, 0.53%, -0.10%, Janeiro, 2020
 Physical CPUs, 2 cpus, 21.57%, +0.17%, Janeiro, 2020
 Physical CPUs, 3 cpus, 1.39%, +0.07%, Janeiro, 2020
@@ -203,48 +193,6 @@ Primary Display Resolution, 2560 x 1080, 1.11%, +0.04%, Janeiro, 2020
 Primary Display Resolution, 3440 x 1440, 0.74%, +0.09%, Janeiro, 2020
 Primary Display Resolution, 3840 x 2160, 1.97%, +0.13%, Janeiro, 2020
 Primary Display Resolution, Other, 1.84%, +0.09%, Janeiro, 2020
-Multi-Monitor Desktop Resolution, 1920 x 2160, 1.32%, -0.10%, Janeiro, 2020
-Multi-Monitor Desktop Resolution, 2726 x 768, 0.48%, -0.02%, Janeiro, 2020
-Multi-Monitor Desktop Resolution, 2732 x 768, 0.62%, -0.10%, Janeiro, 2020
-Multi-Monitor Desktop Resolution, 2880 x 1800, 0.42%, -0.02%, Janeiro, 2020
-Multi-Monitor Desktop Resolution, 2944 x 1080, 1.08%, 0.00%, Janeiro, 2020
-Multi-Monitor Desktop Resolution, 2960 x 1050, 0.42%, +0.42%, Janeiro, 2020
-Multi-Monitor Desktop Resolution, 3000 x 1920, 1.54%, +0.04%, Janeiro, 2020
-Multi-Monitor Desktop Resolution, 3200 x 900, 0.42%, 0.00%, Janeiro, 2020
-Multi-Monitor Desktop Resolution, 3200 x 1080, 6.34%, -0.12%, Janeiro, 2020
-Multi-Monitor Desktop Resolution, 3280 x 1080, 2.70%, -0.12%, Janeiro, 2020
-Multi-Monitor Desktop Resolution, 3286 x 1080, 4.26%, -0.12%, Janeiro, 2020
-Multi-Monitor Desktop Resolution, 3360 x 1050, 0.58%, -0.06%, Janeiro, 2020
-Multi-Monitor Desktop Resolution, 3360 x 1080, 3.88%, +0.06%, Janeiro, 2020
-Multi-Monitor Desktop Resolution, 3520 x 1080, 3.98%, -0.18%, Janeiro, 2020
-Multi-Monitor Desktop Resolution, 3600 x 1080, 5.10%, -0.24%, Janeiro, 2020
-Multi-Monitor Desktop Resolution, 3640 x 1920, 0.84%, +0.08%, Janeiro, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1080, 72.96%, +0.50%, Janeiro, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1081, 1.00%, +0.10%, Janeiro, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1082, 0.60%, 0.00%, Janeiro, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1083, 0.64%, +0.02%, Janeiro, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1084, 0.56%, 0.00%, Janeiro, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1085, 0.54%, +0.06%, Janeiro, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1086, 0.62%, +0.12%, Janeiro, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1087, 0.48%, -0.04%, Janeiro, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1088, 0.64%, +0.04%, Janeiro, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1089, 0.54%, -0.04%, Janeiro, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1200, 2.90%, -0.10%, Janeiro, 2020
-Multi-Monitor Desktop Resolution, 3840 x 2160, 1.04%, -0.10%, Janeiro, 2020
-Multi-Monitor Desktop Resolution, 4240 x 1440, 0.56%, 0.00%, Janeiro, 2020
-Multi-Monitor Desktop Resolution, 4480 x 1080, 2.46%, +0.02%, Janeiro, 2020
-Multi-Monitor Desktop Resolution, 4480 x 1440, 13.34%, +0.88%, Janeiro, 2020
-Multi-Monitor Desktop Resolution, 4920 x 1920, 0.44%, -0.02%, Janeiro, 2020
-Multi-Monitor Desktop Resolution, 5120 x 1080, 0.48%, -0.08%, Janeiro, 2020
-Multi-Monitor Desktop Resolution, 5120 x 1440, 3.34%, -0.04%, Janeiro, 2020
-Multi-Monitor Desktop Resolution, 5120 x 2880, 0.50%, -0.02%, Janeiro, 2020
-Multi-Monitor Desktop Resolution, 5360 x 1440, 1.20%, +0.04%, Janeiro, 2020
-Multi-Monitor Desktop Resolution, 5760 x 1080, 4.76%, -0.08%, Janeiro, 2020
-Multi-Monitor Desktop Resolution, 5760 x 2160, 4.56%, +0.12%, Janeiro, 2020
-Multi-Monitor Desktop Resolution, 6400 x 1440, 1.32%, +0.10%, Janeiro, 2020
-Multi-Monitor Desktop Resolution, 6400 x 2160, 1.16%, -0.04%, Janeiro, 2020
-Multi-Monitor Desktop Resolution, 7680 x 2160, 1.44%, -0.08%, Janeiro, 2020
-Multi-Monitor Desktop Resolution, Other, 47.94%, +0.04%, Janeiro, 2020
 OS Version, Windows, 96.02%, -0.07%, Fevereiro, 2020
 OS Version, Windows 10 64 bit, 80.37%, +1.14%, Fevereiro, 2020
 OS Version, Windows 7 64 bit, 12.39%, -1.17%, Fevereiro, 2020
@@ -285,16 +233,6 @@ System RAM, 14 GB, 0.25%, +0.02%, Fevereiro, 2020
 System RAM, 15 GB, 0.45%, +0.02%, Fevereiro, 2020
 System RAM, 16 GB, 36.74%, -1.53%, Fevereiro, 2020
 System RAM, More than 16 GB, 6.72%, -0.08%, Fevereiro, 2020
-Intel CPU Speeds, Below 1.4 Ghz, 0.51%, +0.06%, Fevereiro, 2020
-Intel CPU Speeds, 1.4 Ghz to 1.49 Ghz, 0.32%, +0.04%, Fevereiro, 2020
-Intel CPU Speeds, 1.5 Ghz to 1.69 Ghz, 1.15%, +0.08%, Fevereiro, 2020
-Intel CPU Speeds, 1.7 Ghz to 1.99 Ghz, 3.93%, +0.41%, Fevereiro, 2020
-Intel CPU Speeds, 2.0 Ghz to 2.29 Ghz, 5.22%, +0.26%, Fevereiro, 2020
-Intel CPU Speeds, 2.3 Ghz to 2.69 Ghz, 16.54%, +1.29%, Fevereiro, 2020
-Intel CPU Speeds, 2.7 Ghz to 2.99 Ghz, 12.73%, -0.07%, Fevereiro, 2020
-Intel CPU Speeds, 3.0 Ghz to 3.29 Ghz, 12.62%, -0.62%, Fevereiro, 2020
-Intel CPU Speeds, 3.3 Ghz to 3.69 Ghz, 20.68%, -0.97%, Fevereiro, 2020
-Intel CPU Speeds, 3.7 Ghz and above, 5.53%, -0.49%, Fevereiro, 2020
 Physical CPUs, 1 cpu, 0.57%, +0.04%, Fevereiro, 2020
 Physical CPUs, 2 cpus, 22.03%, +0.46%, Fevereiro, 2020
 Physical CPUs, 3 cpus, 1.25%, -0.14%, Fevereiro, 2020
@@ -456,47 +394,6 @@ Primary Display Resolution, 2560 x 1440, 5.54%, -0.32%, Fevereiro, 2020
 Primary Display Resolution, 3440 x 1440, 0.70%, -0.04%, Fevereiro, 2020
 Primary Display Resolution, 3840 x 2160, 1.91%, -0.06%, Fevereiro, 2020
 Primary Display Resolution, Other, 1.93%, +0.09%, Fevereiro, 2020
-Multi-Monitor Desktop Resolution, 1920 x 2160, 1.44%, +0.12%, Fevereiro, 2020
-Multi-Monitor Desktop Resolution, 2726 x 768, 0.44%, -0.04%, Fevereiro, 2020
-Multi-Monitor Desktop Resolution, 2732 x 768, 0.66%, +0.04%, Fevereiro, 2020
-Multi-Monitor Desktop Resolution, 2944 x 1080, 1.10%, +0.02%, Fevereiro, 2020
-Multi-Monitor Desktop Resolution, 3000 x 1920, 1.52%, -0.02%, Fevereiro, 2020
-Multi-Monitor Desktop Resolution, 3200 x 900, 0.42%, 0.00%, Fevereiro, 2020
-Multi-Monitor Desktop Resolution, 3200 x 1080, 6.16%, -0.18%, Fevereiro, 2020
-Multi-Monitor Desktop Resolution, 3280 x 1080, 2.72%, +0.02%, Fevereiro, 2020
-Multi-Monitor Desktop Resolution, 3286 x 1080, 4.50%, +0.24%, Fevereiro, 2020
-Multi-Monitor Desktop Resolution, 3360 x 1050, 0.54%, -0.04%, Fevereiro, 2020
-Multi-Monitor Desktop Resolution, 3360 x 1080, 3.84%, -0.04%, Fevereiro, 2020
-Multi-Monitor Desktop Resolution, 3520 x 1080, 4.02%, +0.04%, Fevereiro, 2020
-Multi-Monitor Desktop Resolution, 3600 x 1080, 5.02%, -0.08%, Fevereiro, 2020
-Multi-Monitor Desktop Resolution, 3640 x 1920, 0.84%, 0.00%, Fevereiro, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1080, 73.02%, +0.06%, Fevereiro, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1081, 0.98%, -0.02%, Fevereiro, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1082, 0.58%, -0.02%, Fevereiro, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1083, 0.70%, +0.06%, Fevereiro, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1084, 0.62%, +0.06%, Fevereiro, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1085, 0.52%, -0.02%, Fevereiro, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1086, 0.56%, -0.06%, Fevereiro, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1087, 0.52%, +0.04%, Fevereiro, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1088, 0.68%, +0.04%, Fevereiro, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1089, 0.56%, +0.02%, Fevereiro, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1200, 2.74%, -0.16%, Fevereiro, 2020
-Multi-Monitor Desktop Resolution, 3840 x 2160, 1.02%, -0.02%, Fevereiro, 2020
-Multi-Monitor Desktop Resolution, 4240 x 1440, 0.52%, -0.04%, Fevereiro, 2020
-Multi-Monitor Desktop Resolution, 4480 x 1080, 2.50%, +0.04%, Fevereiro, 2020
-Multi-Monitor Desktop Resolution, 4480 x 1440, 13.18%, -0.16%, Fevereiro, 2020
-Multi-Monitor Desktop Resolution, 4920 x 1920, 0.40%, -0.04%, Fevereiro, 2020
-Multi-Monitor Desktop Resolution, 5120 x 1080, 0.50%, +0.02%, Fevereiro, 2020
-Multi-Monitor Desktop Resolution, 5120 x 1440, 3.46%, +0.12%, Fevereiro, 2020
-Multi-Monitor Desktop Resolution, 5120 x 2880, 0.44%, -0.06%, Fevereiro, 2020
-Multi-Monitor Desktop Resolution, 5360 x 1440, 1.18%, -0.02%, Fevereiro, 2020
-Multi-Monitor Desktop Resolution, 5760 x 1080, 4.80%, +0.04%, Fevereiro, 2020
-Multi-Monitor Desktop Resolution, 5760 x 2160, 4.54%, -0.02%, Fevereiro, 2020
-Multi-Monitor Desktop Resolution, 6000 x 1440, 0.42%, +0.42%, Fevereiro, 2020
-Multi-Monitor Desktop Resolution, 6400 x 1440, 1.18%, -0.14%, Fevereiro, 2020
-Multi-Monitor Desktop Resolution, 6400 x 2160, 1.14%, -0.02%, Fevereiro, 2020
-Multi-Monitor Desktop Resolution, 7680 x 2160, 1.44%, 0.00%, Fevereiro, 2020
-Multi-Monitor Desktop Resolution, Other, 48.58%, +0.64%, Fevereiro, 2020
 OS Version, Windows, 95.33%, -0.69%, Março, 2020
 OS Version, Windows 10 64 bit, 85.69%, +5.32%, Março, 2020
 OS Version, Windows 7 64 bit, 6.67%, -5.72%, Março, 2020
@@ -538,16 +435,6 @@ System RAM, 14 GB, 0.27%, +0.02%, Março, 2020
 System RAM, 15 GB, 0.47%, +0.02%, Março, 2020
 System RAM, 16 GB, 39.01%, +2.27%, Março, 2020
 System RAM, More than 16 GB, 7.02%, +0.30%, Março, 2020
-Intel CPU Speeds, Below 1.4 Ghz, 0.56%, +0.05%, Março, 2020
-Intel CPU Speeds, 1.4 Ghz to 1.49 Ghz, 0.37%, +0.05%, Março, 2020
-Intel CPU Speeds, 1.5 Ghz to 1.69 Ghz, 1.25%, +0.10%, Março, 2020
-Intel CPU Speeds, 1.7 Ghz to 1.99 Ghz, 4.27%, +0.34%, Março, 2020
-Intel CPU Speeds, 2.0 Ghz to 2.29 Ghz, 5.21%, -0.01%, Março, 2020
-Intel CPU Speeds, 2.3 Ghz to 2.69 Ghz, 16.81%, +0.27%, Março, 2020
-Intel CPU Speeds, 2.7 Ghz to 2.99 Ghz, 13.62%, +0.89%, Março, 2020
-Intel CPU Speeds, 3.0 Ghz to 3.29 Ghz, 12.60%, -0.02%, Março, 2020
-Intel CPU Speeds, 3.3 Ghz to 3.69 Ghz, 19.62%, -1.06%, Março, 2020
-Intel CPU Speeds, 3.7 Ghz and above, 5.29%, -0.24%, Março, 2020
 Physical CPUs, 1 cpu, 0.40%, -0.17%, Março, 2020
 Physical CPUs, 2 cpus, 20.68%, -1.35%, Março, 2020
 Physical CPUs, 3 cpus, 1.14%, -0.11%, Março, 2020
@@ -707,50 +594,6 @@ Primary Display Resolution, 2560 x 1440, 6.08%, +0.54%, Março, 2020
 Primary Display Resolution, 3440 x 1440, 0.75%, +0.05%, Março, 2020
 Primary Display Resolution, 3840 x 2160, 1.98%, +0.07%, Março, 2020
 Primary Display Resolution, Other, 1.94%, +0.01%, Março, 2020
-Multi-Monitor Desktop Resolution, 1920 x 2160, 1.50%, +0.06%, Março, 2020
-Multi-Monitor Desktop Resolution, 2560 x 2520, 0.40%, +0.40%, Março, 2020
-Multi-Monitor Desktop Resolution, 2646 x 1024, 0.42%, +0.42%, Março, 2020
-Multi-Monitor Desktop Resolution, 2726 x 768, 0.50%, +0.06%, Março, 2020
-Multi-Monitor Desktop Resolution, 2732 x 768, 0.68%, +0.02%, Março, 2020
-Multi-Monitor Desktop Resolution, 2880 x 1800, 0.58%, +0.58%, Março, 2020
-Multi-Monitor Desktop Resolution, 2944 x 1080, 0.94%, -0.16%, Março, 2020
-Multi-Monitor Desktop Resolution, 3000 x 1920, 1.66%, +0.14%, Março, 2020
-Multi-Monitor Desktop Resolution, 3200 x 900, 0.40%, -0.02%, Março, 2020
-Multi-Monitor Desktop Resolution, 3200 x 1080, 5.92%, -0.24%, Março, 2020
-Multi-Monitor Desktop Resolution, 3280 x 1080, 2.78%, +0.06%, Março, 2020
-Multi-Monitor Desktop Resolution, 3286 x 1080, 4.64%, +0.14%, Março, 2020
-Multi-Monitor Desktop Resolution, 3360 x 1050, 0.54%, 0.00%, Março, 2020
-Multi-Monitor Desktop Resolution, 3360 x 1080, 3.72%, -0.12%, Março, 2020
-Multi-Monitor Desktop Resolution, 3520 x 1080, 3.92%, -0.10%, Março, 2020
-Multi-Monitor Desktop Resolution, 3600 x 1080, 4.86%, -0.16%, Março, 2020
-Multi-Monitor Desktop Resolution, 3640 x 1920, 0.86%, +0.02%, Março, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1080, 72.34%, -0.68%, Março, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1081, 0.94%, -0.04%, Março, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1082, 0.58%, 0.00%, Março, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1083, 0.74%, +0.04%, Março, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1084, 0.62%, 0.00%, Março, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1085, 0.54%, +0.02%, Março, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1086, 0.58%, +0.02%, Março, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1087, 0.54%, +0.02%, Março, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1088, 0.60%, -0.08%, Março, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1089, 0.60%, +0.04%, Março, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1200, 2.74%, 0.00%, Março, 2020
-Multi-Monitor Desktop Resolution, 3840 x 2160, 1.12%, +0.10%, Março, 2020
-Multi-Monitor Desktop Resolution, 4240 x 1440, 0.50%, -0.02%, Março, 2020
-Multi-Monitor Desktop Resolution, 4480 x 1080, 2.44%, -0.06%, Março, 2020
-Multi-Monitor Desktop Resolution, 4480 x 1440, 13.18%, 0.00%, Março, 2020
-Multi-Monitor Desktop Resolution, 4920 x 1920, 0.48%, +0.08%, Março, 2020
-Multi-Monitor Desktop Resolution, 5120 x 1080, 0.46%, -0.04%, Março, 2020
-Multi-Monitor Desktop Resolution, 5120 x 1440, 3.64%, +0.18%, Março, 2020
-Multi-Monitor Desktop Resolution, 5120 x 2880, 0.56%, +0.12%, Março, 2020
-Multi-Monitor Desktop Resolution, 5360 x 1440, 1.24%, +0.06%, Março, 2020
-Multi-Monitor Desktop Resolution, 5760 x 1080, 4.66%, -0.14%, Março, 2020
-Multi-Monitor Desktop Resolution, 5760 x 2160, 4.64%, +0.10%, Março, 2020
-Multi-Monitor Desktop Resolution, 6000 x 1440, 0.42%, 0.00%, Março, 2020
-Multi-Monitor Desktop Resolution, 6400 x 1440, 1.28%, +0.10%, Março, 2020
-Multi-Monitor Desktop Resolution, 6400 x 2160, 1.24%, +0.10%, Março, 2020
-Multi-Monitor Desktop Resolution, 7680 x 2160, 1.48%, +0.04%, Março, 2020
-Multi-Monitor Desktop Resolution, Other, 47.48%, -1.10%, Março, 2020
 OS Version, Windows, 95.06%, -0.27%, Abril, 2020
 OS Version, Windows 10 64 bit, 86.08%, +0.39%, Abril, 2020
 OS Version, Windows 7 64 bit, 5.96%, -0.71%, Abril, 2020
@@ -792,16 +635,6 @@ System RAM, 14 GB, 0.29%, +0.02%, Abril, 2020
 System RAM, 15 GB, 0.49%, +0.02%, Abril, 2020
 System RAM, 16 GB, 38.25%, -0.76%, Abril, 2020
 System RAM, More than 16 GB, 7.52%, +0.50%, Abril, 2020
-Intel CPU Speeds, Below 1.4 Ghz, 0.62%, +0.06%, Abril, 2020
-Intel CPU Speeds, 1.4 Ghz to 1.49 Ghz, 0.42%, +0.05%, Abril, 2020
-Intel CPU Speeds, 1.5 Ghz to 1.69 Ghz, 1.33%, +0.08%, Abril, 2020
-Intel CPU Speeds, 1.7 Ghz to 1.99 Ghz, 4.46%, +0.19%, Abril, 2020
-Intel CPU Speeds, 2.0 Ghz to 2.29 Ghz, 5.38%, +0.17%, Abril, 2020
-Intel CPU Speeds, 2.3 Ghz to 2.69 Ghz, 17.43%, +0.62%, Abril, 2020
-Intel CPU Speeds, 2.7 Ghz to 2.99 Ghz, 12.88%, -0.74%, Abril, 2020
-Intel CPU Speeds, 3.0 Ghz to 3.29 Ghz, 11.68%, -0.92%, Abril, 2020
-Intel CPU Speeds, 3.3 Ghz to 3.69 Ghz, 19.52%, -0.10%, Abril, 2020
-Intel CPU Speeds, 3.7 Ghz and above, 5.39%, +0.10%, Abril, 2020
 Physical CPUs, Unspecified, 0.00%, 0.00%, Abril, 2020
 Physical CPUs, 1 cpu, 0.34%, -0.06%, Abril, 2020
 Physical CPUs, 2 cpus, 21.22%, +0.54%, Abril, 2020
@@ -960,49 +793,6 @@ Primary Display Resolution, 2560 x 1440, 5.91%, -0.17%, Abril, 2020
 Primary Display Resolution, 3440 x 1440, 0.81%, +0.06%, Abril, 2020
 Primary Display Resolution, 3840 x 2160, 2.14%, +0.16%, Abril, 2020
 Primary Display Resolution, Other, 2.04%, +0.10%, Abril, 2020
-Multi-Monitor Desktop Resolution, 1920 x 2160, 1.48%, -0.02%, Abril, 2020
-Multi-Monitor Desktop Resolution, 2646 x 1024, 0.44%, +0.02%, Abril, 2020
-Multi-Monitor Desktop Resolution, 2726 x 768, 0.54%, +0.04%, Abril, 2020
-Multi-Monitor Desktop Resolution, 2732 x 768, 0.74%, +0.06%, Abril, 2020
-Multi-Monitor Desktop Resolution, 2880 x 1800, 0.74%, +0.16%, Abril, 2020
-Multi-Monitor Desktop Resolution, 2944 x 1080, 0.98%, +0.04%, Abril, 2020
-Multi-Monitor Desktop Resolution, 3000 x 1920, 1.66%, 0.00%, Abril, 2020
-Multi-Monitor Desktop Resolution, 3200 x 1080, 5.86%, -0.06%, Abril, 2020
-Multi-Monitor Desktop Resolution, 3280 x 1080, 2.78%, 0.00%, Abril, 2020
-Multi-Monitor Desktop Resolution, 3286 x 1080, 4.68%, +0.04%, Abril, 2020
-Multi-Monitor Desktop Resolution, 3360 x 1050, 0.54%, 0.00%, Abril, 2020
-Multi-Monitor Desktop Resolution, 3360 x 1080, 3.66%, -0.06%, Abril, 2020
-Multi-Monitor Desktop Resolution, 3360 x 2100, 0.40%, +0.40%, Abril, 2020
-Multi-Monitor Desktop Resolution, 3520 x 1080, 3.88%, -0.04%, Abril, 2020
-Multi-Monitor Desktop Resolution, 3600 x 1080, 4.70%, -0.16%, Abril, 2020
-Multi-Monitor Desktop Resolution, 3640 x 1920, 0.84%, -0.02%, Abril, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1080, 71.76%, -0.58%, Abril, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1081, 0.98%, +0.04%, Abril, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1082, 0.68%, +0.10%, Abril, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1083, 0.70%, -0.04%, Abril, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1084, 0.62%, 0.00%, Abril, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1085, 0.54%, 0.00%, Abril, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1086, 0.60%, +0.02%, Abril, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1087, 0.58%, +0.04%, Abril, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1088, 0.64%, +0.04%, Abril, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1089, 0.58%, -0.02%, Abril, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1200, 2.74%, 0.00%, Abril, 2020
-Multi-Monitor Desktop Resolution, 3840 x 2160, 1.24%, +0.12%, Abril, 2020
-Multi-Monitor Desktop Resolution, 4240 x 1440, 0.48%, -0.02%, Abril, 2020
-Multi-Monitor Desktop Resolution, 4480 x 1080, 2.46%, +0.02%, Abril, 2020
-Multi-Monitor Desktop Resolution, 4480 x 1440, 13.14%, -0.04%, Abril, 2020
-Multi-Monitor Desktop Resolution, 4920 x 1920, 0.44%, -0.04%, Abril, 2020
-Multi-Monitor Desktop Resolution, 5120 x 1080, 0.44%, -0.02%, Abril, 2020
-Multi-Monitor Desktop Resolution, 5120 x 1440, 3.52%, -0.12%, Abril, 2020
-Multi-Monitor Desktop Resolution, 5120 x 2880, 0.66%, +0.10%, Abril, 2020
-Multi-Monitor Desktop Resolution, 5360 x 1440, 1.20%, -0.04%, Abril, 2020
-Multi-Monitor Desktop Resolution, 5760 x 1080, 4.48%, -0.18%, Abril, 2020
-Multi-Monitor Desktop Resolution, 5760 x 2160, 4.70%, +0.06%, Abril, 2020
-Multi-Monitor Desktop Resolution, 6000 x 1440, 0.46%, +0.04%, Abril, 2020
-Multi-Monitor Desktop Resolution, 6400 x 1440, 1.20%, -0.08%, Abril, 2020
-Multi-Monitor Desktop Resolution, 6400 x 2160, 1.16%, -0.08%, Abril, 2020
-Multi-Monitor Desktop Resolution, 7680 x 2160, 1.50%, +0.02%, Abril, 2020
-Multi-Monitor Desktop Resolution, Other, 48.52%, +1.04%, Abril, 2020
 OS Version, Windows, 95.05%, -0.01%, Maio, 2020
 OS Version, Windows 10 64 bit, 85.58%, -0.50%, Maio, 2020
 OS Version, Windows 7 64 bit, 6.57%, +0.61%, Maio, 2020
@@ -1044,16 +834,6 @@ System RAM, 14 GB, 0.34%, +0.05%, Maio, 2020
 System RAM, 15 GB, 0.53%, +0.04%, Maio, 2020
 System RAM, 16 GB, 38.69%, +0.44%, Maio, 2020
 System RAM, More than 16 GB, 7.79%, +0.27%, Maio, 2020
-Intel CPU Speeds, Below 1.4 Ghz, 0.67%, +0.05%, Maio, 2020
-Intel CPU Speeds, 1.4 Ghz to 1.49 Ghz, 0.43%, +0.01%, Maio, 2020
-Intel CPU Speeds, 1.5 Ghz to 1.69 Ghz, 1.33%, 0.00%, Maio, 2020
-Intel CPU Speeds, 1.7 Ghz to 1.99 Ghz, 4.46%, 0.00%, Maio, 2020
-Intel CPU Speeds, 2.0 Ghz to 2.29 Ghz, 5.24%, -0.14%, Maio, 2020
-Intel CPU Speeds, 2.3 Ghz to 2.69 Ghz, 17.04%, -0.39%, Maio, 2020
-Intel CPU Speeds, 2.7 Ghz to 2.99 Ghz, 12.86%, -0.02%, Maio, 2020
-Intel CPU Speeds, 3.0 Ghz to 3.29 Ghz, 11.81%, +0.13%, Maio, 2020
-Intel CPU Speeds, 3.3 Ghz to 3.69 Ghz, 19.33%, -0.19%, Maio, 2020
-Intel CPU Speeds, 3.7 Ghz and above, 5.22%, -0.17%, Maio, 2020
 Physical CPUs, Unspecified, 0.00%, 0.00%, Maio, 2020
 Physical CPUs, 1 cpu, 0.39%, +0.05%, Maio, 2020
 Physical CPUs, 2 cpus, 21.07%, -0.15%, Maio, 2020
@@ -1213,49 +993,6 @@ Primary Display Resolution, 2560 x 1440, 6.06%, +0.15%, Maio, 2020
 Primary Display Resolution, 3440 x 1440, 0.82%, +0.01%, Maio, 2020
 Primary Display Resolution, 3840 x 2160, 2.17%, +0.03%, Maio, 2020
 Primary Display Resolution, Other, 2.07%, +0.03%, Maio, 2020
-Multi-Monitor Desktop Resolution, 1920 x 2160, 1.54%, +0.06%, Maio, 2020
-Multi-Monitor Desktop Resolution, 2560 x 2520, 0.42%, +0.42%, Maio, 2020
-Multi-Monitor Desktop Resolution, 2646 x 1024, 0.42%, -0.02%, Maio, 2020
-Multi-Monitor Desktop Resolution, 2726 x 768, 0.54%, 0.00%, Maio, 2020
-Multi-Monitor Desktop Resolution, 2732 x 768, 0.76%, +0.02%, Maio, 2020
-Multi-Monitor Desktop Resolution, 2880 x 1800, 0.68%, -0.06%, Maio, 2020
-Multi-Monitor Desktop Resolution, 2944 x 1080, 0.98%, 0.00%, Maio, 2020
-Multi-Monitor Desktop Resolution, 3000 x 1920, 1.74%, +0.08%, Maio, 2020
-Multi-Monitor Desktop Resolution, 3200 x 1080, 5.82%, -0.04%, Maio, 2020
-Multi-Monitor Desktop Resolution, 3280 x 1080, 2.74%, -0.04%, Maio, 2020
-Multi-Monitor Desktop Resolution, 3286 x 1080, 4.82%, +0.14%, Maio, 2020
-Multi-Monitor Desktop Resolution, 3360 x 1050, 0.48%, -0.06%, Maio, 2020
-Multi-Monitor Desktop Resolution, 3360 x 1080, 3.52%, -0.14%, Maio, 2020
-Multi-Monitor Desktop Resolution, 3520 x 1080, 3.84%, -0.04%, Maio, 2020
-Multi-Monitor Desktop Resolution, 3600 x 1080, 4.62%, -0.08%, Maio, 2020
-Multi-Monitor Desktop Resolution, 3640 x 1920, 0.90%, +0.06%, Maio, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1080, 71.36%, -0.40%, Maio, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1081, 1.04%, +0.06%, Maio, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1082, 0.68%, 0.00%, Maio, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1083, 0.74%, +0.04%, Maio, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1084, 0.66%, +0.04%, Maio, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1085, 0.60%, +0.06%, Maio, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1086, 0.56%, -0.04%, Maio, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1087, 0.56%, -0.02%, Maio, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1088, 0.58%, -0.06%, Maio, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1089, 0.58%, 0.00%, Maio, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1200, 2.70%, -0.04%, Maio, 2020
-Multi-Monitor Desktop Resolution, 3840 x 2160, 1.30%, +0.06%, Maio, 2020
-Multi-Monitor Desktop Resolution, 4240 x 1440, 0.50%, +0.02%, Maio, 2020
-Multi-Monitor Desktop Resolution, 4480 x 1080, 2.40%, -0.06%, Maio, 2020
-Multi-Monitor Desktop Resolution, 4480 x 1440, 13.50%, +0.36%, Maio, 2020
-Multi-Monitor Desktop Resolution, 4920 x 1920, 0.48%, +0.04%, Maio, 2020
-Multi-Monitor Desktop Resolution, 5120 x 1080, 0.48%, +0.04%, Maio, 2020
-Multi-Monitor Desktop Resolution, 5120 x 1440, 3.62%, +0.10%, Maio, 2020
-Multi-Monitor Desktop Resolution, 5120 x 2880, 0.68%, +0.02%, Maio, 2020
-Multi-Monitor Desktop Resolution, 5360 x 1440, 1.22%, +0.02%, Maio, 2020
-Multi-Monitor Desktop Resolution, 5760 x 1080, 4.52%, +0.04%, Maio, 2020
-Multi-Monitor Desktop Resolution, 5760 x 2160, 4.58%, -0.12%, Maio, 2020
-Multi-Monitor Desktop Resolution, 6000 x 1440, 0.46%, 0.00%, Maio, 2020
-Multi-Monitor Desktop Resolution, 6400 x 1440, 1.26%, +0.06%, Maio, 2020
-Multi-Monitor Desktop Resolution, 6400 x 2160, 1.22%, +0.06%, Maio, 2020
-Multi-Monitor Desktop Resolution, 7680 x 2160, 1.54%, +0.04%, Maio, 2020
-Multi-Monitor Desktop Resolution, Other, 48.38%, -0.14%, Maio, 2020
 OS Version, Windows, 95.94%, +0.28%, Julho, 2020
 OS Version, Windows 10 64 bit, 87.88%, +0.76%, Julho, 2020
 OS Version, Windows 7 64 bit, 5.60%, -0.31%, Julho, 2020
@@ -1295,16 +1032,6 @@ System RAM, 14 GB, 0.38%, +0.05%, Julho, 2020
 System RAM, 15 GB, 0.64%, +0.05%, Julho, 2020
 System RAM, 16 GB, 40.25%, +0.72%, Julho, 2020
 System RAM, More than 16 GB, 8.61%, +0.43%, Julho, 2020
-Intel CPU Speeds, Below 1.4 Ghz, 0.66%, +0.01%, Julho, 2020
-Intel CPU Speeds, 1.4 Ghz to 1.49 Ghz, 0.42%, +0.02%, Julho, 2020
-Intel CPU Speeds, 1.5 Ghz to 1.69 Ghz, 1.07%, -0.10%, Julho, 2020
-Intel CPU Speeds, 1.7 Ghz to 1.99 Ghz, 3.94%, -0.20%, Julho, 2020
-Intel CPU Speeds, 2.0 Ghz to 2.29 Ghz, 4.71%, -0.27%, Julho, 2020
-Intel CPU Speeds, 2.3 Ghz to 2.69 Ghz, 15.86%, -0.88%, Julho, 2020
-Intel CPU Speeds, 2.7 Ghz to 2.99 Ghz, 12.59%, -0.17%, Julho, 2020
-Intel CPU Speeds, 3.0 Ghz to 3.29 Ghz, 11.40%, -0.04%, Julho, 2020
-Intel CPU Speeds, 3.3 Ghz to 3.69 Ghz, 21.01%, +0.97%, Julho, 2020
-Intel CPU Speeds, 3.7 Ghz and above, 5.31%, +0.04%, Julho, 2020
 Physical CPUs, 1 cpu, 0.37%, -0.03%, Julho, 2020
 Physical CPUs, 2 cpus, 19.52%, -0.49%, Julho, 2020
 Physical CPUs, 3 cpus, 1.03%, -0.04%, Julho, 2020
@@ -1459,48 +1186,6 @@ Primary Display Resolution, 2560 x 1080, 1.14%, +0.01%, Julho, 2020
 Primary Display Resolution, 3440 x 1440, 0.90%, +0.03%, Julho, 2020
 Primary Display Resolution, 3840 x 2160, 2.23%, +0.11%, Julho, 2020
 Primary Display Resolution, Other, 1.99%, -0.01%, Julho, 2020
-Multi-Monitor Desktop Resolution, 1920 x 2160, 1.56%, -0.10%, Julho, 2020
-Multi-Monitor Desktop Resolution, 2560 x 2520, 0.42%, -0.02%, Julho, 2020
-Multi-Monitor Desktop Resolution, 2726 x 768, 0.56%, +0.04%, Julho, 2020
-Multi-Monitor Desktop Resolution, 2732 x 768, 0.74%, -0.02%, Julho, 2020
-Multi-Monitor Desktop Resolution, 2880 x 1800, 0.52%, -0.04%, Julho, 2020
-Multi-Monitor Desktop Resolution, 2944 x 1080, 0.90%, -0.02%, Julho, 2020
-Multi-Monitor Desktop Resolution, 3000 x 1920, 1.92%, +0.16%, Julho, 2020
-Multi-Monitor Desktop Resolution, 3200 x 1080, 5.42%, -0.34%, Julho, 2020
-Multi-Monitor Desktop Resolution, 3280 x 1080, 2.76%, +0.06%, Julho, 2020
-Multi-Monitor Desktop Resolution, 3286 x 1080, 4.64%, -0.14%, Julho, 2020
-Multi-Monitor Desktop Resolution, 3360 x 1050, 0.48%, -0.02%, Julho, 2020
-Multi-Monitor Desktop Resolution, 3360 x 1080, 3.38%, -0.10%, Julho, 2020
-Multi-Monitor Desktop Resolution, 3520 x 1080, 3.92%, +0.08%, Julho, 2020
-Multi-Monitor Desktop Resolution, 3600 x 1080, 4.22%, -0.24%, Julho, 2020
-Multi-Monitor Desktop Resolution, 3640 x 1920, 1.00%, 0.00%, Julho, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1080, 71.62%, +0.24%, Julho, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1081, 1.00%, +0.04%, Julho, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1082, 0.66%, +0.04%, Julho, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1083, 0.74%, +0.06%, Julho, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1084, 0.70%, +0.04%, Julho, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1085, 0.62%, +0.02%, Julho, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1086, 0.62%, +0.08%, Julho, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1087, 0.58%, +0.04%, Julho, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1088, 0.66%, +0.08%, Julho, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1089, 0.56%, -0.02%, Julho, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1200, 2.54%, -0.08%, Julho, 2020
-Multi-Monitor Desktop Resolution, 3840 x 2160, 1.18%, -0.06%, Julho, 2020
-Multi-Monitor Desktop Resolution, 4240 x 1440, 0.46%, 0.00%, Julho, 2020
-Multi-Monitor Desktop Resolution, 4480 x 1080, 2.40%, -0.02%, Julho, 2020
-Multi-Monitor Desktop Resolution, 4480 x 1440, 14.24%, +0.32%, Julho, 2020
-Multi-Monitor Desktop Resolution, 4920 x 1920, 0.46%, 0.00%, Julho, 2020
-Multi-Monitor Desktop Resolution, 5120 x 1080, 0.48%, +0.04%, Julho, 2020
-Multi-Monitor Desktop Resolution, 5120 x 1440, 3.92%, +0.16%, Julho, 2020
-Multi-Monitor Desktop Resolution, 5120 x 2880, 0.50%, -0.04%, Julho, 2020
-Multi-Monitor Desktop Resolution, 5360 x 1440, 1.24%, -0.04%, Julho, 2020
-Multi-Monitor Desktop Resolution, 5760 x 1080, 4.62%, +0.10%, Julho, 2020
-Multi-Monitor Desktop Resolution, 5760 x 2160, 4.68%, +0.02%, Julho, 2020
-Multi-Monitor Desktop Resolution, 6000 x 1440, 0.48%, 0.00%, Julho, 2020
-Multi-Monitor Desktop Resolution, 6400 x 1440, 1.20%, -0.08%, Julho, 2020
-Multi-Monitor Desktop Resolution, 6400 x 2160, 1.34%, +0.14%, Julho, 2020
-Multi-Monitor Desktop Resolution, 7680 x 2160, 1.58%, +0.06%, Julho, 2020
-Multi-Monitor Desktop Resolution, Other, 48.56%, +0.84%, Julho, 2020
 OS Version, Windows, 95.76%, -0.18%, Agosto, 2020
 OS Version, Windows 10 64 bit, 88.32%, +0.44%, Agosto, 2020
 OS Version, Windows 7 64 bit, 5.21%, -0.39%, Agosto, 2020
@@ -1539,16 +1224,6 @@ System RAM, 14 GB, 0.42%, +0.04%, Agosto, 2020
 System RAM, 15 GB, 0.94%, +0.30%, Agosto, 2020
 System RAM, 16 GB, 41.21%, +0.96%, Agosto, 2020
 System RAM, More than 16 GB, 9.00%, +0.39%, Agosto, 2020
-Intel CPU Speeds, Below 1.4 Ghz, 0.74%, +0.08%, Agosto, 2020
-Intel CPU Speeds, 1.4 Ghz to 1.49 Ghz, 0.47%, +0.05%, Agosto, 2020
-Intel CPU Speeds, 1.5 Ghz to 1.69 Ghz, 1.06%, -0.01%, Agosto, 2020
-Intel CPU Speeds, 1.7 Ghz to 1.99 Ghz, 3.98%, +0.04%, Agosto, 2020
-Intel CPU Speeds, 2.0 Ghz to 2.29 Ghz, 4.79%, +0.08%, Agosto, 2020
-Intel CPU Speeds, 2.3 Ghz to 2.69 Ghz, 16.58%, +0.72%, Agosto, 2020
-Intel CPU Speeds, 2.7 Ghz to 2.99 Ghz, 12.69%, +0.10%, Agosto, 2020
-Intel CPU Speeds, 3.0 Ghz to 3.29 Ghz, 11.10%, -0.30%, Agosto, 2020
-Intel CPU Speeds, 3.3 Ghz to 3.69 Ghz, 19.29%, -1.72%, Agosto, 2020
-Intel CPU Speeds, 3.7 Ghz and above, 5.14%, -0.17%, Agosto, 2020
 Physical CPUs, 1 cpu, 0.36%, -0.01%, Agosto, 2020
 Physical CPUs, 2 cpus, 18.18%, -1.34%, Agosto, 2020
 Physical CPUs, 3 cpus, 1.00%, -0.03%, Agosto, 2020
@@ -1701,48 +1376,6 @@ Primary Display Resolution, 2560 x 1080, 1.14%, 0.00%, Agosto, 2020
 Primary Display Resolution, 3440 x 1440, 0.90%, 0.00%, Agosto, 2020
 Primary Display Resolution, 3840 x 2160, 2.24%, +0.01%, Agosto, 2020
 Primary Display Resolution, Other, 2.07%, +0.08%, Agosto, 2020
-Multi-Monitor Desktop Resolution, 1920 x 2160, 1.64%, +0.08%, Agosto, 2020
-Multi-Monitor Desktop Resolution, 2560 x 2520, 0.40%, -0.02%, Agosto, 2020
-Multi-Monitor Desktop Resolution, 2726 x 768, 0.50%, -0.06%, Agosto, 2020
-Multi-Monitor Desktop Resolution, 2732 x 768, 0.76%, +0.02%, Agosto, 2020
-Multi-Monitor Desktop Resolution, 2880 x 1800, 0.54%, +0.02%, Agosto, 2020
-Multi-Monitor Desktop Resolution, 2944 x 1080, 0.90%, 0.00%, Agosto, 2020
-Multi-Monitor Desktop Resolution, 3000 x 1920, 1.98%, +0.06%, Agosto, 2020
-Multi-Monitor Desktop Resolution, 3200 x 1080, 5.06%, -0.36%, Agosto, 2020
-Multi-Monitor Desktop Resolution, 3280 x 1080, 2.74%, -0.02%, Agosto, 2020
-Multi-Monitor Desktop Resolution, 3286 x 1080, 4.54%, -0.10%, Agosto, 2020
-Multi-Monitor Desktop Resolution, 3360 x 1050, 0.46%, -0.02%, Agosto, 2020
-Multi-Monitor Desktop Resolution, 3360 x 1080, 3.26%, -0.12%, Agosto, 2020
-Multi-Monitor Desktop Resolution, 3520 x 1080, 3.80%, -0.12%, Agosto, 2020
-Multi-Monitor Desktop Resolution, 3600 x 1080, 4.20%, -0.02%, Agosto, 2020
-Multi-Monitor Desktop Resolution, 3640 x 1920, 1.04%, +0.04%, Agosto, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1080, 71.82%, +0.20%, Agosto, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1081, 1.06%, +0.06%, Agosto, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1082, 0.66%, 0.00%, Agosto, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1083, 0.78%, +0.04%, Agosto, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1084, 0.62%, -0.08%, Agosto, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1085, 0.62%, 0.00%, Agosto, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1086, 0.66%, +0.04%, Agosto, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1087, 0.62%, +0.04%, Agosto, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1088, 0.68%, +0.02%, Agosto, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1089, 0.56%, 0.00%, Agosto, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1200, 2.50%, -0.04%, Agosto, 2020
-Multi-Monitor Desktop Resolution, 3840 x 2160, 1.10%, -0.08%, Agosto, 2020
-Multi-Monitor Desktop Resolution, 4240 x 1440, 0.48%, +0.02%, Agosto, 2020
-Multi-Monitor Desktop Resolution, 4480 x 1080, 2.32%, -0.08%, Agosto, 2020
-Multi-Monitor Desktop Resolution, 4480 x 1440, 14.28%, +0.04%, Agosto, 2020
-Multi-Monitor Desktop Resolution, 4920 x 1920, 0.54%, +0.08%, Agosto, 2020
-Multi-Monitor Desktop Resolution, 5120 x 1080, 0.44%, -0.04%, Agosto, 2020
-Multi-Monitor Desktop Resolution, 5120 x 1440, 4.10%, +0.18%, Agosto, 2020
-Multi-Monitor Desktop Resolution, 5120 x 2880, 0.52%, +0.02%, Agosto, 2020
-Multi-Monitor Desktop Resolution, 5360 x 1440, 1.28%, +0.04%, Agosto, 2020
-Multi-Monitor Desktop Resolution, 5760 x 1080, 4.56%, -0.06%, Agosto, 2020
-Multi-Monitor Desktop Resolution, 5760 x 2160, 4.60%, -0.08%, Agosto, 2020
-Multi-Monitor Desktop Resolution, 6000 x 1440, 0.44%, -0.04%, Agosto, 2020
-Multi-Monitor Desktop Resolution, 6400 x 1440, 1.26%, +0.06%, Agosto, 2020
-Multi-Monitor Desktop Resolution, 6400 x 2160, 1.26%, -0.08%, Agosto, 2020
-Multi-Monitor Desktop Resolution, 7680 x 2160, 1.56%, -0.02%, Agosto, 2020
-Multi-Monitor Desktop Resolution, Other, 48.80%, +0.24%, Agosto, 2020
 OS Version, Windows, 95.61%, -0.15%, Setembro, 2020
 OS Version, Windows 10 64 bit, 89.08%, +0.76%, Setembro, 2020
 OS Version, Windows 7 64 bit, 4.48%, -0.73%, Setembro, 2020
@@ -1782,16 +1415,6 @@ System RAM, 14 GB, 0.48%, +0.06%, Setembro, 2020
 System RAM, 15 GB, 0.96%, +0.02%, Setembro, 2020
 System RAM, 16 GB, 42.08%, +0.87%, Setembro, 2020
 System RAM, More than 16 GB, 9.58%, +0.58%, Setembro, 2020
-Intel CPU Speeds, Below 1.4 Ghz, 0.82%, +0.08%, Setembro, 2020
-Intel CPU Speeds, 1.4 Ghz to 1.49 Ghz, 0.52%, +0.05%, Setembro, 2020
-Intel CPU Speeds, 1.5 Ghz to 1.69 Ghz, 1.05%, -0.01%, Setembro, 2020
-Intel CPU Speeds, 1.7 Ghz to 1.99 Ghz, 3.89%, -0.09%, Setembro, 2020
-Intel CPU Speeds, 2.0 Ghz to 2.29 Ghz, 4.62%, -0.17%, Setembro, 2020
-Intel CPU Speeds, 2.3 Ghz to 2.69 Ghz, 16.43%, -0.15%, Setembro, 2020
-Intel CPU Speeds, 2.7 Ghz to 2.99 Ghz, 12.34%, -0.35%, Setembro, 2020
-Intel CPU Speeds, 3.0 Ghz to 3.29 Ghz, 10.87%, -0.23%, Setembro, 2020
-Intel CPU Speeds, 3.3 Ghz to 3.69 Ghz, 19.32%, +0.03%, Setembro, 2020
-Intel CPU Speeds, 3.7 Ghz and above, 5.22%, +0.08%, Setembro, 2020
 Physical CPUs, 1 cpu, 0.31%, -0.05%, Setembro, 2020
 Physical CPUs, 2 cpus, 17.58%, -0.60%, Setembro, 2020
 Physical CPUs, 3 cpus, 0.97%, -0.03%, Setembro, 2020
@@ -1945,48 +1568,6 @@ Primary Display Resolution, 2560 x 1440, 6.89%, +0.30%, Setembro, 2020
 Primary Display Resolution, 3440 x 1440, 0.97%, +0.07%, Setembro, 2020
 Primary Display Resolution, 3840 x 2160, 2.27%, +0.03%, Setembro, 2020
 Primary Display Resolution, Other, 2.10%, +0.03%, Setembro, 2020
-Multi-Monitor Desktop Resolution, 1920 x 2160, 1.56%, -0.08%, Setembro, 2020
-Multi-Monitor Desktop Resolution, 2560 x 2520, 0.42%, +0.02%, Setembro, 2020
-Multi-Monitor Desktop Resolution, 2726 x 768, 0.52%, +0.02%, Setembro, 2020
-Multi-Monitor Desktop Resolution, 2732 x 768, 0.78%, +0.02%, Setembro, 2020
-Multi-Monitor Desktop Resolution, 2880 x 1800, 0.58%, +0.04%, Setembro, 2020
-Multi-Monitor Desktop Resolution, 2944 x 1080, 0.82%, -0.08%, Setembro, 2020
-Multi-Monitor Desktop Resolution, 3000 x 1920, 2.06%, +0.08%, Setembro, 2020
-Multi-Monitor Desktop Resolution, 3200 x 1080, 4.98%, -0.08%, Setembro, 2020
-Multi-Monitor Desktop Resolution, 3280 x 1080, 2.66%, -0.08%, Setembro, 2020
-Multi-Monitor Desktop Resolution, 3286 x 1080, 4.62%, +0.08%, Setembro, 2020
-Multi-Monitor Desktop Resolution, 3360 x 1050, 0.44%, -0.02%, Setembro, 2020
-Multi-Monitor Desktop Resolution, 3360 x 1080, 3.20%, -0.06%, Setembro, 2020
-Multi-Monitor Desktop Resolution, 3520 x 1080, 3.84%, +0.04%, Setembro, 2020
-Multi-Monitor Desktop Resolution, 3600 x 1080, 4.00%, -0.20%, Setembro, 2020
-Multi-Monitor Desktop Resolution, 3640 x 1920, 1.02%, -0.02%, Setembro, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1080, 72.22%, +0.40%, Setembro, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1081, 1.02%, -0.04%, Setembro, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1082, 0.68%, +0.02%, Setembro, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1083, 0.76%, -0.02%, Setembro, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1084, 0.64%, +0.02%, Setembro, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1085, 0.64%, +0.02%, Setembro, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1086, 0.62%, -0.04%, Setembro, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1087, 0.62%, 0.00%, Setembro, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1088, 0.64%, -0.04%, Setembro, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1089, 0.56%, 0.00%, Setembro, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1200, 2.46%, -0.04%, Setembro, 2020
-Multi-Monitor Desktop Resolution, 3840 x 2160, 1.14%, +0.04%, Setembro, 2020
-Multi-Monitor Desktop Resolution, 4240 x 1440, 0.46%, -0.02%, Setembro, 2020
-Multi-Monitor Desktop Resolution, 4480 x 1080, 2.32%, 0.00%, Setembro, 2020
-Multi-Monitor Desktop Resolution, 4480 x 1440, 14.48%, +0.20%, Setembro, 2020
-Multi-Monitor Desktop Resolution, 4920 x 1920, 0.54%, 0.00%, Setembro, 2020
-Multi-Monitor Desktop Resolution, 5120 x 1080, 0.42%, -0.02%, Setembro, 2020
-Multi-Monitor Desktop Resolution, 5120 x 1440, 4.14%, +0.04%, Setembro, 2020
-Multi-Monitor Desktop Resolution, 5120 x 2880, 0.48%, -0.04%, Setembro, 2020
-Multi-Monitor Desktop Resolution, 5360 x 1440, 1.32%, +0.04%, Setembro, 2020
-Multi-Monitor Desktop Resolution, 5760 x 1080, 4.42%, -0.14%, Setembro, 2020
-Multi-Monitor Desktop Resolution, 5760 x 2160, 4.52%, -0.08%, Setembro, 2020
-Multi-Monitor Desktop Resolution, 6000 x 1440, 0.50%, +0.06%, Setembro, 2020
-Multi-Monitor Desktop Resolution, 6400 x 1440, 1.32%, +0.06%, Setembro, 2020
-Multi-Monitor Desktop Resolution, 6400 x 2160, 1.28%, +0.02%, Setembro, 2020
-Multi-Monitor Desktop Resolution, 7680 x 2160, 1.62%, +0.06%, Setembro, 2020
-Multi-Monitor Desktop Resolution, Other, 48.62%, -0.18%, Setembro, 2020
 OS Version, Windows, 95.65%, +0.04%, Outubro, 2020
 OS Version, Windows 10 64 bit, 89.28%, +0.20%, Outubro, 2020
 OS Version, Windows 7 64 bit, 4.39%, -0.09%, Outubro, 2020
@@ -2028,16 +1609,6 @@ System RAM, 14 GB, 0.49%, +0.01%, Outubro, 2020
 System RAM, 15 GB, 1.53%, +0.57%, Outubro, 2020
 System RAM, 16 GB, 41.81%, -0.27%, Outubro, 2020
 System RAM, More than 16 GB, 9.64%, +0.06%, Outubro, 2020
-Intel CPU Speeds, Below 1.4 Ghz, 0.98%, +0.16%, Outubro, 2020
-Intel CPU Speeds, 1.4 Ghz to 1.49 Ghz, 0.57%, +0.05%, Outubro, 2020
-Intel CPU Speeds, 1.5 Ghz to 1.69 Ghz, 1.02%, -0.03%, Outubro, 2020
-Intel CPU Speeds, 1.7 Ghz to 1.99 Ghz, 3.83%, -0.06%, Outubro, 2020
-Intel CPU Speeds, 2.0 Ghz to 2.29 Ghz, 4.52%, -0.10%, Outubro, 2020
-Intel CPU Speeds, 2.3 Ghz to 2.69 Ghz, 16.68%, +0.25%, Outubro, 2020
-Intel CPU Speeds, 2.7 Ghz to 2.99 Ghz, 12.55%, +0.21%, Outubro, 2020
-Intel CPU Speeds, 3.0 Ghz to 3.29 Ghz, 10.53%, -0.34%, Outubro, 2020
-Intel CPU Speeds, 3.3 Ghz to 3.69 Ghz, 19.32%, 0.00%, Outubro, 2020
-Intel CPU Speeds, 3.7 Ghz and above, 5.04%, -0.18%, Outubro, 2020
 Physical CPUs, 1 cpu, 0.30%, -0.01%, Outubro, 2020
 Physical CPUs, 2 cpus, 17.65%, +0.07%, Outubro, 2020
 Physical CPUs, 3 cpus, 0.93%, -0.04%, Outubro, 2020
@@ -2194,49 +1765,6 @@ Primary Display Resolution, 2560 x 1440, 6.75%, -0.14%, Outubro, 2020
 Primary Display Resolution, 3440 x 1440, 0.95%, -0.02%, Outubro, 2020
 Primary Display Resolution, 3840 x 2160, 2.30%, +0.03%, Outubro, 2020
 Primary Display Resolution, Other, 2.11%, +0.01%, Outubro, 2020
-Multi-Monitor Desktop Resolution, 1920 x 2160, 1.62%, +0.06%, Outubro, 2020
-Multi-Monitor Desktop Resolution, 2560 x 2520, 0.46%, +0.04%, Outubro, 2020
-Multi-Monitor Desktop Resolution, 2726 x 768, 0.52%, 0.00%, Outubro, 2020
-Multi-Monitor Desktop Resolution, 2732 x 768, 0.72%, -0.06%, Outubro, 2020
-Multi-Monitor Desktop Resolution, 2880 x 1800, 0.58%, 0.00%, Outubro, 2020
-Multi-Monitor Desktop Resolution, 2944 x 1080, 0.84%, +0.02%, Outubro, 2020
-Multi-Monitor Desktop Resolution, 3000 x 1920, 2.14%, +0.08%, Outubro, 2020
-Multi-Monitor Desktop Resolution, 3200 x 1080, 5.02%, +0.04%, Outubro, 2020
-Multi-Monitor Desktop Resolution, 3280 x 1080, 2.62%, -0.04%, Outubro, 2020
-Multi-Monitor Desktop Resolution, 3286 x 1080, 4.58%, -0.04%, Outubro, 2020
-Multi-Monitor Desktop Resolution, 3360 x 1050, 0.44%, 0.00%, Outubro, 2020
-Multi-Monitor Desktop Resolution, 3360 x 1080, 3.12%, -0.08%, Outubro, 2020
-Multi-Monitor Desktop Resolution, 3520 x 1080, 3.68%, -0.16%, Outubro, 2020
-Multi-Monitor Desktop Resolution, 3600 x 1080, 3.94%, -0.06%, Outubro, 2020
-Multi-Monitor Desktop Resolution, 3640 x 1920, 1.10%, +0.08%, Outubro, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1080, 71.46%, -0.76%, Outubro, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1081, 1.00%, -0.02%, Outubro, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1082, 0.64%, -0.04%, Outubro, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1083, 0.78%, +0.02%, Outubro, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1084, 0.68%, +0.04%, Outubro, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1085, 0.62%, -0.02%, Outubro, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1086, 0.66%, +0.04%, Outubro, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1087, 0.60%, -0.02%, Outubro, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1088, 0.68%, +0.04%, Outubro, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1089, 0.58%, +0.02%, Outubro, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1200, 2.48%, +0.02%, Outubro, 2020
-Multi-Monitor Desktop Resolution, 3840 x 2160, 1.16%, +0.02%, Outubro, 2020
-Multi-Monitor Desktop Resolution, 4240 x 1440, 0.48%, +0.02%, Outubro, 2020
-Multi-Monitor Desktop Resolution, 4480 x 1080, 2.22%, -0.10%, Outubro, 2020
-Multi-Monitor Desktop Resolution, 4480 x 1440, 14.50%, +0.02%, Outubro, 2020
-Multi-Monitor Desktop Resolution, 4920 x 1920, 0.54%, 0.00%, Outubro, 2020
-Multi-Monitor Desktop Resolution, 5120 x 1080, 0.42%, 0.00%, Outubro, 2020
-Multi-Monitor Desktop Resolution, 5120 x 1440, 4.10%, -0.04%, Outubro, 2020
-Multi-Monitor Desktop Resolution, 5120 x 2880, 0.52%, +0.04%, Outubro, 2020
-Multi-Monitor Desktop Resolution, 5360 x 1440, 1.36%, +0.04%, Outubro, 2020
-Multi-Monitor Desktop Resolution, 5760 x 1080, 4.46%, +0.04%, Outubro, 2020
-Multi-Monitor Desktop Resolution, 5760 x 2160, 4.64%, +0.12%, Outubro, 2020
-Multi-Monitor Desktop Resolution, 6000 x 1440, 0.50%, 0.00%, Outubro, 2020
-Multi-Monitor Desktop Resolution, 6400 x 1440, 1.32%, 0.00%, Outubro, 2020
-Multi-Monitor Desktop Resolution, 6400 x 2160, 1.40%, +0.12%, Outubro, 2020
-Multi-Monitor Desktop Resolution, 7680 x 1440, 0.42%, +0.42%, Outubro, 2020
-Multi-Monitor Desktop Resolution, 7680 x 2160, 1.64%, +0.02%, Outubro, 2020
-Multi-Monitor Desktop Resolution, Other, 48.78%, +0.16%, Outubro, 2020
 OS Version, Windows, 95.73%, +0.08%, Novembro, 2020
 OS Version, Windows 10 64 bit, 88.59%, -0.69%, Novembro, 2020
 OS Version, Windows 7 64 bit, 5.24%, +0.85%, Novembro, 2020
@@ -2277,16 +1805,6 @@ System RAM, 14 GB, 0.53%, +0.04%, Novembro, 2020
 System RAM, 15 GB, 1.20%, -0.33%, Novembro, 2020
 System RAM, 16 GB, 43.24%, +1.43%, Novembro, 2020
 System RAM, More than 16 GB, 9.82%, +0.18%, Novembro, 2020
-Intel CPU Speeds, Below 1.4 Ghz, 1.01%, +0.03%, Novembro, 2020
-Intel CPU Speeds, 1.4 Ghz to 1.49 Ghz, 0.55%, -0.02%, Novembro, 2020
-Intel CPU Speeds, 1.5 Ghz to 1.69 Ghz, 1.00%, -0.02%, Novembro, 2020
-Intel CPU Speeds, 1.7 Ghz to 1.99 Ghz, 3.61%, -0.22%, Novembro, 2020
-Intel CPU Speeds, 2.0 Ghz to 2.29 Ghz, 4.52%, 0.00%, Novembro, 2020
-Intel CPU Speeds, 2.3 Ghz to 2.69 Ghz, 16.65%, -0.03%, Novembro, 2020
-Intel CPU Speeds, 2.7 Ghz to 2.99 Ghz, 12.90%, +0.35%, Novembro, 2020
-Intel CPU Speeds, 3.0 Ghz to 3.29 Ghz, 10.77%, +0.24%, Novembro, 2020
-Intel CPU Speeds, 3.3 Ghz to 3.69 Ghz, 18.40%, -0.92%, Novembro, 2020
-Intel CPU Speeds, 3.7 Ghz and above, 4.92%, -0.12%, Novembro, 2020
 Physical CPUs, 1 cpu, 0.32%, +0.02%, Novembro, 2020
 Physical CPUs, 2 cpus, 16.82%, -0.83%, Novembro, 2020
 Physical CPUs, 3 cpus, 0.90%, -0.03%, Novembro, 2020
@@ -2444,47 +1962,6 @@ Primary Display Resolution, 2560 x 1440, 7.07%, +0.32%, Novembro, 2020
 Primary Display Resolution, 3440 x 1440, 0.96%, +0.01%, Novembro, 2020
 Primary Display Resolution, 3840 x 2160, 2.25%, -0.05%, Novembro, 2020
 Primary Display Resolution, Other, 2.06%, -0.05%, Novembro, 2020
-Multi-Monitor Desktop Resolution, 1920 x 2160, 1.62%, 0.00%, Novembro, 2020
-Multi-Monitor Desktop Resolution, 2560 x 2520, 0.46%, 0.00%, Novembro, 2020
-Multi-Monitor Desktop Resolution, 2726 x 768, 0.52%, 0.00%, Novembro, 2020
-Multi-Monitor Desktop Resolution, 2732 x 768, 0.74%, +0.02%, Novembro, 2020
-Multi-Monitor Desktop Resolution, 2880 x 1800, 0.62%, +0.04%, Novembro, 2020
-Multi-Monitor Desktop Resolution, 2944 x 1080, 0.84%, 0.00%, Novembro, 2020
-Multi-Monitor Desktop Resolution, 3000 x 1920, 2.22%, +0.08%, Novembro, 2020
-Multi-Monitor Desktop Resolution, 3200 x 1080, 5.10%, +0.08%, Novembro, 2020
-Multi-Monitor Desktop Resolution, 3280 x 1080, 2.68%, +0.06%, Novembro, 2020
-Multi-Monitor Desktop Resolution, 3286 x 1080, 4.70%, +0.12%, Novembro, 2020
-Multi-Monitor Desktop Resolution, 3360 x 1080, 3.16%, +0.04%, Novembro, 2020
-Multi-Monitor Desktop Resolution, 3520 x 1080, 3.66%, -0.02%, Novembro, 2020
-Multi-Monitor Desktop Resolution, 3600 x 1080, 4.00%, +0.06%, Novembro, 2020
-Multi-Monitor Desktop Resolution, 3640 x 1920, 1.14%, +0.04%, Novembro, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1080, 71.26%, -0.20%, Novembro, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1081, 1.06%, +0.06%, Novembro, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1082, 0.66%, +0.02%, Novembro, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1083, 0.76%, -0.02%, Novembro, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1084, 0.68%, 0.00%, Novembro, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1085, 0.64%, +0.02%, Novembro, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1086, 0.68%, +0.02%, Novembro, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1087, 0.64%, +0.04%, Novembro, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1088, 0.68%, 0.00%, Novembro, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1089, 0.62%, +0.04%, Novembro, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1200, 2.40%, -0.08%, Novembro, 2020
-Multi-Monitor Desktop Resolution, 3840 x 2160, 1.10%, -0.06%, Novembro, 2020
-Multi-Monitor Desktop Resolution, 4240 x 1440, 0.44%, -0.04%, Novembro, 2020
-Multi-Monitor Desktop Resolution, 4480 x 1080, 2.18%, -0.04%, Novembro, 2020
-Multi-Monitor Desktop Resolution, 4480 x 1440, 14.82%, +0.32%, Novembro, 2020
-Multi-Monitor Desktop Resolution, 4920 x 1920, 0.54%, 0.00%, Novembro, 2020
-Multi-Monitor Desktop Resolution, 5120 x 1080, 0.42%, 0.00%, Novembro, 2020
-Multi-Monitor Desktop Resolution, 5120 x 1440, 4.32%, +0.22%, Novembro, 2020
-Multi-Monitor Desktop Resolution, 5120 x 2880, 0.50%, -0.02%, Novembro, 2020
-Multi-Monitor Desktop Resolution, 5360 x 1440, 1.40%, +0.04%, Novembro, 2020
-Multi-Monitor Desktop Resolution, 5760 x 1080, 4.36%, -0.10%, Novembro, 2020
-Multi-Monitor Desktop Resolution, 5760 x 2160, 4.60%, -0.04%, Novembro, 2020
-Multi-Monitor Desktop Resolution, 6000 x 1440, 0.48%, -0.02%, Novembro, 2020
-Multi-Monitor Desktop Resolution, 6400 x 1440, 1.32%, 0.00%, Novembro, 2020
-Multi-Monitor Desktop Resolution, 6400 x 2160, 1.40%, 0.00%, Novembro, 2020
-Multi-Monitor Desktop Resolution, 7680 x 2160, 1.54%, -0.10%, Novembro, 2020
-Multi-Monitor Desktop Resolution, Other, 49.10%, +0.32%, Novembro, 2020
 OS Version, Windows, 96.51%, +0.78%, Dezembro, 2020
 OS Version, Windows 10 64 bit, 91.44%, +2.85%, Dezembro, 2020
 OS Version, Windows 7 64 bit, 3.57%, -1.67%, Dezembro, 2020
@@ -2522,16 +1999,6 @@ System RAM, 14 GB, 0.47%, -0.06%, Dezembro, 2020
 System RAM, 15 GB, 1.16%, -0.04%, Dezembro, 2020
 System RAM, 16 GB, 49.95%, +6.71%, Dezembro, 2020
 System RAM, More than 16 GB, 9.89%, +0.07%, Dezembro, 2020
-Intel CPU Speeds, Below 1.4 Ghz, 0.88%, -0.13%, Dezembro, 2020
-Intel CPU Speeds, 1.4 Ghz to 1.49 Ghz, 0.48%, -0.07%, Dezembro, 2020
-Intel CPU Speeds, 1.5 Ghz to 1.69 Ghz, 0.78%, -0.22%, Dezembro, 2020
-Intel CPU Speeds, 1.7 Ghz to 1.99 Ghz, 3.07%, -0.54%, Dezembro, 2020
-Intel CPU Speeds, 2.0 Ghz to 2.29 Ghz, 3.85%, -0.67%, Dezembro, 2020
-Intel CPU Speeds, 2.3 Ghz to 2.69 Ghz, 14.64%, -2.01%, Dezembro, 2020
-Intel CPU Speeds, 2.7 Ghz to 2.99 Ghz, 18.03%, +5.13%, Dezembro, 2020
-Intel CPU Speeds, 3.0 Ghz to 3.29 Ghz, 12.54%, +1.77%, Dezembro, 2020
-Intel CPU Speeds, 3.3 Ghz to 3.69 Ghz, 17.60%, -0.80%, Dezembro, 2020
-Intel CPU Speeds, 3.7 Ghz and above, 4.40%, -0.52%, Dezembro, 2020
 Physical CPUs, 1 cpu, 0.26%, -0.06%, Dezembro, 2020
 Physical CPUs, 2 cpus, 13.86%, -2.96%, Dezembro, 2020
 Physical CPUs, 3 cpus, 0.77%, -0.13%, Dezembro, 2020
@@ -2675,45 +2142,3 @@ Primary Display Resolution, 2560 x 1440, 10.09%, +3.02%, Dezembro, 2020
 Primary Display Resolution, 3440 x 1440, 0.94%, -0.02%, Dezembro, 2020
 Primary Display Resolution, 3840 x 2160, 2.01%, -0.24%, Dezembro, 2020
 Primary Display Resolution, Other, 1.84%, -0.22%, Dezembro, 2020
-Multi-Monitor Desktop Resolution, 1920 x 2160, 1.60%, -0.02%, Dezembro, 2020
-Multi-Monitor Desktop Resolution, 2560 x 2520, 0.46%, 0.00%, Dezembro, 2020
-Multi-Monitor Desktop Resolution, 2726 x 768, 0.46%, -0.06%, Dezembro, 2020
-Multi-Monitor Desktop Resolution, 2732 x 768, 0.64%, -0.10%, Dezembro, 2020
-Multi-Monitor Desktop Resolution, 2880 x 1800, 0.62%, 0.00%, Dezembro, 2020
-Multi-Monitor Desktop Resolution, 2944 x 1080, 0.84%, 0.00%, Dezembro, 2020
-Multi-Monitor Desktop Resolution, 3000 x 1920, 2.36%, +0.14%, Dezembro, 2020
-Multi-Monitor Desktop Resolution, 3200 x 1080, 4.86%, -0.24%, Dezembro, 2020
-Multi-Monitor Desktop Resolution, 3280 x 1080, 2.64%, -0.04%, Dezembro, 2020
-Multi-Monitor Desktop Resolution, 3286 x 1080, 4.64%, -0.06%, Dezembro, 2020
-Multi-Monitor Desktop Resolution, 3360 x 1080, 3.00%, -0.16%, Dezembro, 2020
-Multi-Monitor Desktop Resolution, 3520 x 1080, 3.54%, -0.12%, Dezembro, 2020
-Multi-Monitor Desktop Resolution, 3600 x 1080, 3.88%, -0.12%, Dezembro, 2020
-Multi-Monitor Desktop Resolution, 3640 x 1920, 1.30%, +0.16%, Dezembro, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1080, 71.12%, -0.14%, Dezembro, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1081, 1.02%, -0.04%, Dezembro, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1082, 0.72%, +0.06%, Dezembro, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1083, 0.80%, +0.04%, Dezembro, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1084, 0.74%, +0.06%, Dezembro, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1085, 0.60%, -0.04%, Dezembro, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1086, 0.66%, -0.02%, Dezembro, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1087, 0.64%, 0.00%, Dezembro, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1088, 0.72%, +0.04%, Dezembro, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1089, 0.56%, -0.06%, Dezembro, 2020
-Multi-Monitor Desktop Resolution, 3840 x 1200, 2.40%, 0.00%, Dezembro, 2020
-Multi-Monitor Desktop Resolution, 3840 x 2160, 1.12%, +0.02%, Dezembro, 2020
-Multi-Monitor Desktop Resolution, 4240 x 1440, 0.46%, +0.02%, Dezembro, 2020
-Multi-Monitor Desktop Resolution, 4480 x 1080, 2.22%, +0.04%, Dezembro, 2020
-Multi-Monitor Desktop Resolution, 4480 x 1440, 15.14%, +0.32%, Dezembro, 2020
-Multi-Monitor Desktop Resolution, 4920 x 1920, 0.56%, +0.02%, Dezembro, 2020
-Multi-Monitor Desktop Resolution, 5120 x 1080, 0.42%, 0.00%, Dezembro, 2020
-Multi-Monitor Desktop Resolution, 5120 x 1440, 4.28%, -0.04%, Dezembro, 2020
-Multi-Monitor Desktop Resolution, 5120 x 2880, 0.52%, +0.02%, Dezembro, 2020
-Multi-Monitor Desktop Resolution, 5360 x 1440, 1.46%, +0.06%, Dezembro, 2020
-Multi-Monitor Desktop Resolution, 5760 x 1080, 4.34%, -0.02%, Dezembro, 2020
-Multi-Monitor Desktop Resolution, 5760 x 2160, 4.76%, +0.16%, Dezembro, 2020
-Multi-Monitor Desktop Resolution, 6000 x 1440, 0.54%, +0.06%, Dezembro, 2020
-Multi-Monitor Desktop Resolution, 6400 x 1440, 1.30%, -0.02%, Dezembro, 2020
-Multi-Monitor Desktop Resolution, 6400 x 2160, 1.44%, +0.04%, Dezembro, 2020
-Multi-Monitor Desktop Resolution, 7680 x 1440, 0.42%, +0.42%, Dezembro, 2020
-Multi-Monitor Desktop Resolution, 7680 x 2160, 1.56%, +0.02%, Dezembro, 2020
-Multi-Monitor Desktop Resolution, Other, 48.66%, -0.44%, Dezembro, 2020

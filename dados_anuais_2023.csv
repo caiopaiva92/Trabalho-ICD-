@@ -1,0 +1,200 @@
+Categoria,Especificação,Porcentagens,Incrementos/Decrementos,Ano
+OS Version, Windows,96.4,0.38,2023
+OS Version, Windows 10 64 bit,53.45,-10.01,2023
+OS Version, Windows 11 64 bit,41.95,11.62,2023
+OS Version, Windows 7 64 bit,0.68,-0.92,2023
+OS Version, Windows 8.1 64 bit,0.15,-0.24,2023
+OS Version, Windows 2019 64 bit,0.06,0.0,2023
+OS Version, Windows 7,0.06,-0.05,2023
+OS Version, OSX,1.63,-0.98,2023
+OS Version, MacOS 14.1.2 64 bit,0.33,0.0,2023
+OS Version, MacOS 14.1.1 64 bit,0.22,0.02,2023
+OS Version, MacOS 14.0.0 64 bit,0.14,0.08,2023
+OS Version, MacOS 14.2.0 64 bit,0.1,0.0,2023
+OS Version, MacOS 14.2.1 64 bit,0.07,0.0,2023
+OS Version, MacOS 13.6.1 64 bit,0.05,0.0,2023
+OS Version, MacOS 14.1.0 64 bit,0.05,-0.13,2023
+OS Version, Linux,1.97,0.59,2023
+OS Version," ""Arch Linux"" 64 bit",0.15,0.02,2023
+OS Version, Ubuntu 22.04.3 LTS 64 bit,0.14,0.09,2023
+OS Version, Linux Mint 21.2 64 bit,0.09,0.03,2023
+OS Version," ""Manjaro Linux"" 64 bit",0.07,-0.02,2023
+System RAM, Less than 4 GB,0.1,-0.09,2023
+System RAM, 4 GB,3.58,-2.26,2023
+System RAM, 8 GB,14.1,-7.2,2023
+System RAM, 12 GB,3.24,-0.32,2023
+System RAM, 16 GB,48.53,-3.21,2023
+System RAM, 24 GB,1.26,0.13,2023
+System RAM, 32 GB,24.02,10.18,2023
+System RAM, 64 GB,3.59,2.21,2023
+System RAM, More than 64 GB,0.3,0.16,2023
+System RAM, Other,1.29,0.41,2023
+Physical CPUs, 1 cpu,0.08,-0.07,2023
+Physical CPUs, 2 cpus,6.57,-3.38,2023
+Physical CPUs, 3 cpus,0.28,-0.11,2023
+Physical CPUs, 4 cpus,22.82,-6.69,2023
+Physical CPUs, 5 cpus,0.03,0.01,2023
+Physical CPUs, 6 cpus,32.11,0.03,2023
+Physical CPUs, 7 cpus,0.01,-0.01,2023
+Physical CPUs, 8 cpus,20.43,0.88,2023
+Physical CPUs, 9 cpus,0.0,-0.01,2023
+Physical CPUs, 10 cpus,4.07,2.16,2023
+Physical CPUs, 11 cpus,0.01,0.01,2023
+Physical CPUs, 12 cpus,5.15,1.73,2023
+Physical CPUs, 13 cpus,0.0,0.0,2023
+Physical CPUs, 14 cpus,3.35,1.64,2023
+Physical CPUs, 15 cpus,0.0,0.0,2023
+Physical CPUs, 16 cpus,2.97,1.91,2023
+Physical CPUs, 18 cpus,0.54,0.52,2023
+Physical CPUs, 19 cpus,0.0,0.0,2023
+Physical CPUs, 20 cpus,0.17,0.16,2023
+Physical CPUs, 22 cpus,0.02,0.02,2023
+Physical CPUs, 23 cpus,0.0,0.0,2023
+Physical CPUs, 24 cpus,1.22,1.04,2023
+Physical CPUs, 26 cpus,0.0,0.0,2023
+Physical CPUs, 28 cpus,0.13,0.13,2023
+Physical CPUs, 30 cpus,0.0,0.0,2023
+Physical CPUs, 31 cpus,0.0,0.0,2023
+Physical CPUs, 32 cpus,0.02,0.01,2023
+Physical CPUs, 36 cpus,0.01,0.01,2023
+Physical CPUs, 38 cpus,0.0,0.0,2023
+Physical CPUs, 40 cpus,0.0,0.0,2023
+Physical CPUs, 44 cpus,0.0,0.0,2023
+Physical CPUs, 48 cpus,0.0,0.0,2023
+Physical CPUs, 52 cpus,0.0,0.0,2023
+Physical CPUs, 56 cpus,0.0,0.0,2023
+Physical CPUs, 60 cpus,0.0,0.0,2023
+Physical CPUs, 64 cpus,0.0,0.0,2023
+Physical CPUs, 72 cpus,0.0,0.0,2023
+Physical CPUs, 96 cpus,0.0,0.0,2023
+Physical CPUs, 128 cpus,0.0,0.0,2023
+Video Card Description, NVIDIA GeForce RTX 3060,5.13,1.59,2023
+Video Card Description, NVIDIA GeForce GTX 1650,4.54,-1.5,2023
+Video Card Description, NVIDIA GeForce GTX 1060,3.76,-1.34,2023
+Video Card Description, NVIDIA GeForce RTX 2060,3.59,-0.63,2023
+Video Card Description, NVIDIA GeForce RTX 3060 Ti,3.4,0.81,2023
+Video Card Description, NVIDIA GeForce RTX 3060 Laptop GPU,3.37,-0.93,2023
+Video Card Description, NVIDIA GeForce RTX 3070,3.23,0.66,2023
+Video Card Description, NVIDIA GeForce GTX 1050 Ti,2.76,-1.44,2023
+Video Card Description, NVIDIA GeForce RTX 3050,2.53,0.21,2023
+Video Card Description, NVIDIA GeForce GTX 1660 SUPER,2.31,-0.1,2023
+Video Card Description, NVIDIA GeForce RTX 3080,2.17,0.34,2023
+Video Card Description, AMD Radeon Graphics,2.09,0.13,2023
+Video Card Description, NVIDIA GeForce RTX 4060 Laptop GPU,1.96,1.73,2023
+Video Card Description, Intel Iris Xe Graphics,1.89,0.49,2023
+Video Card Description, NVIDIA GeForce GTX 1660 Ti,1.72,-0.57,2023
+Video Card Description, NVIDIA GeForce RTX 4070,1.53,1.33,2023
+Video Card Description, Intel(R) UHD Graphics,1.47,-0.02,2023
+Video Card Description, NVIDIA GeForce RTX 3070 Ti,1.45,0.25,2023
+Video Card Description, NVIDIA GeForce GTX 1050,1.37,-0.82,2023
+Video Card Description, NVIDIA GeForce GTX 1070,1.37,-0.34,2023
+Video Card Description, NVIDIA GeForce RTX 2070 SUPER,1.32,-0.16,2023
+Video Card Description, NVIDIA GeForce RTX 2060 SUPER,1.21,0.1,2023
+Video Card Description, ,1.18,-0.21,2023
+Video Card Description, NVIDIA GeForce RTX 4070 Ti,1.12,0.95,2023
+Video Card Description, NVIDIA GeForce RTX 4060 Ti,1.06,0.84,2023
+Video Card Description, NVIDIA GeForce GTX 1660,1.05,-0.26,2023
+Video Card Description, NVIDIA GeForce RTX 4060,1.04,0.82,2023
+Video Card Description, NVIDIA GeForce RTX 3050 Ti Laptop GPU,1.02,-0.13,2023
+Video Card Description, NVIDIA GeForce RTX 2070,0.98,-0.07,2023
+Video Card Description, AMD Radeon RX 580,0.93,-0.19,2023
+Video Card Description, NVIDIA GeForce GTX 1080,0.88,-0.15,2023
+Video Card Description, NVIDIA GeForce RTX 4090,0.87,0.64,2023
+Video Card Description, NVIDIA GeForce RTX 3080 Ti,0.81,0.07,2023
+Video Card Description, AMD AMD Custom GPU 0405,0.78,0.48,2023
+Video Card Description, NVIDIA GeForce RTX 3070 Laptop GPU,0.78,-0.1,2023
+Video Card Description, NVIDIA GeForce GTX 1650 Ti,0.75,-0.41,2023
+Video Card Description, AMD Radeon(TM) Graphics,0.75,0.6,2023
+Video Card Description, RDPDD Chained DD,0.74,0.59,2023
+Video Card Description, AMD Radeon RX 6700 XT,0.73,0.28,2023
+Video Card Description, NVIDIA GeForce RTX 4080,0.71,0.52,2023
+Video Card Description, AMD Radeon RX 5700 XT,0.69,0.06,2023
+Video Card Description, AMD Radeon RX 570,0.66,-0.22,2023
+Video Card Description, NVIDIA GeForce RTX 3050 Laptop GPU,0.65,-0.2,2023
+Video Card Description, AMD Radeon RX 6600,0.65,0.24,2023
+Video Card Description, AMD Radeon Vega 8 Graphics,0.6,-0.32,2023
+Video Card Description, NVIDIA GeForce GTX 1080 Ti,0.6,-0.07,2023
+Video Card Description, NVIDIA GeForce RTX 3090,0.58,0.05,2023
+Video Card Description, NVIDIA GeForce RTX 4050 Laptop GPU,0.56,0.41,2023
+Video Card Description, NVIDIA GeForce GTX 1650 SUPER,0.55,-0.24,2023
+Video Card Description, Intel UHD Graphics 620,0.53,-0.08,2023
+Video Card Description, NVIDIA GeForce GTX 970,0.52,-0.19,2023
+Video Card Description, NVIDIA GeForce RTX 2080 SUPER,0.52,-0.01,2023
+Video Card Description, NVIDIA GeForce GT 1030,0.47,-0.26,2023
+Video Card Description, AMD Radeon RX 580 2048SP,0.45,0.2,2023
+Video Card Description, NVIDIA GeForce GTX 960,0.45,-0.23,2023
+Video Card Description, NVIDIA GeForce RTX 2080,0.43,-0.07,2023
+Video Card Description, NVIDIA GeForce GTX 1070 Ti,0.43,-0.08,2023
+Video Card Description, Intel UHD Graphics 630,0.42,0.12,2023
+Video Card Description, NVIDIA GeForce GTX 750 Ti,0.41,-0.28,2023
+Video Card Description, AMD Radeon RX 6600 XT,0.41,0.03,2023
+Video Card Description, NVIDIA GeForce RTX 2080 Ti,0.41,-0.01,2023
+Video Card Description, NVIDIA GeForce RTX 3070 Ti Laptop GPU,0.37,0.01,2023
+Video Card Description, AMD Radeon Vega 3 Graphics,0.33,-0.15,2023
+Video Card Description, AMD Radeon RX 6800 XT,0.33,0.13,2023
+Video Card Description, AMD Radeon RX 550,0.32,-0.11,2023
+Video Card Description, AMD Radeon RX 7900 XTX,0.32,0.15,2023
+Video Card Description, AMD Radeon RX 6750 XT,0.32,0.13,2023
+Video Card Description, Intel HD Graphics 620,0.32,-0.07,2023
+Video Card Description, Intel HD Graphics 520,0.31,-0.04,2023
+Video Card Description, NVIDIA GeForce GT 730,0.3,-0.18,2023
+Video Card Description, NVIDIA GeForce RTX 4070 Laptop GPU,0.29,0.1,2023
+Video Card Description, Intel HD Graphics 4600,0.27,-0.08,2023
+Video Card Description, AMD Radeon RX 6650 XT,0.27,0.12,2023
+Video Card Description, Intel HD Graphics 4000,0.26,-0.15,2023
+Video Card Description, Intel UHD Graphics 600,0.26,0.08,2023
+Video Card Description, NVIDIA GeForce RTX 3050 Ti,0.23,-0.12,2023
+Video Card Description, AMD Radeon RX 6900 XT,0.23,0.01,2023
+Video Card Description, AMD Radeon RX 5600 XT,0.23,0.02,2023
+Video Card Description, AMD Radeon RX 5500 XT,0.21,-0.01,2023
+Video Card Description, Intel Haswell,0.2,-0.1,2023
+Video Card Description, NVIDIA GeForce GTX 960M,0.2,-0.11,2023
+Video Card Description, Intel Ivy Bridge,0.2,-0.07,2023
+Video Card Description, AMD Radeon RX 480,0.19,-0.08,2023
+Video Card Description, NVIDIA GeForce RTX 3080 Laptop GPU,0.19,-0.02,2023
+Video Card Description, NVIDIA GeForce GT 710,0.19,-0.11,2023
+Video Card Description, AMD Radeon RX 6500 XT,0.19,0.0,2023
+Video Card Description, NVIDIA GeForce 940M,0.18,-0.13,2023
+Video Card Description, NVIDIA GeForce MX250,0.17,-0.13,2023
+Video Card Description, NVIDIA GeForce MX450,0.17,-0.08,2023
+Video Card Description, AMD Radeon RX Vega 11 Graphics,0.17,-0.1,2023
+Video Card Description, Intel HD Graphics 3000,0.16,-0.08,2023
+Video Card Description, NVIDIA GeForce MX150,0.16,-0.1,2023
+Video Card Description, AMD Radeon RX 6800,0.16,0.0,2023
+Video Card Description, Intel HD Graphics 5500,0.16,-0.06,2023
+Video Card Description, AMD Radeon (TM) Graphics,0.16,0.01,2023
+Video Card Description, Intel HD Graphics 530,0.16,-0.01,2023
+Video Card Description, NVIDIA GeForce RTX 2070 with Max-Q Design,0.15,-0.06,2023
+Video Card Description, Other,10.33,0.02,2023
+VRAM, 512 MB,2.54,0.79,2023
+VRAM, 1 GB,7.34,-1.63,2023
+VRAM, 2 GB,4.94,-3.42,2023
+VRAM, 3 GB,1.87,-0.93,2023
+VRAM, 4 GB,10.36,-4.79,2023
+VRAM, 6 GB,15.76,-3.41,2023
+VRAM, 8 GB,31.67,4.6,2023
+VRAM, 10 GB,3.33,0.38,2023
+VRAM, 11 GB,1.76,-0.24,2023
+VRAM, 12 GB,15.23,6.55,2023
+VRAM, 16 GB,1.67,1.16,2023
+VRAM, 24 GB,2.54,0.97,2023
+VRAM, Other,0.97,-0.54,2023
+Primary Display Resolution, 800 x 1280,0.45,0.18,2023
+Primary Display Resolution, 1280 x 800,0.49,-0.02,2023
+Primary Display Resolution, 1280 x 720,0.24,-0.05,2023
+Primary Display Resolution, 1280 x 1024,0.43,-0.2,2023
+Primary Display Resolution, 1360 x 768,0.76,-0.26,2023
+Primary Display Resolution, 1366 x 768,4.23,-1.66,2023
+Primary Display Resolution, 1440 x 900,1.24,-1.01,2023
+Primary Display Resolution, 1600 x 900,1.24,-0.32,2023
+Primary Display Resolution, 1680 x 1050,0.76,-0.26,2023
+Primary Display Resolution, 1920 x 1080,59.58,-5.25,2023
+Primary Display Resolution, 1920 x 1200,1.08,0.38,2023
+Primary Display Resolution, 2560 x 1080,0.96,0.05,2023
+Primary Display Resolution, 2560 x 1600,2.86,0.84,2023
+Primary Display Resolution, 2560 x 1440,16.39,5.33,2023
+Primary Display Resolution, 2880 x 1800,0.25,0.04,2023
+Primary Display Resolution, 3440 x 1440,2.23,0.72,2023
+Primary Display Resolution, 3840 x 2160,3.77,1.08,2023
+Primary Display Resolution, 5120 x 1440,0.29,0.09,2023
+Primary Display Resolution, Other,2.74,0.06,2023

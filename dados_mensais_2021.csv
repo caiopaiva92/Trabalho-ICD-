@@ -1,0 +1,457 @@
+Categoria, Especificação, Porcentagens, Incrementos/Decrementos, Mês, Ano
+OS Version, Windows, 93.85%, +0.38%, Janeiro, 2021
+OS Version, Windows 11 64 bit, 69.76%, +2.02%, Janeiro, 2021
+OS Version, Windows 10 64 bit, 23.99%, -1.64%, Janeiro, 2021
+OS Version, Windows 7 64 bit, 0.07%, 0.00%, Janeiro, 2021
+OS Version, OSX, 2.16%, +0.15%, Janeiro, 2021
+OS Version, MacOS 26.4.1 64 bit, 0.46%, +0.26%, Janeiro, 2021
+OS Version, MacOS 26.3.1 64 bit, 0.36%, -0.13%, Janeiro, 2021
+OS Version, MacOS 26.5.0 64 bit, 0.27%, +0.27%, Janeiro, 2021
+OS Version, MacOS 26.2.0 64 bit, 0.11%, -0.01%, Janeiro, 2021
+OS Version, MacOS 26.3.0 64 bit, 0.10%, -0.01%, Janeiro, 2021
+OS Version, MacOS 15.7.4 64 bit, 0.09%, -0.01%, Janeiro, 2021
+OS Version, MacOS 15.6.1 64 bit, 0.07%, 0.00%, Janeiro, 2021
+OS Version, MacOS 26.4.0 64 bit, 0.06%, -0.21%, Janeiro, 2021
+OS Version, MacOS 15.7.3 64 bit, 0.06%, 0.00%, Janeiro, 2021
+OS Version, Linux, 3.99%, -0.53%, Janeiro, 2021
+OS Version, SteamOS Holo 64 bit, 0.93%, +0.09%, Janeiro, 2021
+OS Version, CachyOS 64 bit, 0.53%, +0.23%, Janeiro, 2021
+OS Version, Arch Linux 64 bit, 0.35%, +0.03%, Janeiro, 2021
+OS Version, Linux Mint 22.3 64 bit, 0.31%, +0.04%, Janeiro, 2021
+OS Version, Bazzite 64 bit, 0.29%, +0.12%, Janeiro, 2021
+OS Version, Freedesktop SDK 25.08 (Flatpak runtime) 64 bit, 0.22%, +0.07%, Janeiro, 2021
+OS Version, Ubuntu Core 24 64 bit, 0.14%, +0.01%, Janeiro, 2021
+OS Version, Ubuntu 24.04.4 LTS 64 bit, 0.11%, +0.02%, Janeiro, 2021
+OS Version, Nobara Linux 43 (KDE Plasma Desktop Edition) 64 bit, 0.08%, +0.08%, Janeiro, 2021
+OS Version, Debian GNU/Linux 13 (trixie) 64 bit, 0.07%, +0.02%, Janeiro, 2021
+OS Version, EndeavourOS Linux 64 bit, 0.07%, +0.07%, Janeiro, 2021
+OS Version, Ubuntu 26.04 LTS 64 bit, 0.07%, +0.07%, Janeiro, 2021
+OS Version, Fedora Linux 44 (KDE Plasma Desktop Edition) 64 bit, 0.06%, +0.06%, Janeiro, 2021
+OS Version, Pop!_OS 24.04 LTS 64 bit, 0.06%, +0.06%, Janeiro, 2021
+OS Version, Fedora Linux 43 (KDE Plasma Desktop Edition) 64 bit, 0.06%, 0.00%, Janeiro, 2021
+OS Version, Manjaro Linux 64 bit, 0.05%, 0.00%, Janeiro, 2021
+System RAM, Less than 4 GB, 0.02%, 0.00%, Janeiro, 2021
+System RAM, 4 GB, 1.48%, +0.02%, Janeiro, 2021
+System RAM, 8 GB, 7.82%, +0.16%, Janeiro, 2021
+System RAM, 12 GB, 2.54%, +0.08%, Janeiro, 2021
+System RAM, 16 GB, 41.14%, +0.28%, Janeiro, 2021
+System RAM, 24 GB, 2.06%, +0.09%, Janeiro, 2021
+System RAM, 28 GB, 0.54%, -0.01%, Janeiro, 2021
+System RAM, 32 GB, 36.87%, -0.68%, Janeiro, 2021
+System RAM, 48 GB, 1.17%, -0.03%, Janeiro, 2021
+System RAM, 60 GB, 0.97%, +0.03%, Janeiro, 2021
+System RAM, 64 GB, 4.14%, +0.04%, Janeiro, 2021
+System RAM, More than 64 GB, 0.62%, +0.01%, Janeiro, 2021
+System RAM, Other, 0.63%, +0.01%, Janeiro, 2021
+Physical CPUs, 1 cpu, 0.02%, 0.00%, Janeiro, 2021
+Physical CPUs, 2 cpus, 3.11%, +0.07%, Janeiro, 2021
+Physical CPUs, 3 cpus, 0.09%, -0.01%, Janeiro, 2021
+Physical CPUs, 4 cpus, 13.26%, +0.24%, Janeiro, 2021
+Physical CPUs, 5 cpus, 0.16%, +0.01%, Janeiro, 2021
+Physical CPUs, 6 cpus, 28.02%, -0.60%, Janeiro, 2021
+Physical CPUs, 7 cpus, 0.01%, 0.00%, Janeiro, 2021
+Physical CPUs, 8 cpus, 27.45%, +0.50%, Janeiro, 2021
+Physical CPUs, 9 cpus, 0.00%, 0.00%, Janeiro, 2021
+Physical CPUs, 10 cpus, 7.27%, -0.33%, Janeiro, 2021
+Physical CPUs, 11 cpus, 0.04%, 0.00%, Janeiro, 2021
+Physical CPUs, 12 cpus, 5.11%, +0.01%, Janeiro, 2021
+Physical CPUs, 13 cpus, 0.00%, 0.00%, Janeiro, 2021
+Physical CPUs, 14 cpus, 4.80%, -0.13%, Janeiro, 2021
+Physical CPUs, 15 cpus, 0.02%, +0.01%, Janeiro, 2021
+Physical CPUs, 16 cpus, 5.64%, +0.13%, Janeiro, 2021
+Physical CPUs, 17 cpus, 0.00%, 0.00%, Janeiro, 2021
+Physical CPUs, 18 cpus, 0.10%, +0.02%, Janeiro, 2021
+Physical CPUs, 19 cpus, 0.00%, 0.00%, Janeiro, 2021
+Physical CPUs, 20 cpus, 2.07%, +0.01%, Janeiro, 2021
+Physical CPUs, 21 cpus, 0.00%, 0.00%, Janeiro, 2021
+Physical CPUs, 22 cpus, 0.00%, -0.01%, Janeiro, 2021
+Physical CPUs, 23 cpus, 0.00%, 0.00%, Janeiro, 2021
+Physical CPUs, 24 cpus, 2.79%, +0.06%, Janeiro, 2021
+Physical CPUs, 26 cpus, 0.00%, 0.00%, Janeiro, 2021
+Physical CPUs, 28 cpus, 0.01%, 0.00%, Janeiro, 2021
+Physical CPUs, 30 cpus, 0.00%, 0.00%, Janeiro, 2021
+Physical CPUs, 32 cpus, 0.01%, 0.00%, Janeiro, 2021
+Physical CPUs, 36 cpus, 0.00%, 0.00%, Janeiro, 2021
+Physical CPUs, 40 cpus, 0.00%, 0.00%, Janeiro, 2021
+Physical CPUs, 44 cpus, 0.00%, 0.00%, Janeiro, 2021
+Physical CPUs, 48 cpus, 0.00%, 0.00%, Janeiro, 2021
+Physical CPUs, 50 cpus, 0.00%, 0.00%, Janeiro, 2021
+Physical CPUs, 52 cpus, 0.00%, 0.00%, Janeiro, 2021
+Physical CPUs, 56 cpus, 0.00%, 0.00%, Janeiro, 2021
+Physical CPUs, 60 cpus, 0.00%, 0.00%, Janeiro, 2021
+Physical CPUs, 64 cpus, 0.00%, 0.00%, Janeiro, 2021
+Physical CPUs, 76 cpus, 0.00%, 0.00%, Janeiro, 2021
+Physical CPUs, 96 cpus, 0.00%, 0.00%, Janeiro, 2021
+Physical CPUs, 128 cpus, 0.00%, 0.00%, Janeiro, 2021
+Video Card Description, NVIDIA GeForce RTX 3090, 0.38%, 0.00%, Janeiro, 2021
+Video Card Description, NVIDIA GeForce GTX 1080 Ti, 0.32%, 0.00%, Janeiro, 2021
+Video Card Description, NVIDIA GeForce RTX 2080, 0.23%, -0.01%, Janeiro, 2021
+Video Card Description, NVIDIA GeForce GT 730, 0.16%, 0.00%, Janeiro, 2021
+Video Card Description, NVIDIA GeForce GTX 970, 0.20%, 0.00%, Janeiro, 2021
+Video Card Description, Intel HD Graphics 620, 0.21%, +0.01%, Janeiro, 2021
+Video Card Description, Apple M2, 1.91%, +0.14%, Janeiro, 2021
+Video Card Description, NVIDIA GeForce RTX 2080 SUPER, 0.26%, -0.02%, Janeiro, 2021
+Video Card Description, NVIDIA GeForce RTX 4060 Ti, 2.32%, -0.13%, Janeiro, 2021
+Video Card Description, NVIDIA GeForce RTX 5060 Ti, 1.95%, +0.14%, Janeiro, 2021
+Video Card Description, NVIDIA GeForce RTX 4060 Laptop GPU, 3.77%, -0.01%, Janeiro, 2021
+Video Card Description, NVIDIA GeForce RTX 5060, 2.43%, -0.14%, Janeiro, 2021
+Video Card Description, NVIDIA GeForce RTX 3060, 3.85%, -0.14%, Janeiro, 2021
+Video Card Description, AMD Radeon RX 6600 XT, 0.34%, +0.01%, Janeiro, 2021
+Video Card Description, NVIDIA GeForce RTX 5070 Ti, 1.64%, +0.02%, Janeiro, 2021
+Video Card Description, AMD Radeon RX 6750 XT, 0.32%, 0.00%, Janeiro, 2021
+Video Card Description, NVIDIA GeForce RTX 3050, 3.10%, +0.06%, Janeiro, 2021
+Video Card Description, NVIDIA GeForce GT 1030, 0.23%, +0.01%, Janeiro, 2021
+Video Card Description, NVIDIA GeForce RTX 4070, 1.72%, -0.07%, Janeiro, 2021
+Video Card Description, NVIDIA GeForce RTX 5050, 0.18%, +0.02%, Janeiro, 2021
+Video Card Description, NVIDIA GeForce RTX 3060 Ti, 2.17%, -0.15%, Janeiro, 2021
+Video Card Description, NVIDIA GeForce RTX 5050 Laptop GPU, 0.27%, +0.03%, Janeiro, 2021
+Video Card Description, NVIDIA GeForce GTX 1660 SUPER, 1.45%, -0.01%, Janeiro, 2021
+Video Card Description, Intel HD Graphics 4600, 0.18%, +0.01%, Janeiro, 2021
+Video Card Description, NVIDIA GeForce RTX 4070 SUPER, 1.44%, -0.07%, Janeiro, 2021
+Video Card Description, NVIDIA GeForce RTX 5070, 2.92%, +0.06%, Janeiro, 2021
+Video Card Description, NVIDIA GeForce RTX 5080, 1.40%, +0.03%, Janeiro, 2021
+Video Card Description, NVIDIA GeForce GTX 1650 Ti, 0.38%, 0.00%, Janeiro, 2021
+Video Card Description, AMD Radeon RX 9070 XT, 1.24%, +1.24%, Janeiro, 2021
+Video Card Description, NVIDIA GeForce GTX 1650 SUPER, 0.29%, +0.01%, Janeiro, 2021
+Video Card Description, NVIDIA GeForce RTX 3060 Laptop GPU, 1.87%, 0.00%, Janeiro, 2021
+Video Card Description, AMD Radeon RX 6650 XT, 0.26%, -0.01%, Janeiro, 2021
+Video Card Description, NVIDIA GeForce RTX 3070, 2.00%, -0.10%, Janeiro, 2021
+Video Card Description, AMD Radeon RX 7700 XT, 0.25%, 0.00%, Janeiro, 2021
+Video Card Description, NVIDIA GeForce RTX 5060 Laptop GPU, 1.72%, +0.11%, Janeiro, 2021
+Video Card Description, Intel UHD Graphics 620, 0.48%, +0.03%, Janeiro, 2021
+Video Card Description, NVIDIA GeForce GTX 1050 Ti, 1.21%, 0.00%, Janeiro, 2021
+Video Card Description, AMD Raphael, 0.20%, +0.01%, Janeiro, 2021
+Video Card Description, NVIDIA GeForce RTX 4050 Laptop GPU, 1.63%, +0.07%, Janeiro, 2021
+Video Card Description, Intel HD Graphics 520, 0.22%, +0.01%, Janeiro, 2021
+Video Card Description, NVIDIA GeForce RTX 4070 Ti, 0.93%, -0.04%, Janeiro, 2021
+Video Card Description, NVIDIA GeForce GTX 750 Ti, 0.18%, 0.00%, Janeiro, 2021
+Video Card Description, NVIDIA GeForce RTX 3070 Ti, 0.93%, -0.04%, Janeiro, 2021
+Video Card Description, NVIDIA GeForce GTX 960, 0.17%, -0.02%, Janeiro, 2021
+Video Card Description, AMD Radeon RX 6600, 0.84%, 0.00%, Janeiro, 2021
+Video Card Description, AMD Radeon Vega 8 Graphics, 0.35%, +0.02%, Janeiro, 2021
+Video Card Description, NVIDIA GeForce RTX 2060, 1.70%, -0.06%, Janeiro, 2021
+Video Card Description, AMD Radeon (TM) Graphics, 0.45%, +0.03%, Janeiro, 2021
+Video Card Description, NVIDIA GeForce GTX 1060, 1.53%, -0.08%, Janeiro, 2021
+Video Card Description, Intel UHD Graphics 630, 0.29%, +0.01%, Janeiro, 2021
+Video Card Description, NVIDIA GeForce RTX 2060 SUPER, 0.77%, -0.02%, Janeiro, 2021
+Video Card Description, AMD Radeon Vega 3 Graphics, 0.19%, 0.00%, Janeiro, 2021
+Video Card Description, NVIDIA GeForce GTX 1650, 2.57%, -0.01%, Janeiro, 2021
+Video Card Description, NVIDIA GeForce RTX 3050 6GB Laptop GPU, 0.64%, +0.06%, Janeiro, 2021
+Video Card Description, NVIDIA GeForce RTX 4090, 0.73%, -0.01%, Janeiro, 2021
+Video Card Description, AMD Radeon RX 570, 0.36%, 0.00%, Janeiro, 2021
+Video Card Description, AMD Radeon RX 9060 XT, 0.73%, +0.73%, Janeiro, 2021
+Video Card Description, AMD Radeon RX 7900 XT, 0.34%, +0.34%, Janeiro, 2021
+Video Card Description, NVIDIA GeForce RTX 3080, 1.42%, -0.03%, Janeiro, 2021
+Video Card Description, NVIDIA GeForce RTX 5070 Laptop GPU, 0.48%, +0.04%, Janeiro, 2021
+Video Card Description, Intel Iris Xe Graphics, 1.75%, +0.06%, Janeiro, 2021
+Video Card Description, AMD Radeon RX 6700 XT, 0.55%, +0.01%, Janeiro, 2021
+Video Card Description, NVIDIA GeForce RTX 2070 SUPER, 0.70%, -0.01%, Janeiro, 2021
+Video Card Description, NVIDIA GeForce RTX 3070 Laptop GPU, 0.44%, 0.00%, Janeiro, 2021
+Video Card Description, NVIDIA GeForce RTX 3050 Ti Laptop GPU, 0.65%, +0.01%, Janeiro, 2021
+Video Card Description, Intel Arc Graphics, 0.26%, 0.00%, Janeiro, 2021
+Video Card Description, NVIDIA GeForce RTX 4070 Ti SUPER, 0.74%, -0.04%, Janeiro, 2021
+Video Card Description, NVIDIA GeForce GTX 1050, 0.56%, -0.01%, Janeiro, 2021
+Video Card Description, NVIDIA GeForce RTX 4080 SUPER, 0.64%, -0.02%, Janeiro, 2021
+Video Card Description, NVIDIA GeForce RTX 2070, 0.45%, -0.04%, Janeiro, 2021
+Video Card Description, NVIDIA GeForce GTX 1070, 0.64%, -0.01%, Janeiro, 2021
+Video Card Description, Intel(R) UHD Graphics, 1.15%, +0.06%, Janeiro, 2021
+Video Card Description, AMD Radeon RX 580 2048SP, 0.57%, -0.02%, Janeiro, 2021
+Video Card Description, AMD Radeon RX 6800 XT, 0.23%, 0.00%, Janeiro, 2021
+Video Card Description, NVIDIA GeForce RTX 4070 Laptop GPU, 0.96%, +0.01%, Janeiro, 2021
+Video Card Description, NVIDIA GeForce RTX 3050 Laptop GPU, 0.37%, 0.00%, Janeiro, 2021
+Video Card Description, AMD Radeon RX 580, 0.56%, +0.03%, Janeiro, 2021
+Video Card Description, NVIDIA GeForce GTX 1070 Ti, 0.21%, 0.00%, Janeiro, 2021
+Video Card Description, NVIDIA GeForce RTX 3080 Ti, 0.56%, 0.00%, Janeiro, 2021
+Video Card Description, NVIDIA GeForce RTX 5070 Ti Laptop GPU, 0.35%, +0.03%, Janeiro, 2021
+Video Card Description, NVIDIA GeForce RTX 4080, 0.66%, 0.00%, Janeiro, 2021
+Video Card Description, AMD Radeon RX 6500 XT, 0.19%, 0.00%, Janeiro, 2021
+Video Card Description, AMD Radeon RX 7800 XT, 0.64%, -0.58%, Janeiro, 2021
+Video Card Description, AMD Radeon RX 550, 0.21%, 0.00%, Janeiro, 2021
+Video Card Description, NVIDIA GeForce GTX 1660 Ti, 0.91%, +0.01%, Janeiro, 2021
+Video Card Description, AMD Radeon RX 9070, 0.17%, 0.00%, Janeiro, 2021
+Video Card Description, Steam Deck GPU, 0.50%, +0.50%, Janeiro, 2021
+Video Card Description, NVIDIA GeForce RTX 2080 Ti, 0.23%, -0.01%, Janeiro, 2021
+Video Card Description, NVIDIA GeForce GTX 1660, 0.48%, -0.01%, Janeiro, 2021
+Video Card Description, AMD Radeon RX 6800, 0.20%, 0.00%, Janeiro, 2021
+Video Card Description, AMD Radeon RX 7600, 0.45%, +0.45%, Janeiro, 2021
+Video Card Description, AMD Radeon(TM) Graphics, 0.88%, -1.39%, Janeiro, 2021
+Video Card Description, AMD Radeon RX 7900 XTX, 0.47%, -0.01%, Janeiro, 2021
+Video Card Description, Intel UHD Graphics, 0.72%, +0.02%, Janeiro, 2021
+Video Card Description, AMD AMD Custom GPU 0405, 0.42%, +0.04%, Janeiro, 2021
+Video Card Description, NVIDIA GeForce RTX 3070 Ti Laptop GPU, 0.22%, -0.01%, Janeiro, 2021
+Video Card Description, NVIDIA GeForce RTX 5090, 0.41%, 0.00%, Janeiro, 2021
+Video Card Description, NVIDIA GeForce RTX 4080 Laptop GPU, 0.19%, 0.00%, Janeiro, 2021
+Video Card Description, NVIDIA GeForce GTX 1080, 0.42%, 0.00%, Janeiro, 2021
+Video Card Description, AMD Radeon RX 6900 XT, 0.16%, 0.00%, Janeiro, 2021
+Video Card Description, NVIDIA GeForce RTX 2050, 0.48%, +0.02%, Janeiro, 2021
+Video Card Description, AMD Radeon 780M Graphics, 0.34%, +0.01%, Janeiro, 2021
+Video Card Description, AMD Radeon Graphics, 1.92%, +0.09%, Janeiro, 2021
+Video Card Description, Intel(R) Graphics, 0.37%, +0.04%, Janeiro, 2021
+Video Card Description, AMD Radeon RX 5700 XT, 0.57%, 0.00%, Janeiro, 2021
+Video Card Description, NVIDIA GeForce RTX 4060, 3.55%, -0.31%, Janeiro, 2021
+Video Card Description, Other, 9.25%, +0.19%, Janeiro, 2021
+VRAM, 512 MB, 2.86%, -0.01%, Janeiro, 2021
+VRAM, 1 GB, 1.95%, -0.22%, Janeiro, 2021
+VRAM, 2 GB, 4.55%, +0.01%, Janeiro, 2021
+VRAM, 3 GB, 1.60%, +0.25%, Janeiro, 2021
+VRAM, 4 GB, 6.20%, +0.18%, Janeiro, 2021
+VRAM, 6 GB, 6.09%, -0.26%, Janeiro, 2021
+VRAM, 8 GB, 25.89%, -0.87%, Janeiro, 2021
+VRAM, 10 GB, 1.87%, -0.08%, Janeiro, 2021
+VRAM, 11 GB, 0.95%, -0.08%, Janeiro, 2021
+VRAM, 12 GB, 12.77%, -0.68%, Janeiro, 2021
+VRAM, 16 GB, 24.05%, +0.54%, Janeiro, 2021
+VRAM, 20 GB, 1.26%, +0.01%, Janeiro, 2021
+VRAM, 22 GB, 1.81%, +0.97%, Janeiro, 2021
+VRAM, 24 GB, 5.22%, +0.19%, Janeiro, 2021
+VRAM, 32 GB, 1.20%, +0.04%, Janeiro, 2021
+VRAM, Other, 1.75%, +0.02%, Janeiro, 2021
+Primary Display Resolution, 800 x 1280, 0.57%, +0.05%, Janeiro, 2021
+Primary Display Resolution, 1280 x 720, 0.22%, +0.01%, Janeiro, 2021
+Primary Display Resolution, 1280 x 1024, 0.21%, 0.00%, Janeiro, 2021
+Primary Display Resolution, 1280 x 800, 0.37%, +0.04%, Janeiro, 2021
+Primary Display Resolution, 1360 x 768, 0.44%, +0.02%, Janeiro, 2021
+Primary Display Resolution, 1366 x 768, 2.41%, +0.10%, Janeiro, 2021
+Primary Display Resolution, 1440 x 900, 0.76%, +0.02%, Janeiro, 2021
+Primary Display Resolution, 1470 x 956, 0.43%, +0.03%, Janeiro, 2021
+Primary Display Resolution, 1512 x 982, 0.31%, +0.02%, Janeiro, 2021
+Primary Display Resolution, 1600 x 900, 0.71%, +0.02%, Janeiro, 2021
+Primary Display Resolution, 1680 x 1050, 0.43%, +0.01%, Janeiro, 2021
+Primary Display Resolution, 1920 x 1080, 51.89%, -0.32%, Janeiro, 2021
+Primary Display Resolution, 1920 x 1200, 2.50%, +0.14%, Janeiro, 2021
+Primary Display Resolution, 2560 x 1600, 4.91%, +0.04%, Janeiro, 2021
+Primary Display Resolution, 2560 x 1080, 0.71%, -0.01%, Janeiro, 2021
+Primary Display Resolution, 2560 x 1440, 21.20%, -0.21%, Janeiro, 2021
+Primary Display Resolution, 2880 x 1800, 0.47%, +0.01%, Janeiro, 2021
+Primary Display Resolution, 3440 x 1440, 3.18%, +0.04%, Janeiro, 2021
+Primary Display Resolution, 3840 x 2160, 5.00%, -0.09%, Janeiro, 2021
+Primary Display Resolution, 5120 x 1440, 0.42%, +0.01%, Janeiro, 2021
+Primary Display Resolution, Other, 2.87%, +0.09%, Janeiro, 2021
+OS Version, Windows, 93.85%, +0.38%, Fevereiro, 2021
+OS Version, Windows 11 64 bit, 69.76%, +2.02%, Fevereiro, 2021
+OS Version, Windows 10 64 bit, 23.99%, -1.64%, Fevereiro, 2021
+OS Version, Windows 7 64 bit, 0.07%, 0.00%, Fevereiro, 2021
+OS Version, OSX, 2.16%, +0.15%, Fevereiro, 2021
+OS Version, MacOS 26.4.1 64 bit, 0.46%, +0.26%, Fevereiro, 2021
+OS Version, MacOS 26.3.1 64 bit, 0.36%, -0.13%, Fevereiro, 2021
+OS Version, MacOS 26.5.0 64 bit, 0.27%, +0.27%, Fevereiro, 2021
+OS Version, MacOS 26.2.0 64 bit, 0.11%, -0.01%, Fevereiro, 2021
+OS Version, MacOS 26.3.0 64 bit, 0.10%, -0.01%, Fevereiro, 2021
+OS Version, MacOS 15.7.4 64 bit, 0.09%, -0.01%, Fevereiro, 2021
+OS Version, MacOS 15.6.1 64 bit, 0.07%, 0.00%, Fevereiro, 2021
+OS Version, MacOS 26.4.0 64 bit, 0.06%, -0.21%, Fevereiro, 2021
+OS Version, MacOS 15.7.3 64 bit, 0.06%, 0.00%, Fevereiro, 2021
+OS Version, Linux, 3.99%, -0.53%, Fevereiro, 2021
+OS Version, SteamOS Holo 64 bit, 0.93%, +0.09%, Fevereiro, 2021
+OS Version, CachyOS 64 bit, 0.53%, +0.23%, Fevereiro, 2021
+OS Version, Arch Linux 64 bit, 0.35%, +0.03%, Fevereiro, 2021
+OS Version, Linux Mint 22.3 64 bit, 0.31%, +0.04%, Fevereiro, 2021
+OS Version, Bazzite 64 bit, 0.29%, +0.12%, Fevereiro, 2021
+OS Version, Freedesktop SDK 25.08 (Flatpak runtime) 64 bit, 0.22%, +0.07%, Fevereiro, 2021
+OS Version, Ubuntu Core 24 64 bit, 0.14%, +0.01%, Fevereiro, 2021
+OS Version, Ubuntu 24.04.4 LTS 64 bit, 0.11%, +0.02%, Fevereiro, 2021
+OS Version, Nobara Linux 43 (KDE Plasma Desktop Edition) 64 bit, 0.08%, +0.08%, Fevereiro, 2021
+OS Version, Debian GNU/Linux 13 (trixie) 64 bit, 0.07%, +0.02%, Fevereiro, 2021
+OS Version, EndeavourOS Linux 64 bit, 0.07%, +0.07%, Fevereiro, 2021
+OS Version, Ubuntu 26.04 LTS 64 bit, 0.07%, +0.07%, Fevereiro, 2021
+OS Version, Fedora Linux 44 (KDE Plasma Desktop Edition) 64 bit, 0.06%, +0.06%, Fevereiro, 2021
+OS Version, Pop!_OS 24.04 LTS 64 bit, 0.06%, +0.06%, Fevereiro, 2021
+OS Version, Fedora Linux 43 (KDE Plasma Desktop Edition) 64 bit, 0.06%, 0.00%, Fevereiro, 2021
+OS Version, Manjaro Linux 64 bit, 0.05%, 0.00%, Fevereiro, 2021
+System RAM, Less than 4 GB, 0.02%, 0.00%, Fevereiro, 2021
+System RAM, 4 GB, 1.48%, +0.02%, Fevereiro, 2021
+System RAM, 8 GB, 7.82%, +0.16%, Fevereiro, 2021
+System RAM, 12 GB, 2.54%, +0.08%, Fevereiro, 2021
+System RAM, 16 GB, 41.14%, +0.28%, Fevereiro, 2021
+System RAM, 24 GB, 2.06%, +0.09%, Fevereiro, 2021
+System RAM, 28 GB, 0.54%, -0.01%, Fevereiro, 2021
+System RAM, 32 GB, 36.87%, -0.68%, Fevereiro, 2021
+System RAM, 48 GB, 1.17%, -0.03%, Fevereiro, 2021
+System RAM, 60 GB, 0.97%, +0.03%, Fevereiro, 2021
+System RAM, 64 GB, 4.14%, +0.04%, Fevereiro, 2021
+System RAM, More than 64 GB, 0.62%, +0.01%, Fevereiro, 2021
+System RAM, Other, 0.63%, +0.01%, Fevereiro, 2021
+Physical CPUs, 1 cpu, 0.02%, 0.00%, Fevereiro, 2021
+Physical CPUs, 2 cpus, 3.11%, +0.07%, Fevereiro, 2021
+Physical CPUs, 3 cpus, 0.09%, -0.01%, Fevereiro, 2021
+Physical CPUs, 4 cpus, 13.26%, +0.24%, Fevereiro, 2021
+Physical CPUs, 5 cpus, 0.16%, +0.01%, Fevereiro, 2021
+Physical CPUs, 6 cpus, 28.02%, -0.60%, Fevereiro, 2021
+Physical CPUs, 7 cpus, 0.01%, 0.00%, Fevereiro, 2021
+Physical CPUs, 8 cpus, 27.45%, +0.50%, Fevereiro, 2021
+Physical CPUs, 9 cpus, 0.00%, 0.00%, Fevereiro, 2021
+Physical CPUs, 10 cpus, 7.27%, -0.33%, Fevereiro, 2021
+Physical CPUs, 11 cpus, 0.04%, 0.00%, Fevereiro, 2021
+Physical CPUs, 12 cpus, 5.11%, +0.01%, Fevereiro, 2021
+Physical CPUs, 13 cpus, 0.00%, 0.00%, Fevereiro, 2021
+Physical CPUs, 14 cpus, 4.80%, -0.13%, Fevereiro, 2021
+Physical CPUs, 15 cpus, 0.02%, +0.01%, Fevereiro, 2021
+Physical CPUs, 16 cpus, 5.64%, +0.13%, Fevereiro, 2021
+Physical CPUs, 17 cpus, 0.00%, 0.00%, Fevereiro, 2021
+Physical CPUs, 18 cpus, 0.10%, +0.02%, Fevereiro, 2021
+Physical CPUs, 19 cpus, 0.00%, 0.00%, Fevereiro, 2021
+Physical CPUs, 20 cpus, 2.07%, +0.01%, Fevereiro, 2021
+Physical CPUs, 21 cpus, 0.00%, 0.00%, Fevereiro, 2021
+Physical CPUs, 22 cpus, 0.00%, -0.01%, Fevereiro, 2021
+Physical CPUs, 23 cpus, 0.00%, 0.00%, Fevereiro, 2021
+Physical CPUs, 24 cpus, 2.79%, +0.06%, Fevereiro, 2021
+Physical CPUs, 26 cpus, 0.00%, 0.00%, Fevereiro, 2021
+Physical CPUs, 28 cpus, 0.01%, 0.00%, Fevereiro, 2021
+Physical CPUs, 30 cpus, 0.00%, 0.00%, Fevereiro, 2021
+Physical CPUs, 32 cpus, 0.01%, 0.00%, Fevereiro, 2021
+Physical CPUs, 36 cpus, 0.00%, 0.00%, Fevereiro, 2021
+Physical CPUs, 40 cpus, 0.00%, 0.00%, Fevereiro, 2021
+Physical CPUs, 44 cpus, 0.00%, 0.00%, Fevereiro, 2021
+Physical CPUs, 48 cpus, 0.00%, 0.00%, Fevereiro, 2021
+Physical CPUs, 50 cpus, 0.00%, 0.00%, Fevereiro, 2021
+Physical CPUs, 52 cpus, 0.00%, 0.00%, Fevereiro, 2021
+Physical CPUs, 56 cpus, 0.00%, 0.00%, Fevereiro, 2021
+Physical CPUs, 60 cpus, 0.00%, 0.00%, Fevereiro, 2021
+Physical CPUs, 64 cpus, 0.00%, 0.00%, Fevereiro, 2021
+Physical CPUs, 76 cpus, 0.00%, 0.00%, Fevereiro, 2021
+Physical CPUs, 96 cpus, 0.00%, 0.00%, Fevereiro, 2021
+Physical CPUs, 128 cpus, 0.00%, 0.00%, Fevereiro, 2021
+Video Card Description, NVIDIA GeForce RTX 3090, 0.38%, 0.00%, Fevereiro, 2021
+Video Card Description, NVIDIA GeForce GTX 1080 Ti, 0.32%, 0.00%, Fevereiro, 2021
+Video Card Description, NVIDIA GeForce RTX 2080, 0.23%, -0.01%, Fevereiro, 2021
+Video Card Description, NVIDIA GeForce GT 730, 0.16%, 0.00%, Fevereiro, 2021
+Video Card Description, NVIDIA GeForce GTX 970, 0.20%, 0.00%, Fevereiro, 2021
+Video Card Description, Intel HD Graphics 620, 0.21%, +0.01%, Fevereiro, 2021
+Video Card Description, Apple M2, 1.91%, +0.14%, Fevereiro, 2021
+Video Card Description, NVIDIA GeForce RTX 2080 SUPER, 0.26%, -0.02%, Fevereiro, 2021
+Video Card Description, NVIDIA GeForce RTX 4060 Ti, 2.32%, -0.13%, Fevereiro, 2021
+Video Card Description, NVIDIA GeForce RTX 5060 Ti, 1.95%, +0.14%, Fevereiro, 2021
+Video Card Description, NVIDIA GeForce RTX 4060 Laptop GPU, 3.77%, -0.01%, Fevereiro, 2021
+Video Card Description, NVIDIA GeForce RTX 5060, 2.43%, -0.14%, Fevereiro, 2021
+Video Card Description, NVIDIA GeForce RTX 3060, 3.85%, -0.14%, Fevereiro, 2021
+Video Card Description, AMD Radeon RX 6600 XT, 0.34%, +0.01%, Fevereiro, 2021
+Video Card Description, NVIDIA GeForce RTX 5070 Ti, 1.64%, +0.02%, Fevereiro, 2021
+Video Card Description, AMD Radeon RX 6750 XT, 0.32%, 0.00%, Fevereiro, 2021
+Video Card Description, NVIDIA GeForce RTX 3050, 3.10%, +0.06%, Fevereiro, 2021
+Video Card Description, NVIDIA GeForce GT 1030, 0.23%, +0.01%, Fevereiro, 2021
+Video Card Description, NVIDIA GeForce RTX 4070, 1.72%, -0.07%, Fevereiro, 2021
+Video Card Description, NVIDIA GeForce RTX 5050, 0.18%, +0.02%, Fevereiro, 2021
+Video Card Description, NVIDIA GeForce RTX 3060 Ti, 2.17%, -0.15%, Fevereiro, 2021
+Video Card Description, NVIDIA GeForce RTX 5050 Laptop GPU, 0.27%, +0.03%, Fevereiro, 2021
+Video Card Description, NVIDIA GeForce GTX 1660 SUPER, 1.45%, -0.01%, Fevereiro, 2021
+Video Card Description, Intel HD Graphics 4600, 0.18%, +0.01%, Fevereiro, 2021
+Video Card Description, NVIDIA GeForce RTX 4070 SUPER, 1.44%, -0.07%, Fevereiro, 2021
+Video Card Description, NVIDIA GeForce RTX 5070, 2.92%, +0.06%, Fevereiro, 2021
+Video Card Description, NVIDIA GeForce RTX 5080, 1.40%, +0.03%, Fevereiro, 2021
+Video Card Description, NVIDIA GeForce GTX 1650 Ti, 0.38%, 0.00%, Fevereiro, 2021
+Video Card Description, AMD Radeon RX 9070 XT, 1.24%, +1.24%, Fevereiro, 2021
+Video Card Description, NVIDIA GeForce GTX 1650 SUPER, 0.29%, +0.01%, Fevereiro, 2021
+Video Card Description, NVIDIA GeForce RTX 3060 Laptop GPU, 1.87%, 0.00%, Fevereiro, 2021
+Video Card Description, AMD Radeon RX 6650 XT, 0.26%, -0.01%, Fevereiro, 2021
+Video Card Description, NVIDIA GeForce RTX 3070, 2.00%, -0.10%, Fevereiro, 2021
+Video Card Description, AMD Radeon RX 7700 XT, 0.25%, 0.00%, Fevereiro, 2021
+Video Card Description, NVIDIA GeForce RTX 5060 Laptop GPU, 1.72%, +0.11%, Fevereiro, 2021
+Video Card Description, Intel UHD Graphics 620, 0.48%, +0.03%, Fevereiro, 2021
+Video Card Description, NVIDIA GeForce GTX 1050 Ti, 1.21%, 0.00%, Fevereiro, 2021
+Video Card Description, AMD Raphael, 0.20%, +0.01%, Fevereiro, 2021
+Video Card Description, NVIDIA GeForce RTX 4050 Laptop GPU, 1.63%, +0.07%, Fevereiro, 2021
+Video Card Description, Intel HD Graphics 520, 0.22%, +0.01%, Fevereiro, 2021
+Video Card Description, NVIDIA GeForce RTX 4070 Ti, 0.93%, -0.04%, Fevereiro, 2021
+Video Card Description, NVIDIA GeForce GTX 750 Ti, 0.18%, 0.00%, Fevereiro, 2021
+Video Card Description, NVIDIA GeForce RTX 3070 Ti, 0.93%, -0.04%, Fevereiro, 2021
+Video Card Description, NVIDIA GeForce GTX 960, 0.17%, -0.02%, Fevereiro, 2021
+Video Card Description, AMD Radeon RX 6600, 0.84%, 0.00%, Fevereiro, 2021
+Video Card Description, AMD Radeon Vega 8 Graphics, 0.35%, +0.02%, Fevereiro, 2021
+Video Card Description, NVIDIA GeForce RTX 2060, 1.70%, -0.06%, Fevereiro, 2021
+Video Card Description, AMD Radeon (TM) Graphics, 0.45%, +0.03%, Fevereiro, 2021
+Video Card Description, NVIDIA GeForce GTX 1060, 1.53%, -0.08%, Fevereiro, 2021
+Video Card Description, Intel UHD Graphics 630, 0.29%, +0.01%, Fevereiro, 2021
+Video Card Description, NVIDIA GeForce RTX 2060 SUPER, 0.77%, -0.02%, Fevereiro, 2021
+Video Card Description, AMD Radeon Vega 3 Graphics, 0.19%, 0.00%, Fevereiro, 2021
+Video Card Description, NVIDIA GeForce GTX 1650, 2.57%, -0.01%, Fevereiro, 2021
+Video Card Description, NVIDIA GeForce RTX 3050 6GB Laptop GPU, 0.64%, +0.06%, Fevereiro, 2021
+Video Card Description, NVIDIA GeForce RTX 4090, 0.73%, -0.01%, Fevereiro, 2021
+Video Card Description, AMD Radeon RX 570, 0.36%, 0.00%, Fevereiro, 2021
+Video Card Description, AMD Radeon RX 9060 XT, 0.73%, +0.73%, Fevereiro, 2021
+Video Card Description, AMD Radeon RX 7900 XT, 0.34%, +0.34%, Fevereiro, 2021
+Video Card Description, NVIDIA GeForce RTX 3080, 1.42%, -0.03%, Fevereiro, 2021
+Video Card Description, NVIDIA GeForce RTX 5070 Laptop GPU, 0.48%, +0.04%, Fevereiro, 2021
+Video Card Description, Intel Iris Xe Graphics, 1.75%, +0.06%, Fevereiro, 2021
+Video Card Description, AMD Radeon RX 6700 XT, 0.55%, +0.01%, Fevereiro, 2021
+Video Card Description, NVIDIA GeForce RTX 2070 SUPER, 0.70%, -0.01%, Fevereiro, 2021
+Video Card Description, NVIDIA GeForce RTX 3070 Laptop GPU, 0.44%, 0.00%, Fevereiro, 2021
+Video Card Description, NVIDIA GeForce RTX 3050 Ti Laptop GPU, 0.65%, +0.01%, Fevereiro, 2021
+Video Card Description, Intel Arc Graphics, 0.26%, 0.00%, Fevereiro, 2021
+Video Card Description, NVIDIA GeForce RTX 4070 Ti SUPER, 0.74%, -0.04%, Fevereiro, 2021
+Video Card Description, NVIDIA GeForce GTX 1050, 0.56%, -0.01%, Fevereiro, 2021
+Video Card Description, NVIDIA GeForce RTX 4080 SUPER, 0.64%, -0.02%, Fevereiro, 2021
+Video Card Description, NVIDIA GeForce RTX 2070, 0.45%, -0.04%, Fevereiro, 2021
+Video Card Description, NVIDIA GeForce GTX 1070, 0.64%, -0.01%, Fevereiro, 2021
+Video Card Description, Intel(R) UHD Graphics, 1.15%, +0.06%, Fevereiro, 2021
+Video Card Description, AMD Radeon RX 580 2048SP, 0.57%, -0.02%, Fevereiro, 2021
+Video Card Description, AMD Radeon RX 6800 XT, 0.23%, 0.00%, Fevereiro, 2021
+Video Card Description, NVIDIA GeForce RTX 4070 Laptop GPU, 0.96%, +0.01%, Fevereiro, 2021
+Video Card Description, NVIDIA GeForce RTX 3050 Laptop GPU, 0.37%, 0.00%, Fevereiro, 2021
+Video Card Description, AMD Radeon RX 580, 0.56%, +0.03%, Fevereiro, 2021
+Video Card Description, NVIDIA GeForce GTX 1070 Ti, 0.21%, 0.00%, Fevereiro, 2021
+Video Card Description, NVIDIA GeForce RTX 3080 Ti, 0.56%, 0.00%, Fevereiro, 2021
+Video Card Description, NVIDIA GeForce RTX 5070 Ti Laptop GPU, 0.35%, +0.03%, Fevereiro, 2021
+Video Card Description, NVIDIA GeForce RTX 4080, 0.66%, 0.00%, Fevereiro, 2021
+Video Card Description, AMD Radeon RX 6500 XT, 0.19%, 0.00%, Fevereiro, 2021
+Video Card Description, AMD Radeon RX 7800 XT, 0.64%, -0.58%, Fevereiro, 2021
+Video Card Description, AMD Radeon RX 550, 0.21%, 0.00%, Fevereiro, 2021
+Video Card Description, NVIDIA GeForce GTX 1660 Ti, 0.91%, +0.01%, Fevereiro, 2021
+Video Card Description, AMD Radeon RX 9070, 0.17%, 0.00%, Fevereiro, 2021
+Video Card Description, Steam Deck GPU, 0.50%, +0.50%, Fevereiro, 2021
+Video Card Description, NVIDIA GeForce RTX 2080 Ti, 0.23%, -0.01%, Fevereiro, 2021
+Video Card Description, NVIDIA GeForce GTX 1660, 0.48%, -0.01%, Fevereiro, 2021
+Video Card Description, AMD Radeon RX 6800, 0.20%, 0.00%, Fevereiro, 2021
+Video Card Description, AMD Radeon RX 7600, 0.45%, +0.45%, Fevereiro, 2021
+Video Card Description, AMD Radeon(TM) Graphics, 0.88%, -1.39%, Fevereiro, 2021
+Video Card Description, AMD Radeon RX 7900 XTX, 0.47%, -0.01%, Fevereiro, 2021
+Video Card Description, Intel UHD Graphics, 0.72%, +0.02%, Fevereiro, 2021
+Video Card Description, AMD AMD Custom GPU 0405, 0.42%, +0.04%, Fevereiro, 2021
+Video Card Description, NVIDIA GeForce RTX 3070 Ti Laptop GPU, 0.22%, -0.01%, Fevereiro, 2021
+Video Card Description, NVIDIA GeForce RTX 5090, 0.41%, 0.00%, Fevereiro, 2021
+Video Card Description, NVIDIA GeForce RTX 4080 Laptop GPU, 0.19%, 0.00%, Fevereiro, 2021
+Video Card Description, NVIDIA GeForce GTX 1080, 0.42%, 0.00%, Fevereiro, 2021
+Video Card Description, AMD Radeon RX 6900 XT, 0.16%, 0.00%, Fevereiro, 2021
+Video Card Description, NVIDIA GeForce RTX 2050, 0.48%, +0.02%, Fevereiro, 2021
+Video Card Description, AMD Radeon 780M Graphics, 0.34%, +0.01%, Fevereiro, 2021
+Video Card Description, AMD Radeon Graphics, 1.92%, +0.09%, Fevereiro, 2021
+Video Card Description, Intel(R) Graphics, 0.37%, +0.04%, Fevereiro, 2021
+Video Card Description, AMD Radeon RX 5700 XT, 0.57%, 0.00%, Fevereiro, 2021
+Video Card Description, NVIDIA GeForce RTX 4060, 3.55%, -0.31%, Fevereiro, 2021
+Video Card Description, Other, 9.25%, +0.19%, Fevereiro, 2021
+VRAM, 512 MB, 2.86%, -0.01%, Fevereiro, 2021
+VRAM, 1 GB, 1.95%, -0.22%, Fevereiro, 2021
+VRAM, 2 GB, 4.55%, +0.01%, Fevereiro, 2021
+VRAM, 3 GB, 1.60%, +0.25%, Fevereiro, 2021
+VRAM, 4 GB, 6.20%, +0.18%, Fevereiro, 2021
+VRAM, 6 GB, 6.09%, -0.26%, Fevereiro, 2021
+VRAM, 8 GB, 25.89%, -0.87%, Fevereiro, 2021
+VRAM, 10 GB, 1.87%, -0.08%, Fevereiro, 2021
+VRAM, 11 GB, 0.95%, -0.08%, Fevereiro, 2021
+VRAM, 12 GB, 12.77%, -0.68%, Fevereiro, 2021
+VRAM, 16 GB, 24.05%, +0.54%, Fevereiro, 2021
+VRAM, 20 GB, 1.26%, +0.01%, Fevereiro, 2021
+VRAM, 22 GB, 1.81%, +0.97%, Fevereiro, 2021
+VRAM, 24 GB, 5.22%, +0.19%, Fevereiro, 2021
+VRAM, 32 GB, 1.20%, +0.04%, Fevereiro, 2021
+VRAM, Other, 1.75%, +0.02%, Fevereiro, 2021
+Primary Display Resolution, 800 x 1280, 0.57%, +0.05%, Fevereiro, 2021
+Primary Display Resolution, 1280 x 720, 0.22%, +0.01%, Fevereiro, 2021
+Primary Display Resolution, 1280 x 1024, 0.21%, 0.00%, Fevereiro, 2021
+Primary Display Resolution, 1280 x 800, 0.37%, +0.04%, Fevereiro, 2021
+Primary Display Resolution, 1360 x 768, 0.44%, +0.02%, Fevereiro, 2021
+Primary Display Resolution, 1366 x 768, 2.41%, +0.10%, Fevereiro, 2021
+Primary Display Resolution, 1440 x 900, 0.76%, +0.02%, Fevereiro, 2021
+Primary Display Resolution, 1470 x 956, 0.43%, +0.03%, Fevereiro, 2021
+Primary Display Resolution, 1512 x 982, 0.31%, +0.02%, Fevereiro, 2021
+Primary Display Resolution, 1600 x 900, 0.71%, +0.02%, Fevereiro, 2021
+Primary Display Resolution, 1680 x 1050, 0.43%, +0.01%, Fevereiro, 2021
+Primary Display Resolution, 1920 x 1080, 51.89%, -0.32%, Fevereiro, 2021
+Primary Display Resolution, 1920 x 1200, 2.50%, +0.14%, Fevereiro, 2021
+Primary Display Resolution, 2560 x 1600, 4.91%, +0.04%, Fevereiro, 2021
+Primary Display Resolution, 2560 x 1080, 0.71%, -0.01%, Fevereiro, 2021
+Primary Display Resolution, 2560 x 1440, 21.20%, -0.21%, Fevereiro, 2021
+Primary Display Resolution, 2880 x 1800, 0.47%, +0.01%, Fevereiro, 2021
+Primary Display Resolution, 3440 x 1440, 3.18%, +0.04%, Fevereiro, 2021
+Primary Display Resolution, 3840 x 2160, 5.00%, -0.09%, Fevereiro, 2021
+Primary Display Resolution, 5120 x 1440, 0.42%, +0.01%, Fevereiro, 2021
+Primary Display Resolution, Other, 2.87%, +0.09%, Fevereiro, 2021

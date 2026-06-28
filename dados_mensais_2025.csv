@@ -1,0 +1,2459 @@
+Categoria,Especificação,Porcentagens,Incrementos/Decrementos,Mês,Ano
+OS Version,Windows,96.55%,+0.45%,Janeiro,2025
+OS Version,Windows 11 64 bit,53.46%,+0.34%,Janeiro,2025
+OS Version,Windows 10 64 bit,42.87%,+0.13%,Janeiro,2025
+OS Version,Windows 7 64 bit,0.15%,-0.01%,Janeiro,2025
+OS Version,OSX,1.40%,-0.21%,Janeiro,2025
+OS Version,MacOS 15.2.0 64 bit,0.40%,+0.22%,Janeiro,2025
+OS Version,MacOS 15.1.1 64 bit,0.24%,-0.28%,Janeiro,2025
+OS Version,MacOS 14.6.1 64 bit,0.10%,-0.05%,Janeiro,2025
+OS Version,MacOS 14.5.0 64 bit,0.07%,-0.02%,Janeiro,2025
+OS Version,MacOS 15.1.0 64 bit,0.06%,-0.03%,Janeiro,2025
+OS Version,Linux,2.06%,-0.23%,Janeiro,2025
+OS Version,"Arch Linux" 64 bit,0.19%,-0.02%,Janeiro,2025
+OS Version,Ubuntu 24.04.1 LTS 64 bit,0.10%,-0.01%,Janeiro,2025
+OS Version,Linux Mint 22 64 bit,0.09%,-0.02%,Janeiro,2025
+OS Version,Ubuntu Core 22 64 bit,0.08%,-0.01%,Janeiro,2025
+OS Version,"Manjaro Linux" 64 bit,0.06%,0.00%,Janeiro,2025
+OS Version,Debian GNU/Linux 12 (bookworm) 64 bit,0.05%,0.00%,Janeiro,2025
+System RAM,Less than 4 GB,0.03%,-0.01%,Janeiro,2025
+System RAM,4 GB,2.00%,-0.15%,Janeiro,2025
+System RAM,8 GB,9.55%,-0.74%,Janeiro,2025
+System RAM,12 GB,2.87%,-0.17%,Janeiro,2025
+System RAM,16 GB,44.72%,+0.15%,Janeiro,2025
+System RAM,24 GB,1.51%,0.00%,Janeiro,2025
+System RAM,32 GB,33.21%,+0.98%,Janeiro,2025
+System RAM,48 GB,0.67%,0.00%,Janeiro,2025
+System RAM,64 GB,3.75%,-0.06%,Janeiro,2025
+System RAM,More than 64 GB,0.42%,-0.01%,Janeiro,2025
+System RAM,Other,1.26%,-0.01%,Janeiro,2025
+Physical CPUs,1 cpu,0.03%,-0.01%,Janeiro,2025
+Physical CPUs,2 cpus,4.02%,-0.28%,Janeiro,2025
+Physical CPUs,3 cpus,0.24%,0.00%,Janeiro,2025
+Physical CPUs,4 cpus,16.53%,-0.95%,Janeiro,2025
+Physical CPUs,5 cpus,0.07%,+0.01%,Janeiro,2025
+Physical CPUs,6 cpus,31.30%,+0.37%,Janeiro,2025
+Physical CPUs,7 cpus,0.00%,0.00%,Janeiro,2025
+Physical CPUs,8 cpus,22.42%,-0.33%,Janeiro,2025
+Physical CPUs,9 cpus,0.00%,0.00%,Janeiro,2025
+Physical CPUs,10 cpus,6.74%,+0.33%,Janeiro,2025
+Physical CPUs,11 cpus,0.04%,0.00%,Janeiro,2025
+Physical CPUs,12 cpus,5.85%,+0.18%,Janeiro,2025
+Physical CPUs,13 cpus,0.00%,0.00%,Janeiro,2025
+Physical CPUs,14 cpus,4.65%,+0.27%,Janeiro,2025
+Physical CPUs,15 cpus,0.00%,0.00%,Janeiro,2025
+Physical CPUs,16 cpus,4.52%,+0.13%,Janeiro,2025
+Physical CPUs,17 cpus,0.00%,0.00%,Janeiro,2025
+Physical CPUs,18 cpus,0.05%,+0.01%,Janeiro,2025
+Physical CPUs,19 cpus,0.00%,0.00%,Janeiro,2025
+Physical CPUs,20 cpus,1.31%,+0.14%,Janeiro,2025
+Physical CPUs,21 cpus,0.00%,0.00%,Janeiro,2025
+Physical CPUs,22 cpus,0.00%,0.00%,Janeiro,2025
+Physical CPUs,23 cpus,0.00%,0.00%,Janeiro,2025
+Physical CPUs,24 cpus,2.21%,+0.14%,Janeiro,2025
+Physical CPUs,26 cpus,0.00%,0.00%,Janeiro,2025
+Physical CPUs,28 cpus,0.01%,0.00%,Janeiro,2025
+Physical CPUs,30 cpus,0.00%,0.00%,Janeiro,2025
+Physical CPUs,32 cpus,0.01%,0.00%,Janeiro,2025
+Physical CPUs,36 cpus,0.00%,0.00%,Janeiro,2025
+Physical CPUs,40 cpus,0.00%,0.00%,Janeiro,2025
+Physical CPUs,44 cpus,0.00%,0.00%,Janeiro,2025
+Physical CPUs,48 cpus,0.00%,0.00%,Janeiro,2025
+Physical CPUs,52 cpus,0.00%,0.00%,Janeiro,2025
+Physical CPUs,56 cpus,0.00%,0.00%,Janeiro,2025
+Physical CPUs,64 cpus,0.00%,0.00%,Janeiro,2025
+Physical CPUs,72 cpus,0.00%,0.00%,Janeiro,2025
+Physical CPUs,96 cpus,0.00%,0.00%,Janeiro,2025
+Physical CPUs,120 cpus,0.00%,0.00%,Janeiro,2025
+Physical CPUs,128 cpus,0.00%,0.00%,Janeiro,2025
+Physical CPUs,192 cpus,0.00%,0.00%,Janeiro,2025
+Video Card Description,NVIDIA GeForce RTX 3060,5.06%,+0.21%,Janeiro,2025
+Video Card Description,NVIDIA GeForce RTX 4060 Laptop GPU,4.46%,+0.42%,Janeiro,2025
+Video Card Description,NVIDIA GeForce RTX 4060,4.46%,+0.56%,Janeiro,2025
+Video Card Description,NVIDIA GeForce GTX 1650,3.46%,-0.16%,Janeiro,2025
+Video Card Description,NVIDIA GeForce RTX 4060 Ti,3.33%,+0.19%,Janeiro,2025
+Video Card Description,NVIDIA GeForce RTX 3060 Ti,3.05%,+0.09%,Janeiro,2025
+Video Card Description,NVIDIA GeForce RTX 3070,2.85%,-0.03%,Janeiro,2025
+Video Card Description,NVIDIA GeForce RTX 3050,2.83%,+0.06%,Janeiro,2025
+Video Card Description,NVIDIA GeForce RTX 4070,2.81%,+0.16%,Janeiro,2025
+Video Card Description,NVIDIA GeForce RTX 3060 Laptop GPU,2.72%,+0.02%,Janeiro,2025
+Video Card Description,NVIDIA GeForce RTX 2060,2.69%,+0.03%,Janeiro,2025
+Video Card Description,NVIDIA GeForce GTX 1060,2.47%,-0.06%,Janeiro,2025
+Video Card Description,AMD Radeon Graphics,2.00%,-0.17%,Janeiro,2025
+Video Card Description,NVIDIA GeForce RTX 4070 SUPER,1.93%,+0.15%,Janeiro,2025
+Video Card Description,Intel Iris Xe Graphics,1.90%,-0.10%,Janeiro,2025
+Video Card Description,NVIDIA GeForce RTX 3080,1.87%,-0.07%,Janeiro,2025
+Video Card Description,NVIDIA GeForce GTX 1660 SUPER,1.84%,+0.01%,Janeiro,2025
+Video Card Description,NVIDIA GeForce GTX 1050 Ti,1.84%,-0.03%,Janeiro,2025
+Video Card Description,AMD Radeon(TM) Graphics,1.61%,+0.07%,Janeiro,2025
+Video Card Description,Intel(R) UHD Graphics,1.59%,-0.10%,Janeiro,2025
+Video Card Description,NVIDIA GeForce RTX 3070 Ti,1.28%,+0.01%,Janeiro,2025
+Video Card Description,NVIDIA GeForce GTX 1660 Ti,1.26%,-0.06%,Janeiro,2025
+Video Card Description,NVIDIA GeForce RTX 4050 Laptop GPU,1.18%,+0.08%,Janeiro,2025
+Video Card Description,NVIDIA GeForce RTX 4070 Ti,1.15%,+0.04%,Janeiro,2025
+Video Card Description,,1.12%,-0.17%,Janeiro,2025
+Video Card Description,NVIDIA GeForce RTX 2060 SUPER,1.05%,+0.03%,Janeiro,2025
+Video Card Description,NVIDIA GeForce RTX 4070 Laptop GPU,1.05%,+0.07%,Janeiro,2025
+Video Card Description,NVIDIA GeForce RTX 2070 SUPER,1.01%,-0.04%,Janeiro,2025
+Video Card Description,NVIDIA GeForce RTX 4090,0.96%,0.00%,Janeiro,2025
+Video Card Description,NVIDIA GeForce GTX 1070,0.95%,-0.07%,Janeiro,2025
+Video Card Description,NVIDIA GeForce GTX 1050,0.87%,-0.05%,Janeiro,2025
+Video Card Description,NVIDIA GeForce RTX 3050 Ti Laptop GPU,0.83%,-0.03%,Janeiro,2025
+Video Card Description,AMD Radeon RX 6600,0.81%,0.00%,Janeiro,2025
+Video Card Description,NVIDIA GeForce RTX 4080 SUPER,0.80%,+0.02%,Janeiro,2025
+Video Card Description,NVIDIA GeForce RTX 4070 Ti SUPER,0.78%,+0.11%,Janeiro,2025
+Video Card Description,NVIDIA GeForce RTX 2070,0.74%,0.00%,Janeiro,2025
+Video Card Description,NVIDIA GeForce RTX 4080,0.72%,-0.02%,Janeiro,2025
+Video Card Description,AMD Radeon RX 580,0.71%,-0.04%,Janeiro,2025
+Video Card Description,NVIDIA GeForce GTX 1660,0.71%,-0.03%,Janeiro,2025
+Video Card Description,NVIDIA GeForce RTX 3080 Ti,0.70%,0.00%,Janeiro,2025
+Video Card Description,AMD Radeon RX 6700 XT,0.65%,-0.03%,Janeiro,2025
+Video Card Description,NVIDIA GeForce GTX 1080,0.63%,-0.04%,Janeiro,2025
+Video Card Description,NVIDIA GeForce RTX 3070 Laptop GPU,0.62%,-0.02%,Janeiro,2025
+Video Card Description,AMD Radeon RX 5700 XT,0.61%,-0.03%,Janeiro,2025
+Video Card Description,AMD Radeon RX 580 2048SP,0.56%,+0.03%,Janeiro,2025
+Video Card Description,NVIDIA GeForce RTX 3050 Laptop GPU,0.54%,-0.01%,Janeiro,2025
+Video Card Description,NVIDIA GeForce GTX 1650 Ti,0.54%,-0.03%,Janeiro,2025
+Video Card Description,NVIDIA GeForce RTX 3090,0.49%,-0.03%,Janeiro,2025
+Video Card Description,AMD Radeon RX 570,0.48%,-0.02%,Janeiro,2025
+Video Card Description,NVIDIA GeForce GTX 1080 Ti,0.46%,-0.02%,Janeiro,2025
+Video Card Description,AMD AMD Custom GPU 0405,0.45%,-0.09%,Janeiro,2025
+Video Card Description,Intel UHD Graphics 620,0.45%,-0.04%,Janeiro,2025
+Video Card Description,AMD Radeon RX 7900 XTX,0.44%,0.00%,Janeiro,2025
+Video Card Description,AMD Radeon Vega 8 Graphics,0.41%,-0.04%,Janeiro,2025
+Video Card Description,NVIDIA GeForce RTX 2080 SUPER,0.39%,-0.02%,Janeiro,2025
+Video Card Description,NVIDIA GeForce GTX 1650 SUPER,0.39%,-0.02%,Janeiro,2025
+Video Card Description,NVIDIA GeForce RTX 2050,0.38%,+0.02%,Janeiro,2025
+Video Card Description,AMD Radeon RX 6600 XT,0.37%,0.00%,Janeiro,2025
+Video Card Description,NVIDIA GeForce RTX 2080,0.34%,-0.01%,Janeiro,2025
+Video Card Description,AMD Radeon RX 6750 XT,0.34%,-0.01%,Janeiro,2025
+Video Card Description,NVIDIA GeForce GTX 970,0.32%,-0.03%,Janeiro,2025
+Video Card Description,NVIDIA GeForce RTX 2080 Ti,0.32%,-0.01%,Janeiro,2025
+Video Card Description,AMD Radeon RX 6650 XT,0.32%,+0.01%,Janeiro,2025
+Video Card Description,Intel UHD Graphics 630,0.32%,-0.02%,Janeiro,2025
+Video Card Description,NVIDIA GeForce GTX 1070 Ti,0.32%,+0.01%,Janeiro,2025
+Video Card Description,NVIDIA GeForce RTX 3070 Ti Laptop GPU,0.31%,0.00%,Janeiro,2025
+Video Card Description,NVIDIA GeForce GT 1030,0.31%,-0.01%,Janeiro,2025
+Video Card Description,AMD Radeon RX 6800 XT,0.29%,-0.01%,Janeiro,2025
+Video Card Description,NVIDIA GeForce RTX 3050 6GB Laptop GPU,0.28%,+0.01%,Janeiro,2025
+Video Card Description,NVIDIA GeForce GTX 960,0.28%,-0.01%,Janeiro,2025
+Video Card Description,AMD Radeon Graphics (RADV VANGOGH),0.27%,-0.03%,Janeiro,2025
+Video Card Description,NVIDIA GeForce GTX 750 Ti,0.26%,+0.01%,Janeiro,2025
+Video Card Description,AMD Radeon RX 550,0.26%,-0.02%,Janeiro,2025
+Video Card Description,AMD Radeon Vega 3 Graphics,0.25%,-0.02%,Janeiro,2025
+Video Card Description,AMD Radeon (TM) Graphics,0.24%,-0.01%,Janeiro,2025
+Video Card Description,AMD Radeon 780M Graphics,0.24%,+0.01%,Janeiro,2025
+Video Card Description,Intel HD Graphics 520,0.23%,-0.03%,Janeiro,2025
+Video Card Description,Intel HD Graphics 620,0.23%,-0.03%,Janeiro,2025
+Video Card Description,NVIDIA GeForce RTX 4080 Laptop GPU,0.22%,+0.01%,Janeiro,2025
+Video Card Description,AMD Radeon RX 6800,0.22%,-0.01%,Janeiro,2025
+Video Card Description,NVIDIA GeForce GT 730,0.20%,-0.01%,Janeiro,2025
+Video Card Description,Intel HD Graphics 4600,0.20%,-0.01%,Janeiro,2025
+Video Card Description,Intel(R) Arc(TM) Graphics,0.20%,0.00%,Janeiro,2025
+Video Card Description,AMD Radeon RX 6900 XT,0.20%,-0.01%,Janeiro,2025
+Video Card Description,NVIDIA GeForce RTX 3050 Ti,0.19%,0.00%,Janeiro,2025
+Video Card Description,AMD Radeon RX 6500 XT,0.19%,+0.01%,Janeiro,2025
+Video Card Description,AMD Radeon RX 7700 XT,0.19%,+0.03%,Janeiro,2025
+Video Card Description,AMD Radeon RX 5600 XT,0.19%,0.00%,Janeiro,2025
+Video Card Description,Intel UHD Graphics 600,0.18%,-0.02%,Janeiro,2025
+Video Card Description,AMD Radeon RX 6750 GRE 12GB,0.17%,0.00%,Janeiro,2025
+Video Card Description,AMD Radeon RX 5500 XT,0.16%,-0.02%,Janeiro,2025
+Video Card Description,Intel HD Graphics 4000,0.15%,-0.01%,Janeiro,2025
+Video Card Description,AMD Radeon RX 6750 GRE 10GB,0.15%,+0.15%,Janeiro,2025
+Video Card Description,NVIDIA GeForce RTX T10-8,0.15%,-0.02%,Janeiro,2025
+Video Card Description,Other,8.96%,-0.35%,Janeiro,2025
+VRAM,512 MB,4.39%,-0.01%,Janeiro,2025
+VRAM,1 GB,4.33%,-0.41%,Janeiro,2025
+VRAM,2 GB,4.34%,+0.02%,Janeiro,2025
+VRAM,3 GB,1.22%,+0.02%,Janeiro,2025
+VRAM,4 GB,7.31%,-0.29%,Janeiro,2025
+VRAM,6 GB,11.83%,-0.13%,Janeiro,2025
+VRAM,8 GB,35.76%,+0.62%,Janeiro,2025
+VRAM,10 GB,2.75%,-0.16%,Janeiro,2025
+VRAM,11 GB,1.29%,-0.08%,Janeiro,2025
+VRAM,12 GB,19.33%,+0.53%,Janeiro,2025
+VRAM,16 GB,4.29%,+0.06%,Janeiro,2025
+VRAM,24 GB,2.44%,-0.11%,Janeiro,2025
+VRAM,Other,0.72%,-0.05%,Janeiro,2025
+Primary Display Resolution,800 x 1280,0.50%,-0.08%,Janeiro,2025
+Primary Display Resolution,1280 x 800,0.31%,-0.05%,Janeiro,2025
+Primary Display Resolution,1280 x 720,0.21%,-0.01%,Janeiro,2025
+Primary Display Resolution,1280 x 1024,0.28%,-0.02%,Janeiro,2025
+Primary Display Resolution,1360 x 768,0.53%,-0.04%,Janeiro,2025
+Primary Display Resolution,1366 x 768,2.82%,-0.23%,Janeiro,2025
+Primary Display Resolution,1440 x 900,0.84%,-0.08%,Janeiro,2025
+Primary Display Resolution,1600 x 900,0.86%,-0.05%,Janeiro,2025
+Primary Display Resolution,1680 x 1050,0.54%,-0.03%,Janeiro,2025
+Primary Display Resolution,1920 x 1200,1.51%,-0.02%,Janeiro,2025
+Primary Display Resolution,1920 x 1080,56.03%,+0.11%,Janeiro,2025
+Primary Display Resolution,2560 x 1440,20.06%,+0.42%,Janeiro,2025
+Primary Display Resolution,2560 x 1080,0.84%,-0.04%,Janeiro,2025
+Primary Display Resolution,2560 x 1600,4.36%,+0.28%,Janeiro,2025
+Primary Display Resolution,2880 x 1800,0.39%,0.00%,Janeiro,2025
+Primary Display Resolution,3440 x 1440,2.60%,-0.02%,Janeiro,2025
+Primary Display Resolution,3840 x 2160,4.08%,-0.01%,Janeiro,2025
+Primary Display Resolution,5120 x 1440,0.34%,-0.02%,Janeiro,2025
+Primary Display Resolution,Other,2.91%,+0.11%,Janeiro,2025
+OS Version,Windows,97.58%,+1.03%,Fevereiro,2025
+OS Version,Windows 10 64 bit,53.34%,+10.47%,Fevereiro,2025
+OS Version,Windows 11 64 bit,44.10%,-9.36%,Fevereiro,2025
+OS Version,Windows 7 64 bit,0.10%,-0.05%,Fevereiro,2025
+OS Version,OSX,0.97%,-0.43%,Fevereiro,2025
+OS Version,MacOS 15.3.0 64 bit,0.23%,+0.23%,Fevereiro,2025
+OS Version,MacOS 15.2.0 64 bit,0.13%,-0.27%,Fevereiro,2025
+OS Version,MacOS 15.3.1 64 bit,0.11%,+0.11%,Fevereiro,2025
+OS Version,MacOS 15.1.1 64 bit,0.08%,-0.16%,Fevereiro,2025
+OS Version,MacOS 14.6.1 64 bit,0.06%,-0.04%,Fevereiro,2025
+OS Version,Linux,1.45%,-0.61%,Fevereiro,2025
+OS Version,"Arch Linux" 64 bit,0.14%,-0.05%,Fevereiro,2025
+OS Version,Linux Mint 22.1 64 bit,0.07%,+0.07%,Fevereiro,2025
+OS Version,Ubuntu Core 22 64 bit,0.06%,-0.02%,Fevereiro,2025
+OS Version,Ubuntu 24.04.1 LTS 64 bit,0.05%,-0.05%,Fevereiro,2025
+System RAM,Less than 4 GB,0.02%,-0.01%,Fevereiro,2025
+System RAM,4 GB,1.36%,-0.64%,Fevereiro,2025
+System RAM,8 GB,6.58%,-2.97%,Fevereiro,2025
+System RAM,12 GB,2.01%,-0.86%,Fevereiro,2025
+System RAM,16 GB,36.71%,-8.01%,Fevereiro,2025
+System RAM,24 GB,1.20%,-0.31%,Fevereiro,2025
+System RAM,32 GB,46.94%,+13.73%,Fevereiro,2025
+System RAM,48 GB,0.57%,-0.10%,Fevereiro,2025
+System RAM,64 GB,3.28%,-0.47%,Fevereiro,2025
+System RAM,More than 64 GB,0.31%,-0.11%,Fevereiro,2025
+System RAM,Other,1.02%,-0.24%,Fevereiro,2025
+Physical CPUs,1 cpu,0.03%,0.00%,Fevereiro,2025
+Physical CPUs,2 cpus,2.74%,-1.28%,Fevereiro,2025
+Physical CPUs,3 cpus,0.16%,-0.08%,Fevereiro,2025
+Physical CPUs,4 cpus,11.83%,-4.70%,Fevereiro,2025
+Physical CPUs,5 cpus,0.05%,-0.02%,Fevereiro,2025
+Physical CPUs,6 cpus,34.52%,+3.22%,Fevereiro,2025
+Physical CPUs,7 cpus,0.00%,0.00%,Fevereiro,2025
+Physical CPUs,8 cpus,20.51%,-1.91%,Fevereiro,2025
+Physical CPUs,9 cpus,0.00%,0.00%,Fevereiro,2025
+Physical CPUs,10 cpus,10.49%,+3.75%,Fevereiro,2025
+Physical CPUs,11 cpus,0.03%,-0.01%,Fevereiro,2025
+Physical CPUs,12 cpus,6.51%,+0.66%,Fevereiro,2025
+Physical CPUs,13 cpus,0.00%,0.00%,Fevereiro,2025
+Physical CPUs,14 cpus,4.73%,+0.08%,Fevereiro,2025
+Physical CPUs,15 cpus,0.00%,0.00%,Fevereiro,2025
+Physical CPUs,16 cpus,5.05%,+0.53%,Fevereiro,2025
+Physical CPUs,17 cpus,0.00%,0.00%,Fevereiro,2025
+Physical CPUs,18 cpus,0.04%,-0.01%,Fevereiro,2025
+Physical CPUs,19 cpus,0.00%,0.00%,Fevereiro,2025
+Physical CPUs,20 cpus,1.60%,+0.29%,Fevereiro,2025
+Physical CPUs,21 cpus,0.00%,0.00%,Fevereiro,2025
+Physical CPUs,22 cpus,0.00%,0.00%,Fevereiro,2025
+Physical CPUs,23 cpus,0.00%,0.00%,Fevereiro,2025
+Physical CPUs,24 cpus,1.70%,-0.51%,Fevereiro,2025
+Physical CPUs,26 cpus,0.00%,0.00%,Fevereiro,2025
+Physical CPUs,28 cpus,0.00%,-0.01%,Fevereiro,2025
+Physical CPUs,32 cpus,0.01%,0.00%,Fevereiro,2025
+Physical CPUs,36 cpus,0.00%,0.00%,Fevereiro,2025
+Physical CPUs,38 cpus,0.00%,0.00%,Fevereiro,2025
+Physical CPUs,40 cpus,0.00%,0.00%,Fevereiro,2025
+Physical CPUs,44 cpus,0.00%,0.00%,Fevereiro,2025
+Physical CPUs,48 cpus,0.00%,0.00%,Fevereiro,2025
+Physical CPUs,52 cpus,0.00%,0.00%,Fevereiro,2025
+Physical CPUs,56 cpus,0.00%,0.00%,Fevereiro,2025
+Physical CPUs,60 cpus,0.00%,0.00%,Fevereiro,2025
+Physical CPUs,64 cpus,0.00%,0.00%,Fevereiro,2025
+Physical CPUs,72 cpus,0.00%,0.00%,Fevereiro,2025
+Physical CPUs,96 cpus,0.00%,0.00%,Fevereiro,2025
+Physical CPUs,112 cpus,0.00%,0.00%,Fevereiro,2025
+Physical CPUs,128 cpus,0.00%,0.00%,Fevereiro,2025
+Physical CPUs,176 cpus,0.00%,0.00%,Fevereiro,2025
+Video Card Description,NVIDIA GeForce RTX 4060,8.37%,+3.91%,Fevereiro,2025
+Video Card Description,NVIDIA GeForce RTX 3060,6.73%,+1.67%,Fevereiro,2025
+Video Card Description,NVIDIA GeForce RTX 4060 Ti,6.40%,+3.07%,Fevereiro,2025
+Video Card Description,NVIDIA GeForce RTX 4070,5.30%,+2.49%,Fevereiro,2025
+Video Card Description,NVIDIA GeForce RTX 3070,4.18%,+1.33%,Fevereiro,2025
+Video Card Description,NVIDIA GeForce RTX 3060 Ti,3.86%,+0.81%,Fevereiro,2025
+Video Card Description,NVIDIA GeForce RTX 4060 Laptop GPU,3.62%,-0.84%,Fevereiro,2025
+Video Card Description,NVIDIA GeForce RTX 4070 SUPER,3.52%,+1.59%,Fevereiro,2025
+Video Card Description,NVIDIA GeForce RTX 2060,3.06%,+0.37%,Fevereiro,2025
+Video Card Description,NVIDIA GeForce GTX 1650,2.46%,-1.00%,Fevereiro,2025
+Video Card Description,NVIDIA GeForce GTX 1060,2.18%,-0.29%,Fevereiro,2025
+Video Card Description,NVIDIA GeForce RTX 3050,2.15%,-0.68%,Fevereiro,2025
+Video Card Description,NVIDIA GeForce RTX 3080,2.03%,+0.16%,Fevereiro,2025
+Video Card Description,NVIDIA GeForce RTX 3060 Laptop GPU,2.00%,-0.72%,Fevereiro,2025
+Video Card Description,NVIDIA GeForce RTX 3070 Ti,1.52%,+0.24%,Fevereiro,2025
+Video Card Description,NVIDIA GeForce GTX 1660 SUPER,1.52%,-0.32%,Fevereiro,2025
+Video Card Description,AMD Radeon Graphics,1.41%,-0.59%,Fevereiro,2025
+Video Card Description,Intel Iris Xe Graphics,1.34%,-0.56%,Fevereiro,2025
+Video Card Description,NVIDIA GeForce RTX 2060 SUPER,1.31%,+0.26%,Fevereiro,2025
+Video Card Description,NVIDIA GeForce GTX 1050 Ti,1.30%,-0.54%,Fevereiro,2025
+Video Card Description,AMD Radeon(TM) Graphics,1.26%,-0.35%,Fevereiro,2025
+Video Card Description,Intel(R) UHD Graphics,1.13%,-0.46%,Fevereiro,2025
+Video Card Description,NVIDIA GeForce RTX 4070 Ti,1.09%,-0.06%,Fevereiro,2025
+Video Card Description,NVIDIA GeForce RTX 4080 SUPER,0.98%,+0.18%,Fevereiro,2025
+Video Card Description,NVIDIA GeForce GTX 1660 Ti,0.95%,-0.31%,Fevereiro,2025
+Video Card Description,NVIDIA GeForce RTX 2070 SUPER,0.93%,-0.08%,Fevereiro,2025
+Video Card Description,NVIDIA GeForce RTX 4050 Laptop GPU,0.91%,-0.27%,Fevereiro,2025
+Video Card Description,NVIDIA GeForce RTX 2070,0.90%,+0.16%,Fevereiro,2025
+Video Card Description,NVIDIA GeForce RTX 4070 Laptop GPU,0.82%,-0.23%,Fevereiro,2025
+Video Card Description,,0.79%,-0.33%,Fevereiro,2025
+Video Card Description,NVIDIA GeForce GTX 1660,0.73%,+0.02%,Fevereiro,2025
+Video Card Description,NVIDIA GeForce RTX 4080,0.71%,-0.01%,Fevereiro,2025
+Video Card Description,NVIDIA GeForce RTX 4090,0.71%,-0.25%,Fevereiro,2025
+Video Card Description,NVIDIA GeForce GTX 1070,0.69%,-0.26%,Fevereiro,2025
+Video Card Description,NVIDIA GeForce RTX 4070 Ti SUPER,0.68%,-0.10%,Fevereiro,2025
+Video Card Description,AMD Radeon RX 6600,0.62%,-0.19%,Fevereiro,2025
+Video Card Description,NVIDIA GeForce GTX 1050,0.60%,-0.27%,Fevereiro,2025
+Video Card Description,NVIDIA GeForce RTX 3050 Ti Laptop GPU,0.60%,-0.23%,Fevereiro,2025
+Video Card Description,NVIDIA GeForce RTX 3080 Ti,0.55%,-0.15%,Fevereiro,2025
+Video Card Description,AMD Radeon RX 580,0.51%,-0.20%,Fevereiro,2025
+Video Card Description,AMD Radeon RX 6700 XT,0.48%,-0.17%,Fevereiro,2025
+Video Card Description,NVIDIA GeForce GTX 1080,0.48%,-0.15%,Fevereiro,2025
+Video Card Description,AMD Radeon RX 5700 XT,0.45%,-0.16%,Fevereiro,2025
+Video Card Description,NVIDIA GeForce RTX 3070 Laptop GPU,0.44%,-0.18%,Fevereiro,2025
+Video Card Description,AMD Radeon RX 580 2048SP,0.43%,-0.13%,Fevereiro,2025
+Video Card Description,NVIDIA GeForce RTX 2080 SUPER,0.41%,+0.02%,Fevereiro,2025
+Video Card Description,NVIDIA GeForce RTX 3050 Laptop GPU,0.40%,-0.14%,Fevereiro,2025
+Video Card Description,NVIDIA GeForce GTX 1650 Ti,0.39%,-0.15%,Fevereiro,2025
+Video Card Description,NVIDIA GeForce RTX 3090,0.37%,-0.12%,Fevereiro,2025
+Video Card Description,AMD Radeon RX 7900 XTX,0.35%,-0.09%,Fevereiro,2025
+Video Card Description,AMD Radeon RX 570,0.34%,-0.14%,Fevereiro,2025
+Video Card Description,NVIDIA GeForce GTX 1080 Ti,0.33%,-0.13%,Fevereiro,2025
+Video Card Description,Intel UHD Graphics 620,0.31%,-0.14%,Fevereiro,2025
+Video Card Description,AMD AMD Custom GPU 0405,0.30%,-0.15%,Fevereiro,2025
+Video Card Description,NVIDIA GeForce RTX 2080,0.30%,-0.04%,Fevereiro,2025
+Video Card Description,AMD Radeon RX 6600 XT,0.30%,-0.07%,Fevereiro,2025
+Video Card Description,AMD Radeon Vega 8 Graphics,0.29%,-0.12%,Fevereiro,2025
+Video Card Description,NVIDIA GeForce RTX 2050,0.28%,-0.10%,Fevereiro,2025
+Video Card Description,NVIDIA GeForce GTX 1650 SUPER,0.27%,-0.12%,Fevereiro,2025
+Video Card Description,NVIDIA GeForce GTX 1070 Ti,0.26%,-0.06%,Fevereiro,2025
+Video Card Description,AMD Radeon RX 6750 XT,0.26%,-0.08%,Fevereiro,2025
+Video Card Description,AMD Radeon RX 6650 XT,0.24%,-0.08%,Fevereiro,2025
+Video Card Description,NVIDIA GeForce RTX 2080 Ti,0.24%,-0.08%,Fevereiro,2025
+Video Card Description,NVIDIA GeForce RTX 3070 Ti Laptop GPU,0.23%,-0.08%,Fevereiro,2025
+Video Card Description,Intel UHD Graphics 630,0.22%,-0.10%,Fevereiro,2025
+Video Card Description,NVIDIA GeForce GTX 970,0.22%,-0.10%,Fevereiro,2025
+Video Card Description,NVIDIA GeForce GTX 960,0.22%,-0.06%,Fevereiro,2025
+Video Card Description,NVIDIA GeForce GT 1030,0.22%,-0.09%,Fevereiro,2025
+Video Card Description,AMD Radeon RX 6800 XT,0.21%,-0.08%,Fevereiro,2025
+Video Card Description,AMD Radeon Graphics (RADV VANGOGH),0.20%,-0.07%,Fevereiro,2025
+Video Card Description,NVIDIA GeForce RTX 3050 6GB Laptop GPU,0.20%,-0.08%,Fevereiro,2025
+Video Card Description,NVIDIA GeForce GTX 750 Ti,0.19%,-0.07%,Fevereiro,2025
+Video Card Description,AMD Radeon RX 550,0.18%,-0.08%,Fevereiro,2025
+Video Card Description,AMD Radeon (TM) Graphics,0.18%,-0.06%,Fevereiro,2025
+Video Card Description,AMD Radeon 780M Graphics,0.18%,-0.06%,Fevereiro,2025
+Video Card Description,AMD Radeon RX 6750 GRE 12GB,0.17%,0.00%,Fevereiro,2025
+Video Card Description,NVIDIA GeForce RTX 4080 Laptop GPU,0.17%,-0.05%,Fevereiro,2025
+Video Card Description,AMD Radeon Vega 3 Graphics,0.17%,-0.08%,Fevereiro,2025
+Video Card Description,AMD Radeon RX 6750 GRE 10GB,0.17%,+0.02%,Fevereiro,2025
+Video Card Description,Intel HD Graphics 520,0.16%,-0.07%,Fevereiro,2025
+Video Card Description,Intel HD Graphics 620,0.16%,-0.07%,Fevereiro,2025
+Video Card Description,AMD Radeon RX 7700 XT,0.16%,-0.03%,Fevereiro,2025
+Video Card Description,AMD Radeon RX 6800,0.16%,-0.06%,Fevereiro,2025
+Video Card Description,Intel(R) Arc(TM) Graphics,0.16%,-0.04%,Fevereiro,2025
+Video Card Description,Other,7.78%,-1.18%,Fevereiro,2025
+VRAM,512 MB,3.06%,-1.33%,Fevereiro,2025
+VRAM,1 GB,2.40%,-1.93%,Fevereiro,2025
+VRAM,2 GB,2.89%,-1.45%,Fevereiro,2025
+VRAM,3 GB,0.85%,-0.37%,Fevereiro,2025
+VRAM,4 GB,4.35%,-2.96%,Fevereiro,2025
+VRAM,6 GB,9.64%,-2.19%,Fevereiro,2025
+VRAM,8 GB,43.17%,+7.41%,Fevereiro,2025
+VRAM,10 GB,2.60%,-0.15%,Fevereiro,2025
+VRAM,11 GB,0.79%,-0.50%,Fevereiro,2025
+VRAM,12 GB,24.21%,+4.88%,Fevereiro,2025
+VRAM,16 GB,3.80%,-0.49%,Fevereiro,2025
+VRAM,24 GB,1.52%,-0.92%,Fevereiro,2025
+VRAM,Other,0.72%,0.00%,Fevereiro,2025
+Primary Display Resolution,800 x 1280,0.34%,-0.16%,Fevereiro,2025
+Primary Display Resolution,1280 x 800,0.22%,-0.09%,Fevereiro,2025
+Primary Display Resolution,1280 x 1024,0.20%,-0.08%,Fevereiro,2025
+Primary Display Resolution,1360 x 768,0.37%,-0.16%,Fevereiro,2025
+Primary Display Resolution,1366 x 768,1.95%,-0.87%,Fevereiro,2025
+Primary Display Resolution,1440 x 900,0.58%,-0.26%,Fevereiro,2025
+Primary Display Resolution,1600 x 900,0.62%,-0.24%,Fevereiro,2025
+Primary Display Resolution,1680 x 1050,0.38%,-0.16%,Fevereiro,2025
+Primary Display Resolution,1920 x 1080,52.34%,-3.69%,Fevereiro,2025
+Primary Display Resolution,1920 x 1200,1.11%,-0.40%,Fevereiro,2025
+Primary Display Resolution,2560 x 1080,0.61%,-0.23%,Fevereiro,2025
+Primary Display Resolution,2560 x 1440,29.98%,+9.92%,Fevereiro,2025
+Primary Display Resolution,2560 x 1600,3.38%,-0.98%,Fevereiro,2025
+Primary Display Resolution,2880 x 1800,0.27%,-0.12%,Fevereiro,2025
+Primary Display Resolution,3440 x 1440,1.93%,-0.67%,Fevereiro,2025
+Primary Display Resolution,3840 x 2160,3.13%,-0.95%,Fevereiro,2025
+Primary Display Resolution,5120 x 1440,0.24%,-0.10%,Fevereiro,2025
+Primary Display Resolution,Other,2.34%,-0.57%,Fevereiro,2025
+OS Version,Windows,96.10%,-1.48%,Março,2025
+OS Version,Windows 11 64 bit,55.34%,+11.24%,Março,2025
+OS Version,Windows 10 64 bit,40.58%,-12.76%,Março,2025
+OS Version,Windows 7 64 bit,0.11%,+0.01%,Março,2025
+OS Version,OSX,1.58%,+0.61%,Março,2025
+OS Version,MacOS 15.3.1 64 bit,0.56%,+0.45%,Março,2025
+OS Version,MacOS 15.3.2 64 bit,0.25%,+0.25%,Março,2025
+OS Version,MacOS 14.6.1 64 bit,0.07%,+0.01%,Março,2025
+OS Version,MacOS 15.2.0 64 bit,0.06%,-0.07%,Março,2025
+OS Version,MacOS 15.3.0 64 bit,0.06%,-0.17%,Março,2025
+OS Version,MacOS 14.5.0 64 bit,0.05%,+0.05%,Março,2025
+OS Version,MacOS 15.1.1 64 bit,0.05%,-0.03%,Março,2025
+OS Version,Linux,2.33%,+0.88%,Março,2025
+OS Version,"Arch Linux" 64 bit,0.23%,+0.09%,Março,2025
+OS Version,Linux Mint 22.1 64 bit,0.12%,+0.05%,Março,2025
+OS Version,Ubuntu Core 22 64 bit,0.10%,+0.04%,Março,2025
+OS Version,Ubuntu 24.04.2 LTS 64 bit,0.10%,+0.10%,Março,2025
+OS Version,"Manjaro Linux" 64 bit,0.06%,+0.06%,Março,2025
+OS Version,"EndeavourOS Linux" 64 bit,0.06%,+0.06%,Março,2025
+OS Version,Debian GNU/Linux 12 (bookworm) 64 bit,0.05%,+0.05%,Março,2025
+System RAM,Less than 4 GB,0.03%,+0.01%,Março,2025
+System RAM,4 GB,1.99%,+0.63%,Março,2025
+System RAM,8 GB,9.57%,+2.99%,Março,2025
+System RAM,12 GB,2.90%,+0.89%,Março,2025
+System RAM,16 GB,44.41%,+7.70%,Março,2025
+System RAM,24 GB,1.65%,+0.45%,Março,2025
+System RAM,28 GB,0.50%,+0.50%,Março,2025
+System RAM,32 GB,32.84%,-14.10%,Março,2025
+System RAM,48 GB,0.72%,+0.15%,Março,2025
+System RAM,64 GB,3.94%,+0.66%,Março,2025
+System RAM,More than 64 GB,0.47%,+0.16%,Março,2025
+System RAM,Other,0.98%,-0.04%,Março,2025
+Physical CPUs,1 cpu,0.03%,0.00%,Março,2025
+Physical CPUs,2 cpus,4.03%,+1.29%,Março,2025
+Physical CPUs,3 cpus,0.31%,+0.15%,Março,2025
+Physical CPUs,4 cpus,16.63%,+4.80%,Março,2025
+Physical CPUs,5 cpus,0.06%,+0.01%,Março,2025
+Physical CPUs,6 cpus,30.94%,-3.58%,Março,2025
+Physical CPUs,7 cpus,0.00%,0.00%,Março,2025
+Physical CPUs,8 cpus,23.18%,+2.67%,Março,2025
+Physical CPUs,9 cpus,0.00%,0.00%,Março,2025
+Physical CPUs,10 cpus,6.66%,-3.83%,Março,2025
+Physical CPUs,11 cpus,0.04%,+0.01%,Março,2025
+Physical CPUs,12 cpus,5.53%,-0.98%,Março,2025
+Physical CPUs,13 cpus,0.00%,0.00%,Março,2025
+Physical CPUs,14 cpus,4.54%,-0.19%,Março,2025
+Physical CPUs,15 cpus,0.00%,0.00%,Março,2025
+Physical CPUs,16 cpus,4.43%,-0.62%,Março,2025
+Physical CPUs,17 cpus,0.00%,0.00%,Março,2025
+Physical CPUs,18 cpus,0.05%,+0.01%,Março,2025
+Physical CPUs,19 cpus,0.00%,0.00%,Março,2025
+Physical CPUs,20 cpus,1.35%,-0.25%,Março,2025
+Physical CPUs,21 cpus,0.00%,0.00%,Março,2025
+Physical CPUs,22 cpus,0.00%,0.00%,Março,2025
+Physical CPUs,23 cpus,0.00%,0.00%,Março,2025
+Physical CPUs,24 cpus,2.16%,+0.46%,Março,2025
+Physical CPUs,25 cpus,0.00%,0.00%,Março,2025
+Physical CPUs,26 cpus,0.00%,0.00%,Março,2025
+Physical CPUs,28 cpus,0.01%,+0.01%,Março,2025
+Physical CPUs,30 cpus,0.00%,0.00%,Março,2025
+Physical CPUs,32 cpus,0.01%,0.00%,Março,2025
+Physical CPUs,36 cpus,0.00%,0.00%,Março,2025
+Physical CPUs,40 cpus,0.00%,0.00%,Março,2025
+Physical CPUs,44 cpus,0.00%,0.00%,Março,2025
+Physical CPUs,48 cpus,0.00%,0.00%,Março,2025
+Physical CPUs,52 cpus,0.00%,0.00%,Março,2025
+Physical CPUs,56 cpus,0.00%,0.00%,Março,2025
+Physical CPUs,64 cpus,0.00%,0.00%,Março,2025
+Physical CPUs,72 cpus,0.00%,0.00%,Março,2025
+Physical CPUs,76 cpus,0.00%,0.00%,Março,2025
+Physical CPUs,96 cpus,0.00%,0.00%,Março,2025
+Physical CPUs,128 cpus,0.00%,0.00%,Março,2025
+Video Card Description,NVIDIA GeForce RTX 3060,4.94%,-1.79%,Março,2025
+Video Card Description,NVIDIA GeForce RTX 4060,4.60%,-3.77%,Março,2025
+Video Card Description,NVIDIA GeForce RTX 4060 Laptop GPU,4.32%,+0.70%,Março,2025
+Video Card Description,NVIDIA GeForce GTX 1650,3.42%,+0.96%,Março,2025
+Video Card Description,NVIDIA GeForce RTX 4060 Ti,3.04%,-3.36%,Março,2025
+Video Card Description,NVIDIA GeForce RTX 3060 Ti,2.95%,-0.91%,Março,2025
+Video Card Description,NVIDIA GeForce RTX 3050,2.85%,+0.70%,Março,2025
+Video Card Description,NVIDIA GeForce RTX 3070,2.77%,-1.41%,Março,2025
+Video Card Description,NVIDIA GeForce RTX 2060,2.60%,-0.46%,Março,2025
+Video Card Description,NVIDIA GeForce RTX 3060 Laptop GPU,2.55%,+0.55%,Março,2025
+Video Card Description,NVIDIA GeForce RTX 4070,2.41%,-2.89%,Março,2025
+Video Card Description,NVIDIA GeForce GTX 1060,2.33%,+0.15%,Março,2025
+Video Card Description,AMD Radeon Graphics,2.11%,+0.70%,Março,2025
+Video Card Description,Intel Iris Xe Graphics,1.96%,+0.62%,Março,2025
+Video Card Description,NVIDIA GeForce RTX 4070 SUPER,1.85%,-1.67%,Março,2025
+Video Card Description,AMD Radeon(TM) Graphics,1.85%,+0.59%,Março,2025
+Video Card Description,NVIDIA GeForce RTX 3080,1.84%,-0.19%,Março,2025
+Video Card Description,NVIDIA GeForce GTX 1660 SUPER,1.81%,+0.29%,Março,2025
+Video Card Description,NVIDIA GeForce GTX 1050 Ti,1.73%,+0.43%,Março,2025
+Video Card Description,Intel(R) UHD Graphics,1.71%,+0.58%,Março,2025
+Video Card Description,,1.30%,+0.51%,Março,2025
+Video Card Description,NVIDIA GeForce GTX 1660 Ti,1.24%,+0.29%,Março,2025
+Video Card Description,NVIDIA GeForce RTX 3070 Ti,1.24%,-0.28%,Março,2025
+Video Card Description,NVIDIA GeForce RTX 4050 Laptop GPU,1.21%,+0.30%,Março,2025
+Video Card Description,NVIDIA GeForce RTX 4070 Ti,1.06%,-0.03%,Março,2025
+Video Card Description,NVIDIA GeForce RTX 4070 Laptop GPU,1.06%,+0.24%,Março,2025
+Video Card Description,NVIDIA GeForce RTX 2060 SUPER,1.01%,-0.30%,Março,2025
+Video Card Description,NVIDIA GeForce RTX 2070 SUPER,1.01%,+0.08%,Março,2025
+Video Card Description,NVIDIA GeForce GTX 1070,0.94%,+0.25%,Março,2025
+Video Card Description,NVIDIA GeForce RTX 4090,0.91%,+0.20%,Março,2025
+Video Card Description,AMD Radeon RX 6600,0.86%,+0.24%,Março,2025
+Video Card Description,NVIDIA GeForce GTX 1050,0.84%,+0.24%,Março,2025
+Video Card Description,NVIDIA GeForce RTX 3050 Ti Laptop GPU,0.82%,+0.22%,Março,2025
+Video Card Description,NVIDIA GeForce RTX 4070 Ti SUPER,0.82%,+0.14%,Março,2025
+Video Card Description,NVIDIA GeForce RTX 2070,0.80%,-0.10%,Março,2025
+Video Card Description,NVIDIA GeForce RTX 4080 SUPER,0.77%,-0.21%,Março,2025
+Video Card Description,NVIDIA GeForce GTX 1660,0.75%,+0.02%,Março,2025
+Video Card Description,AMD Radeon RX 580,0.73%,+0.22%,Março,2025
+Video Card Description,NVIDIA GeForce RTX 3080 Ti,0.69%,+0.14%,Março,2025
+Video Card Description,NVIDIA GeForce RTX 4080,0.69%,-0.02%,Março,2025
+Video Card Description,AMD Radeon RX 6700 XT,0.66%,+0.18%,Março,2025
+Video Card Description,NVIDIA GeForce GTX 1080,0.64%,+0.16%,Março,2025
+Video Card Description,AMD Radeon RX 5700 XT,0.63%,+0.18%,Março,2025
+Video Card Description,NVIDIA GeForce RTX 3070 Laptop GPU,0.58%,+0.14%,Março,2025
+Video Card Description,AMD Radeon RX 580 2048SP,0.57%,+0.14%,Março,2025
+Video Card Description,NVIDIA GeForce GTX 1650 Ti,0.53%,+0.14%,Março,2025
+Video Card Description,NVIDIA GeForce RTX 3050 Laptop GPU,0.52%,+0.12%,Março,2025
+Video Card Description,AMD Radeon RX 7900 XTX,0.51%,+0.16%,Março,2025
+Video Card Description,NVIDIA GeForce RTX 3090,0.50%,+0.13%,Março,2025
+Video Card Description,Intel UHD Graphics 620,0.48%,+0.17%,Março,2025
+Video Card Description,AMD AMD Custom GPU 0405,0.48%,+0.18%,Março,2025
+Video Card Description,AMD Radeon RX 570,0.47%,+0.13%,Março,2025
+Video Card Description,NVIDIA GeForce GTX 1080 Ti,0.46%,+0.13%,Março,2025
+Video Card Description,AMD Radeon Vega 8 Graphics,0.42%,+0.13%,Março,2025
+Video Card Description,NVIDIA GeForce RTX 2080 SUPER,0.41%,0.00%,Março,2025
+Video Card Description,NVIDIA GeForce RTX 2050,0.40%,+0.12%,Março,2025
+Video Card Description,NVIDIA GeForce GTX 1650 SUPER,0.38%,+0.11%,Março,2025
+Video Card Description,AMD Radeon RX 6600 XT,0.37%,+0.07%,Março,2025
+Video Card Description,AMD Radeon RX 6750 XT,0.36%,+0.10%,Março,2025
+Video Card Description,NVIDIA GeForce RTX 2080,0.36%,+0.06%,Março,2025
+Video Card Description,AMD Radeon RX 6650 XT,0.33%,+0.09%,Março,2025
+Video Card Description,AMD Radeon Graphics (RADV VANGOGH),0.33%,+0.13%,Março,2025
+Video Card Description,NVIDIA GeForce RTX 2080 Ti,0.33%,+0.09%,Março,2025
+Video Card Description,Intel UHD Graphics 630,0.33%,+0.11%,Março,2025
+Video Card Description,NVIDIA GeForce RTX 3050 6GB Laptop GPU,0.32%,+0.12%,Março,2025
+Video Card Description,NVIDIA GeForce GTX 970,0.31%,+0.09%,Março,2025
+Video Card Description,NVIDIA GeForce GT 1030,0.30%,+0.08%,Março,2025
+Video Card Description,NVIDIA GeForce RTX 3070 Ti Laptop GPU,0.30%,+0.07%,Março,2025
+Video Card Description,NVIDIA GeForce GTX 1070 Ti,0.30%,+0.04%,Março,2025
+Video Card Description,AMD Radeon RX 6800 XT,0.29%,+0.08%,Março,2025
+Video Card Description,AMD Radeon (TM) Graphics,0.27%,+0.09%,Março,2025
+Video Card Description,AMD Radeon RX 550,0.27%,+0.09%,Março,2025
+Video Card Description,NVIDIA GeForce GTX 960,0.26%,+0.04%,Março,2025
+Video Card Description,AMD Radeon Vega 3 Graphics,0.26%,+0.09%,Março,2025
+Video Card Description,AMD Radeon 780M Graphics,0.25%,+0.07%,Março,2025
+Video Card Description,NVIDIA GeForce GTX 750 Ti,0.25%,+0.06%,Março,2025
+Video Card Description,Intel HD Graphics 620,0.24%,+0.08%,Março,2025
+Video Card Description,Intel HD Graphics 520,0.24%,+0.08%,Março,2025
+Video Card Description,AMD Radeon RX 6800,0.23%,+0.07%,Março,2025
+Video Card Description,Intel(R) Arc(TM) Graphics,0.22%,+0.06%,Março,2025
+Video Card Description,NVIDIA GeForce RTX 4080 Laptop GPU,0.21%,+0.04%,Março,2025
+Video Card Description,AMD Radeon RX 7700 XT,0.21%,+0.05%,Março,2025
+Video Card Description,AMD Radeon RX 6900 XT,0.21%,+0.21%,Março,2025
+Video Card Description,Intel HD Graphics 4600,0.20%,+0.20%,Março,2025
+Video Card Description,NVIDIA GeForce GT 730,0.20%,+0.20%,Março,2025
+Video Card Description,NVIDIA GeForce RTX 5080,0.19%,+0.19%,Março,2025
+Video Card Description,Intel UHD Graphics 600,0.19%,+0.19%,Março,2025
+Video Card Description,AMD Radeon RX 6500 XT,0.19%,+0.19%,Março,2025
+Video Card Description,NVIDIA GeForce RTX 3050 Ti,0.18%,+0.18%,Março,2025
+Video Card Description,AMD Radeon RX 5600 XT,0.18%,+0.18%,Março,2025
+Video Card Description,AMD Radeon RX 5500 XT,0.16%,+0.16%,Março,2025
+Video Card Description,AMD Radeon RX 6750 GRE 10GB,0.16%,-0.01%,Março,2025
+Video Card Description,Intel HD Graphics 4000,0.16%,+0.16%,Março,2025
+Video Card Description,AMD Radeon RX 6750 GRE 12GB,0.15%,-0.02%,Março,2025
+Video Card Description,Other,9.62%,+1.84%,Março,2025
+VRAM,512 MB,5.10%,+2.04%,Março,2025
+VRAM,1 GB,3.95%,+1.55%,Março,2025
+VRAM,2 GB,4.84%,+1.95%,Março,2025
+VRAM,3 GB,1.18%,+0.33%,Março,2025
+VRAM,4 GB,7.12%,+2.77%,Março,2025
+VRAM,6 GB,11.93%,+2.29%,Março,2025
+VRAM,8 GB,35.52%,-7.65%,Março,2025
+VRAM,10 GB,2.71%,+0.11%,Março,2025
+VRAM,11 GB,1.32%,+0.53%,Março,2025
+VRAM,12 GB,18.42%,-5.79%,Março,2025
+VRAM,16 GB,4.75%,+0.95%,Março,2025
+VRAM,24 GB,2.43%,+0.91%,Março,2025
+VRAM,Other,0.73%,+0.01%,Março,2025
+Primary Display Resolution,800 x 1280,0.54%,+0.20%,Março,2025
+Primary Display Resolution,1280 x 1024,0.28%,+0.08%,Março,2025
+Primary Display Resolution,1280 x 720,0.23%,+0.23%,Março,2025
+Primary Display Resolution,1280 x 800,0.34%,+0.12%,Março,2025
+Primary Display Resolution,1360 x 768,0.56%,+0.19%,Março,2025
+Primary Display Resolution,1366 x 768,2.92%,+0.97%,Março,2025
+Primary Display Resolution,1440 x 900,0.86%,+0.28%,Março,2025
+Primary Display Resolution,1470 x 956,0.20%,+0.20%,Março,2025
+Primary Display Resolution,1512 x 982,0.21%,+0.21%,Março,2025
+Primary Display Resolution,1600 x 900,0.87%,+0.25%,Março,2025
+Primary Display Resolution,1680 x 1050,0.53%,+0.15%,Março,2025
+Primary Display Resolution,1920 x 1080,56.49%,+4.15%,Março,2025
+Primary Display Resolution,1920 x 1200,1.60%,+0.49%,Março,2025
+Primary Display Resolution,2560 x 1080,0.85%,+0.24%,Março,2025
+Primary Display Resolution,2560 x 1440,19.06%,-10.92%,Março,2025
+Primary Display Resolution,2560 x 1600,4.12%,+0.74%,Março,2025
+Primary Display Resolution,2880 x 1800,0.40%,+0.13%,Março,2025
+Primary Display Resolution,3440 x 1440,2.75%,+0.82%,Março,2025
+Primary Display Resolution,3840 x 2160,4.21%,+1.08%,Março,2025
+Primary Display Resolution,5120 x 1440,0.37%,+0.13%,Março,2025
+Primary Display Resolution,Other,2.60%,+0.26%,Março,2025
+OS Version,Windows,96.10%,0.00%,Abril,2025
+OS Version,Windows 11 64 bit,57.84%,+2.50%,Abril,2025
+OS Version,Windows 10 64 bit,38.09%,-2.49%,Abril,2025
+OS Version,Windows 7 64 bit,0.12%,+0.01%,Abril,2025
+OS Version,OSX,1.62%,+0.04%,Abril,2025
+OS Version,MacOS 15.3.2 64 bit,0.46%,+0.21%,Abril,2025
+OS Version,MacOS 15.4.0 64 bit,0.23%,+0.23%,Abril,2025
+OS Version,MacOS 15.4.1 64 bit,0.14%,+0.14%,Abril,2025
+OS Version,MacOS 15.3.1 64 bit,0.11%,-0.45%,Abril,2025
+OS Version,MacOS 14.6.1 64 bit,0.06%,-0.01%,Abril,2025
+OS Version,MacOS 14.5.0 64 bit,0.05%,0.00%,Abril,2025
+OS Version,MacOS 12.7.6 64 bit,0.05%,+0.05%,Abril,2025
+OS Version,Linux,2.27%,-0.06%,Abril,2025
+OS Version,"Arch Linux" 64 bit,0.21%,-0.02%,Abril,2025
+OS Version,Linux Mint 22.1 64 bit,0.14%,+0.02%,Abril,2025
+OS Version,Ubuntu Core 22 64 bit,0.10%,0.00%,Abril,2025
+OS Version,Ubuntu 24.04.2 LTS 64 bit,0.10%,0.00%,Abril,2025
+OS Version,"Manjaro Linux" 64 bit,0.06%,0.00%,Abril,2025
+OS Version,"EndeavourOS Linux" 64 bit,0.06%,0.00%,Abril,2025
+OS Version,Debian GNU/Linux 12 (bookworm) 64 bit,0.05%,0.00%,Abril,2025
+System RAM,Less than 4 GB,0.03%,0.00%,Abril,2025
+System RAM,4 GB,1.87%,-0.12%,Abril,2025
+System RAM,8 GB,9.23%,-0.34%,Abril,2025
+System RAM,12 GB,2.82%,-0.08%,Abril,2025
+System RAM,16 GB,43.86%,-0.55%,Abril,2025
+System RAM,24 GB,1.63%,-0.02%,Abril,2025
+System RAM,28 GB,0.50%,0.00%,Abril,2025
+System RAM,32 GB,33.59%,+0.75%,Abril,2025
+System RAM,48 GB,0.80%,+0.08%,Abril,2025
+System RAM,64 GB,4.08%,+0.14%,Abril,2025
+System RAM,More than 64 GB,0.50%,+0.03%,Abril,2025
+System RAM,Other,1.09%,+0.11%,Abril,2025
+Physical CPUs,1 cpu,0.03%,0.00%,Abril,2025
+Physical CPUs,2 cpus,3.85%,-0.18%,Abril,2025
+Physical CPUs,3 cpus,0.21%,-0.10%,Abril,2025
+Physical CPUs,4 cpus,16.02%,-0.61%,Abril,2025
+Physical CPUs,5 cpus,0.07%,+0.01%,Abril,2025
+Physical CPUs,6 cpus,30.26%,-0.68%,Abril,2025
+Physical CPUs,7 cpus,0.01%,+0.01%,Abril,2025
+Physical CPUs,8 cpus,23.84%,+0.66%,Abril,2025
+Physical CPUs,9 cpus,0.00%,0.00%,Abril,2025
+Physical CPUs,10 cpus,6.53%,-0.13%,Abril,2025
+Physical CPUs,11 cpus,0.04%,0.00%,Abril,2025
+Physical CPUs,12 cpus,5.55%,+0.02%,Abril,2025
+Physical CPUs,13 cpus,0.00%,0.00%,Abril,2025
+Physical CPUs,14 cpus,4.99%,+0.45%,Abril,2025
+Physical CPUs,15 cpus,0.00%,0.00%,Abril,2025
+Physical CPUs,16 cpus,4.63%,+0.20%,Abril,2025
+Physical CPUs,17 cpus,0.00%,0.00%,Abril,2025
+Physical CPUs,18 cpus,0.05%,0.00%,Abril,2025
+Physical CPUs,19 cpus,0.00%,0.00%,Abril,2025
+Physical CPUs,20 cpus,1.49%,+0.14%,Abril,2025
+Physical CPUs,21 cpus,0.00%,0.00%,Abril,2025
+Physical CPUs,22 cpus,0.00%,0.00%,Abril,2025
+Physical CPUs,23 cpus,0.00%,0.00%,Abril,2025
+Physical CPUs,24 cpus,2.37%,+0.21%,Abril,2025
+Physical CPUs,26 cpus,0.00%,0.00%,Abril,2025
+Physical CPUs,28 cpus,0.01%,0.00%,Abril,2025
+Physical CPUs,30 cpus,0.00%,0.00%,Abril,2025
+Physical CPUs,32 cpus,0.01%,0.00%,Abril,2025
+Physical CPUs,36 cpus,0.00%,0.00%,Abril,2025
+Physical CPUs,40 cpus,0.00%,0.00%,Abril,2025
+Physical CPUs,44 cpus,0.00%,0.00%,Abril,2025
+Physical CPUs,48 cpus,0.00%,0.00%,Abril,2025
+Physical CPUs,52 cpus,0.00%,0.00%,Abril,2025
+Physical CPUs,56 cpus,0.00%,0.00%,Abril,2025
+Physical CPUs,64 cpus,0.00%,0.00%,Abril,2025
+Physical CPUs,76 cpus,0.00%,0.00%,Abril,2025
+Physical CPUs,80 cpus,0.00%,0.00%,Abril,2025
+Physical CPUs,96 cpus,0.00%,0.00%,Abril,2025
+Physical CPUs,128 cpus,0.00%,0.00%,Abril,2025
+Video Card Description,NVIDIA GeForce RTX 4060 Laptop GPU,4.80%,+0.48%,Abril,2025
+Video Card Description,NVIDIA GeForce RTX 3060,4.57%,-0.37%,Abril,2025
+Video Card Description,NVIDIA GeForce RTX 4060,4.35%,-0.25%,Abril,2025
+Video Card Description,NVIDIA GeForce GTX 1650,3.39%,-0.03%,Abril,2025
+Video Card Description,NVIDIA GeForce RTX 4060 Ti,3.13%,+0.09%,Abril,2025
+Video Card Description,NVIDIA GeForce RTX 3050,3.00%,+0.15%,Abril,2025
+Video Card Description,NVIDIA GeForce RTX 3060 Ti,2.83%,-0.12%,Abril,2025
+Video Card Description,NVIDIA GeForce RTX 3060 Laptop GPU,2.63%,+0.08%,Abril,2025
+Video Card Description,NVIDIA GeForce RTX 3070,2.59%,-0.18%,Abril,2025
+Video Card Description,NVIDIA GeForce RTX 2060,2.36%,-0.24%,Abril,2025
+Video Card Description,NVIDIA GeForce RTX 4070,2.35%,-0.06%,Abril,2025
+Video Card Description,NVIDIA GeForce GTX 1060,2.27%,-0.06%,Abril,2025
+Video Card Description,AMD Radeon Graphics,2.05%,-0.06%,Abril,2025
+Video Card Description,AMD Radeon(TM) Graphics,1.93%,+0.08%,Abril,2025
+Video Card Description,NVIDIA GeForce RTX 4070 SUPER,1.90%,+0.05%,Abril,2025
+Video Card Description,Intel Iris Xe Graphics,1.88%,-0.08%,Abril,2025
+Video Card Description,NVIDIA GeForce GTX 1660 SUPER,1.82%,+0.01%,Abril,2025
+Video Card Description,NVIDIA GeForce RTX 3080,1.78%,-0.06%,Abril,2025
+Video Card Description,NVIDIA GeForce GTX 1050 Ti,1.72%,-0.01%,Abril,2025
+Video Card Description,Intel(R) UHD Graphics,1.65%,-0.06%,Abril,2025
+Video Card Description,,1.34%,+0.04%,Abril,2025
+Video Card Description,NVIDIA GeForce RTX 4050 Laptop GPU,1.27%,+0.06%,Abril,2025
+Video Card Description,NVIDIA GeForce GTX 1660 Ti,1.21%,-0.03%,Abril,2025
+Video Card Description,NVIDIA GeForce RTX 3070 Ti,1.19%,-0.05%,Abril,2025
+Video Card Description,NVIDIA GeForce RTX 4070 Ti,1.17%,+0.11%,Abril,2025
+Video Card Description,NVIDIA GeForce RTX 4070 Laptop GPU,1.15%,+0.09%,Abril,2025
+Video Card Description,NVIDIA GeForce RTX 2060 SUPER,0.98%,-0.03%,Abril,2025
+Video Card Description,NVIDIA GeForce RTX 4090,0.94%,+0.03%,Abril,2025
+Video Card Description,NVIDIA GeForce RTX 2070 SUPER,0.94%,-0.07%,Abril,2025
+Video Card Description,NVIDIA GeForce RTX 4070 Ti SUPER,0.90%,+0.08%,Abril,2025
+Video Card Description,NVIDIA GeForce GTX 1070,0.89%,-0.05%,Abril,2025
+Video Card Description,AMD Radeon RX 6600,0.89%,+0.03%,Abril,2025
+Video Card Description,NVIDIA GeForce RTX 3050 Ti Laptop GPU,0.82%,0.00%,Abril,2025
+Video Card Description,NVIDIA GeForce RTX 4080 SUPER,0.81%,+0.04%,Abril,2025
+Video Card Description,NVIDIA GeForce GTX 1050,0.80%,-0.04%,Abril,2025
+Video Card Description,NVIDIA GeForce RTX 4080,0.72%,+0.03%,Abril,2025
+Video Card Description,AMD Radeon RX 580,0.70%,-0.03%,Abril,2025
+Video Card Description,NVIDIA GeForce RTX 3080 Ti,0.68%,-0.01%,Abril,2025
+Video Card Description,NVIDIA GeForce GTX 1660,0.67%,-0.08%,Abril,2025
+Video Card Description,AMD Radeon RX 6700 XT,0.67%,+0.01%,Abril,2025
+Video Card Description,NVIDIA GeForce RTX 2070,0.64%,-0.16%,Abril,2025
+Video Card Description,AMD Radeon RX 5700 XT,0.64%,+0.01%,Abril,2025
+Video Card Description,AMD Radeon RX 580 2048SP,0.62%,+0.05%,Abril,2025
+Video Card Description,NVIDIA GeForce RTX 3070 Laptop GPU,0.60%,+0.02%,Abril,2025
+Video Card Description,NVIDIA GeForce GTX 1080,0.58%,-0.06%,Abril,2025
+Video Card Description,AMD Radeon RX 7900 XTX,0.53%,+0.02%,Abril,2025
+Video Card Description,NVIDIA GeForce GTX 1650 Ti,0.52%,-0.01%,Abril,2025
+Video Card Description,NVIDIA GeForce RTX 3050 Laptop GPU,0.52%,0.00%,Abril,2025
+Video Card Description,NVIDIA GeForce RTX 3090,0.48%,-0.02%,Abril,2025
+Video Card Description,AMD Radeon RX 570,0.47%,0.00%,Abril,2025
+Video Card Description,Intel UHD Graphics 620,0.46%,-0.02%,Abril,2025
+Video Card Description,AMD AMD Custom GPU 0405,0.44%,-0.04%,Abril,2025
+Video Card Description,NVIDIA GeForce GTX 1080 Ti,0.43%,-0.03%,Abril,2025
+Video Card Description,NVIDIA GeForce RTX 2050,0.42%,+0.02%,Abril,2025
+Video Card Description,AMD Radeon Vega 8 Graphics,0.40%,-0.02%,Abril,2025
+Video Card Description,NVIDIA GeForce GTX 1650 SUPER,0.38%,0.00%,Abril,2025
+Video Card Description,AMD Radeon RX 6600 XT,0.38%,+0.01%,Abril,2025
+Video Card Description,NVIDIA GeForce RTX 5080,0.37%,+0.18%,Abril,2025
+Video Card Description,AMD Radeon RX 6750 XT,0.37%,+0.01%,Abril,2025
+Video Card Description,NVIDIA GeForce RTX 2080 SUPER,0.36%,-0.05%,Abril,2025
+Video Card Description,NVIDIA GeForce RTX 5070,0.36%,+0.36%,Abril,2025
+Video Card Description,AMD Radeon RX 6650 XT,0.34%,+0.01%,Abril,2025
+Video Card Description,AMD Radeon Graphics (RADV VANGOGH),0.33%,0.00%,Abril,2025
+Video Card Description,Intel UHD Graphics 630,0.32%,-0.01%,Abril,2025
+Video Card Description,NVIDIA GeForce RTX 3050 6GB Laptop GPU,0.32%,0.00%,Abril,2025
+Video Card Description,NVIDIA GeForce RTX 2080 Ti,0.32%,-0.01%,Abril,2025
+Video Card Description,NVIDIA GeForce RTX 2080,0.31%,-0.05%,Abril,2025
+Video Card Description,NVIDIA GeForce RTX 3070 Ti Laptop GPU,0.31%,+0.01%,Abril,2025
+Video Card Description,NVIDIA GeForce GT 1030,0.30%,0.00%,Abril,2025
+Video Card Description,NVIDIA GeForce GTX 970,0.30%,-0.01%,Abril,2025
+Video Card Description,NVIDIA GeForce GTX 1070 Ti,0.29%,-0.01%,Abril,2025
+Video Card Description,AMD Radeon RX 6800 XT,0.29%,0.00%,Abril,2025
+Video Card Description,AMD Radeon (TM) Graphics,0.27%,0.00%,Abril,2025
+Video Card Description,NVIDIA GeForce RTX 5070 Ti,0.27%,+0.27%,Abril,2025
+Video Card Description,AMD Radeon RX 7800 XT,0.27%,+0.27%,Abril,2025
+Video Card Description,NVIDIA GeForce GTX 960,0.27%,+0.01%,Abril,2025
+Video Card Description,AMD Radeon RX 550,0.27%,0.00%,Abril,2025
+Video Card Description,NVIDIA GeForce GTX 750 Ti,0.25%,0.00%,Abril,2025
+Video Card Description,AMD Radeon RX 7700 XT,0.25%,+0.04%,Abril,2025
+Video Card Description,AMD Radeon 780M Graphics,0.24%,-0.01%,Abril,2025
+Video Card Description,AMD Radeon Vega 3 Graphics,0.24%,-0.02%,Abril,2025
+Video Card Description,Intel HD Graphics 520,0.23%,-0.01%,Abril,2025
+Video Card Description,Intel HD Graphics 620,0.23%,-0.01%,Abril,2025
+Video Card Description,NVIDIA GeForce RTX 4080 Laptop GPU,0.23%,+0.02%,Abril,2025
+Video Card Description,AMD Radeon RX 6800,0.22%,-0.01%,Abril,2025
+Video Card Description,Intel(R) Arc(TM) Graphics,0.22%,0.00%,Abril,2025
+Video Card Description,AMD Radeon RX 6500 XT,0.20%,+0.01%,Abril,2025
+Video Card Description,Intel HD Graphics 4600,0.20%,0.00%,Abril,2025
+Video Card Description,NVIDIA GeForce GT 730,0.20%,0.00%,Abril,2025
+Video Card Description,AMD Radeon RX 6900 XT,0.20%,-0.01%,Abril,2025
+Video Card Description,AMD Radeon RX 6750 GRE 10GB,0.19%,+0.03%,Abril,2025
+Video Card Description,AMD Radeon RX 6750 GRE 12GB,0.19%,+0.04%,Abril,2025
+Video Card Description,AMD Radeon RX 5600 XT,0.19%,+0.01%,Abril,2025
+Video Card Description,NVIDIA GeForce RTX 3050 Ti,0.18%,0.00%,Abril,2025
+Video Card Description,Intel UHD Graphics 600,0.17%,-0.02%,Abril,2025
+Video Card Description,AMD Radeon RX 5500 XT,0.16%,0.00%,Abril,2025
+Video Card Description,Other,9.49%,-0.13%,Abril,2025
+VRAM,512 MB,5.49%,+0.39%,Abril,2025
+VRAM,1 GB,3.96%,+0.01%,Abril,2025
+VRAM,2 GB,5.03%,+0.19%,Abril,2025
+VRAM,3 GB,1.13%,-0.05%,Abril,2025
+VRAM,4 GB,7.27%,+0.15%,Abril,2025
+VRAM,6 GB,11.52%,-0.41%,Abril,2025
+VRAM,8 GB,34.25%,-1.27%,Abril,2025
+VRAM,10 GB,2.66%,-0.05%,Abril,2025
+VRAM,11 GB,1.26%,-0.06%,Abril,2025
+VRAM,12 GB,18.58%,+0.16%,Abril,2025
+VRAM,16 GB,5.56%,+0.81%,Abril,2025
+VRAM,24 GB,2.46%,+0.03%,Abril,2025
+VRAM,Other,0.82%,+0.09%,Abril,2025
+Primary Display Resolution,800 x 1280,0.53%,-0.01%,Abril,2025
+Primary Display Resolution,1280 x 800,0.32%,-0.02%,Abril,2025
+Primary Display Resolution,1280 x 720,0.22%,-0.01%,Abril,2025
+Primary Display Resolution,1280 x 1024,0.27%,-0.01%,Abril,2025
+Primary Display Resolution,1360 x 768,0.52%,-0.04%,Abril,2025
+Primary Display Resolution,1366 x 768,2.75%,-0.17%,Abril,2025
+Primary Display Resolution,1440 x 900,0.88%,+0.02%,Abril,2025
+Primary Display Resolution,1470 x 956,0.23%,+0.03%,Abril,2025
+Primary Display Resolution,1512 x 982,0.21%,0.00%,Abril,2025
+Primary Display Resolution,1600 x 900,0.84%,-0.03%,Abril,2025
+Primary Display Resolution,1680 x 1050,0.53%,0.00%,Abril,2025
+Primary Display Resolution,1920 x 1200,1.62%,+0.02%,Abril,2025
+Primary Display Resolution,1920 x 1080,55.27%,-1.22%,Abril,2025
+Primary Display Resolution,2560 x 1600,4.39%,+0.27%,Abril,2025
+Primary Display Resolution,2560 x 1080,0.84%,-0.01%,Abril,2025
+Primary Display Resolution,2560 x 1440,19.90%,+0.84%,Abril,2025
+Primary Display Resolution,2880 x 1800,0.39%,-0.01%,Abril,2025
+Primary Display Resolution,3440 x 1440,2.80%,+0.05%,Abril,2025
+Primary Display Resolution,3840 x 2160,4.57%,+0.36%,Abril,2025
+Primary Display Resolution,5120 x 1440,0.37%,0.00%,Abril,2025
+Primary Display Resolution,Other,2.56%,-0.04%,Abril,2025
+OS Version,Windows,95.45%,-0.65%,Maio,2025
+OS Version,Windows 11 64 bit,58.30%,+0.46%,Maio,2025
+OS Version,Windows 10 64 bit,37.00%,-1.09%,Maio,2025
+OS Version,Windows 7 64 bit,0.10%,-0.02%,Maio,2025
+OS Version,OSX,1.85%,+0.23%,Maio,2025
+OS Version,MacOS 15.4.1 64 bit,0.69%,+0.55%,Maio,2025
+OS Version,MacOS 15.5.0 64 bit,0.24%,+0.24%,Maio,2025
+OS Version,MacOS 15.3.2 64 bit,0.14%,-0.32%,Maio,2025
+OS Version,MacOS 15.3.1 64 bit,0.08%,-0.03%,Maio,2025
+OS Version,MacOS 14.6.1 64 bit,0.06%,0.00%,Maio,2025
+OS Version,MacOS 14.5.0 64 bit,0.06%,+0.01%,Maio,2025
+OS Version,MacOS 12.7.6 64 bit,0.05%,0.00%,Maio,2025
+OS Version,Linux,2.69%,+0.42%,Maio,2025
+OS Version,"Arch Linux" 64 bit,0.27%,+0.06%,Maio,2025
+OS Version,Linux Mint 22.1 64 bit,0.21%,+0.07%,Maio,2025
+OS Version,Ubuntu Core 22 64 bit,0.12%,+0.02%,Maio,2025
+OS Version,Ubuntu 24.04.2 LTS 64 bit,0.12%,+0.02%,Maio,2025
+OS Version,"EndeavourOS Linux" 64 bit,0.07%,+0.01%,Maio,2025
+OS Version,"Manjaro Linux" 64 bit,0.07%,+0.01%,Maio,2025
+OS Version,Debian GNU/Linux 12 (bookworm) 64 bit,0.05%,0.00%,Maio,2025
+System RAM,Less than 4 GB,0.03%,0.00%,Maio,2025
+System RAM,4 GB,1.93%,+0.06%,Maio,2025
+System RAM,8 GB,9.45%,+0.22%,Maio,2025
+System RAM,12 GB,2.90%,+0.08%,Maio,2025
+System RAM,16 GB,43.00%,-0.86%,Maio,2025
+System RAM,24 GB,1.67%,+0.04%,Maio,2025
+System RAM,28 GB,0.53%,+0.03%,Maio,2025
+System RAM,32 GB,33.75%,+0.16%,Maio,2025
+System RAM,48 GB,0.83%,+0.03%,Maio,2025
+System RAM,60 GB,0.53%,+0.53%,Maio,2025
+System RAM,64 GB,4.19%,+0.11%,Maio,2025
+System RAM,More than 64 GB,0.54%,+0.04%,Maio,2025
+System RAM,Other,0.66%,-0.43%,Maio,2025
+Physical CPUs,1 cpu,0.03%,0.00%,Maio,2025
+Physical CPUs,2 cpus,3.97%,+0.12%,Maio,2025
+Physical CPUs,3 cpus,0.23%,+0.02%,Maio,2025
+Physical CPUs,4 cpus,16.12%,+0.10%,Maio,2025
+Physical CPUs,5 cpus,0.08%,+0.01%,Maio,2025
+Physical CPUs,6 cpus,29.79%,-0.47%,Maio,2025
+Physical CPUs,7 cpus,0.00%,-0.01%,Maio,2025
+Physical CPUs,8 cpus,24.37%,+0.53%,Maio,2025
+Physical CPUs,9 cpus,0.00%,0.00%,Maio,2025
+Physical CPUs,10 cpus,6.49%,-0.04%,Maio,2025
+Physical CPUs,11 cpus,0.04%,0.00%,Maio,2025
+Physical CPUs,12 cpus,5.57%,+0.02%,Maio,2025
+Physical CPUs,13 cpus,0.00%,0.00%,Maio,2025
+Physical CPUs,14 cpus,4.76%,-0.23%,Maio,2025
+Physical CPUs,15 cpus,0.00%,0.00%,Maio,2025
+Physical CPUs,16 cpus,4.67%,+0.04%,Maio,2025
+Physical CPUs,17 cpus,0.00%,0.00%,Maio,2025
+Physical CPUs,18 cpus,0.05%,0.00%,Maio,2025
+Physical CPUs,19 cpus,0.00%,0.00%,Maio,2025
+Physical CPUs,20 cpus,1.49%,0.00%,Maio,2025
+Physical CPUs,21 cpus,0.00%,0.00%,Maio,2025
+Physical CPUs,22 cpus,0.00%,0.00%,Maio,2025
+Physical CPUs,23 cpus,0.00%,0.00%,Maio,2025
+Physical CPUs,24 cpus,2.28%,-0.09%,Maio,2025
+Physical CPUs,26 cpus,0.00%,0.00%,Maio,2025
+Physical CPUs,28 cpus,0.01%,0.00%,Maio,2025
+Physical CPUs,32 cpus,0.01%,0.00%,Maio,2025
+Physical CPUs,36 cpus,0.00%,0.00%,Maio,2025
+Physical CPUs,40 cpus,0.00%,0.00%,Maio,2025
+Physical CPUs,44 cpus,0.00%,0.00%,Maio,2025
+Physical CPUs,48 cpus,0.00%,0.00%,Maio,2025
+Physical CPUs,52 cpus,0.00%,0.00%,Maio,2025
+Physical CPUs,56 cpus,0.00%,0.00%,Maio,2025
+Physical CPUs,60 cpus,0.00%,0.00%,Maio,2025
+Physical CPUs,64 cpus,0.00%,0.00%,Maio,2025
+Physical CPUs,88 cpus,0.00%,0.00%,Maio,2025
+Physical CPUs,96 cpus,0.00%,0.00%,Maio,2025
+Physical CPUs,128 cpus,0.00%,0.00%,Maio,2025
+Physical CPUs,192 cpus,0.00%,0.00%,Maio,2025
+Video Card Description,NVIDIA GeForce RTX 3060,4.56%,-0.01%,Maio,2025
+Video Card Description,NVIDIA GeForce RTX 4060 Laptop GPU,4.46%,-0.34%,Maio,2025
+Video Card Description,NVIDIA GeForce RTX 4060,4.26%,-0.09%,Maio,2025
+Video Card Description,NVIDIA GeForce GTX 1650,3.33%,-0.06%,Maio,2025
+Video Card Description,NVIDIA GeForce RTX 4060 Ti,2.97%,-0.16%,Maio,2025
+Video Card Description,NVIDIA GeForce RTX 3050,2.96%,-0.04%,Maio,2025
+Video Card Description,NVIDIA GeForce RTX 3060 Ti,2.68%,-0.15%,Maio,2025
+Video Card Description,NVIDIA GeForce RTX 3070,2.54%,-0.05%,Maio,2025
+Video Card Description,NVIDIA GeForce RTX 3060 Laptop GPU,2.42%,-0.21%,Maio,2025
+Video Card Description,NVIDIA GeForce RTX 2060,2.36%,0.00%,Maio,2025
+Video Card Description,NVIDIA GeForce RTX 4070,2.34%,-0.01%,Maio,2025
+Video Card Description,NVIDIA GeForce GTX 1060,2.17%,-0.10%,Maio,2025
+Video Card Description,AMD Radeon Graphics,2.17%,+0.12%,Maio,2025
+Video Card Description,AMD Radeon(TM) Graphics,2.00%,+0.07%,Maio,2025
+Video Card Description,Intel Iris Xe Graphics,1.94%,+0.06%,Maio,2025
+Video Card Description,NVIDIA GeForce RTX 4070 SUPER,1.82%,-0.08%,Maio,2025
+Video Card Description,NVIDIA GeForce GTX 1660 SUPER,1.82%,0.00%,Maio,2025
+Video Card Description,NVIDIA GeForce RTX 3080,1.78%,0.00%,Maio,2025
+Video Card Description,Intel(R) UHD Graphics,1.76%,+0.11%,Maio,2025
+Video Card Description,NVIDIA GeForce GTX 1050 Ti,1.67%,-0.05%,Maio,2025
+Video Card Description,,1.54%,+0.20%,Maio,2025
+Video Card Description,NVIDIA GeForce RTX 4050 Laptop GPU,1.28%,+0.01%,Maio,2025
+Video Card Description,NVIDIA GeForce GTX 1660 Ti,1.20%,-0.01%,Maio,2025
+Video Card Description,NVIDIA GeForce RTX 3070 Ti,1.16%,-0.03%,Maio,2025
+Video Card Description,NVIDIA GeForce RTX 4070 Laptop GPU,1.10%,-0.05%,Maio,2025
+Video Card Description,NVIDIA GeForce RTX 4070 Ti,1.07%,-0.10%,Maio,2025
+Video Card Description,NVIDIA GeForce RTX 2060 SUPER,0.98%,0.00%,Maio,2025
+Video Card Description,NVIDIA GeForce RTX 2070 SUPER,0.94%,0.00%,Maio,2025
+Video Card Description,NVIDIA GeForce RTX 4090,0.90%,-0.04%,Maio,2025
+Video Card Description,AMD Radeon RX 6600,0.89%,0.00%,Maio,2025
+Video Card Description,NVIDIA GeForce GTX 1070,0.88%,-0.01%,Maio,2025
+Video Card Description,NVIDIA GeForce RTX 4070 Ti SUPER,0.83%,-0.07%,Maio,2025
+Video Card Description,NVIDIA GeForce GTX 1050,0.80%,0.00%,Maio,2025
+Video Card Description,NVIDIA GeForce RTX 3050 Ti Laptop GPU,0.80%,-0.02%,Maio,2025
+Video Card Description,NVIDIA GeForce RTX 4080 SUPER,0.78%,-0.03%,Maio,2025
+Video Card Description,NVIDIA GeForce RTX 4080,0.73%,+0.01%,Maio,2025
+Video Card Description,AMD Radeon RX 580,0.71%,+0.01%,Maio,2025
+Video Card Description,NVIDIA GeForce RTX 5070,0.68%,+0.32%,Maio,2025
+Video Card Description,NVIDIA GeForce RTX 3080 Ti,0.68%,0.00%,Maio,2025
+Video Card Description,AMD Radeon RX 6700 XT,0.66%,-0.01%,Maio,2025
+Video Card Description,NVIDIA GeForce GTX 1660,0.65%,-0.02%,Maio,2025
+Video Card Description,AMD Radeon RX 5700 XT,0.64%,0.00%,Maio,2025
+Video Card Description,NVIDIA GeForce RTX 2070,0.63%,-0.01%,Maio,2025
+Video Card Description,AMD Radeon RX 580 2048SP,0.59%,-0.03%,Maio,2025
+Video Card Description,NVIDIA GeForce GTX 1080,0.58%,0.00%,Maio,2025
+Video Card Description,NVIDIA GeForce RTX 3070 Laptop GPU,0.58%,-0.02%,Maio,2025
+Video Card Description,AMD Radeon RX 7900 XTX,0.52%,-0.01%,Maio,2025
+Video Card Description,NVIDIA GeForce GTX 1650 Ti,0.51%,-0.01%,Maio,2025
+Video Card Description,NVIDIA GeForce RTX 3050 Laptop GPU,0.49%,-0.03%,Maio,2025
+Video Card Description,Intel UHD Graphics 620,0.49%,+0.03%,Maio,2025
+Video Card Description,NVIDIA GeForce RTX 3090,0.48%,0.00%,Maio,2025
+Video Card Description,AMD AMD Custom GPU 0405,0.47%,+0.03%,Maio,2025
+Video Card Description,AMD Radeon RX 570,0.47%,0.00%,Maio,2025
+Video Card Description,NVIDIA GeForce RTX 5080,0.45%,+0.08%,Maio,2025
+Video Card Description,NVIDIA GeForce RTX 2050,0.43%,+0.01%,Maio,2025
+Video Card Description,NVIDIA GeForce GTX 1080 Ti,0.42%,-0.01%,Maio,2025
+Video Card Description,AMD Radeon Vega 8 Graphics,0.41%,+0.01%,Maio,2025
+Video Card Description,NVIDIA GeForce GTX 1650 SUPER,0.38%,0.00%,Maio,2025
+Video Card Description,AMD Radeon RX 6600 XT,0.38%,0.00%,Maio,2025
+Video Card Description,NVIDIA GeForce RTX 5070 Ti,0.37%,+0.10%,Maio,2025
+Video Card Description,NVIDIA GeForce RTX 2080 SUPER,0.37%,+0.01%,Maio,2025
+Video Card Description,AMD Radeon Graphics (RADV VANGOGH),0.36%,+0.03%,Maio,2025
+Video Card Description,AMD Radeon RX 6750 XT,0.36%,-0.01%,Maio,2025
+Video Card Description,AMD Radeon RX 7800 XT,0.35%,+0.08%,Maio,2025
+Video Card Description,NVIDIA GeForce RTX 3050 6GB Laptop GPU,0.35%,+0.03%,Maio,2025
+Video Card Description,Intel UHD Graphics 630,0.33%,+0.01%,Maio,2025
+Video Card Description,AMD Radeon RX 6650 XT,0.32%,-0.02%,Maio,2025
+Video Card Description,NVIDIA GeForce RTX 2080,0.31%,0.00%,Maio,2025
+Video Card Description,NVIDIA GeForce RTX 2080 Ti,0.30%,-0.02%,Maio,2025
+Video Card Description,AMD Radeon (TM) Graphics,0.30%,+0.03%,Maio,2025
+Video Card Description,NVIDIA GeForce GT 1030,0.30%,0.00%,Maio,2025
+Video Card Description,NVIDIA GeForce GTX 970,0.29%,-0.01%,Maio,2025
+Video Card Description,NVIDIA GeForce RTX 3070 Ti Laptop GPU,0.29%,-0.02%,Maio,2025
+Video Card Description,AMD Radeon RX 6800 XT,0.28%,-0.01%,Maio,2025
+Video Card Description,NVIDIA GeForce GTX 1070 Ti,0.28%,-0.01%,Maio,2025
+Video Card Description,AMD Radeon 780M Graphics,0.26%,+0.02%,Maio,2025
+Video Card Description,Intel HD Graphics 520,0.26%,+0.03%,Maio,2025
+Video Card Description,AMD Radeon RX 550,0.26%,-0.01%,Maio,2025
+Video Card Description,NVIDIA GeForce GTX 960,0.25%,-0.02%,Maio,2025
+Video Card Description,Intel HD Graphics 620,0.25%,+0.02%,Maio,2025
+Video Card Description,AMD Radeon RX 7700 XT,0.24%,-0.01%,Maio,2025
+Video Card Description,AMD Radeon Vega 3 Graphics,0.24%,0.00%,Maio,2025
+Video Card Description,NVIDIA GeForce GTX 750 Ti,0.24%,-0.01%,Maio,2025
+Video Card Description,AMD Radeon RX 6800,0.23%,+0.01%,Maio,2025
+Video Card Description,Intel(R) Arc(TM) Graphics,0.23%,+0.01%,Maio,2025
+Video Card Description,NVIDIA GeForce RTX 4080 Laptop GPU,0.22%,-0.01%,Maio,2025
+Video Card Description,Intel HD Graphics 4600,0.21%,+0.01%,Maio,2025
+Video Card Description,NVIDIA GeForce GT 730,0.20%,0.00%,Maio,2025
+Video Card Description,NVIDIA GeForce RTX 5060 Ti,0.20%,+0.20%,Maio,2025
+Video Card Description,AMD Radeon RX 6900 XT,0.20%,0.00%,Maio,2025
+Video Card Description,AMD Radeon RX 6500 XT,0.19%,-0.01%,Maio,2025
+Video Card Description,Intel UHD Graphics 600,0.19%,+0.02%,Maio,2025
+Video Card Description,AMD Radeon RX 5600 XT,0.18%,-0.01%,Maio,2025
+Video Card Description,NVIDIA GeForce RTX 3050 Ti,0.17%,-0.01%,Maio,2025
+Video Card Description,Intel HD Graphics 4000,0.16%,+0.16%,Maio,2025
+Video Card Description,AMD Radeon RX 5500 XT,0.16%,0.00%,Maio,2025
+Video Card Description,AMD Radeon RX 6750 GRE 10GB,0.16%,-0.03%,Maio,2025
+Video Card Description,Other,9.93%,+0.44%,Maio,2025
+VRAM,512 MB,5.86%,+0.37%,Maio,2025
+VRAM,1 GB,3.94%,-0.02%,Maio,2025
+VRAM,2 GB,4.99%,-0.04%,Maio,2025
+VRAM,3 GB,1.08%,-0.05%,Maio,2025
+VRAM,4 GB,7.11%,-0.16%,Maio,2025
+VRAM,6 GB,11.48%,-0.04%,Maio,2025
+VRAM,8 GB,33.67%,-0.58%,Maio,2025
+VRAM,10 GB,2.67%,+0.01%,Maio,2025
+VRAM,11 GB,1.23%,-0.03%,Maio,2025
+VRAM,12 GB,18.83%,+0.25%,Maio,2025
+VRAM,16 GB,5.90%,+0.34%,Maio,2025
+VRAM,24 GB,2.40%,-0.06%,Maio,2025
+VRAM,Other,0.86%,+0.04%,Maio,2025
+Primary Display Resolution,800 x 1280,0.56%,+0.03%,Maio,2025
+Primary Display Resolution,1280 x 720,0.23%,+0.01%,Maio,2025
+Primary Display Resolution,1280 x 1024,0.26%,-0.01%,Maio,2025
+Primary Display Resolution,1280 x 800,0.35%,+0.03%,Maio,2025
+Primary Display Resolution,1360 x 768,0.56%,+0.04%,Maio,2025
+Primary Display Resolution,1366 x 768,2.91%,+0.16%,Maio,2025
+Primary Display Resolution,1440 x 900,0.91%,+0.03%,Maio,2025
+Primary Display Resolution,1470 x 956,0.27%,+0.04%,Maio,2025
+Primary Display Resolution,1512 x 982,0.25%,+0.04%,Maio,2025
+Primary Display Resolution,1600 x 900,0.86%,+0.02%,Maio,2025
+Primary Display Resolution,1680 x 1050,0.52%,-0.01%,Maio,2025
+Primary Display Resolution,1920 x 1080,55.35%,+0.08%,Maio,2025
+Primary Display Resolution,1920 x 1200,1.66%,+0.04%,Maio,2025
+Primary Display Resolution,2560 x 1440,19.49%,-0.41%,Maio,2025
+Primary Display Resolution,2560 x 1600,4.20%,-0.19%,Maio,2025
+Primary Display Resolution,2560 x 1080,0.84%,0.00%,Maio,2025
+Primary Display Resolution,2880 x 1800,0.39%,0.00%,Maio,2025
+Primary Display Resolution,3440 x 1440,2.86%,+0.06%,Maio,2025
+Primary Display Resolution,3840 x 2160,4.48%,-0.09%,Maio,2025
+Primary Display Resolution,5120 x 1440,0.39%,+0.02%,Maio,2025
+Primary Display Resolution,Other,2.67%,+0.11%,Maio,2025
+OS Version,Windows,95.67%,+0.22%,Junho,2025
+OS Version,Windows 11 64 bit,59.84%,+1.54%,Junho,2025
+OS Version,Windows 10 64 bit,35.69%,-1.31%,Junho,2025
+OS Version,Windows 7 64 bit,0.09%,-0.01%,Junho,2025
+OS Version,OSX,1.76%,-0.09%,Junho,2025
+OS Version,MacOS 15.5.0 64 bit,0.92%,+0.68%,Junho,2025
+OS Version,MacOS 15.4.1 64 bit,0.12%,-0.57%,Junho,2025
+OS Version,MacOS 14.6.1 64 bit,0.05%,-0.01%,Junho,2025
+OS Version,Linux,2.57%,-0.12%,Junho,2025
+OS Version,"Arch Linux" 64 bit,0.27%,0.00%,Junho,2025
+OS Version,Linux Mint 22.1 64 bit,0.20%,-0.01%,Junho,2025
+OS Version,Ubuntu Core 22 64 bit,0.11%,-0.01%,Junho,2025
+OS Version,Ubuntu 24.04.2 LTS 64 bit,0.11%,-0.01%,Junho,2025
+OS Version,"Manjaro Linux" 64 bit,0.06%,-0.01%,Junho,2025
+OS Version,"EndeavourOS Linux" 64 bit,0.06%,-0.01%,Junho,2025
+OS Version,Debian GNU/Linux 12 (bookworm) 64 bit,0.05%,0.00%,Junho,2025
+System RAM,Less than 4 GB,0.03%,0.00%,Junho,2025
+System RAM,4 GB,1.79%,-0.14%,Junho,2025
+System RAM,8 GB,8.95%,-0.50%,Junho,2025
+System RAM,12 GB,2.76%,-0.14%,Junho,2025
+System RAM,16 GB,43.05%,+0.05%,Junho,2025
+System RAM,24 GB,1.68%,+0.01%,Junho,2025
+System RAM,28 GB,0.52%,-0.01%,Junho,2025
+System RAM,32 GB,34.37%,+0.62%,Junho,2025
+System RAM,48 GB,0.92%,+0.09%,Junho,2025
+System RAM,60 GB,0.58%,+0.05%,Junho,2025
+System RAM,64 GB,4.17%,-0.02%,Junho,2025
+System RAM,More than 64 GB,0.54%,0.00%,Junho,2025
+System RAM,Other,0.64%,-0.02%,Junho,2025
+Physical CPUs,1 cpu,0.03%,0.00%,Junho,2025
+Physical CPUs,2 cpus,3.73%,-0.24%,Junho,2025
+Physical CPUs,3 cpus,0.21%,-0.02%,Junho,2025
+Physical CPUs,4 cpus,15.41%,-0.71%,Junho,2025
+Physical CPUs,5 cpus,0.08%,0.00%,Junho,2025
+Physical CPUs,6 cpus,29.50%,-0.29%,Junho,2025
+Physical CPUs,7 cpus,0.00%,0.00%,Junho,2025
+Physical CPUs,8 cpus,24.40%,+0.03%,Junho,2025
+Physical CPUs,9 cpus,0.00%,0.00%,Junho,2025
+Physical CPUs,10 cpus,6.67%,+0.18%,Junho,2025
+Physical CPUs,11 cpus,0.04%,0.00%,Junho,2025
+Physical CPUs,12 cpus,5.52%,-0.05%,Junho,2025
+Physical CPUs,13 cpus,0.00%,0.00%,Junho,2025
+Physical CPUs,14 cpus,5.05%,+0.29%,Junho,2025
+Physical CPUs,15 cpus,0.00%,0.00%,Junho,2025
+Physical CPUs,16 cpus,5.11%,+0.44%,Junho,2025
+Physical CPUs,17 cpus,0.00%,0.00%,Junho,2025
+Physical CPUs,18 cpus,0.05%,0.00%,Junho,2025
+Physical CPUs,19 cpus,0.00%,0.00%,Junho,2025
+Physical CPUs,20 cpus,1.57%,+0.08%,Junho,2025
+Physical CPUs,21 cpus,0.00%,0.00%,Junho,2025
+Physical CPUs,22 cpus,0.00%,0.00%,Junho,2025
+Physical CPUs,23 cpus,0.00%,0.00%,Junho,2025
+Physical CPUs,24 cpus,2.58%,+0.30%,Junho,2025
+Physical CPUs,28 cpus,0.01%,0.00%,Junho,2025
+Physical CPUs,30 cpus,0.00%,0.00%,Junho,2025
+Physical CPUs,32 cpus,0.01%,0.00%,Junho,2025
+Physical CPUs,36 cpus,0.00%,0.00%,Junho,2025
+Physical CPUs,40 cpus,0.00%,0.00%,Junho,2025
+Physical CPUs,44 cpus,0.00%,0.00%,Junho,2025
+Physical CPUs,48 cpus,0.00%,0.00%,Junho,2025
+Physical CPUs,52 cpus,0.00%,0.00%,Junho,2025
+Physical CPUs,56 cpus,0.00%,0.00%,Junho,2025
+Physical CPUs,60 cpus,0.00%,0.00%,Junho,2025
+Physical CPUs,64 cpus,0.00%,0.00%,Junho,2025
+Physical CPUs,78 cpus,0.00%,0.00%,Junho,2025
+Physical CPUs,96 cpus,0.00%,0.00%,Junho,2025
+Physical CPUs,128 cpus,0.00%,0.00%,Junho,2025
+Physical CPUs,192 cpus,0.00%,0.00%,Junho,2025
+Video Card Description,NVIDIA GeForce RTX 5060,0.32%,+0.32%,Junho,2025
+Video Card Description,NVIDIA GeForce GTX 1650 SUPER,0.36%,-0.02%,Junho,2025
+Video Card Description,NVIDIA GeForce GTX 1050,0.75%,-0.05%,Junho,2025
+Video Card Description,AMD Radeon RX 6750 GRE 10GB,0.17%,+0.01%,Junho,2025
+Video Card Description,NVIDIA GeForce GT 730,0.19%,-0.01%,Junho,2025
+Video Card Description,Intel UHD Graphics 620,0.46%,-0.03%,Junho,2025
+Video Card Description,AMD Radeon Vega 8 Graphics,0.40%,-0.01%,Junho,2025
+Video Card Description,NVIDIA GeForce GTX 1660 SUPER,1.76%,-0.06%,Junho,2025
+Video Card Description,NVIDIA GeForce RTX 3050,3.00%,+0.04%,Junho,2025
+Video Card Description,NVIDIA GeForce RTX 3060 Ti,2.67%,-0.01%,Junho,2025
+Video Card Description,NVIDIA GeForce RTX 4070 SUPER,1.80%,-0.02%,Junho,2025
+Video Card Description,NVIDIA GeForce RTX 4070,2.22%,-0.12%,Junho,2025
+Video Card Description,NVIDIA GeForce RTX 4060 Ti,2.91%,-0.06%,Junho,2025
+Video Card Description,NVIDIA GeForce RTX 3060,4.42%,-0.14%,Junho,2025
+Video Card Description,NVIDIA GeForce RTX 3050 Laptop GPU,0.49%,0.00%,Junho,2025
+Video Card Description,NVIDIA GeForce RTX 3060 Laptop GPU,2.49%,+0.07%,Junho,2025
+Video Card Description,NVIDIA GeForce GTX 1070 Ti,0.27%,-0.01%,Junho,2025
+Video Card Description,,1.48%,-0.06%,Junho,2025
+Video Card Description,Intel HD Graphics 520,0.24%,-0.02%,Junho,2025
+Video Card Description,NVIDIA GeForce RTX 3070,2.46%,-0.08%,Junho,2025
+Video Card Description,AMD Radeon RX 6800,0.22%,-0.01%,Junho,2025
+Video Card Description,NVIDIA GeForce GTX 1050 Ti,1.59%,-0.08%,Junho,2025
+Video Card Description,Intel HD Graphics 4600,0.20%,-0.01%,Junho,2025
+Video Card Description,NVIDIA GeForce RTX 2060,2.22%,-0.14%,Junho,2025
+Video Card Description,AMD Radeon 780M Graphics,0.27%,+0.01%,Junho,2025
+Video Card Description,NVIDIA GeForce RTX 3070 Ti,1.13%,-0.03%,Junho,2025
+Video Card Description,AMD Radeon Graphics (RADV VANGOGH),0.35%,-0.01%,Junho,2025
+Video Card Description,NVIDIA GeForce RTX 4070 Ti,1.07%,0.00%,Junho,2025
+Video Card Description,AMD Radeon RX 6600 XT,0.37%,-0.01%,Junho,2025
+Video Card Description,NVIDIA GeForce GTX 1060,2.08%,-0.09%,Junho,2025
+Video Card Description,NVIDIA GeForce RTX 2080 SUPER,0.34%,-0.03%,Junho,2025
+Video Card Description,NVIDIA GeForce RTX 5070,0.95%,+0.27%,Junho,2025
+Video Card Description,AMD Radeon RX 6800 XT,0.27%,-0.01%,Junho,2025
+Video Card Description,NVIDIA GeForce GTX 1650,3.23%,-0.10%,Junho,2025
+Video Card Description,NVIDIA GeForce GTX 750 Ti,0.25%,+0.01%,Junho,2025
+Video Card Description,NVIDIA GeForce RTX 2060 SUPER,0.94%,-0.04%,Junho,2025
+Video Card Description,NVIDIA GeForce GTX 960,0.25%,0.00%,Junho,2025
+Video Card Description,AMD Radeon RX 6600,0.89%,0.00%,Junho,2025
+Video Card Description,AMD Radeon RX 6500 XT,0.20%,+0.01%,Junho,2025
+Video Card Description,NVIDIA GeForce RTX 4090,0.87%,-0.03%,Junho,2025
+Video Card Description,NVIDIA GeForce RTX 3050 6GB Laptop GPU,0.36%,+0.01%,Junho,2025
+Video Card Description,NVIDIA GeForce RTX 2070 SUPER,0.90%,-0.04%,Junho,2025
+Video Card Description,AMD Radeon RX 5600 XT,0.17%,-0.01%,Junho,2025
+Video Card Description,NVIDIA GeForce RTX 3080,1.70%,-0.08%,Junho,2025
+Video Card Description,AMD Radeon RX 6750 GRE 12GB,0.16%,+0.16%,Junho,2025
+Video Card Description,NVIDIA GeForce RTX 3050 Ti Laptop GPU,0.79%,-0.01%,Junho,2025
+Video Card Description,Intel UHD Graphics 600,0.17%,-0.02%,Junho,2025
+Video Card Description,NVIDIA GeForce RTX 4080 SUPER,0.75%,-0.03%,Junho,2025
+Video Card Description,AMD Radeon (TM) Graphics,0.29%,-0.01%,Junho,2025
+Video Card Description,NVIDIA GeForce GTX 1070,0.83%,-0.05%,Junho,2025
+Video Card Description,NVIDIA GeForce RTX 4060 Laptop GPU,4.79%,+0.33%,Junho,2025
+Video Card Description,NVIDIA GeForce RTX 4070 Ti SUPER,0.83%,0.00%,Junho,2025
+Video Card Description,NVIDIA GeForce RTX 2050,0.43%,0.00%,Junho,2025
+Video Card Description,NVIDIA GeForce RTX 4050 Laptop GPU,1.33%,+0.05%,Junho,2025
+Video Card Description,NVIDIA GeForce RTX 3070 Laptop GPU,0.57%,-0.01%,Junho,2025
+Video Card Description,Intel Iris Xe Graphics,1.90%,-0.04%,Junho,2025
+Video Card Description,NVIDIA GeForce RTX 2070,0.61%,-0.02%,Junho,2025
+Video Card Description,AMD Radeon RX 580,0.68%,-0.03%,Junho,2025
+Video Card Description,AMD Radeon RX 6650 XT,0.32%,0.00%,Junho,2025
+Video Card Description,NVIDIA GeForce GTX 1660 Ti,1.15%,-0.05%,Junho,2025
+Video Card Description,AMD Radeon RX 6700 XT,0.64%,-0.02%,Junho,2025
+Video Card Description,NVIDIA GeForce RTX 4070 Laptop GPU,1.13%,+0.03%,Junho,2025
+Video Card Description,AMD Radeon RX 6750 XT,0.36%,0.00%,Junho,2025
+Video Card Description,NVIDIA GeForce RTX 3080 Ti,0.65%,-0.03%,Junho,2025
+Video Card Description,NVIDIA GeForce GT 1030,0.28%,-0.02%,Junho,2025
+Video Card Description,NVIDIA GeForce RTX 4080,0.69%,-0.04%,Junho,2025
+Video Card Description,NVIDIA GeForce GTX 970,0.28%,-0.01%,Junho,2025
+Video Card Description,NVIDIA GeForce GTX 1660,0.62%,-0.03%,Junho,2025
+Video Card Description,AMD Radeon RX 7700 XT,0.25%,+0.01%,Junho,2025
+Video Card Description,AMD Radeon(TM) Graphics,1.99%,-0.01%,Junho,2025
+Video Card Description,Intel(R) Arc(TM) Graphics,0.25%,+0.02%,Junho,2025
+Video Card Description,AMD Radeon RX 580 2048SP,0.59%,0.00%,Junho,2025
+Video Card Description,Intel(R) UHD Graphics,1.71%,-0.05%,Junho,2025
+Video Card Description,NVIDIA GeForce RTX 5080,0.55%,+0.10%,Junho,2025
+Video Card Description,NVIDIA GeForce RTX 2080 Ti,0.29%,-0.01%,Junho,2025
+Video Card Description,NVIDIA GeForce RTX 5070 Ti,0.53%,+0.16%,Junho,2025
+Video Card Description,AMD Radeon RX 550,0.25%,-0.01%,Junho,2025
+Video Card Description,NVIDIA GeForce GTX 1080,0.54%,-0.04%,Junho,2025
+Video Card Description,NVIDIA GeForce RTX 2080,0.31%,0.00%,Junho,2025
+Video Card Description,AMD Radeon RX 7900 XTX,0.51%,-0.01%,Junho,2025
+Video Card Description,NVIDIA GeForce RTX 3070 Ti Laptop GPU,0.30%,+0.01%,Junho,2025
+Video Card Description,AMD Radeon RX 5700 XT,0.62%,-0.02%,Junho,2025
+Video Card Description,Intel HD Graphics 620,0.22%,-0.03%,Junho,2025
+Video Card Description,NVIDIA GeForce GTX 1650 Ti,0.50%,-0.01%,Junho,2025
+Video Card Description,NVIDIA GeForce RTX 5090,0.18%,+0.18%,Junho,2025
+Video Card Description,AMD Radeon RX 7800 XT,0.46%,+0.11%,Junho,2025
+Video Card Description,NVIDIA GeForce RTX 3050 Ti,0.17%,0.00%,Junho,2025
+Video Card Description,AMD AMD Custom GPU 0405,0.45%,-0.02%,Junho,2025
+Video Card Description,NVIDIA GeForce RTX 4080 Laptop GPU,0.22%,0.00%,Junho,2025
+Video Card Description,NVIDIA GeForce RTX 5060 Laptop GPU,0.45%,+0.45%,Junho,2025
+Video Card Description,AMD Radeon RX 6900 XT,0.19%,-0.01%,Junho,2025
+Video Card Description,NVIDIA GeForce RTX 3090,0.45%,-0.03%,Junho,2025
+Video Card Description,NVIDIA Graphics Device,0.40%,+0.40%,Junho,2025
+Video Card Description,AMD Radeon RX 570,0.44%,-0.03%,Junho,2025
+Video Card Description,Intel UHD Graphics 630,0.32%,-0.01%,Junho,2025
+Video Card Description,AMD Radeon Graphics,2.05%,-0.12%,Junho,2025
+Video Card Description,AMD Radeon RX 5500 XT,0.15%,-0.01%,Junho,2025
+Video Card Description,NVIDIA GeForce RTX 5060 Ti,0.39%,+0.19%,Junho,2025
+Video Card Description,AMD Radeon Vega 3 Graphics,0.23%,-0.01%,Junho,2025
+Video Card Description,NVIDIA GeForce GTX 1080 Ti,0.40%,-0.02%,Junho,2025
+Video Card Description,NVIDIA GeForce RTX 4060,4.24%,-0.02%,Junho,2025
+Video Card Description,Other,9.45%,-0.48%,Junho,2025
+VRAM,512 MB,6.06%,+0.20%,Junho,2025
+VRAM,1 GB,3.82%,-0.12%,Junho,2025
+VRAM,2 GB,5.00%,+0.01%,Junho,2025
+VRAM,3 GB,1.04%,-0.04%,Junho,2025
+VRAM,4 GB,6.91%,-0.20%,Junho,2025
+VRAM,6 GB,11.10%,-0.38%,Junho,2025
+VRAM,8 GB,33.92%,+0.25%,Junho,2025
+VRAM,10 GB,2.57%,-0.10%,Junho,2025
+VRAM,11 GB,1.19%,-0.04%,Junho,2025
+VRAM,12 GB,18.82%,-0.01%,Junho,2025
+VRAM,16 GB,6.30%,+0.40%,Junho,2025
+VRAM,24 GB,2.33%,-0.07%,Junho,2025
+VRAM,Other,0.95%,+0.09%,Junho,2025
+Primary Display Resolution,800 x 1280,0.54%,-0.02%,Junho,2025
+Primary Display Resolution,1280 x 800,0.32%,-0.03%,Junho,2025
+Primary Display Resolution,1280 x 720,0.22%,-0.01%,Junho,2025
+Primary Display Resolution,1280 x 1024,0.25%,-0.01%,Junho,2025
+Primary Display Resolution,1360 x 768,0.52%,-0.04%,Junho,2025
+Primary Display Resolution,1366 x 768,2.74%,-0.17%,Junho,2025
+Primary Display Resolution,1440 x 900,0.86%,-0.05%,Junho,2025
+Primary Display Resolution,1470 x 956,0.26%,-0.01%,Junho,2025
+Primary Display Resolution,1512 x 982,0.22%,-0.03%,Junho,2025
+Primary Display Resolution,1600 x 900,0.83%,-0.03%,Junho,2025
+Primary Display Resolution,1680 x 1050,0.52%,0.00%,Junho,2025
+Primary Display Resolution,1920 x 1200,1.69%,+0.03%,Junho,2025
+Primary Display Resolution,1920 x 1080,54.54%,-0.81%,Junho,2025
+Primary Display Resolution,2560 x 1080,0.81%,-0.03%,Junho,2025
+Primary Display Resolution,2560 x 1440,19.86%,+0.37%,Junho,2025
+Primary Display Resolution,2560 x 1600,5.07%,+0.87%,Junho,2025
+Primary Display Resolution,2880 x 1800,0.42%,+0.03%,Junho,2025
+Primary Display Resolution,3440 x 1440,2.83%,-0.03%,Junho,2025
+Primary Display Resolution,3840 x 2160,4.49%,+0.01%,Junho,2025
+Primary Display Resolution,5120 x 1440,0.37%,-0.02%,Junho,2025
+Primary Display Resolution,Other,2.64%,-0.03%,Junho,2025
+OS Version,Windows,95.23%,-0.44%,Julho,2025
+OS Version,Windows 11 64 bit,59.90%,+0.06%,Julho,2025
+OS Version,Windows 10 64 bit,35.19%,-0.50%,Julho,2025
+OS Version,Windows 7 64 bit,0.09%,0.00%,Julho,2025
+OS Version,OSX,1.88%,+0.12%,Julho,2025
+OS Version,MacOS 15.5.0 64 bit,1.07%,+0.15%,Julho,2025
+OS Version,MacOS 15.4.1 64 bit,0.07%,-0.05%,Julho,2025
+OS Version,MacOS 12.7.6 64 bit,0.05%,+0.05%,Julho,2025
+OS Version,Linux,2.89%,+0.32%,Julho,2025
+OS Version,"Arch Linux" 64 bit,0.31%,+0.04%,Julho,2025
+OS Version,Linux Mint 22.1 64 bit,0.23%,+0.03%,Julho,2025
+OS Version,Ubuntu 24.04.2 LTS 64 bit,0.13%,+0.02%,Julho,2025
+OS Version,Ubuntu Core 22 64 bit,0.12%,+0.01%,Julho,2025
+OS Version,"Manjaro Linux" 64 bit,0.07%,+0.01%,Julho,2025
+OS Version,"EndeavourOS Linux" 64 bit,0.07%,+0.01%,Julho,2025
+OS Version,Fedora Linux 42 (Workstation Edition) 64 bit,0.06%,+0.06%,Julho,2025
+OS Version,Debian GNU/Linux 12 (bookworm) 64 bit,0.06%,+0.01%,Julho,2025
+OS Version,"Fedora Linux 42 (KDE Plasma Desktop Edition)" 64 bit,0.05%,+0.05%,Julho,2025
+System RAM,Less than 4 GB,0.02%,-0.01%,Julho,2025
+System RAM,4 GB,1.82%,+0.03%,Julho,2025
+System RAM,8 GB,9.03%,+0.08%,Julho,2025
+System RAM,12 GB,2.76%,0.00%,Julho,2025
+System RAM,16 GB,41.92%,-1.13%,Julho,2025
+System RAM,24 GB,1.69%,+0.01%,Julho,2025
+System RAM,28 GB,0.53%,+0.01%,Julho,2025
+System RAM,32 GB,35.15%,+0.78%,Julho,2025
+System RAM,48 GB,0.95%,+0.03%,Julho,2025
+System RAM,60 GB,0.65%,+0.07%,Julho,2025
+System RAM,64 GB,4.23%,+0.06%,Julho,2025
+System RAM,More than 64 GB,0.57%,+0.03%,Julho,2025
+System RAM,Other,0.66%,+0.02%,Julho,2025
+Physical CPUs,1 cpu,0.04%,+0.01%,Julho,2025
+Physical CPUs,2 cpus,3.80%,+0.07%,Julho,2025
+Physical CPUs,3 cpus,0.20%,-0.01%,Julho,2025
+Physical CPUs,4 cpus,15.46%,+0.05%,Julho,2025
+Physical CPUs,5 cpus,0.09%,+0.01%,Julho,2025
+Physical CPUs,6 cpus,29.29%,-0.21%,Julho,2025
+Physical CPUs,7 cpus,0.01%,+0.01%,Julho,2025
+Physical CPUs,8 cpus,24.85%,+0.45%,Julho,2025
+Physical CPUs,9 cpus,0.00%,0.00%,Julho,2025
+Physical CPUs,10 cpus,6.73%,+0.06%,Julho,2025
+Physical CPUs,11 cpus,0.04%,0.00%,Julho,2025
+Physical CPUs,12 cpus,5.58%,+0.06%,Julho,2025
+Physical CPUs,13 cpus,0.00%,0.00%,Julho,2025
+Physical CPUs,14 cpus,4.86%,-0.19%,Julho,2025
+Physical CPUs,15 cpus,0.00%,0.00%,Julho,2025
+Physical CPUs,16 cpus,4.95%,-0.16%,Julho,2025
+Physical CPUs,17 cpus,0.00%,0.00%,Julho,2025
+Physical CPUs,18 cpus,0.05%,0.00%,Julho,2025
+Physical CPUs,19 cpus,0.00%,0.00%,Julho,2025
+Physical CPUs,20 cpus,1.61%,+0.04%,Julho,2025
+Physical CPUs,22 cpus,0.00%,0.00%,Julho,2025
+Physical CPUs,23 cpus,0.00%,0.00%,Julho,2025
+Physical CPUs,24 cpus,2.41%,-0.17%,Julho,2025
+Physical CPUs,26 cpus,0.00%,0.00%,Julho,2025
+Physical CPUs,28 cpus,0.01%,0.00%,Julho,2025
+Physical CPUs,30 cpus,0.00%,0.00%,Julho,2025
+Physical CPUs,32 cpus,0.01%,0.00%,Julho,2025
+Physical CPUs,36 cpus,0.00%,0.00%,Julho,2025
+Physical CPUs,40 cpus,0.00%,0.00%,Julho,2025
+Physical CPUs,44 cpus,0.00%,0.00%,Julho,2025
+Physical CPUs,48 cpus,0.00%,0.00%,Julho,2025
+Physical CPUs,52 cpus,0.00%,0.00%,Julho,2025
+Physical CPUs,56 cpus,0.00%,0.00%,Julho,2025
+Physical CPUs,60 cpus,0.00%,0.00%,Julho,2025
+Physical CPUs,64 cpus,0.00%,0.00%,Julho,2025
+Physical CPUs,96 cpus,0.00%,0.00%,Julho,2025
+Physical CPUs,128 cpus,0.00%,0.00%,Julho,2025
+Video Card Description,AMD Radeon RX 6600 XT,0.37%,0.00%,Julho,2025
+Video Card Description,NVIDIA GeForce GTX 1080 Ti,0.40%,0.00%,Julho,2025
+Video Card Description,NVIDIA GeForce GTX 1050,0.75%,0.00%,Julho,2025
+Video Card Description,NVIDIA GeForce RTX 4080 Laptop GPU,0.21%,-0.01%,Julho,2025
+Video Card Description,AMD Radeon RX 7600 XT,0.19%,+0.19%,Julho,2025
+Video Card Description,AMD Radeon RX 7700 XT,0.25%,0.00%,Julho,2025
+Video Card Description,Intel HD Graphics 620,0.24%,+0.02%,Julho,2025
+Video Card Description,NVIDIA GeForce GTX 1660 SUPER,1.71%,-0.05%,Julho,2025
+Video Card Description,NVIDIA GeForce RTX 3050,2.95%,-0.05%,Julho,2025
+Video Card Description,NVIDIA GeForce RTX 4070 SUPER,1.79%,-0.01%,Julho,2025
+Video Card Description,NVIDIA GeForce RTX 3060 Ti,2.59%,-0.08%,Julho,2025
+Video Card Description,NVIDIA GeForce RTX 4070,2.30%,+0.08%,Julho,2025
+Video Card Description,NVIDIA GeForce RTX 4060 Ti,2.91%,0.00%,Julho,2025
+Video Card Description,NVIDIA GeForce RTX 4060 Laptop GPU,4.24%,-0.55%,Julho,2025
+Video Card Description,NVIDIA GeForce RTX 3050 Laptop GPU,0.47%,-0.02%,Julho,2025
+Video Card Description,,1.58%,+0.10%,Julho,2025
+Video Card Description,NVIDIA GeForce GTX 1070 Ti,0.26%,-0.01%,Julho,2025
+Video Card Description,NVIDIA GeForce RTX 3060 Laptop GPU,2.26%,-0.23%,Julho,2025
+Video Card Description,Intel HD Graphics 520,0.25%,+0.01%,Julho,2025
+Video Card Description,NVIDIA GeForce RTX 3070,2.47%,+0.01%,Julho,2025
+Video Card Description,AMD Radeon RX 6800,0.23%,+0.01%,Julho,2025
+Video Card Description,NVIDIA GeForce RTX 5070,1.26%,+0.31%,Julho,2025
+Video Card Description,Intel UHD Graphics 600,0.18%,+0.01%,Julho,2025
+Video Card Description,NVIDIA GeForce GTX 1050 Ti,1.56%,-0.03%,Julho,2025
+Video Card Description,AMD Radeon Vega 3 Graphics,0.23%,0.00%,Julho,2025
+Video Card Description,NVIDIA GeForce RTX 2060,2.20%,-0.02%,Julho,2025
+Video Card Description,NVIDIA GeForce RTX 2050,0.44%,+0.01%,Julho,2025
+Video Card Description,NVIDIA GeForce RTX 3070 Ti,1.12%,-0.01%,Julho,2025
+Video Card Description,NVIDIA GeForce RTX 2070,0.57%,-0.04%,Julho,2025
+Video Card Description,NVIDIA GeForce GTX 1060,2.04%,-0.04%,Julho,2025
+Video Card Description,NVIDIA GeForce RTX 2080 SUPER,0.34%,0.00%,Julho,2025
+Video Card Description,NVIDIA GeForce RTX 4070 Ti,1.04%,-0.03%,Julho,2025
+Video Card Description,AMD Radeon RX 6800 XT,0.28%,+0.01%,Julho,2025
+Video Card Description,NVIDIA GeForce GTX 1650,3.17%,-0.06%,Julho,2025
+Video Card Description,Intel(R) Arc(TM) Graphics,0.25%,0.00%,Julho,2025
+Video Card Description,NVIDIA GeForce RTX 2060 SUPER,0.92%,-0.02%,Julho,2025
+Video Card Description,NVIDIA GeForce RTX 2080 Ti,0.29%,0.00%,Julho,2025
+Video Card Description,AMD Radeon RX 6600,0.88%,-0.01%,Julho,2025
+Video Card Description,NVIDIA GeForce RTX 5090,0.21%,+0.03%,Julho,2025
+Video Card Description,NVIDIA GeForce RTX 4090,0.87%,0.00%,Julho,2025
+Video Card Description,AMD Radeon RX 6500 XT,0.19%,-0.01%,Julho,2025
+Video Card Description,NVIDIA GeForce RTX 2070 SUPER,0.88%,-0.02%,Julho,2025
+Video Card Description,NVIDIA GeForce RTX 3070 Ti Laptop GPU,0.27%,-0.03%,Julho,2025
+Video Card Description,NVIDIA GeForce RTX 3080,1.70%,0.00%,Julho,2025
+Video Card Description,Intel HD Graphics 4600,0.20%,0.00%,Julho,2025
+Video Card Description,NVIDIA GeForce RTX 4080 SUPER,0.76%,+0.01%,Julho,2025
+Video Card Description,Intel UHD Graphics 630,0.32%,0.00%,Julho,2025
+Video Card Description,NVIDIA GeForce RTX 3050 Ti Laptop GPU,0.76%,-0.03%,Julho,2025
+Video Card Description,AMD Radeon (TM) Graphics,0.30%,+0.01%,Julho,2025
+Video Card Description,NVIDIA GeForce GTX 1070,0.81%,-0.02%,Julho,2025
+Video Card Description,NVIDIA GeForce RTX 3060,4.44%,+0.02%,Julho,2025
+Video Card Description,NVIDIA GeForce RTX 4050 Laptop GPU,1.31%,-0.02%,Julho,2025
+Video Card Description,AMD Radeon Graphics (RADV VANGOGH),0.37%,+0.02%,Julho,2025
+Video Card Description,Intel Iris Xe Graphics,1.92%,+0.02%,Julho,2025
+Video Card Description,NVIDIA GeForce GTX 1650 SUPER,0.35%,-0.01%,Julho,2025
+Video Card Description,NVIDIA GeForce RTX 4070 Ti SUPER,0.82%,-0.01%,Julho,2025
+Video Card Description,NVIDIA GeForce RTX 3070 Laptop GPU,0.53%,-0.04%,Julho,2025
+Video Card Description,NVIDIA GeForce GTX 1660 Ti,1.14%,-0.01%,Julho,2025
+Video Card Description,AMD Radeon RX 6700 XT,0.63%,-0.01%,Julho,2025
+Video Card Description,AMD Radeon RX 580,0.67%,-0.01%,Julho,2025
+Video Card Description,AMD Radeon RX 6650 XT,0.32%,0.00%,Julho,2025
+Video Card Description,NVIDIA GeForce RTX 3080 Ti,0.65%,0.00%,Julho,2025
+Video Card Description,AMD Radeon RX 6750 XT,0.36%,0.00%,Julho,2025
+Video Card Description,NVIDIA GeForce RTX 4070 Laptop GPU,1.06%,-0.07%,Julho,2025
+Video Card Description,NVIDIA GeForce GT 1030,0.29%,+0.01%,Julho,2025
+Video Card Description,NVIDIA GeForce RTX 5080,0.62%,+0.07%,Julho,2025
+Video Card Description,NVIDIA GeForce GTX 970,0.27%,-0.01%,Julho,2025
+Video Card Description,NVIDIA GeForce RTX 4080,0.68%,-0.01%,Julho,2025
+Video Card Description,Intel UHD Graphics 620,0.48%,+0.02%,Julho,2025
+Video Card Description,AMD Radeon RX 580 2048SP,0.61%,+0.02%,Julho,2025
+Video Card Description,Intel(R) UHD Graphics,1.74%,+0.03%,Julho,2025
+Video Card Description,NVIDIA GeForce RTX 5070 Ti,0.60%,+0.07%,Julho,2025
+Video Card Description,NVIDIA GeForce GTX 960,0.23%,-0.02%,Julho,2025
+Video Card Description,NVIDIA GeForce GTX 1660,0.60%,-0.02%,Julho,2025
+Video Card Description,NVIDIA GeForce GTX 750 Ti,0.23%,-0.02%,Julho,2025
+Video Card Description,AMD Radeon(TM) Graphics,2.04%,+0.05%,Julho,2025
+Video Card Description,AMD Radeon RX 550,0.26%,+0.01%,Julho,2025
+Video Card Description,NVIDIA GeForce RTX 5060,0.57%,+0.25%,Julho,2025
+Video Card Description,NVIDIA GeForce RTX 3050 6GB Laptop GPU,0.39%,+0.03%,Julho,2025
+Video Card Description,NVIDIA GeForce RTX 5060 Ti,0.56%,+0.17%,Julho,2025
+Video Card Description,AMD Radeon Vega 8 Graphics,0.41%,+0.01%,Julho,2025
+Video Card Description,AMD Radeon RX 7800 XT,0.53%,+0.07%,Julho,2025
+Video Card Description,NVIDIA GeForce RTX 2080,0.30%,-0.01%,Julho,2025
+Video Card Description,NVIDIA GeForce GTX 1080,0.54%,0.00%,Julho,2025
+Video Card Description,AMD Radeon RX 5600 XT,0.18%,+0.01%,Julho,2025
+Video Card Description,AMD Radeon RX 7900 XTX,0.52%,+0.01%,Julho,2025
+Video Card Description,NVIDIA GeForce RTX 3050 Ti,0.15%,-0.02%,Julho,2025
+Video Card Description,AMD Radeon RX 5700 XT,0.64%,+0.02%,Julho,2025
+Video Card Description,AMD Radeon RX 6900 XT,0.19%,0.00%,Julho,2025
+Video Card Description,AMD AMD Custom GPU 0405,0.45%,0.00%,Julho,2025
+Video Card Description,NVIDIA Graphics Device,0.39%,-0.01%,Julho,2025
+Video Card Description,NVIDIA GeForce GTX 1650 Ti,0.48%,-0.02%,Julho,2025
+Video Card Description,AMD Radeon RX 5500 XT,0.15%,0.00%,Julho,2025
+Video Card Description,NVIDIA GeForce RTX 3090,0.44%,-0.01%,Julho,2025
+Video Card Description,Intel HD Graphics 4000,0.16%,+0.16%,Julho,2025
+Video Card Description,AMD Radeon RX 570,0.43%,-0.01%,Julho,2025
+Video Card Description,NVIDIA GeForce GT 730,0.19%,0.00%,Julho,2025
+Video Card Description,AMD Radeon Graphics,2.11%,+0.06%,Julho,2025
+Video Card Description,AMD Radeon 780M Graphics,0.28%,+0.01%,Julho,2025
+Video Card Description,NVIDIA GeForce RTX 5060 Laptop GPU,0.40%,-0.05%,Julho,2025
+Video Card Description,NVIDIA GeForce RTX 4060,4.20%,-0.04%,Julho,2025
+Video Card Description,Other,9.67%,+0.22%,Julho,2025
+VRAM,512 MB,6.25%,+0.19%,Julho,2025
+VRAM,1 GB,3.79%,-0.03%,Julho,2025
+VRAM,2 GB,4.89%,-0.11%,Julho,2025
+VRAM,3 GB,1.00%,-0.04%,Julho,2025
+VRAM,4 GB,6.69%,-0.22%,Julho,2025
+VRAM,6 GB,10.92%,-0.18%,Julho,2025
+VRAM,8 GB,33.66%,-0.26%,Julho,2025
+VRAM,10 GB,2.53%,-0.04%,Julho,2025
+VRAM,11 GB,1.17%,-0.02%,Julho,2025
+VRAM,12 GB,19.22%,+0.40%,Julho,2025
+VRAM,16 GB,6.58%,+0.28%,Julho,2025
+VRAM,24 GB,2.29%,-0.04%,Julho,2025
+VRAM,Other,1.02%,+0.07%,Julho,2025
+Primary Display Resolution,800 x 1280,0.55%,+0.01%,Julho,2025
+Primary Display Resolution,1280 x 1024,0.26%,+0.01%,Julho,2025
+Primary Display Resolution,1280 x 800,0.34%,+0.02%,Julho,2025
+Primary Display Resolution,1280 x 720,0.23%,+0.01%,Julho,2025
+Primary Display Resolution,1360 x 768,0.53%,+0.01%,Julho,2025
+Primary Display Resolution,1366 x 768,2.79%,+0.05%,Julho,2025
+Primary Display Resolution,1440 x 900,0.90%,+0.04%,Julho,2025
+Primary Display Resolution,1470 x 956,0.29%,+0.03%,Julho,2025
+Primary Display Resolution,1512 x 982,0.25%,+0.03%,Julho,2025
+Primary Display Resolution,1600 x 900,0.85%,+0.02%,Julho,2025
+Primary Display Resolution,1680 x 1050,0.52%,0.00%,Julho,2025
+Primary Display Resolution,1920 x 1200,1.76%,+0.07%,Julho,2025
+Primary Display Resolution,1920 x 1080,54.37%,-0.17%,Julho,2025
+Primary Display Resolution,2560 x 1440,19.98%,+0.12%,Julho,2025
+Primary Display Resolution,2560 x 1600,4.58%,-0.49%,Julho,2025
+Primary Display Resolution,2560 x 1080,0.83%,+0.02%,Julho,2025
+Primary Display Resolution,2880 x 1800,0.43%,+0.01%,Julho,2025
+Primary Display Resolution,3440 x 1440,2.87%,+0.04%,Julho,2025
+Primary Display Resolution,3840 x 2160,4.59%,+0.10%,Julho,2025
+Primary Display Resolution,5120 x 1440,0.40%,+0.03%,Julho,2025
+Primary Display Resolution,Other,2.70%,+0.06%,Julho,2025
+OS Version,Windows,95.59%,+0.36%,Agosto,2025
+OS Version,Windows 11 64 bit,60.39%,+0.49%,Agosto,2025
+OS Version,Windows 10 64 bit,35.08%,-0.11%,Agosto,2025
+OS Version,Windows 7 64 bit,0.07%,-0.02%,Agosto,2025
+OS Version,OSX,1.77%,-0.11%,Agosto,2025
+OS Version,MacOS 15.5.0 64 bit,0.55%,-0.52%,Agosto,2025
+OS Version,MacOS 15.6.0 64 bit,0.43%,+0.43%,Agosto,2025
+OS Version,MacOS 15.6.1 64 bit,0.13%,+0.13%,Agosto,2025
+OS Version,MacOS 26.0.0 64 bit,0.08%,+0.08%,Agosto,2025
+OS Version,Linux,2.64%,-0.25%,Agosto,2025
+OS Version,"Arch Linux" 64 bit,0.29%,-0.02%,Agosto,2025
+OS Version,Linux Mint 22.1 64 bit,0.22%,-0.01%,Agosto,2025
+OS Version,Ubuntu Core 22 64 bit,0.11%,-0.01%,Agosto,2025
+OS Version,Ubuntu 24.04.2 LTS 64 bit,0.07%,-0.06%,Agosto,2025
+OS Version,"EndeavourOS Linux" 64 bit,0.06%,-0.01%,Agosto,2025
+OS Version,"Manjaro Linux" 64 bit,0.06%,-0.01%,Agosto,2025
+OS Version,Fedora Linux 42 (Workstation Edition) 64 bit,0.06%,0.00%,Agosto,2025
+OS Version,"Fedora Linux 42 (KDE Plasma Desktop Edition)" 64 bit,0.05%,0.00%,Agosto,2025
+System RAM,Less than 4 GB,0.02%,0.00%,Agosto,2025
+System RAM,4 GB,1.58%,-0.24%,Agosto,2025
+System RAM,8 GB,8.11%,-0.92%,Agosto,2025
+System RAM,12 GB,2.55%,-0.21%,Agosto,2025
+System RAM,16 GB,41.88%,-0.04%,Agosto,2025
+System RAM,24 GB,1.72%,+0.03%,Agosto,2025
+System RAM,28 GB,0.52%,-0.01%,Agosto,2025
+System RAM,32 GB,36.46%,+1.31%,Agosto,2025
+System RAM,48 GB,1.01%,+0.06%,Agosto,2025
+System RAM,60 GB,0.70%,+0.05%,Agosto,2025
+System RAM,64 GB,4.26%,+0.03%,Agosto,2025
+System RAM,More than 64 GB,0.57%,0.00%,Agosto,2025
+System RAM,Other,0.62%,-0.04%,Agosto,2025
+Physical CPUs,1 cpu,0.02%,-0.02%,Agosto,2025
+Physical CPUs,2 cpus,3.35%,-0.45%,Agosto,2025
+Physical CPUs,3 cpus,0.17%,-0.03%,Agosto,2025
+Physical CPUs,4 cpus,14.24%,-1.22%,Agosto,2025
+Physical CPUs,5 cpus,0.09%,0.00%,Agosto,2025
+Physical CPUs,6 cpus,29.81%,+0.52%,Agosto,2025
+Physical CPUs,7 cpus,0.00%,-0.01%,Agosto,2025
+Physical CPUs,8 cpus,24.74%,-0.11%,Agosto,2025
+Physical CPUs,9 cpus,0.00%,0.00%,Agosto,2025
+Physical CPUs,10 cpus,7.37%,+0.64%,Agosto,2025
+Physical CPUs,11 cpus,0.04%,0.00%,Agosto,2025
+Physical CPUs,12 cpus,5.51%,-0.07%,Agosto,2025
+Physical CPUs,13 cpus,0.00%,0.00%,Agosto,2025
+Physical CPUs,14 cpus,5.02%,+0.16%,Agosto,2025
+Physical CPUs,15 cpus,0.00%,0.00%,Agosto,2025
+Physical CPUs,16 cpus,5.28%,+0.33%,Agosto,2025
+Physical CPUs,17 cpus,0.00%,0.00%,Agosto,2025
+Physical CPUs,18 cpus,0.05%,0.00%,Agosto,2025
+Physical CPUs,19 cpus,0.00%,0.00%,Agosto,2025
+Physical CPUs,20 cpus,1.68%,+0.07%,Agosto,2025
+Physical CPUs,21 cpus,0.00%,0.00%,Agosto,2025
+Physical CPUs,22 cpus,0.00%,0.00%,Agosto,2025
+Physical CPUs,23 cpus,0.00%,0.00%,Agosto,2025
+Physical CPUs,24 cpus,2.59%,+0.18%,Agosto,2025
+Physical CPUs,26 cpus,0.00%,0.00%,Agosto,2025
+Physical CPUs,28 cpus,0.01%,0.00%,Agosto,2025
+Physical CPUs,30 cpus,0.00%,0.00%,Agosto,2025
+Physical CPUs,32 cpus,0.01%,0.00%,Agosto,2025
+Physical CPUs,36 cpus,0.00%,0.00%,Agosto,2025
+Physical CPUs,40 cpus,0.00%,0.00%,Agosto,2025
+Physical CPUs,44 cpus,0.00%,0.00%,Agosto,2025
+Physical CPUs,48 cpus,0.00%,0.00%,Agosto,2025
+Physical CPUs,52 cpus,0.00%,0.00%,Agosto,2025
+Physical CPUs,56 cpus,0.00%,0.00%,Agosto,2025
+Physical CPUs,60 cpus,0.00%,0.00%,Agosto,2025
+Physical CPUs,62 cpus,0.00%,0.00%,Agosto,2025
+Physical CPUs,64 cpus,0.00%,0.00%,Agosto,2025
+Physical CPUs,96 cpus,0.00%,0.00%,Agosto,2025
+Physical CPUs,112 cpus,0.00%,0.00%,Agosto,2025
+Physical CPUs,128 cpus,0.00%,0.00%,Agosto,2025
+Video Card Description,AMD Radeon Graphics (RADV VANGOGH),0.33%,-0.04%,Agosto,2025
+Video Card Description,AMD Radeon RX 6600 XT,0.36%,-0.01%,Agosto,2025
+Video Card Description,NVIDIA GeForce RTX 5070 Ti Laptop GPU,0.18%,+0.18%,Agosto,2025
+Video Card Description,NVIDIA GeForce RTX 3060,4.62%,+0.18%,Agosto,2025
+Video Card Description,NVIDIA GeForce RTX 2080,0.32%,+0.02%,Agosto,2025
+Video Card Description,AMD Radeon RX 5600 XT,0.16%,-0.02%,Agosto,2025
+Video Card Description,NVIDIA GeForce GTX 1660 SUPER,1.70%,-0.01%,Agosto,2025
+Video Card Description,NVIDIA GeForce RTX 5090,0.25%,+0.04%,Agosto,2025
+Video Card Description,NVIDIA GeForce RTX 3060 Ti,2.74%,+0.15%,Agosto,2025
+Video Card Description,NVIDIA GeForce RTX 4070 SUPER,1.78%,-0.01%,Agosto,2025
+Video Card Description,NVIDIA GeForce RTX 4070,2.19%,-0.11%,Agosto,2025
+Video Card Description,NVIDIA GeForce RTX 4060 Ti,2.90%,-0.01%,Agosto,2025
+Video Card Description,NVIDIA GeForce RTX 4060 Laptop GPU,4.43%,+0.19%,Agosto,2025
+Video Card Description,AMD Radeon RX 6750 XT,0.35%,-0.01%,Agosto,2025
+Video Card Description,NVIDIA GeForce RTX 3050,2.91%,-0.04%,Agosto,2025
+Video Card Description,NVIDIA GeForce GT 1030,0.26%,-0.03%,Agosto,2025
+Video Card Description,NVIDIA GeForce RTX 5070,1.50%,+0.24%,Agosto,2025
+Video Card Description,Intel(R) UHD Graphics,1.61%,-0.13%,Agosto,2025
+Video Card Description,,1.51%,-0.07%,Agosto,2025
+Video Card Description,Intel HD Graphics 620,0.22%,-0.02%,Agosto,2025
+Video Card Description,NVIDIA GeForce RTX 3070,2.48%,+0.01%,Agosto,2025
+Video Card Description,AMD Radeon RX 6750 GRE 12GB,0.15%,+0.15%,Agosto,2025
+Video Card Description,NVIDIA GeForce RTX 3060 Laptop GPU,2.25%,-0.01%,Agosto,2025
+Video Card Description,AMD Radeon 780M Graphics,0.28%,0.00%,Agosto,2025
+Video Card Description,NVIDIA GeForce GTX 1050 Ti,1.46%,-0.10%,Agosto,2025
+Video Card Description,AMD Radeon Graphics,1.89%,-0.22%,Agosto,2025
+Video Card Description,NVIDIA GeForce RTX 2060,2.22%,+0.02%,Agosto,2025
+Video Card Description,NVIDIA GeForce RTX 2080 SUPER,0.35%,+0.01%,Agosto,2025
+Video Card Description,NVIDIA GeForce RTX 3070 Ti,1.13%,+0.01%,Agosto,2025
+Video Card Description,AMD Radeon RX 6700 XT,0.62%,-0.01%,Agosto,2025
+Video Card Description,NVIDIA GeForce RTX 4070 Ti,1.06%,+0.02%,Agosto,2025
+Video Card Description,NVIDIA GeForce RTX 3050 Laptop GPU,0.45%,-0.02%,Agosto,2025
+Video Card Description,NVIDIA GeForce GTX 1060,1.97%,-0.07%,Agosto,2025
+Video Card Description,NVIDIA GeForce GTX 1070 Ti,0.25%,-0.01%,Agosto,2025
+Video Card Description,NVIDIA GeForce RTX 5060,0.97%,+0.40%,Agosto,2025
+Video Card Description,Intel UHD Graphics 620,0.45%,-0.03%,Agosto,2025
+Video Card Description,NVIDIA GeForce RTX 2060 SUPER,0.91%,-0.01%,Agosto,2025
+Video Card Description,NVIDIA GeForce GTX 750 Ti,0.22%,-0.01%,Agosto,2025
+Video Card Description,NVIDIA GeForce GTX 1650,2.95%,-0.22%,Agosto,2025
+Video Card Description,AMD Radeon RX 6500 XT,0.19%,0.00%,Agosto,2025
+Video Card Description,AMD Radeon RX 6600,0.85%,-0.03%,Agosto,2025
+Video Card Description,AMD Radeon Vega 8 Graphics,0.36%,-0.05%,Agosto,2025
+Video Card Description,NVIDIA GeForce RTX 4090,0.85%,-0.02%,Agosto,2025
+Video Card Description,NVIDIA GeForce RTX 4080 Laptop GPU,0.21%,0.00%,Agosto,2025
+Video Card Description,NVIDIA GeForce RTX 2070 SUPER,0.89%,+0.01%,Agosto,2025
+Video Card Description,Intel HD Graphics 4600,0.19%,-0.01%,Agosto,2025
+Video Card Description,NVIDIA GeForce RTX 3080,1.68%,-0.02%,Agosto,2025
+Video Card Description,NVIDIA GeForce GT 730,0.17%,-0.02%,Agosto,2025
+Video Card Description,NVIDIA GeForce RTX 4050 Laptop GPU,1.35%,+0.04%,Agosto,2025
+Video Card Description,Intel(R) Graphics,0.17%,+0.17%,Agosto,2025
+Video Card Description,NVIDIA GeForce RTX 4080 SUPER,0.73%,-0.03%,Agosto,2025
+Video Card Description,NVIDIA GeForce GTX 1080 Ti,0.39%,-0.01%,Agosto,2025
+Video Card Description,NVIDIA GeForce RTX 5070 Ti,0.72%,+0.12%,Agosto,2025
+Video Card Description,NVIDIA GeForce RTX 2050,0.44%,0.00%,Agosto,2025
+Video Card Description,NVIDIA GeForce RTX 4070 Ti SUPER,0.83%,+0.01%,Agosto,2025
+Video Card Description,NVIDIA GeForce GTX 1650 SUPER,0.33%,-0.02%,Agosto,2025
+Video Card Description,NVIDIA GeForce RTX 5080,0.71%,+0.09%,Agosto,2025
+Video Card Description,NVIDIA GeForce RTX 3070 Laptop GPU,0.53%,0.00%,Agosto,2025
+Video Card Description,NVIDIA GeForce RTX 3050 Ti Laptop GPU,0.73%,-0.03%,Agosto,2025
+Video Card Description,NVIDIA GeForce GTX 1050,0.69%,-0.06%,Agosto,2025
+Video Card Description,NVIDIA GeForce RTX 5060 Ti,0.71%,+0.15%,Agosto,2025
+Video Card Description,AMD Radeon RX 6650 XT,0.30%,-0.02%,Agosto,2025
+Video Card Description,NVIDIA GeForce GTX 1070,0.80%,-0.01%,Agosto,2025
+Video Card Description,NVIDIA Graphics Device,0.64%,+0.25%,Agosto,2025
+Video Card Description,NVIDIA GeForce RTX 5060 Laptop GPU,0.66%,+0.26%,Agosto,2025
+Video Card Description,AMD Radeon RX 6800 XT,0.27%,-0.01%,Agosto,2025
+Video Card Description,Intel Iris Xe Graphics,1.76%,-0.16%,Agosto,2025
+Video Card Description,AMD Radeon RX 7700 XT,0.25%,0.00%,Agosto,2025
+Video Card Description,NVIDIA GeForce RTX 3080 Ti,0.64%,-0.01%,Agosto,2025
+Video Card Description,Intel(R) Arc(TM) Graphics,0.25%,0.00%,Agosto,2025
+Video Card Description,AMD Radeon RX 580,0.64%,-0.03%,Agosto,2025
+Video Card Description,NVIDIA GeForce GTX 970,0.25%,-0.02%,Agosto,2025
+Video Card Description,NVIDIA GeForce RTX 4070 Laptop GPU,1.07%,+0.01%,Agosto,2025
+Video Card Description,NVIDIA GeForce RTX 2080 Ti,0.29%,0.00%,Agosto,2025
+Video Card Description,AMD Radeon RX 7800 XT,0.61%,+0.08%,Agosto,2025
+Video Card Description,NVIDIA GeForce GTX 960,0.22%,-0.01%,Agosto,2025
+Video Card Description,NVIDIA GeForce GTX 1660 Ti,1.06%,-0.08%,Agosto,2025
+Video Card Description,NVIDIA GeForce RTX 3050 6GB Laptop GPU,0.39%,0.00%,Agosto,2025
+Video Card Description,NVIDIA GeForce RTX 4080,0.66%,-0.02%,Agosto,2025
+Video Card Description,Intel HD Graphics 520,0.22%,-0.03%,Agosto,2025
+Video Card Description,AMD Radeon(TM) Graphics,2.02%,-0.02%,Agosto,2025
+Video Card Description,AMD Radeon RX 550,0.23%,-0.03%,Agosto,2025
+Video Card Description,NVIDIA GeForce GTX 1660,0.59%,-0.01%,Agosto,2025
+Video Card Description,NVIDIA GeForce RTX 3070 Ti Laptop GPU,0.27%,0.00%,Agosto,2025
+Video Card Description,AMD Radeon RX 580 2048SP,0.58%,-0.03%,Agosto,2025
+Video Card Description,AMD Radeon RX 6800,0.21%,-0.02%,Agosto,2025
+Video Card Description,NVIDIA GeForce GTX 1080,0.52%,-0.02%,Agosto,2025
+Video Card Description,AMD Radeon RX 6750 GRE 10GB,0.16%,+0.16%,Agosto,2025
+Video Card Description,AMD Radeon RX 7900 XTX,0.51%,-0.01%,Agosto,2025
+Video Card Description,AMD Radeon RX 7600 XT,0.26%,+0.07%,Agosto,2025
+Video Card Description,AMD Radeon RX 5700 XT,0.60%,-0.04%,Agosto,2025
+Video Card Description,AMD Radeon RX 6900 XT,0.18%,-0.01%,Agosto,2025
+Video Card Description,NVIDIA GeForce RTX 3090,0.43%,-0.01%,Agosto,2025
+Video Card Description,Intel UHD Graphics 600,0.15%,-0.03%,Agosto,2025
+Video Card Description,NVIDIA GeForce GTX 1650 Ti,0.44%,-0.04%,Agosto,2025
+Video Card Description,Intel UHD Graphics 630,0.29%,-0.03%,Agosto,2025
+Video Card Description,AMD Radeon RX 570,0.41%,-0.02%,Agosto,2025
+Video Card Description,AMD Radeon (TM) Graphics,0.30%,0.00%,Agosto,2025
+Video Card Description,AMD AMD Custom GPU 0405,0.39%,-0.06%,Agosto,2025
+Video Card Description,AMD Radeon Vega 3 Graphics,0.21%,-0.02%,Agosto,2025
+Video Card Description,NVIDIA GeForce RTX 2070,0.64%,+0.07%,Agosto,2025
+Video Card Description,NVIDIA GeForce RTX 4060,4.66%,+0.46%,Agosto,2025
+Video Card Description,Other,8.85%,-0.82%,Agosto,2025
+VRAM,512 MB,6.27%,+0.02%,Agosto,2025
+VRAM,1 GB,3.37%,-0.42%,Agosto,2025
+VRAM,2 GB,4.62%,-0.27%,Agosto,2025
+VRAM,3 GB,1.02%,+0.02%,Agosto,2025
+VRAM,4 GB,6.18%,-0.51%,Agosto,2025
+VRAM,6 GB,10.60%,-0.32%,Agosto,2025
+VRAM,8 GB,35.03%,+1.37%,Agosto,2025
+VRAM,10 GB,2.48%,-0.05%,Agosto,2025
+VRAM,11 GB,1.12%,-0.05%,Agosto,2025
+VRAM,12 GB,19.30%,+0.08%,Agosto,2025
+VRAM,16 GB,6.80%,+0.22%,Agosto,2025
+VRAM,24 GB,2.20%,-0.09%,Agosto,2025
+VRAM,Other,1.02%,0.00%,Agosto,2025
+Primary Display Resolution,800 x 1280,0.50%,-0.05%,Agosto,2025
+Primary Display Resolution,1280 x 800,0.28%,-0.06%,Agosto,2025
+Primary Display Resolution,1280 x 720,0.21%,-0.02%,Agosto,2025
+Primary Display Resolution,1280 x 1024,0.23%,-0.03%,Agosto,2025
+Primary Display Resolution,1360 x 768,0.48%,-0.05%,Agosto,2025
+Primary Display Resolution,1366 x 768,2.49%,-0.30%,Agosto,2025
+Primary Display Resolution,1440 x 900,0.82%,-0.08%,Agosto,2025
+Primary Display Resolution,1470 x 956,0.28%,-0.01%,Agosto,2025
+Primary Display Resolution,1512 x 982,0.24%,-0.01%,Agosto,2025
+Primary Display Resolution,1600 x 900,0.76%,-0.09%,Agosto,2025
+Primary Display Resolution,1680 x 1050,0.47%,-0.05%,Agosto,2025
+Primary Display Resolution,1920 x 1080,54.44%,+0.07%,Agosto,2025
+Primary Display Resolution,1920 x 1200,1.80%,+0.04%,Agosto,2025
+Primary Display Resolution,2560 x 1080,0.80%,-0.03%,Agosto,2025
+Primary Display Resolution,2560 x 1600,5.09%,+0.51%,Agosto,2025
+Primary Display Resolution,2560 x 1440,20.19%,+0.21%,Agosto,2025
+Primary Display Resolution,2880 x 1800,0.43%,0.00%,Agosto,2025
+Primary Display Resolution,3440 x 1440,2.85%,-0.02%,Agosto,2025
+Primary Display Resolution,3840 x 2160,4.59%,0.00%,Agosto,2025
+Primary Display Resolution,5120 x 1440,0.37%,-0.03%,Agosto,2025
+Primary Display Resolution,Other,2.66%,-0.04%,Agosto,2025
+OS Version,Windows,95.40%,-0.19%,Setembro,2025
+OS Version,Windows 11 64 bit,63.04%,+2.65%,Setembro,2025
+OS Version,Windows 10 64 bit,32.18%,-2.90%,Setembro,2025
+OS Version,Windows 2022 64 bit,0.09%,+0.09%,Setembro,2025
+OS Version,Windows 7 64 bit,0.07%,0.00%,Setembro,2025
+OS Version,OSX,1.91%,+0.14%,Setembro,2025
+OS Version,MacOS 15.6.1 64 bit,0.78%,+0.65%,Setembro,2025
+OS Version,MacOS 26.0.0 64 bit,0.24%,+0.16%,Setembro,2025
+OS Version,MacOS 15.5.0 64 bit,0.18%,-0.37%,Setembro,2025
+OS Version,MacOS 15.6.0 64 bit,0.11%,-0.32%,Setembro,2025
+OS Version,Linux,2.68%,+0.04%,Setembro,2025
+OS Version,"Arch Linux" 64 bit,0.29%,0.00%,Setembro,2025
+OS Version,Linux Mint 22.1 64 bit,0.15%,-0.07%,Setembro,2025
+OS Version,Ubuntu Core 22 64 bit,0.11%,0.00%,Setembro,2025
+OS Version,Ubuntu 24.04.3 LTS 64 bit,0.09%,+0.09%,Setembro,2025
+OS Version,Linux Mint 22.2 64 bit,0.09%,+0.09%,Setembro,2025
+OS Version,"EndeavourOS Linux" 64 bit,0.06%,0.00%,Setembro,2025
+OS Version,"Manjaro Linux" 64 bit,0.06%,0.00%,Setembro,2025
+OS Version,"Fedora Linux 42 (KDE Plasma Desktop Edition)" 64 bit,0.05%,0.00%,Setembro,2025
+OS Version,Fedora Linux 42 (Workstation Edition) 64 bit,0.05%,-0.01%,Setembro,2025
+System RAM,Less than 4 GB,0.02%,0.00%,Setembro,2025
+System RAM,4 GB,1.55%,-0.03%,Setembro,2025
+System RAM,8 GB,8.05%,-0.06%,Setembro,2025
+System RAM,12 GB,2.57%,+0.02%,Setembro,2025
+System RAM,16 GB,41.76%,-0.12%,Setembro,2025
+System RAM,24 GB,1.78%,+0.06%,Setembro,2025
+System RAM,28 GB,0.53%,+0.01%,Setembro,2025
+System RAM,32 GB,36.26%,-0.20%,Setembro,2025
+System RAM,48 GB,1.16%,+0.15%,Setembro,2025
+System RAM,60 GB,0.76%,+0.06%,Setembro,2025
+System RAM,64 GB,4.33%,+0.07%,Setembro,2025
+System RAM,More than 64 GB,0.59%,+0.02%,Setembro,2025
+System RAM,Other,0.65%,+0.03%,Setembro,2025
+Physical CPUs,1 cpu,0.03%,+0.01%,Setembro,2025
+Physical CPUs,2 cpus,3.29%,-0.06%,Setembro,2025
+Physical CPUs,3 cpus,0.16%,-0.01%,Setembro,2025
+Physical CPUs,4 cpus,14.18%,-0.06%,Setembro,2025
+Physical CPUs,5 cpus,0.10%,+0.01%,Setembro,2025
+Physical CPUs,6 cpus,28.78%,-1.03%,Setembro,2025
+Physical CPUs,7 cpus,0.01%,+0.01%,Setembro,2025
+Physical CPUs,8 cpus,25.58%,+0.84%,Setembro,2025
+Physical CPUs,9 cpus,0.00%,0.00%,Setembro,2025
+Physical CPUs,10 cpus,7.00%,-0.37%,Setembro,2025
+Physical CPUs,11 cpus,0.04%,0.00%,Setembro,2025
+Physical CPUs,12 cpus,5.53%,+0.02%,Setembro,2025
+Physical CPUs,13 cpus,0.00%,0.00%,Setembro,2025
+Physical CPUs,14 cpus,5.23%,+0.21%,Setembro,2025
+Physical CPUs,15 cpus,0.00%,0.00%,Setembro,2025
+Physical CPUs,16 cpus,5.51%,+0.23%,Setembro,2025
+Physical CPUs,17 cpus,0.00%,0.00%,Setembro,2025
+Physical CPUs,18 cpus,0.06%,+0.01%,Setembro,2025
+Physical CPUs,19 cpus,0.00%,0.00%,Setembro,2025
+Physical CPUs,20 cpus,1.77%,+0.09%,Setembro,2025
+Physical CPUs,22 cpus,0.00%,0.00%,Setembro,2025
+Physical CPUs,23 cpus,0.00%,0.00%,Setembro,2025
+Physical CPUs,24 cpus,2.72%,+0.13%,Setembro,2025
+Physical CPUs,26 cpus,0.00%,0.00%,Setembro,2025
+Physical CPUs,28 cpus,0.01%,0.00%,Setembro,2025
+Physical CPUs,30 cpus,0.00%,0.00%,Setembro,2025
+Physical CPUs,32 cpus,0.01%,0.00%,Setembro,2025
+Physical CPUs,36 cpus,0.00%,0.00%,Setembro,2025
+Physical CPUs,40 cpus,0.00%,0.00%,Setembro,2025
+Physical CPUs,44 cpus,0.00%,0.00%,Setembro,2025
+Physical CPUs,48 cpus,0.00%,0.00%,Setembro,2025
+Physical CPUs,52 cpus,0.00%,0.00%,Setembro,2025
+Physical CPUs,56 cpus,0.00%,0.00%,Setembro,2025
+Physical CPUs,60 cpus,0.00%,0.00%,Setembro,2025
+Physical CPUs,64 cpus,0.00%,0.00%,Setembro,2025
+Physical CPUs,72 cpus,0.00%,0.00%,Setembro,2025
+Physical CPUs,88 cpus,0.00%,0.00%,Setembro,2025
+Physical CPUs,96 cpus,0.00%,0.00%,Setembro,2025
+Physical CPUs,112 cpus,0.00%,0.00%,Setembro,2025
+Physical CPUs,128 cpus,0.00%,0.00%,Setembro,2025
+Physical CPUs,144 cpus,0.00%,0.00%,Setembro,2025
+Physical CPUs,192 cpus,0.00%,0.00%,Setembro,2025
+Video Card Description,NVIDIA GeForce GTX 1050,0.68%,-0.01%,Setembro,2025
+Video Card Description,NVIDIA GeForce RTX 4060 Laptop GPU,4.63%,+0.20%,Setembro,2025
+Video Card Description,NVIDIA GeForce GTX 1650 SUPER,0.33%,0.00%,Setembro,2025
+Video Card Description,AMD Radeon RX 5600 XT,0.17%,+0.01%,Setembro,2025
+Video Card Description,Intel UHD Graphics 600,0.15%,0.00%,Setembro,2025
+Video Card Description,NVIDIA GeForce GTX 970,0.24%,-0.01%,Setembro,2025
+Video Card Description,AMD Radeon RX 6500 XT,0.19%,0.00%,Setembro,2025
+Video Card Description,NVIDIA GeForce RTX 3050,2.94%,+0.03%,Setembro,2025
+Video Card Description,,1.65%,+0.14%,Setembro,2025
+Video Card Description,NVIDIA GeForce RTX 4070 SUPER,1.72%,-0.06%,Setembro,2025
+Video Card Description,NVIDIA GeForce RTX 3060 Ti,2.53%,-0.21%,Setembro,2025
+Video Card Description,NVIDIA GeForce RTX 4070,2.08%,-0.11%,Setembro,2025
+Video Card Description,NVIDIA GeForce RTX 4060 Ti,2.80%,-0.10%,Setembro,2025
+Video Card Description,NVIDIA GeForce RTX 3060,4.25%,-0.37%,Setembro,2025
+Video Card Description,AMD Radeon RX 6750 XT,0.34%,-0.01%,Setembro,2025
+Video Card Description,NVIDIA GeForce RTX 5070,1.62%,+0.12%,Setembro,2025
+Video Card Description,Intel(R) Arc(TM) Graphics,0.27%,+0.02%,Setembro,2025
+Video Card Description,NVIDIA GeForce GTX 1660 SUPER,1.62%,-0.08%,Setembro,2025
+Video Card Description,NVIDIA GeForce GTX 960,0.22%,0.00%,Setembro,2025
+Video Card Description,NVIDIA GeForce RTX 3060 Laptop GPU,2.30%,+0.05%,Setembro,2025
+Video Card Description,NVIDIA GeForce RTX 2080,0.28%,-0.04%,Setembro,2025
+Video Card Description,NVIDIA GeForce RTX 3070,2.32%,-0.16%,Setembro,2025
+Video Card Description,AMD Radeon RX 6900 XT,0.19%,+0.01%,Setembro,2025
+Video Card Description,NVIDIA GeForce GTX 1050 Ti,1.44%,-0.02%,Setembro,2025
+Video Card Description,AMD Radeon 780M Graphics,0.31%,+0.03%,Setembro,2025
+Video Card Description,NVIDIA GeForce RTX 5060,1.08%,+0.11%,Setembro,2025
+Video Card Description,NVIDIA GeForce RTX 2050,0.45%,+0.01%,Setembro,2025
+Video Card Description,NVIDIA GeForce RTX 4070 Ti,1.06%,0.00%,Setembro,2025
+Video Card Description,AMD Radeon RX 6700 XT,0.62%,0.00%,Setembro,2025
+Video Card Description,NVIDIA GeForce RTX 3070 Ti,1.08%,-0.05%,Setembro,2025
+Video Card Description,NVIDIA GeForce RTX 2070,0.54%,-0.10%,Setembro,2025
+Video Card Description,NVIDIA GeForce RTX 2060,2.06%,-0.16%,Setembro,2025
+Video Card Description,NVIDIA GeForce RTX 5090,0.29%,+0.04%,Setembro,2025
+Video Card Description,NVIDIA GeForce GTX 1060,1.91%,-0.06%,Setembro,2025
+Video Card Description,NVIDIA GeForce GTX 1070 Ti,0.25%,0.00%,Setembro,2025
+Video Card Description,NVIDIA GeForce RTX 2060 SUPER,0.90%,-0.01%,Setembro,2025
+Video Card Description,Intel UHD Graphics 620,0.45%,0.00%,Setembro,2025
+Video Card Description,AMD Radeon RX 6600,0.87%,+0.02%,Setembro,2025
+Video Card Description,NVIDIA GeForce RTX 2080 Ti,0.27%,-0.02%,Setembro,2025
+Video Card Description,NVIDIA GeForce RTX 5070 Ti,0.87%,+0.15%,Setembro,2025
+Video Card Description,AMD Radeon RX 550,0.23%,0.00%,Setembro,2025
+Video Card Description,NVIDIA GeForce RTX 5060 Ti,0.85%,+0.14%,Setembro,2025
+Video Card Description,AMD Radeon Vega 8 Graphics,0.36%,0.00%,Setembro,2025
+Video Card Description,NVIDIA GeForce RTX 4090,0.86%,+0.01%,Setembro,2025
+Video Card Description,AMD Radeon RX 6750 GRE 12GB,0.16%,+0.01%,Setembro,2025
+Video Card Description,NVIDIA GeForce GTX 1650,2.91%,-0.04%,Setembro,2025
+Video Card Description,Intel HD Graphics 4600,0.18%,-0.01%,Setembro,2025
+Video Card Description,NVIDIA GeForce RTX 5080,0.80%,+0.09%,Setembro,2025
+Video Card Description,AMD Radeon (TM) Graphics,0.33%,+0.03%,Setembro,2025
+Video Card Description,NVIDIA GeForce RTX 4050 Laptop GPU,1.44%,+0.09%,Setembro,2025
+Video Card Description,Intel(R) Graphics,0.20%,+0.03%,Setembro,2025
+Video Card Description,NVIDIA GeForce RTX 2070 SUPER,0.85%,-0.04%,Setembro,2025
+Video Card Description,AMD Radeon Graphics,1.92%,+0.03%,Setembro,2025
+Video Card Description,NVIDIA GeForce RTX 5060 Laptop GPU,0.76%,+0.10%,Setembro,2025
+Video Card Description,AMD Radeon Graphics (RADV VANGOGH),0.35%,+0.02%,Setembro,2025
+Video Card Description,NVIDIA GeForce RTX 3080,1.65%,-0.03%,Setembro,2025
+Video Card Description,NVIDIA GeForce RTX 3070 Laptop GPU,0.53%,0.00%,Setembro,2025
+Video Card Description,NVIDIA GeForce RTX 4080 SUPER,0.74%,+0.01%,Setembro,2025
+Video Card Description,AMD Radeon RX 6600 XT,0.36%,0.00%,Setembro,2025
+Video Card Description,NVIDIA GeForce RTX 4070 Ti SUPER,0.85%,+0.02%,Setembro,2025
+Video Card Description,AMD Radeon RX 6650 XT,0.30%,0.00%,Setembro,2025
+Video Card Description,NVIDIA GeForce RTX 3050 Ti Laptop GPU,0.73%,0.00%,Setembro,2025
+Video Card Description,NVIDIA GeForce RTX 2080 SUPER,0.33%,-0.02%,Setembro,2025
+Video Card Description,AMD Radeon RX 7800 XT,0.69%,+0.08%,Setembro,2025
+Video Card Description,NVIDIA GeForce RTX 3050 Laptop GPU,0.47%,+0.02%,Setembro,2025
+Video Card Description,NVIDIA GeForce GTX 1070,0.76%,-0.04%,Setembro,2025
+Video Card Description,AMD Radeon RX 6800 XT,0.27%,0.00%,Setembro,2025
+Video Card Description,Intel Iris Xe Graphics,1.85%,+0.09%,Setembro,2025
+Video Card Description,AMD Radeon RX 7700 XT,0.26%,+0.01%,Setembro,2025
+Video Card Description,NVIDIA GeForce RTX 3080 Ti,0.64%,0.00%,Setembro,2025
+Video Card Description,NVIDIA GeForce GT 1030,0.25%,-0.01%,Setembro,2025
+Video Card Description,NVIDIA GeForce RTX 4070 Laptop GPU,1.09%,+0.02%,Setembro,2025
+Video Card Description,NVIDIA GeForce RTX 3050 6GB Laptop GPU,0.43%,+0.04%,Setembro,2025
+Video Card Description,AMD Radeon RX 580,0.63%,-0.01%,Setembro,2025
+Video Card Description,AMD Radeon RX 7600 XT,0.32%,+0.06%,Setembro,2025
+Video Card Description,AMD Radeon(TM) Graphics,2.10%,+0.08%,Setembro,2025
+Video Card Description,NVIDIA GeForce GTX 750 Ti,0.22%,0.00%,Setembro,2025
+Video Card Description,NVIDIA GeForce GTX 1660 Ti,1.06%,0.00%,Setembro,2025
+Video Card Description,Intel(R) UHD Graphics,1.69%,+0.08%,Setembro,2025
+Video Card Description,NVIDIA GeForce RTX 4080,0.66%,0.00%,Setembro,2025
+Video Card Description,Intel HD Graphics 520,0.22%,0.00%,Setembro,2025
+Video Card Description,AMD Radeon RX 580 2048SP,0.59%,+0.01%,Setembro,2025
+Video Card Description,AMD Radeon RX 6800,0.22%,+0.01%,Setembro,2025
+Video Card Description,NVIDIA GeForce GTX 1660,0.57%,-0.02%,Setembro,2025
+Video Card Description,NVIDIA GeForce RTX 3070 Ti Laptop GPU,0.28%,+0.01%,Setembro,2025
+Video Card Description,AMD Radeon RX 7900 XTX,0.52%,+0.01%,Setembro,2025
+Video Card Description,Intel HD Graphics 620,0.21%,-0.01%,Setembro,2025
+Video Card Description,NVIDIA GeForce GTX 1080,0.50%,-0.02%,Setembro,2025
+Video Card Description,AMD Radeon RX 6750 GRE 10GB,0.16%,0.00%,Setembro,2025
+Video Card Description,AMD Radeon RX 5700 XT,0.61%,+0.01%,Setembro,2025
+Video Card Description,NVIDIA GeForce RTX 3050 Ti,0.16%,+0.16%,Setembro,2025
+Video Card Description,NVIDIA GeForce RTX 3090,0.44%,+0.01%,Setembro,2025
+Video Card Description,NVIDIA GeForce RTX 4080 Laptop GPU,0.21%,0.00%,Setembro,2025
+Video Card Description,NVIDIA GeForce GTX 1650 Ti,0.44%,0.00%,Setembro,2025
+Video Card Description,NVIDIA GeForce RTX 5070 Ti Laptop GPU,0.20%,+0.02%,Setembro,2025
+Video Card Description,AMD AMD Custom GPU 0405,0.40%,+0.01%,Setembro,2025
+Video Card Description,Intel UHD Graphics 630,0.30%,+0.01%,Setembro,2025
+Video Card Description,AMD Radeon RX 570,0.39%,-0.02%,Setembro,2025
+Video Card Description,NVIDIA GeForce GT 730,0.17%,0.00%,Setembro,2025
+Video Card Description,NVIDIA Graphics Device,0.82%,+0.18%,Setembro,2025
+Video Card Description,AMD Radeon Vega 3 Graphics,0.20%,-0.01%,Setembro,2025
+Video Card Description,NVIDIA GeForce GTX 1080 Ti,0.38%,-0.01%,Setembro,2025
+Video Card Description,NVIDIA GeForce RTX 4060,4.08%,-0.58%,Setembro,2025
+Video Card Description,Other,8.83%,-0.02%,Setembro,2025
+VRAM,512 MB,6.84%,+0.57%,Setembro,2025
+VRAM,1 GB,3.46%,+0.09%,Setembro,2025
+VRAM,2 GB,4.85%,+0.23%,Setembro,2025
+VRAM,3 GB,0.96%,-0.06%,Setembro,2025
+VRAM,4 GB,6.26%,+0.08%,Setembro,2025
+VRAM,6 GB,10.40%,-0.20%,Setembro,2025
+VRAM,8 GB,33.66%,-1.37%,Setembro,2025
+VRAM,10 GB,2.46%,-0.02%,Setembro,2025
+VRAM,11 GB,1.12%,0.00%,Setembro,2025
+VRAM,12 GB,18.99%,-0.31%,Setembro,2025
+VRAM,16 GB,7.52%,+0.72%,Setembro,2025
+VRAM,24 GB,2.30%,+0.10%,Setembro,2025
+VRAM,32 GB,0.52%,+0.52%,Setembro,2025
+VRAM,Other,0.65%,-0.37%,Setembro,2025
+Primary Display Resolution,800 x 1280,0.50%,0.00%,Setembro,2025
+Primary Display Resolution,1280 x 800,0.31%,+0.03%,Setembro,2025
+Primary Display Resolution,1280 x 720,0.20%,-0.01%,Setembro,2025
+Primary Display Resolution,1280 x 1024,0.23%,0.00%,Setembro,2025
+Primary Display Resolution,1360 x 768,0.47%,-0.01%,Setembro,2025
+Primary Display Resolution,1366 x 768,2.46%,-0.03%,Setembro,2025
+Primary Display Resolution,1440 x 900,0.83%,+0.01%,Setembro,2025
+Primary Display Resolution,1470 x 956,0.33%,+0.05%,Setembro,2025
+Primary Display Resolution,1512 x 982,0.25%,+0.01%,Setembro,2025
+Primary Display Resolution,1600 x 900,0.74%,-0.02%,Setembro,2025
+Primary Display Resolution,1680 x 1050,0.48%,+0.01%,Setembro,2025
+Primary Display Resolution,1920 x 1200,1.95%,+0.15%,Setembro,2025
+Primary Display Resolution,1920 x 1080,53.23%,-1.21%,Setembro,2025
+Primary Display Resolution,2560 x 1600,5.46%,+0.37%,Setembro,2025
+Primary Display Resolution,2560 x 1440,20.52%,+0.33%,Setembro,2025
+Primary Display Resolution,2560 x 1080,0.78%,-0.02%,Setembro,2025
+Primary Display Resolution,2880 x 1800,0.46%,+0.03%,Setembro,2025
+Primary Display Resolution,3440 x 1440,2.93%,+0.08%,Setembro,2025
+Primary Display Resolution,3840 x 2160,4.83%,+0.24%,Setembro,2025
+Primary Display Resolution,5120 x 1440,0.38%,+0.01%,Setembro,2025
+Primary Display Resolution,Other,2.67%,+0.01%,Setembro,2025
+OS Version,Windows,94.84%,-0.56%,Outubro,2025
+OS Version,Windows 11 64 bit,63.57%,+0.53%,Outubro,2025
+OS Version,Windows 10 64 bit,31.14%,-1.04%,Outubro,2025
+OS Version,Windows 7 64 bit,0.09%,+0.02%,Outubro,2025
+OS Version,OSX,2.11%,+0.20%,Outubro,2025
+OS Version,MacOS 15.6.1 64 bit,0.51%,-0.27%,Outubro,2025
+OS Version,MacOS 26.0.1 64 bit,0.50%,+0.50%,Outubro,2025
+OS Version,MacOS 15.5.0 64 bit,0.15%,-0.03%,Outubro,2025
+OS Version,MacOS 26.0.0 64 bit,0.14%,-0.10%,Outubro,2025
+OS Version,MacOS 15.6.0 64 bit,0.08%,-0.03%,Outubro,2025
+OS Version,MacOS 15.7.1 64 bit,0.08%,+0.08%,Outubro,2025
+OS Version,MacOS 12.7.6 64 bit,0.05%,+0.05%,Outubro,2025
+OS Version,MacOS 26.1.0 64 bit,0.05%,+0.05%,Outubro,2025
+OS Version,Linux,3.05%,+0.37%,Outubro,2025
+OS Version,"Arch Linux" 64 bit,0.31%,+0.02%,Outubro,2025
+OS Version,Linux Mint 22.2 64 bit,0.20%,+0.11%,Outubro,2025
+OS Version,Ubuntu Core 22 64 bit,0.14%,+0.03%,Outubro,2025
+OS Version,Ubuntu 24.04.3 LTS 64 bit,0.11%,+0.02%,Outubro,2025
+OS Version,Linux Mint 22.1 64 bit,0.08%,-0.07%,Outubro,2025
+OS Version,"EndeavourOS Linux" 64 bit,0.07%,+0.01%,Outubro,2025
+OS Version,"Fedora Linux 42 (KDE Plasma Desktop Edition)" 64 bit,0.06%,+0.01%,Outubro,2025
+OS Version,"Manjaro Linux" 64 bit,0.06%,0.00%,Outubro,2025
+OS Version,Fedora Linux 42 (Workstation Edition) 64 bit,0.05%,0.00%,Outubro,2025
+System RAM,Less than 4 GB,0.02%,0.00%,Outubro,2025
+System RAM,4 GB,1.62%,+0.07%,Outubro,2025
+System RAM,8 GB,8.38%,+0.33%,Outubro,2025
+System RAM,12 GB,2.61%,+0.04%,Outubro,2025
+System RAM,16 GB,41.49%,-0.27%,Outubro,2025
+System RAM,24 GB,1.85%,+0.07%,Outubro,2025
+System RAM,28 GB,0.54%,+0.01%,Outubro,2025
+System RAM,32 GB,35.93%,-0.33%,Outubro,2025
+System RAM,48 GB,1.09%,-0.07%,Outubro,2025
+System RAM,60 GB,0.80%,+0.04%,Outubro,2025
+System RAM,64 GB,4.35%,+0.02%,Outubro,2025
+System RAM,More than 64 GB,0.62%,+0.03%,Outubro,2025
+System RAM,Other,0.67%,+0.02%,Outubro,2025
+Physical CPUs,1 cpu,0.03%,0.00%,Outubro,2025
+Physical CPUs,2 cpus,3.45%,+0.16%,Outubro,2025
+Physical CPUs,3 cpus,0.13%,-0.03%,Outubro,2025
+Physical CPUs,4 cpus,14.58%,+0.40%,Outubro,2025
+Physical CPUs,5 cpus,0.13%,+0.03%,Outubro,2025
+Physical CPUs,6 cpus,28.69%,-0.09%,Outubro,2025
+Physical CPUs,7 cpus,0.01%,0.00%,Outubro,2025
+Physical CPUs,8 cpus,25.81%,+0.23%,Outubro,2025
+Physical CPUs,9 cpus,0.00%,0.00%,Outubro,2025
+Physical CPUs,10 cpus,6.90%,-0.10%,Outubro,2025
+Physical CPUs,11 cpus,0.05%,+0.01%,Outubro,2025
+Physical CPUs,12 cpus,5.48%,-0.05%,Outubro,2025
+Physical CPUs,13 cpus,0.00%,0.00%,Outubro,2025
+Physical CPUs,14 cpus,4.88%,-0.35%,Outubro,2025
+Physical CPUs,15 cpus,0.00%,0.00%,Outubro,2025
+Physical CPUs,16 cpus,5.43%,-0.08%,Outubro,2025
+Physical CPUs,17 cpus,0.00%,0.00%,Outubro,2025
+Physical CPUs,18 cpus,0.06%,0.00%,Outubro,2025
+Physical CPUs,19 cpus,0.00%,0.00%,Outubro,2025
+Physical CPUs,20 cpus,1.72%,-0.05%,Outubro,2025
+Physical CPUs,21 cpus,0.00%,0.00%,Outubro,2025
+Physical CPUs,22 cpus,0.00%,0.00%,Outubro,2025
+Physical CPUs,23 cpus,0.00%,0.00%,Outubro,2025
+Physical CPUs,24 cpus,2.60%,-0.12%,Outubro,2025
+Physical CPUs,26 cpus,0.00%,0.00%,Outubro,2025
+Physical CPUs,28 cpus,0.01%,0.00%,Outubro,2025
+Physical CPUs,30 cpus,0.00%,0.00%,Outubro,2025
+Physical CPUs,32 cpus,0.01%,0.00%,Outubro,2025
+Physical CPUs,36 cpus,0.01%,+0.01%,Outubro,2025
+Physical CPUs,40 cpus,0.00%,0.00%,Outubro,2025
+Physical CPUs,44 cpus,0.00%,0.00%,Outubro,2025
+Physical CPUs,48 cpus,0.00%,0.00%,Outubro,2025
+Physical CPUs,50 cpus,0.00%,0.00%,Outubro,2025
+Physical CPUs,52 cpus,0.00%,0.00%,Outubro,2025
+Physical CPUs,56 cpus,0.00%,0.00%,Outubro,2025
+Physical CPUs,61 cpus,0.00%,0.00%,Outubro,2025
+Physical CPUs,64 cpus,0.00%,0.00%,Outubro,2025
+Physical CPUs,96 cpus,0.00%,0.00%,Outubro,2025
+Physical CPUs,128 cpus,0.00%,0.00%,Outubro,2025
+Video Card Description,NVIDIA GeForce RTX 2050,0.46%,+0.01%,Outubro,2025
+Video Card Description,NVIDIA GeForce RTX 5090,0.31%,+0.02%,Outubro,2025
+Video Card Description,Intel UHD Graphics 630,0.29%,-0.01%,Outubro,2025
+Video Card Description,AMD Radeon RX 570,0.40%,+0.01%,Outubro,2025
+Video Card Description,Intel HD Graphics 520,0.24%,+0.02%,Outubro,2025
+Video Card Description,NVIDIA GeForce RTX 3070 Ti Laptop GPU,0.25%,-0.03%,Outubro,2025
+Video Card Description,NVIDIA GeForce RTX 3060 Ti,2.47%,-0.06%,Outubro,2025
+Video Card Description,AMD Radeon RX 7700 XT,0.25%,-0.01%,Outubro,2025
+Video Card Description,,1.83%,+0.18%,Outubro,2025
+Video Card Description,NVIDIA GeForce RTX 5070,1.79%,+0.17%,Outubro,2025
+Video Card Description,NVIDIA GeForce RTX 4070,2.03%,-0.05%,Outubro,2025
+Video Card Description,NVIDIA GeForce RTX 4060 Ti,2.67%,-0.13%,Outubro,2025
+Video Card Description,NVIDIA GeForce RTX 4060 Laptop GPU,4.10%,-0.53%,Outubro,2025
+Video Card Description,AMD Radeon RX 6650 XT,0.29%,-0.01%,Outubro,2025
+Video Card Description,NVIDIA GeForce RTX 4070 SUPER,1.63%,-0.09%,Outubro,2025
+Video Card Description,AMD Radeon RX 7600 XT,0.38%,+0.06%,Outubro,2025
+Video Card Description,NVIDIA GeForce GTX 1660 SUPER,1.62%,0.00%,Outubro,2025
+Video Card Description,NVIDIA GeForce GTX 970,0.25%,+0.01%,Outubro,2025
+Video Card Description,NVIDIA GeForce RTX 3050,2.96%,+0.02%,Outubro,2025
+Video Card Description,Intel HD Graphics 620,0.22%,+0.01%,Outubro,2025
+Video Card Description,NVIDIA GeForce RTX 3060 Laptop GPU,2.12%,-0.18%,Outubro,2025
+Video Card Description,Intel HD Graphics 4600,0.19%,+0.01%,Outubro,2025
+Video Card Description,NVIDIA GeForce RTX 3070,2.30%,-0.02%,Outubro,2025
+Video Card Description,Intel(R) Graphics,0.24%,+0.04%,Outubro,2025
+Video Card Description,NVIDIA GeForce RTX 5060,1.24%,+0.16%,Outubro,2025
+Video Card Description,AMD Radeon Graphics (RADV VANGOGH),0.39%,+0.04%,Outubro,2025
+Video Card Description,NVIDIA GeForce GTX 1050 Ti,1.44%,0.00%,Outubro,2025
+Video Card Description,NVIDIA GeForce RTX 3070 Laptop GPU,0.51%,-0.02%,Outubro,2025
+Video Card Description,NVIDIA GeForce RTX 2060,2.04%,-0.02%,Outubro,2025
+Video Card Description,NVIDIA GeForce RTX 2070,0.54%,0.00%,Outubro,2025
+Video Card Description,NVIDIA GeForce RTX 3070 Ti,1.05%,-0.03%,Outubro,2025
+Video Card Description,AMD Radeon RX 6750 XT,0.35%,+0.01%,Outubro,2025
+Video Card Description,NVIDIA GeForce RTX 4070 Ti,0.99%,-0.07%,Outubro,2025
+Video Card Description,NVIDIA GeForce RTX 3050 Laptop GPU,0.43%,-0.04%,Outubro,2025
+Video Card Description,NVIDIA GeForce GTX 1060,1.88%,-0.03%,Outubro,2025
+Video Card Description,Intel UHD Graphics 620,0.48%,+0.03%,Outubro,2025
+Video Card Description,NVIDIA GeForce RTX 5060 Ti,0.95%,+0.10%,Outubro,2025
+Video Card Description,NVIDIA GeForce RTX 2080 Ti,0.27%,0.00%,Outubro,2025
+Video Card Description,NVIDIA GeForce RTX 2060 SUPER,0.92%,+0.02%,Outubro,2025
+Video Card Description,AMD Radeon RX 550,0.24%,+0.01%,Outubro,2025
+Video Card Description,NVIDIA GeForce RTX 5070 Ti,0.90%,+0.03%,Outubro,2025
+Video Card Description,NVIDIA GeForce RTX 2080,0.27%,-0.01%,Outubro,2025
+Video Card Description,AMD Radeon RX 6600,0.87%,0.00%,Outubro,2025
+Video Card Description,NVIDIA GeForce RTX 4080 Laptop GPU,0.20%,-0.01%,Outubro,2025
+Video Card Description,NVIDIA GeForce RTX 5060 Laptop GPU,0.86%,+0.10%,Outubro,2025
+Video Card Description,NVIDIA GeForce RTX 5070 Ti Laptop GPU,0.19%,-0.01%,Outubro,2025
+Video Card Description,NVIDIA GeForce GTX 1650,2.92%,+0.01%,Outubro,2025
+Video Card Description,AMD Radeon 780M Graphics,0.32%,+0.01%,Outubro,2025
+Video Card Description,NVIDIA GeForce RTX 5080,0.82%,+0.02%,Outubro,2025
+Video Card Description,NVIDIA GeForce RTX 3060,4.30%,+0.05%,Outubro,2025
+Video Card Description,NVIDIA GeForce RTX 4090,0.82%,-0.04%,Outubro,2025
+Video Card Description,AMD Radeon Graphics,2.00%,+0.08%,Outubro,2025
+Video Card Description,NVIDIA GeForce RTX 4050 Laptop GPU,1.41%,-0.03%,Outubro,2025
+Video Card Description,NVIDIA GeForce GTX 1080 Ti,0.39%,+0.01%,Outubro,2025
+Video Card Description,NVIDIA GeForce RTX 2070 SUPER,0.83%,-0.02%,Outubro,2025
+Video Card Description,NVIDIA GeForce GTX 1650 SUPER,0.32%,-0.01%,Outubro,2025
+Video Card Description,NVIDIA GeForce RTX 3080,1.62%,-0.03%,Outubro,2025
+Video Card Description,NVIDIA GeForce GTX 1050,0.70%,+0.02%,Outubro,2025
+Video Card Description,AMD Radeon RX 7800 XT,0.71%,+0.02%,Outubro,2025
+Video Card Description,AMD Radeon RX 6700 XT,0.61%,-0.01%,Outubro,2025
+Video Card Description,NVIDIA GeForce RTX 3050 Ti Laptop GPU,0.72%,-0.01%,Outubro,2025
+Video Card Description,AMD Radeon RX 6600 XT,0.35%,-0.01%,Outubro,2025
+Video Card Description,NVIDIA GeForce RTX 4080 SUPER,0.69%,-0.05%,Outubro,2025
+Video Card Description,NVIDIA GeForce RTX 2080 SUPER,0.33%,0.00%,Outubro,2025
+Video Card Description,NVIDIA GeForce GTX 1070,0.78%,+0.02%,Outubro,2025
+Video Card Description,Intel(R) Arc(TM) Graphics,0.28%,+0.01%,Outubro,2025
+Video Card Description,NVIDIA GeForce RTX 4070 Ti SUPER,0.78%,-0.07%,Outubro,2025
+Video Card Description,AMD Radeon RX 6800 XT,0.26%,-0.01%,Outubro,2025
+Video Card Description,Intel Iris Xe Graphics,1.85%,0.00%,Outubro,2025
+Video Card Description,NVIDIA GeForce RTX 3050 6GB Laptop GPU,0.45%,+0.02%,Outubro,2025
+Video Card Description,AMD Radeon RX 580,0.65%,+0.02%,Outubro,2025
+Video Card Description,NVIDIA GeForce GTX 1070 Ti,0.25%,0.00%,Outubro,2025
+Video Card Description,NVIDIA GeForce RTX 3080 Ti,0.62%,-0.02%,Outubro,2025
+Video Card Description,NVIDIA GeForce GT 1030,0.25%,0.00%,Outubro,2025
+Video Card Description,NVIDIA GeForce GTX 1660 Ti,1.05%,-0.01%,Outubro,2025
+Video Card Description,Intel(R) UHD Graphics,1.79%,+0.10%,Outubro,2025
+Video Card Description,NVIDIA GeForce RTX 4070 Laptop GPU,1.02%,-0.07%,Outubro,2025
+Video Card Description,NVIDIA GeForce GTX 960,0.22%,0.00%,Outubro,2025
+Video Card Description,AMD Radeon RX 580 2048SP,0.60%,+0.01%,Outubro,2025
+Video Card Description,NVIDIA GeForce GTX 750 Ti,0.21%,-0.01%,Outubro,2025
+Video Card Description,NVIDIA GeForce RTX 4080,0.68%,+0.02%,Outubro,2025
+Video Card Description,AMD Radeon RX 6500 XT,0.19%,0.00%,Outubro,2025
+Video Card Description,AMD Radeon(TM) Graphics,2.12%,+0.02%,Outubro,2025
+Video Card Description,AMD Radeon RX 6800,0.22%,0.00%,Outubro,2025
+Video Card Description,NVIDIA GeForce GTX 1660,0.56%,-0.01%,Outubro,2025
+Video Card Description,AMD Radeon Vega 8 Graphics,0.38%,+0.02%,Outubro,2025
+Video Card Description,NVIDIA Graphics Device,0.99%,+0.17%,Outubro,2025
+Video Card Description,AMD Radeon RX 5600 XT,0.16%,-0.01%,Outubro,2025
+Video Card Description,NVIDIA GeForce GTX 1080,0.50%,0.00%,Outubro,2025
+Video Card Description,AMD Radeon RX 6900 XT,0.18%,-0.01%,Outubro,2025
+Video Card Description,AMD Radeon RX 7900 XTX,0.50%,-0.02%,Outubro,2025
+Video Card Description,Intel UHD Graphics 600,0.16%,+0.01%,Outubro,2025
+Video Card Description,AMD Radeon RX 5700 XT,0.61%,0.00%,Outubro,2025
+Video Card Description,AMD Radeon (TM) Graphics,0.35%,+0.02%,Outubro,2025
+Video Card Description,AMD AMD Custom GPU 0405,0.43%,+0.03%,Outubro,2025
+Video Card Description,NVIDIA GeForce GT 730,0.17%,0.00%,Outubro,2025
+Video Card Description,NVIDIA GeForce RTX 3090,0.44%,0.00%,Outubro,2025
+Video Card Description,AMD Radeon Vega 3 Graphics,0.21%,+0.01%,Outubro,2025
+Video Card Description,NVIDIA GeForce GTX 1650 Ti,0.45%,+0.01%,Outubro,2025
+Video Card Description,NVIDIA GeForce RTX 4060,3.98%,-0.10%,Outubro,2025
+Video Card Description,Other,9.50%,+0.67%,Outubro,2025
+VRAM,512 MB,7.07%,+0.23%,Outubro,2025
+VRAM,1 GB,3.49%,+0.03%,Outubro,2025
+VRAM,2 GB,4.86%,+0.01%,Outubro,2025
+VRAM,3 GB,0.95%,-0.01%,Outubro,2025
+VRAM,4 GB,6.28%,+0.02%,Outubro,2025
+VRAM,6 GB,10.50%,+0.10%,Outubro,2025
+VRAM,8 GB,33.46%,-0.20%,Outubro,2025
+VRAM,10 GB,2.42%,-0.04%,Outubro,2025
+VRAM,11 GB,1.15%,+0.03%,Outubro,2025
+VRAM,12 GB,18.97%,-0.02%,Outubro,2025
+VRAM,16 GB,7.48%,-0.04%,Outubro,2025
+VRAM,24 GB,2.24%,-0.06%,Outubro,2025
+VRAM,32 GB,0.54%,+0.02%,Outubro,2025
+VRAM,Other,0.59%,-0.06%,Outubro,2025
+Primary Display Resolution,800 x 1280,0.56%,+0.06%,Outubro,2025
+Primary Display Resolution,1280 x 800,0.33%,+0.02%,Outubro,2025
+Primary Display Resolution,1280 x 720,0.23%,+0.03%,Outubro,2025
+Primary Display Resolution,1280 x 1024,0.24%,+0.01%,Outubro,2025
+Primary Display Resolution,1360 x 768,0.49%,+0.02%,Outubro,2025
+Primary Display Resolution,1366 x 768,2.57%,+0.11%,Outubro,2025
+Primary Display Resolution,1440 x 900,0.87%,+0.04%,Outubro,2025
+Primary Display Resolution,1470 x 956,0.37%,+0.04%,Outubro,2025
+Primary Display Resolution,1512 x 982,0.28%,+0.03%,Outubro,2025
+Primary Display Resolution,1600 x 900,0.76%,+0.02%,Outubro,2025
+Primary Display Resolution,1680 x 1050,0.49%,+0.01%,Outubro,2025
+Primary Display Resolution,1920 x 1080,53.47%,+0.24%,Outubro,2025
+Primary Display Resolution,1920 x 1200,2.04%,+0.09%,Outubro,2025
+Primary Display Resolution,2560 x 1440,19.93%,-0.59%,Outubro,2025
+Primary Display Resolution,2560 x 1600,5.22%,-0.24%,Outubro,2025
+Primary Display Resolution,2560 x 1080,0.80%,+0.02%,Outubro,2025
+Primary Display Resolution,2880 x 1800,0.48%,+0.02%,Outubro,2025
+Primary Display Resolution,3440 x 1440,2.99%,+0.06%,Outubro,2025
+Primary Display Resolution,3840 x 2160,4.65%,-0.18%,Outubro,2025
+Primary Display Resolution,5120 x 1440,0.40%,+0.02%,Outubro,2025
+Primary Display Resolution,Other,2.82%,+0.15%,Outubro,2025
+OS Version,Windows,94.79%,-0.05%,Novembro,2025
+OS Version,Windows 11 64 bit,65.59%,+2.02%,Novembro,2025
+OS Version,Windows 10 64 bit,29.06%,-2.08%,Novembro,2025
+OS Version,Windows 7 64 bit,0.08%,-0.01%,Novembro,2025
+OS Version,OSX,2.02%,-0.09%,Novembro,2025
+OS Version,MacOS 15.6.1 64 bit,0.38%,-0.13%,Novembro,2025
+OS Version,MacOS 26.0.1 64 bit,0.37%,-0.13%,Novembro,2025
+OS Version,MacOS 26.1.0 64 bit,0.36%,+0.31%,Novembro,2025
+OS Version,MacOS 15.5.0 64 bit,0.12%,-0.03%,Novembro,2025
+OS Version,MacOS 15.6.0 64 bit,0.08%,0.00%,Novembro,2025
+OS Version,MacOS 15.7.1 64 bit,0.08%,0.00%,Novembro,2025
+OS Version,Linux,3.20%,+0.15%,Novembro,2025
+OS Version,"Arch Linux" 64 bit,0.32%,+0.01%,Novembro,2025
+OS Version,Linux Mint 22.2 64 bit,0.24%,+0.04%,Novembro,2025
+OS Version,Ubuntu Core 22 64 bit,0.14%,0.00%,Novembro,2025
+OS Version,Ubuntu 24.04.3 LTS 64 bit,0.12%,+0.01%,Novembro,2025
+OS Version,"EndeavourOS Linux" 64 bit,0.07%,0.00%,Novembro,2025
+OS Version,Linux Mint 22.1 64 bit,0.06%,-0.02%,Novembro,2025
+OS Version,"Manjaro Linux" 64 bit,0.06%,0.00%,Novembro,2025
+OS Version,Debian GNU/Linux 13 (trixie) 64 bit,0.05%,+0.05%,Novembro,2025
+System RAM,Less than 4 GB,0.02%,0.00%,Novembro,2025
+System RAM,4 GB,1.50%,-0.12%,Novembro,2025
+System RAM,8 GB,7.93%,-0.45%,Novembro,2025
+System RAM,12 GB,2.53%,-0.08%,Novembro,2025
+System RAM,16 GB,40.94%,-0.55%,Novembro,2025
+System RAM,24 GB,1.85%,0.00%,Novembro,2025
+System RAM,28 GB,0.54%,0.00%,Novembro,2025
+System RAM,32 GB,36.96%,+1.03%,Novembro,2025
+System RAM,48 GB,1.18%,+0.09%,Novembro,2025
+System RAM,60 GB,0.86%,+0.06%,Novembro,2025
+System RAM,64 GB,4.42%,+0.07%,Novembro,2025
+System RAM,More than 64 GB,0.63%,+0.01%,Novembro,2025
+System RAM,Other,0.65%,-0.02%,Novembro,2025
+Physical CPUs,Unspecified,0.00%,0.00%,Novembro,2025
+Physical CPUs,1 cpu,0.02%,-0.01%,Novembro,2025
+Physical CPUs,2 cpus,3.21%,-0.24%,Novembro,2025
+Physical CPUs,3 cpus,0.11%,-0.02%,Novembro,2025
+Physical CPUs,4 cpus,13.99%,-0.59%,Novembro,2025
+Physical CPUs,5 cpus,0.14%,+0.01%,Novembro,2025
+Physical CPUs,6 cpus,28.44%,-0.25%,Novembro,2025
+Physical CPUs,7 cpus,0.01%,0.00%,Novembro,2025
+Physical CPUs,8 cpus,26.23%,+0.42%,Novembro,2025
+Physical CPUs,9 cpus,0.00%,0.00%,Novembro,2025
+Physical CPUs,10 cpus,7.04%,+0.14%,Novembro,2025
+Physical CPUs,11 cpus,0.04%,-0.01%,Novembro,2025
+Physical CPUs,12 cpus,5.42%,-0.06%,Novembro,2025
+Physical CPUs,13 cpus,0.00%,0.00%,Novembro,2025
+Physical CPUs,14 cpus,5.04%,+0.16%,Novembro,2025
+Physical CPUs,15 cpus,0.00%,0.00%,Novembro,2025
+Physical CPUs,16 cpus,5.61%,+0.18%,Novembro,2025
+Physical CPUs,17 cpus,0.00%,0.00%,Novembro,2025
+Physical CPUs,18 cpus,0.05%,-0.01%,Novembro,2025
+Physical CPUs,19 cpus,0.00%,0.00%,Novembro,2025
+Physical CPUs,20 cpus,1.87%,+0.15%,Novembro,2025
+Physical CPUs,21 cpus,0.00%,0.00%,Novembro,2025
+Physical CPUs,22 cpus,0.00%,0.00%,Novembro,2025
+Physical CPUs,23 cpus,0.00%,0.00%,Novembro,2025
+Physical CPUs,24 cpus,2.74%,+0.14%,Novembro,2025
+Physical CPUs,26 cpus,0.00%,0.00%,Novembro,2025
+Physical CPUs,28 cpus,0.01%,0.00%,Novembro,2025
+Physical CPUs,29 cpus,0.00%,0.00%,Novembro,2025
+Physical CPUs,30 cpus,0.00%,0.00%,Novembro,2025
+Physical CPUs,32 cpus,0.01%,0.00%,Novembro,2025
+Physical CPUs,34 cpus,0.00%,0.00%,Novembro,2025
+Physical CPUs,36 cpus,0.00%,-0.01%,Novembro,2025
+Physical CPUs,40 cpus,0.00%,0.00%,Novembro,2025
+Physical CPUs,44 cpus,0.00%,0.00%,Novembro,2025
+Physical CPUs,48 cpus,0.00%,0.00%,Novembro,2025
+Physical CPUs,52 cpus,0.00%,0.00%,Novembro,2025
+Physical CPUs,56 cpus,0.00%,0.00%,Novembro,2025
+Physical CPUs,60 cpus,0.00%,0.00%,Novembro,2025
+Physical CPUs,64 cpus,0.00%,0.00%,Novembro,2025
+Physical CPUs,86 cpus,0.00%,0.00%,Novembro,2025
+Physical CPUs,88 cpus,0.00%,0.00%,Novembro,2025
+Physical CPUs,96 cpus,0.00%,0.00%,Novembro,2025
+Physical CPUs,120 cpus,0.00%,0.00%,Novembro,2025
+Physical CPUs,128 cpus,0.00%,0.00%,Novembro,2025
+Physical CPUs,192 cpus,0.00%,0.00%,Novembro,2025
+Video Card Description,AMD Radeon RX 6700 XT,0.59%,-0.02%,Novembro,2025
+Video Card Description,AMD Radeon RX 570,0.39%,-0.01%,Novembro,2025
+Video Card Description,NVIDIA GeForce RTX 5090,0.34%,+0.03%,Novembro,2025
+Video Card Description,AMD Radeon RX 5600 XT,0.15%,-0.01%,Novembro,2025
+Video Card Description,AMD Radeon 780M Graphics,0.32%,0.00%,Novembro,2025
+Video Card Description,NVIDIA GeForce GT 1030,0.24%,-0.01%,Novembro,2025
+Video Card Description,Intel HD Graphics 520,0.22%,-0.02%,Novembro,2025
+Video Card Description,NVIDIA GeForce RTX 4070 SUPER,1.63%,0.00%,Novembro,2025
+Video Card Description,NVIDIA GeForce RTX 3060 Ti,2.39%,-0.08%,Novembro,2025
+Video Card Description,NVIDIA GeForce RTX 4070,2.07%,+0.04%,Novembro,2025
+Video Card Description,,1.77%,-0.06%,Novembro,2025
+Video Card Description,NVIDIA GeForce RTX 5070,2.12%,+0.33%,Novembro,2025
+Video Card Description,NVIDIA GeForce RTX 4060 Ti,2.63%,-0.04%,Novembro,2025
+Video Card Description,NVIDIA GeForce RTX 4060 Laptop GPU,4.22%,+0.12%,Novembro,2025
+Video Card Description,NVIDIA GeForce RTX 2080 SUPER,0.31%,-0.02%,Novembro,2025
+Video Card Description,NVIDIA GeForce RTX 3050,2.96%,0.00%,Novembro,2025
+Video Card Description,NVIDIA GeForce RTX 3050 6GB Laptop GPU,0.47%,+0.02%,Novembro,2025
+Video Card Description,NVIDIA GeForce GTX 1660 SUPER,1.58%,-0.04%,Novembro,2025
+Video Card Description,Intel(R) UHD Graphics,1.72%,-0.07%,Novembro,2025
+Video Card Description,NVIDIA GeForce RTX 5060,1.54%,+0.30%,Novembro,2025
+Video Card Description,NVIDIA GeForce RTX 2080,0.27%,0.00%,Novembro,2025
+Video Card Description,NVIDIA GeForce RTX 3060 Laptop GPU,2.15%,+0.03%,Novembro,2025
+Video Card Description,Intel HD Graphics 4600,0.18%,-0.01%,Novembro,2025
+Video Card Description,NVIDIA GeForce RTX 3070,2.24%,-0.06%,Novembro,2025
+Video Card Description,NVIDIA GeForce RTX 3060,4.16%,-0.14%,Novembro,2025
+Video Card Description,NVIDIA GeForce RTX 5060 Ti,1.14%,+0.19%,Novembro,2025
+Video Card Description,NVIDIA GeForce RTX 2050,0.45%,-0.01%,Novembro,2025
+Video Card Description,NVIDIA GeForce GTX 1050 Ti,1.38%,-0.06%,Novembro,2025
+Video Card Description,NVIDIA GeForce RTX 3070 Laptop GPU,0.50%,-0.01%,Novembro,2025
+Video Card Description,NVIDIA GeForce RTX 5070 Ti,1.09%,+0.19%,Novembro,2025
+Video Card Description,NVIDIA GeForce RTX 2070,0.54%,0.00%,Novembro,2025
+Video Card Description,NVIDIA GeForce RTX 3070 Ti,1.07%,+0.02%,Novembro,2025
+Video Card Description,AMD Radeon RX 6750 XT,0.33%,-0.02%,Novembro,2025
+Video Card Description,NVIDIA GeForce RTX 4070 Ti,1.01%,+0.02%,Novembro,2025
+Video Card Description,NVIDIA GeForce RTX 3050 Laptop GPU,0.42%,-0.01%,Novembro,2025
+Video Card Description,NVIDIA GeForce RTX 2060,1.96%,-0.08%,Novembro,2025
+Video Card Description,Intel UHD Graphics 620,0.46%,-0.02%,Novembro,2025
+Video Card Description,NVIDIA GeForce RTX 5080,0.96%,+0.14%,Novembro,2025
+Video Card Description,NVIDIA GeForce GTX 960,0.20%,-0.02%,Novembro,2025
+Video Card Description,NVIDIA GeForce GTX 1060,1.80%,-0.08%,Novembro,2025
+Video Card Description,AMD Radeon RX 6500 XT,0.18%,-0.01%,Novembro,2025
+Video Card Description,NVIDIA GeForce RTX 5060 Laptop GPU,0.87%,+0.01%,Novembro,2025
+Video Card Description,NVIDIA GeForce RTX 3070 Ti Laptop GPU,0.26%,+0.01%,Novembro,2025
+Video Card Description,AMD Radeon RX 6600,0.84%,-0.03%,Novembro,2025
+Video Card Description,AMD Radeon RX 6900 XT,0.18%,0.00%,Novembro,2025
+Video Card Description,NVIDIA GeForce RTX 2060 SUPER,0.86%,-0.06%,Novembro,2025
+Video Card Description,Intel UHD Graphics 630,0.29%,0.00%,Novembro,2025
+Video Card Description,AMD Radeon RX 7800 XT,0.84%,+0.13%,Novembro,2025
+Video Card Description,AMD Radeon Vega 3 Graphics,0.20%,-0.01%,Novembro,2025
+Video Card Description,NVIDIA GeForce RTX 4090,0.82%,0.00%,Novembro,2025
+Video Card Description,NVIDIA GeForce GTX 1650 Ti,0.43%,-0.02%,Novembro,2025
+Video Card Description,NVIDIA GeForce RTX 4050 Laptop GPU,1.47%,+0.06%,Novembro,2025
+Video Card Description,AMD Radeon Graphics,1.89%,-0.11%,Novembro,2025
+Video Card Description,NVIDIA GeForce GTX 1650,2.80%,-0.12%,Novembro,2025
+Video Card Description,NVIDIA GeForce GTX 1080 Ti,0.37%,-0.02%,Novembro,2025
+Video Card Description,NVIDIA GeForce RTX 2070 SUPER,0.82%,-0.01%,Novembro,2025
+Video Card Description,AMD Radeon RX 7600 XT,0.44%,+0.06%,Novembro,2025
+Video Card Description,NVIDIA GeForce RTX 3080,1.59%,-0.03%,Novembro,2025
+Video Card Description,NVIDIA GeForce GTX 1650 SUPER,0.31%,-0.01%,Novembro,2025
+Video Card Description,NVIDIA GeForce RTX 4080 SUPER,0.70%,+0.01%,Novembro,2025
+Video Card Description,NVIDIA GeForce GTX 1050,0.65%,-0.05%,Novembro,2025
+Video Card Description,NVIDIA GeForce RTX 4070 Ti SUPER,0.81%,+0.03%,Novembro,2025
+Video Card Description,AMD Radeon RX 6600 XT,0.34%,-0.01%,Novembro,2025
+Video Card Description,NVIDIA GeForce RTX 3050 Ti Laptop GPU,0.70%,-0.02%,Novembro,2025
+Video Card Description,AMD Radeon RX 6650 XT,0.28%,-0.01%,Novembro,2025
+Video Card Description,NVIDIA GeForce GTX 1070,0.76%,-0.02%,Novembro,2025
+Video Card Description,AMD Radeon RX 6800 XT,0.27%,+0.01%,Novembro,2025
+Video Card Description,Intel Iris Xe Graphics,1.76%,-0.09%,Novembro,2025
+Video Card Description,Intel(R) Arc(TM) Graphics,0.26%,-0.02%,Novembro,2025
+Video Card Description,NVIDIA GeForce RTX 4070 Laptop GPU,1.07%,+0.05%,Novembro,2025
+Video Card Description,AMD Radeon RX 7700 XT,0.24%,-0.01%,Novembro,2025
+Video Card Description,AMD Radeon RX 580,0.63%,-0.02%,Novembro,2025
+Video Card Description,NVIDIA GeForce GTX 1070 Ti,0.24%,-0.01%,Novembro,2025
+Video Card Description,NVIDIA GeForce RTX 3080 Ti,0.62%,0.00%,Novembro,2025
+Video Card Description,NVIDIA GeForce GTX 970,0.24%,-0.01%,Novembro,2025
+Video Card Description,NVIDIA GeForce GTX 1660 Ti,1.04%,-0.01%,Novembro,2025
+Video Card Description,NVIDIA GeForce RTX 2080 Ti,0.27%,0.00%,Novembro,2025
+Video Card Description,NVIDIA GeForce RTX 4080,0.70%,+0.02%,Novembro,2025
+Video Card Description,NVIDIA GeForce GTX 750 Ti,0.20%,-0.01%,Novembro,2025
+Video Card Description,AMD Radeon(TM) Graphics,2.12%,0.00%,Novembro,2025
+Video Card Description,AMD Radeon RX 550,0.22%,-0.02%,Novembro,2025
+Video Card Description,AMD Radeon RX 580 2048SP,0.58%,-0.02%,Novembro,2025
+Video Card Description,AMD Radeon RX 6800,0.22%,0.00%,Novembro,2025
+Video Card Description,NVIDIA GeForce GTX 1660,0.54%,-0.02%,Novembro,2025
+Video Card Description,Intel HD Graphics 620,0.21%,-0.01%,Novembro,2025
+Video Card Description,NVIDIA Graphics Device,1.10%,+0.11%,Novembro,2025
+Video Card Description,AMD Radeon Vega 8 Graphics,0.35%,-0.03%,Novembro,2025
+Video Card Description,AMD Radeon RX 7900 XTX,0.52%,+0.02%,Novembro,2025
+Video Card Description,NVIDIA GeForce RTX 4080 Laptop GPU,0.21%,+0.01%,Novembro,2025
+Video Card Description,NVIDIA GeForce GTX 1080,0.49%,-0.01%,Novembro,2025
+Video Card Description,NVIDIA GeForce RTX 5070 Ti Laptop GPU,0.24%,+0.05%,Novembro,2025
+Video Card Description,AMD AMD Custom GPU 0405,0.43%,0.00%,Novembro,2025
+Video Card Description,AMD Radeon (TM) Graphics,0.36%,+0.01%,Novembro,2025
+Video Card Description,AMD Radeon RX 5700 XT,0.60%,-0.01%,Novembro,2025
+Video Card Description,NVIDIA GeForce GT 730,0.16%,-0.01%,Novembro,2025
+Video Card Description,NVIDIA GeForce RTX 3090,0.43%,-0.01%,Novembro,2025
+Video Card Description,Intel(R) Graphics,0.24%,0.00%,Novembro,2025
+Video Card Description,AMD Radeon Graphics (RADV VANGOGH),0.40%,+0.01%,Novembro,2025
+Video Card Description,NVIDIA GeForce RTX 4060,3.96%,-0.02%,Novembro,2025
+Video Card Description,Other,9.42%,-0.08%,Novembro,2025
+VRAM,512 MB,7.31%,+0.24%,Novembro,2025
+VRAM,1 GB,3.30%,-0.19%,Novembro,2025
+VRAM,2 GB,4.76%,-0.10%,Novembro,2025
+VRAM,3 GB,0.89%,-0.06%,Novembro,2025
+VRAM,4 GB,5.98%,-0.30%,Novembro,2025
+VRAM,6 GB,10.20%,-0.30%,Novembro,2025
+VRAM,8 GB,33.36%,-0.10%,Novembro,2025
+VRAM,10 GB,2.37%,-0.05%,Novembro,2025
+VRAM,11 GB,1.10%,-0.05%,Novembro,2025
+VRAM,12 GB,19.22%,+0.25%,Novembro,2025
+VRAM,16 GB,8.13%,+0.65%,Novembro,2025
+VRAM,24 GB,2.20%,-0.04%,Novembro,2025
+VRAM,32 GB,0.59%,+0.05%,Novembro,2025
+VRAM,Other,0.58%,-0.01%,Novembro,2025
+Primary Display Resolution,800 x 1280,0.58%,+0.02%,Novembro,2025
+Primary Display Resolution,1280 x 800,0.32%,-0.01%,Novembro,2025
+Primary Display Resolution,1280 x 1024,0.23%,-0.01%,Novembro,2025
+Primary Display Resolution,1280 x 720,0.20%,-0.03%,Novembro,2025
+Primary Display Resolution,1360 x 768,0.46%,-0.03%,Novembro,2025
+Primary Display Resolution,1366 x 768,2.40%,-0.17%,Novembro,2025
+Primary Display Resolution,1440 x 900,0.81%,-0.06%,Novembro,2025
+Primary Display Resolution,1470 x 956,0.36%,-0.01%,Novembro,2025
+Primary Display Resolution,1512 x 982,0.28%,0.00%,Novembro,2025
+Primary Display Resolution,1600 x 900,0.73%,-0.03%,Novembro,2025
+Primary Display Resolution,1680 x 1050,0.47%,-0.02%,Novembro,2025
+Primary Display Resolution,1920 x 1200,2.07%,+0.03%,Novembro,2025
+Primary Display Resolution,1920 x 1080,52.83%,-0.64%,Novembro,2025
+Primary Display Resolution,2560 x 1080,0.78%,-0.02%,Novembro,2025
+Primary Display Resolution,2560 x 1440,20.79%,+0.86%,Novembro,2025
+Primary Display Resolution,2560 x 1600,5.20%,-0.02%,Novembro,2025
+Primary Display Resolution,2880 x 1800,0.47%,-0.01%,Novembro,2025
+Primary Display Resolution,3440 x 1440,3.06%,+0.07%,Novembro,2025
+Primary Display Resolution,3840 x 2160,4.83%,+0.18%,Novembro,2025
+Primary Display Resolution,5120 x 1440,0.40%,0.00%,Novembro,2025
+Primary Display Resolution,Other,2.74%,-0.08%,Novembro,2025
+OS Version,Windows,94.23%,-0.56%,Dezembro,2025
+OS Version,Windows 11 64 bit,66.60%,+1.01%,Dezembro,2025
+OS Version,Windows 10 64 bit,27.51%,-1.55%,Dezembro,2025
+OS Version,Windows 7 64 bit,0.08%,0.00%,Dezembro,2025
+OS Version,OSX,2.18%,+0.16%,Dezembro,2025
+OS Version,MacOS 26.1.0 64 bit,0.65%,+0.29%,Dezembro,2025
+OS Version,MacOS 15.6.1 64 bit,0.35%,-0.03%,Dezembro,2025
+OS Version,MacOS 26.2.0 64 bit,0.17%,+0.17%,Dezembro,2025
+OS Version,MacOS 15.5.0 64 bit,0.12%,0.00%,Dezembro,2025
+OS Version,MacOS 15.7.2 64 bit,0.11%,+0.11%,Dezembro,2025
+OS Version,MacOS 15.6.0 64 bit,0.10%,+0.02%,Dezembro,2025
+OS Version,MacOS 26.0.1 64 bit,0.07%,-0.30%,Dezembro,2025
+OS Version,MacOS 12.7.6 64 bit,0.05%,+0.05%,Dezembro,2025
+OS Version,Linux,3.58%,+0.38%,Dezembro,2025
+OS Version,"Arch Linux" 64 bit,0.34%,+0.02%,Dezembro,2025
+OS Version,Linux Mint 22.2 64 bit,0.28%,+0.04%,Dezembro,2025
+OS Version,Ubuntu 24.04.3 LTS 64 bit,0.14%,+0.02%,Dezembro,2025
+OS Version,Ubuntu Core 24 64 bit,0.12%,+0.12%,Dezembro,2025
+OS Version,"EndeavourOS Linux" 64 bit,0.08%,+0.01%,Dezembro,2025
+OS Version,"Fedora Linux 43 (KDE Plasma Desktop Edition)" 64 bit,0.07%,+0.07%,Dezembro,2025
+OS Version,"Manjaro Linux" 64 bit,0.06%,0.00%,Dezembro,2025
+OS Version,Debian GNU/Linux 13 (trixie) 64 bit,0.06%,+0.01%,Dezembro,2025
+OS Version,Fedora Linux 43 (Workstation Edition) 64 bit,0.05%,+0.05%,Dezembro,2025
+OS Version,Linux Mint 22.1 64 bit,0.05%,-0.01%,Dezembro,2025
+System RAM,Less than 4 GB,0.02%,0.00%,Dezembro,2025
+System RAM,4 GB,1.59%,+0.09%,Dezembro,2025
+System RAM,8 GB,8.22%,+0.29%,Dezembro,2025
+System RAM,12 GB,2.63%,+0.10%,Dezembro,2025
+System RAM,16 GB,40.77%,-0.17%,Dezembro,2025
+System RAM,24 GB,1.90%,+0.05%,Dezembro,2025
+System RAM,28 GB,0.56%,+0.02%,Dezembro,2025
+System RAM,32 GB,36.57%,-0.39%,Dezembro,2025
+System RAM,48 GB,1.20%,+0.02%,Dezembro,2025
+System RAM,60 GB,0.88%,+0.02%,Dezembro,2025
+System RAM,64 GB,4.34%,-0.08%,Dezembro,2025
+System RAM,More than 64 GB,0.64%,+0.01%,Dezembro,2025
+System RAM,Other,0.68%,+0.03%,Dezembro,2025
+Physical CPUs,Unspecified,0.00%,0.00%,Dezembro,2025
+Physical CPUs,1 cpu,0.02%,0.00%,Dezembro,2025
+Physical CPUs,2 cpus,3.35%,+0.14%,Dezembro,2025
+Physical CPUs,3 cpus,0.11%,0.00%,Dezembro,2025
+Physical CPUs,4 cpus,14.20%,+0.21%,Dezembro,2025
+Physical CPUs,5 cpus,0.15%,+0.01%,Dezembro,2025
+Physical CPUs,6 cpus,28.28%,-0.16%,Dezembro,2025
+Physical CPUs,7 cpus,0.01%,0.00%,Dezembro,2025
+Physical CPUs,8 cpus,26.77%,+0.54%,Dezembro,2025
+Physical CPUs,9 cpus,0.00%,0.00%,Dezembro,2025
+Physical CPUs,10 cpus,6.96%,-0.08%,Dezembro,2025
+Physical CPUs,11 cpus,0.05%,+0.01%,Dezembro,2025
+Physical CPUs,12 cpus,5.34%,-0.08%,Dezembro,2025
+Physical CPUs,13 cpus,0.00%,0.00%,Dezembro,2025
+Physical CPUs,14 cpus,4.84%,-0.20%,Dezembro,2025
+Physical CPUs,15 cpus,0.00%,0.00%,Dezembro,2025
+Physical CPUs,16 cpus,5.35%,-0.26%,Dezembro,2025
+Physical CPUs,17 cpus,0.00%,0.00%,Dezembro,2025
+Physical CPUs,18 cpus,0.05%,0.00%,Dezembro,2025
+Physical CPUs,19 cpus,0.00%,0.00%,Dezembro,2025
+Physical CPUs,20 cpus,1.87%,0.00%,Dezembro,2025
+Physical CPUs,21 cpus,0.00%,0.00%,Dezembro,2025
+Physical CPUs,22 cpus,0.00%,0.00%,Dezembro,2025
+Physical CPUs,23 cpus,0.00%,0.00%,Dezembro,2025
+Physical CPUs,24 cpus,2.63%,-0.11%,Dezembro,2025
+Physical CPUs,25 cpus,0.00%,0.00%,Dezembro,2025
+Physical CPUs,26 cpus,0.00%,0.00%,Dezembro,2025
+Physical CPUs,28 cpus,0.01%,0.00%,Dezembro,2025
+Physical CPUs,30 cpus,0.00%,0.00%,Dezembro,2025
+Physical CPUs,32 cpus,0.01%,0.00%,Dezembro,2025
+Physical CPUs,36 cpus,0.00%,0.00%,Dezembro,2025
+Physical CPUs,38 cpus,0.00%,0.00%,Dezembro,2025
+Physical CPUs,40 cpus,0.00%,0.00%,Dezembro,2025
+Physical CPUs,44 cpus,0.00%,0.00%,Dezembro,2025
+Physical CPUs,46 cpus,0.00%,0.00%,Dezembro,2025
+Physical CPUs,48 cpus,0.00%,0.00%,Dezembro,2025
+Physical CPUs,52 cpus,0.00%,0.00%,Dezembro,2025
+Physical CPUs,56 cpus,0.00%,0.00%,Dezembro,2025
+Physical CPUs,64 cpus,0.00%,0.00%,Dezembro,2025
+Physical CPUs,92 cpus,0.00%,0.00%,Dezembro,2025
+Physical CPUs,96 cpus,0.00%,0.00%,Dezembro,2025
+Physical CPUs,112 cpus,0.00%,0.00%,Dezembro,2025
+Physical CPUs,128 cpus,0.00%,0.00%,Dezembro,2025
+Physical CPUs,160 cpus,0.00%,0.00%,Dezembro,2025
+Physical CPUs,168 cpus,0.00%,0.00%,Dezembro,2025
+Physical CPUs,192 cpus,0.00%,0.00%,Dezembro,2025
+Video Card Description,NVIDIA GeForce RTX 2050,0.45%,0.00%,Dezembro,2025
+Video Card Description,AMD Radeon RX 6700 XT,0.60%,+0.01%,Dezembro,2025
+Video Card Description,Intel UHD Graphics 630,0.30%,+0.01%,Dezembro,2025
+Video Card Description,AMD Radeon RX 7600 XT,0.51%,+0.07%,Dezembro,2025
+Video Card Description,NVIDIA GeForce GTX 960,0.20%,0.00%,Dezembro,2025
+Video Card Description,AMD Raphael,0.16%,+0.16%,Dezembro,2025
+Video Card Description,NVIDIA GeForce RTX 5060,1.69%,+0.15%,Dezembro,2025
+Video Card Description,NVIDIA GeForce RTX 3050 Laptop GPU,0.42%,0.00%,Dezembro,2025
+Video Card Description,,1.93%,+0.16%,Dezembro,2025
+Video Card Description,NVIDIA GeForce RTX 4070,1.96%,-0.11%,Dezembro,2025
+Video Card Description,NVIDIA GeForce RTX 4060 Ti,2.52%,-0.11%,Dezembro,2025
+Video Card Description,NVIDIA GeForce RTX 5070,2.28%,+0.16%,Dezembro,2025
+Video Card Description,NVIDIA GeForce RTX 4060 Laptop GPU,3.84%,-0.38%,Dezembro,2025
+Video Card Description,AMD Radeon RX 6650 XT,0.29%,+0.01%,Dezembro,2025
+Video Card Description,NVIDIA GeForce RTX 3060 Ti,2.35%,-0.04%,Dezembro,2025
+Video Card Description,NVIDIA GeForce RTX 2080 SUPER,0.30%,-0.01%,Dezembro,2025
+Video Card Description,NVIDIA GeForce RTX 4070 SUPER,1.59%,-0.04%,Dezembro,2025
+Video Card Description,NVIDIA GeForce GTX 970,0.24%,0.00%,Dezembro,2025
+Video Card Description,NVIDIA GeForce RTX 3050,2.91%,-0.05%,Dezembro,2025
+Video Card Description,Intel HD Graphics 620,0.22%,+0.01%,Dezembro,2025
+Video Card Description,NVIDIA GeForce GTX 1660 SUPER,1.50%,-0.08%,Dezembro,2025
+Video Card Description,AMD Radeon RX 6900 XT,0.18%,0.00%,Dezembro,2025
+Video Card Description,NVIDIA GeForce RTX 3060 Laptop GPU,2.06%,-0.09%,Dezembro,2025
+Video Card Description,AMD Radeon Vega 3 Graphics,0.21%,+0.01%,Dezembro,2025
+Video Card Description,NVIDIA GeForce RTX 5060 Ti,1.26%,+0.12%,Dezembro,2025
+Video Card Description,NVIDIA GeForce GTX 1650 Ti,0.42%,-0.01%,Dezembro,2025
+Video Card Description,NVIDIA GeForce RTX 3070,2.20%,-0.04%,Dezembro,2025
+Video Card Description,NVIDIA GeForce RTX 5090,0.36%,+0.02%,Dezembro,2025
+Video Card Description,NVIDIA GeForce RTX 5070 Ti,1.20%,+0.11%,Dezembro,2025
+Video Card Description,NVIDIA GeForce RTX 3050 6GB Laptop GPU,0.51%,+0.04%,Dezembro,2025
+Video Card Description,NVIDIA GeForce GTX 1050 Ti,1.35%,-0.03%,Dezembro,2025
+Video Card Description,AMD Radeon RX 6600 XT,0.34%,0.00%,Dezembro,2025
+Video Card Description,NVIDIA GeForce RTX 5080,1.07%,+0.11%,Dezembro,2025
+Video Card Description,AMD Radeon RX 6800 XT,0.26%,-0.01%,Dezembro,2025
+Video Card Description,NVIDIA GeForce RTX 4070 Ti,0.99%,-0.02%,Dezembro,2025
+Video Card Description,NVIDIA GeForce GT 1030,0.25%,+0.01%,Dezembro,2025
+Video Card Description,NVIDIA GeForce RTX 3070 Ti,1.02%,-0.05%,Dezembro,2025
+Video Card Description,NVIDIA GeForce RTX 2080 Ti,0.27%,0.00%,Dezembro,2025
+Video Card Description,AMD Radeon RX 7800 XT,0.93%,+0.09%,Dezembro,2025
+Video Card Description,AMD Radeon RX 550,0.22%,0.00%,Dezembro,2025
+Video Card Description,NVIDIA GeForce RTX 2060,1.91%,-0.05%,Dezembro,2025
+Video Card Description,AMD Radeon Vega 8 Graphics,0.37%,+0.02%,Dezembro,2025
+Video Card Description,NVIDIA GeForce GTX 1060,1.74%,-0.06%,Dezembro,2025
+Video Card Description,AMD Radeon RX 5600 XT,0.15%,0.00%,Dezembro,2025
+Video Card Description,AMD Radeon RX 6600,0.86%,+0.02%,Dezembro,2025
+Video Card Description,NVIDIA GeForce RTX 5070 Ti Laptop GPU,0.24%,0.00%,Dezembro,2025
+Video Card Description,NVIDIA GeForce RTX 4050 Laptop GPU,1.46%,-0.01%,Dezembro,2025
+Video Card Description,AMD Radeon 780M Graphics,0.33%,+0.01%,Dezembro,2025
+Video Card Description,NVIDIA GeForce RTX 5060 Laptop GPU,0.81%,-0.06%,Dezembro,2025
+Video Card Description,NVIDIA GeForce RTX 3060,4.07%,-0.09%,Dezembro,2025
+Video Card Description,NVIDIA GeForce RTX 2060 SUPER,0.81%,-0.05%,Dezembro,2025
+Video Card Description,AMD Radeon Graphics,1.99%,+0.10%,Dezembro,2025
+Video Card Description,NVIDIA GeForce GTX 1650,2.79%,-0.01%,Dezembro,2025
+Video Card Description,AMD Radeon RX 570,0.39%,0.00%,Dezembro,2025
+Video Card Description,NVIDIA GeForce RTX 4090,0.80%,-0.02%,Dezembro,2025
+Video Card Description,NVIDIA GeForce GTX 1080 Ti,0.36%,-0.01%,Dezembro,2025
+Video Card Description,NVIDIA GeForce RTX 2070 SUPER,0.80%,-0.02%,Dezembro,2025
+Video Card Description,NVIDIA GeForce GTX 1650 SUPER,0.31%,0.00%,Dezembro,2025
+Video Card Description,NVIDIA GeForce RTX 3080,1.57%,-0.02%,Dezembro,2025
+Video Card Description,NVIDIA GeForce RTX 3070 Laptop GPU,0.50%,0.00%,Dezembro,2025
+Video Card Description,NVIDIA GeForce RTX 4080 SUPER,0.69%,-0.01%,Dezembro,2025
+Video Card Description,NVIDIA GeForce GTX 1050,0.64%,-0.01%,Dezembro,2025
+Video Card Description,NVIDIA GeForce RTX 3050 Ti Laptop GPU,0.69%,-0.01%,Dezembro,2025
+Video Card Description,NVIDIA GeForce RTX 2070,0.52%,-0.02%,Dezembro,2025
+Video Card Description,Intel Iris Xe Graphics,1.80%,+0.04%,Dezembro,2025
+Video Card Description,AMD Radeon RX 6750 XT,0.34%,+0.01%,Dezembro,2025
+Video Card Description,NVIDIA GeForce RTX 4070 Ti SUPER,0.77%,-0.04%,Dezembro,2025
+Video Card Description,Intel(R) Arc(TM) Graphics,0.26%,0.00%,Dezembro,2025
+Video Card Description,NVIDIA GeForce GTX 1070,0.74%,-0.02%,Dezembro,2025
+Video Card Description,AMD Radeon RX 7700 XT,0.25%,+0.01%,Dezembro,2025
+Video Card Description,NVIDIA GeForce RTX 3080 Ti,0.62%,0.00%,Dezembro,2025
+Video Card Description,Intel UHD Graphics 620,0.49%,+0.03%,Dezembro,2025
+Video Card Description,AMD Radeon RX 580,0.61%,-0.02%,Dezembro,2025
+Video Card Description,NVIDIA GeForce GTX 1070 Ti,0.24%,0.00%,Dezembro,2025
+Video Card Description,NVIDIA GeForce RTX 4070 Laptop GPU,1.00%,-0.07%,Dezembro,2025
+Video Card Description,Intel(R) UHD Graphics,1.81%,+0.09%,Dezembro,2025
+Video Card Description,NVIDIA GeForce RTX 4080,0.70%,0.00%,Dezembro,2025
+Video Card Description,Intel HD Graphics 520,0.23%,+0.01%,Dezembro,2025
+Video Card Description,AMD Radeon(TM) Graphics,2.21%,+0.09%,Dezembro,2025
+Video Card Description,AMD Radeon RX 6500 XT,0.19%,+0.01%,Dezembro,2025
+Video Card Description,NVIDIA GeForce GTX 1660 Ti,1.00%,-0.04%,Dezembro,2025
+Video Card Description,NVIDIA GeForce GTX 750 Ti,0.19%,-0.01%,Dezembro,2025
+Video Card Description,AMD Radeon RX 580 2048SP,0.58%,0.00%,Dezembro,2025
+Video Card Description,AMD Radeon RX 6800,0.22%,0.00%,Dezembro,2025
+Video Card Description,NVIDIA GeForce GTX 1660,0.53%,-0.01%,Dezembro,2025
+Video Card Description,NVIDIA GeForce RTX 2080,0.26%,-0.01%,Dezembro,2025
+Video Card Description,NVIDIA Graphics Device,1.09%,-0.01%,Dezembro,2025
+Video Card Description,NVIDIA GeForce RTX 3070 Ti Laptop GPU,0.25%,-0.01%,Dezembro,2025
+Video Card Description,AMD AMD Custom GPU 0405,0.48%,+0.05%,Dezembro,2025
+Video Card Description,NVIDIA GeForce RTX 4080 Laptop GPU,0.20%,-0.01%,Dezembro,2025
+Video Card Description,AMD Radeon RX 7900 XTX,0.51%,-0.01%,Dezembro,2025
+Video Card Description,Intel HD Graphics 4600,0.19%,+0.01%,Dezembro,2025
+Video Card Description,NVIDIA GeForce GTX 1080,0.48%,-0.01%,Dezembro,2025
+Video Card Description,AMD Radeon (TM) Graphics,0.40%,+0.04%,Dezembro,2025
+Video Card Description,AMD Radeon Graphics (RADV VANGOGH),0.45%,+0.05%,Dezembro,2025
+Video Card Description,NVIDIA GeForce GT 730,0.17%,+0.01%,Dezembro,2025
+Video Card Description,AMD Radeon RX 5700 XT,0.60%,0.00%,Dezembro,2025
+Video Card Description,Intel(R) Graphics,0.28%,+0.04%,Dezembro,2025
+Video Card Description,NVIDIA GeForce RTX 3090,0.43%,0.00%,Dezembro,2025
+Video Card Description,NVIDIA GeForce RTX 4060,3.70%,-0.26%,Dezembro,2025
+Video Card Description,Other,9.56%,+0.14%,Dezembro,2025
+VRAM,512 MB,7.77%,+0.46%,Dezembro,2025
+VRAM,1 GB,3.27%,-0.03%,Dezembro,2025
+VRAM,2 GB,4.73%,-0.03%,Dezembro,2025
+VRAM,3 GB,0.86%,-0.03%,Dezembro,2025
+VRAM,4 GB,5.91%,-0.07%,Dezembro,2025
+VRAM,6 GB,10.00%,-0.20%,Dezembro,2025
+VRAM,8 GB,32.68%,-0.68%,Dezembro,2025
+VRAM,10 GB,2.38%,+0.01%,Dezembro,2025
+VRAM,11 GB,1.11%,+0.01%,Dezembro,2025
+VRAM,12 GB,19.08%,-0.14%,Dezembro,2025
+VRAM,16 GB,8.70%,+0.57%,Dezembro,2025
+VRAM,24 GB,2.29%,+0.09%,Dezembro,2025
+VRAM,32 GB,0.62%,+0.03%,Dezembro,2025
+VRAM,Other,0.60%,+0.02%,Dezembro,2025
+Primary Display Resolution,800 x 1280,0.62%,+0.04%,Dezembro,2025
+Primary Display Resolution,1280 x 720,0.23%,+0.03%,Dezembro,2025
+Primary Display Resolution,1280 x 800,0.37%,+0.05%,Dezembro,2025
+Primary Display Resolution,1280 x 1024,0.23%,0.00%,Dezembro,2025
+Primary Display Resolution,1360 x 768,0.47%,+0.01%,Dezembro,2025
+Primary Display Resolution,1366 x 768,2.53%,+0.13%,Dezembro,2025
+Primary Display Resolution,1440 x 900,0.84%,+0.03%,Dezembro,2025
+Primary Display Resolution,1470 x 956,0.40%,+0.04%,Dezembro,2025
+Primary Display Resolution,1512 x 982,0.31%,+0.03%,Dezembro,2025
+Primary Display Resolution,1600 x 900,0.74%,+0.01%,Dezembro,2025
+Primary Display Resolution,1680 x 1050,0.47%,0.00%,Dezembro,2025
+Primary Display Resolution,1920 x 1200,2.22%,+0.15%,Dezembro,2025
+Primary Display Resolution,1920 x 1080,52.58%,-0.25%,Dezembro,2025
+Primary Display Resolution,2560 x 1080,0.79%,+0.01%,Dezembro,2025
+Primary Display Resolution,2560 x 1600,4.83%,-0.37%,Dezembro,2025
+Primary Display Resolution,2560 x 1440,20.59%,-0.20%,Dezembro,2025
+Primary Display Resolution,2880 x 1800,0.48%,+0.01%,Dezembro,2025
+Primary Display Resolution,3440 x 1440,3.12%,+0.06%,Dezembro,2025
+Primary Display Resolution,3840 x 2160,4.93%,+0.10%,Dezembro,2025
+Primary Display Resolution,5120 x 1440,0.42%,+0.02%,Dezembro,2025
+Primary Display Resolution,Other,2.81%,+0.07%,Dezembro,2025

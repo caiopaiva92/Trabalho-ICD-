@@ -1,0 +1,180 @@
+Categoria,Especificação,Porcentagens,Incrementos/Decrementos,Ano
+OS Version, Windows,96.86,0.94,2019
+OS Version, Windows 10 64 bit,61.09,-2.68,2019
+OS Version, Windows 7 64 bit,33.04,6.64,2019
+OS Version, Windows 8.1 64 bit,1.79,-1.64,2019
+OS Version, Windows 7,0.6,-0.92,2019
+OS Version, Windows 8 64 bit,0.14,-0.17,2019
+OS Version, Windows 10,0.13,-0.14,2019
+OS Version, OSX,2.47,-0.8,2019
+OS Version, MacOS 10.14.6 64 bit,0.72,0.06,2019
+OS Version, MacOS 10.15.1 64 bit,0.54,0.06,2019
+OS Version, MacOS 10.13.6 64 bit,0.37,-0.36,2019
+OS Version, MacOS 10.15.2 64 bit,0.17,0.0,2019
+OS Version, MacOS 10.12.6 64 bit,0.14,-0.15,2019
+OS Version, MacOS 10.14.5 64 bit,0.12,-0.06,2019
+OS Version, MacOS 10.11.6 64 bit,0.09,-0.09,2019
+OS Version, MacOS 10.15.0 64 bit,0.08,-0.21,2019
+OS Version, Linux,0.67,-0.15,2019
+OS Version, Ubuntu 18.04.3 LTS 64 bit,0.14,0.09,2019
+OS Version," ""Arch Linux"" 64 bit",0.07,-0.02,2019
+OS Version," ""Manjaro Linux"" 64 bit",0.07,0.02,2019
+OS Version, Ubuntu 19.10 64 bit,0.07,0.01,2019
+System RAM, Less than 2 GB,0.1,-0.15,2019
+System RAM, 2 GB,0.63,-0.89,2019
+System RAM, 3 GB,1.96,-2.35,2019
+System RAM, 4 GB,6.0,-5.05,2019
+System RAM, 5 GB,0.31,-0.18,2019
+System RAM, 6 GB,1.82,-0.67,2019
+System RAM, 7 GB,2.11,-0.5,2019
+System RAM, 8 GB,30.69,-7.21,2019
+System RAM, 9 GB,0.02,-0.01,2019
+System RAM, 10 GB,0.22,-0.06,2019
+System RAM, 11 GB,0.18,-0.01,2019
+System RAM, 12 GB,2.95,-0.43,2019
+System RAM, 13 GB,0.01,0.0,2019
+System RAM, 14 GB,0.17,0.06,2019
+System RAM, 15 GB,1.36,1.02,2019
+System RAM, 16 GB,46.37,15.1,2019
+System RAM, More than 16 GB,5.08,1.31,2019
+Physical CPUs, 1 cpu,0.5,-0.43,2019
+Physical CPUs, 2 cpus,17.92,-11.49,2019
+Physical CPUs, 3 cpus,1.07,-0.61,2019
+Physical CPUs, 4 cpus,54.58,-1.43,2019
+Physical CPUs, 5 cpus,0.0,-0.01,2019
+Physical CPUs, 6 cpus,21.26,11.24,2019
+Physical CPUs, 7 cpus,0.0,0.0,2019
+Physical CPUs, 8 cpus,4.4,2.61,2019
+Physical CPUs, 10 cpus,0.06,0.0,2019
+Physical CPUs, 11 cpus,0.0,0.0,2019
+Physical CPUs, 12 cpus,0.14,0.1,2019
+Physical CPUs, 14 cpus,0.01,0.0,2019
+Physical CPUs, 15 cpus,0.0,0.0,2019
+Physical CPUs, 16 cpus,0.05,0.01,2019
+Physical CPUs, 18 cpus,0.01,0.0,2019
+Physical CPUs, 20 cpus,0.0,0.0,2019
+Physical CPUs, 22 cpus,0.0,0.0,2019
+Physical CPUs, 24 cpus,0.0,0.0,2019
+Physical CPUs, 28 cpus,0.0,0.0,2019
+Physical CPUs, 32 cpus,0.0,0.0,2019
+Physical CPUs, 36 cpus,0.0,0.0,2019
+Video Card Description, NVIDIA GeForce GTX 1060,20.3,5.99,2019
+Video Card Description, NVIDIA GeForce GTX 1050 Ti,9.23,0.24,2019
+Video Card Description, NVIDIA GeForce GTX 1050,4.5,-0.49,2019
+Video Card Description, NVIDIA GeForce GTX 1070,3.82,-0.37,2019
+Video Card Description, NVIDIA GeForce GTX 960,3.7,0.33,2019
+Video Card Description, NVIDIA GeForce RTX 2060,2.98,2.72,2019
+Video Card Description, NVIDIA GeForce GTX 1080,2.6,-0.14,2019
+Video Card Description, NVIDIA GeForce GTX 750 Ti,2.31,-0.54,2019
+Video Card Description, NVIDIA GeForce GTX 1660,2.05,1.82,2019
+Video Card Description, NVIDIA GeForce RTX 2070,1.9,1.58,2019
+Video Card Description, NVIDIA GeForce GTX 970,1.89,-1.04,2019
+Video Card Description, NVIDIA GeForce GTX 1660 Ti,1.49,1.33,2019
+Video Card Description, NVIDIA GeForce GTX 1070 Ti,1.33,0.16,2019
+Video Card Description, NVIDIA GeForce GTX 950,1.32,0.26,2019
+Video Card Description, NVIDIA GeForce GTX 1080 Ti,1.3,-0.29,2019
+Video Card Description, AMD Radeon RX 580,1.29,0.5,2019
+Video Card Description, NVIDIA GeForce GTX 1650,1.05,0.82,2019
+Video Card Description, NVIDIA GeForce RTX 2080,1.0,0.7,2019
+Video Card Description, NVIDIA GeForce GTX 960M,0.95,-0.68,2019
+Video Card Description, Intel HD Graphics 4000,0.78,-0.51,2019
+Video Card Description, AMD Radeon RX 570,0.7,0.48,2019
+Video Card Description, NVIDIA GeForce 940M,0.7,-0.41,2019
+Video Card Description, Intel UHD Graphics 620,0.7,0.32,2019
+Video Card Description, Intel HD Graphics 620,0.67,-0.12,2019
+Video Card Description, NVIDIA GeForce GT 730,0.64,-0.51,2019
+Video Card Description, NVIDIA GeForce RTX 2070 SUPER,0.61,0.44,2019
+Video Card Description, AMD Radeon R7 Graphics,0.57,-0.54,2019
+Video Card Description, NVIDIA GeForce GTX 950M,0.54,-0.41,2019
+Video Card Description, Intel Haswell,0.54,-0.36,2019
+Video Card Description, NVIDIA GeForce GTX 760,0.53,-0.27,2019
+Video Card Description, Intel HD Graphics 520,0.5,-0.22,2019
+Video Card Description, NVIDIA GeForce GTX 750,0.49,-0.36,2019
+Video Card Description, NVIDIA GeForce RTX 2080 Ti,0.49,0.29,2019
+Video Card Description, AMD Radeon R5 Graphics,0.47,-0.28,2019
+Video Card Description, AMD Radeon RX 480,0.46,-0.15,2019
+Video Card Description, NVIDIA GeForce GT 1030,0.45,-0.13,2019
+Video Card Description, Intel HD Graphics 3000,0.44,-0.31,2019
+Video Card Description, NVIDIA GeForce MX150,0.44,0.02,2019
+Video Card Description, NVIDIA GeForce GT 720M,0.42,-0.34,2019
+Video Card Description, Intel UHD Graphics 630,0.42,0.17,2019
+Video Card Description, NVIDIA GeForce GTX 660,0.41,-0.24,2019
+Video Card Description, NVIDIA GeForce RTX 2060 SUPER,0.4,0.25,2019
+Video Card Description, Intel HD Graphics 6000,0.39,-0.17,2019
+Video Card Description, Intel HD Graphics 630,0.38,-0.14,2019
+Video Card Description, NVIDIA GeForce GTX 650,0.37,-0.38,2019
+Video Card Description, Intel HD Graphics 4600,0.37,-0.18,2019
+Video Card Description, Intel HD Graphics 5500,0.37,-0.2,2019
+Video Card Description, NVIDIA GeForce GTX 980,0.37,-0.19,2019
+Video Card Description, Intel Ivy Bridge,0.35,-0.24,2019
+Video Card Description, NVIDIA GeForce GTX 980 Ti,0.34,-0.17,2019
+Video Card Description, NVIDIA GeForce RTX 2080 SUPER,0.32,0.16,2019
+Video Card Description, AMD Radeon RX 560,0.3,0.03,2019
+Video Card Description, AMD Radeon Vega 8 Graphics,0.29,0.05,2019
+Video Card Description, NVIDIA GeForce 920M,0.28,-0.2,2019
+Video Card Description, NVIDIA GeForce GT 630,0.27,-0.25,2019
+Video Card Description, AMD Radeon RX 460,0.27,-0.11,2019
+Video Card Description, AMD Radeon HD 7900 Series,0.26,-0.21,2019
+Video Card Description, AMD Radeon HD 7700 Series,0.25,-0.23,2019
+Video Card Description, NVIDIA GeForce GTX 970M,0.25,-0.15,2019
+Video Card Description, AMD Radeon RX 470,0.25,-0.01,2019
+Video Card Description, AMD Radeon RX Vega,0.25,0.09,2019
+Video Card Description, NVIDIA GeForce 840M,0.25,-0.19,2019
+Video Card Description, Intel Iris Plus Graphics 640,0.24,0.01,2019
+Video Card Description, Intel HD Graphics 530,0.24,-0.14,2019
+Video Card Description, NVIDIA GeForce GTX 770,0.24,-0.18,2019
+Video Card Description, NVIDIA GeForce GT 710,0.24,-0.07,2019
+Video Card Description, AMD Radeon RX 590 Series,0.23,0.01,2019
+Video Card Description, Intel Valleyview Baytrail,0.23,-0.22,2019
+Video Card Description, AMD Radeon HD 8800 Series,0.23,-0.2,2019
+Video Card Description, AMD Radeon RX 5700 XT,0.22,0.07,2019
+Video Card Description, NVIDIA GeForce GTX 550 Ti,0.21,-0.16,2019
+Video Card Description, AMD Radeon R7 300 Series,0.21,-0.17,2019
+Video Card Description, Intel Sandy Bridge,0.21,-0.13,2019
+Video Card Description, NVIDIA GeForce 920MX,0.2,-0.1,2019
+Video Card Description, AMD Radeon HD 7800 Series,0.2,-0.16,2019
+Video Card Description, Intel Cherryview Cherrytrail,0.2,-0.14,2019
+Video Card Description, AMD Radeon RX 550,0.19,0.01,2019
+Video Card Description, AMD Radeon R9 380 Series,0.19,-0.12,2019
+Video Card Description, NVIDIA GeForce GTX 860M,0.19,-0.15,2019
+Video Card Description, Intel Iris Graphics 6100,0.18,-0.11,2019
+Video Card Description, Intel Iris Pro Graphics 5200,0.17,-0.1,2019
+Video Card Description, AMD Radeon HD 8500 Series,0.17,-0.17,2019
+Video Card Description, AMD Radeon HD 8470D,0.17,-0.27,2019
+Video Card Description, AMD Radeon RX 580 2048SP,0.17,0.02,2019
+Video Card Description, NVIDIA GeForce MX130,0.17,0.02,2019
+Video Card Description, NVIDIA GeForce GT 740M,0.17,-0.12,2019
+Video Card Description, NVIDIA GeForce 940MX,0.16,-0.1,2019
+Video Card Description, NVIDIA GeForce GTS 450,0.16,-0.13,2019
+Video Card Description, ,0.16,-0.08,2019
+Video Card Description, AMD Radeon R9 200 Series,0.16,-0.11,2019
+Video Card Description, AMD Radeon R9 390 Series,0.16,-0.08,2019
+Video Card Description, NVIDIA GeForce GTX 650 Ti,0.15,-0.11,2019
+Video Card Description, Other,10.62,-0.91,2019
+VRAM, 512 MB,1.37,-1.82,2019
+VRAM, 768 MB,0.52,-0.98,2019
+VRAM, 1024 MB,9.1,-6.84,2019
+VRAM, 2047 MB,15.53,-5.33,2019
+VRAM, 3071 MB,9.56,2.57,2019
+VRAM, 4095 MB,16.43,-2.24,2019
+VRAM, 5119 MB,5.71,3.94,2019
+VRAM, 6143 MB,19.62,8.42,2019
+VRAM, 8191 MB,15.87,3.67,2019
+VRAM, 11263 MB,2.52,-0.14,2019
+VRAM, Other,3.77,-0.68,2019
+Primary Display Resolution, 1024 x 768,0.37,-0.27,2019
+Primary Display Resolution, 1280 x 800,0.5,-0.32,2019
+Primary Display Resolution, 1280 x 1024,1.23,-0.93,2019
+Primary Display Resolution, 1280 x 720,0.29,-0.13,2019
+Primary Display Resolution, 1360 x 768,1.29,-0.66,2019
+Primary Display Resolution, 1366 x 768,8.6,-5.42,2019
+Primary Display Resolution, 1440 x 900,2.46,-1.14,2019
+Primary Display Resolution, 1600 x 900,2.3,-1.3,2019
+Primary Display Resolution, 1680 x 1050,1.74,-0.8,2019
+Primary Display Resolution, 1920 x 1080,69.27,8.79,2019
+Primary Display Resolution, 1920 x 1200,0.69,-0.21,2019
+Primary Display Resolution, 2560 x 1080,1.02,0.06,2019
+Primary Display Resolution, 2560 x 1440,6.74,2.77,2019
+Primary Display Resolution, 3440 x 1440,0.54,0.06,2019
+Primary Display Resolution, 3840 x 2160,1.51,0.03,2019
+Primary Display Resolution, Other,1.45,-0.28,2019

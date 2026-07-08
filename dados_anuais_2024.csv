@@ -1,0 +1,208 @@
+Categoria,Especificação,Porcentagens,Incrementos/Decrementos,Ano
+OS Version, Windows,96.1,-0.42,2024
+OS Version, Windows 11 64 bit,54.96,10.72,2024
+OS Version, Windows 10 64 bit,42.39,-9.04,2024
+OS Version, Windows 7 64 bit,0.15,-0.44,2024
+OS Version, OSX,1.61,0.07,2024
+OS Version, MacOS 15.1.1 64 bit,0.52,0.41,2024
+OS Version, MacOS 14.6.1 64 bit,0.13,-0.06,2024
+OS Version, MacOS 15.2.0 64 bit,0.09,0.0,2024
+OS Version, MacOS 14.5.0 64 bit,0.08,-0.01,2024
+OS Version, MacOS 15.1.0 64 bit,0.07,0.01,2024
+OS Version, MacOS 15.0.1 64 bit,0.06,-0.19,2024
+OS Version, Linux,2.29,0.34,2024
+OS Version," ""Arch Linux"" 64 bit",0.2,0.05,2024
+OS Version, Ubuntu 24.04.1 LTS 64 bit,0.1,0.02,2024
+OS Version, Linux Mint 22 64 bit,0.1,0.04,2024
+OS Version, Ubuntu Core 22 64 bit,0.08,0.02,2024
+OS Version," ""Manjaro Linux"" 64 bit",0.06,-0.01,2024
+OS Version," ""EndeavourOS Linux"" 64 bit",0.06,0.0,2024
+System RAM, Less than 4 GB,0.03,-0.06,2024
+System RAM, 4 GB,2.06,-1.3,2024
+System RAM, 8 GB,10.07,-3.6,2024
+System RAM, 12 GB,3.01,-0.24,2024
+System RAM, 16 GB,45.07,-4.53,2024
+System RAM, 24 GB,1.53,0.21,2024
+System RAM, 32 GB,32.08,8.37,2024
+System RAM, 48 GB,0.69,0.2,2024
+System RAM, 64 GB,3.94,0.57,2024
+System RAM, More than 64 GB,0.44,0.12,2024
+System RAM, Other,1.25,0.44,2024
+Physical CPUs, 1 cpu,0.03,-0.04,2024
+Physical CPUs, 2 cpus,4.12,-2.14,2024
+Physical CPUs, 3 cpus,0.23,-0.04,2024
+Physical CPUs, 4 cpus,17.54,-4.95,2024
+Physical CPUs, 5 cpus,0.05,0.02,2024
+Physical CPUs, 6 cpus,31.67,0.03,2024
+Physical CPUs, 7 cpus,0.0,-0.01,2024
+Physical CPUs, 8 cpus,23.59,2.7,2024
+Physical CPUs, 9 cpus,0.0,0.0,2024
+Physical CPUs, 10 cpus,6.09,1.95,2024
+Physical CPUs, 11 cpus,0.04,0.02,2024
+Physical CPUs, 12 cpus,5.78,0.64,2024
+Physical CPUs, 13 cpus,0.0,0.0,2024
+Physical CPUs, 14 cpus,4.49,0.69,2024
+Physical CPUs, 15 cpus,0.0,0.0,2024
+Physical CPUs, 16 cpus,4.5,1.43,2024
+Physical CPUs, 17 cpus,0.0,0.0,2024
+Physical CPUs, 18 cpus,0.04,-0.34,2024
+Physical CPUs, 19 cpus,0.0,0.0,2024
+Physical CPUs, 20 cpus,1.16,0.93,2024
+Physical CPUs, 21 cpus,0.0,0.0,2024
+Physical CPUs, 22 cpus,0.0,-0.01,2024
+Physical CPUs, 23 cpus,0.0,0.0,2024
+Physical CPUs, 24 cpus,2.22,0.76,2024
+Physical CPUs, 26 cpus,0.0,0.0,2024
+Physical CPUs, 28 cpus,0.01,-0.05,2024
+Physical CPUs, 30 cpus,0.0,0.0,2024
+Physical CPUs, 32 cpus,0.01,-0.01,2024
+Physical CPUs, 36 cpus,0.0,-0.01,2024
+Physical CPUs, 38 cpus,0.0,0.0,2024
+Physical CPUs, 40 cpus,0.0,0.0,2024
+Physical CPUs, 44 cpus,0.0,0.0,2024
+Physical CPUs, 46 cpus,0.0,0.0,2024
+Physical CPUs, 48 cpus,0.0,0.0,2024
+Physical CPUs, 52 cpus,0.0,0.0,2024
+Physical CPUs, 56 cpus,0.0,0.0,2024
+Physical CPUs, 60 cpus,0.0,0.0,2024
+Physical CPUs, 64 cpus,0.0,0.0,2024
+Physical CPUs, 68 cpus,0.0,0.0,2024
+Physical CPUs, 76 cpus,0.0,0.0,2024
+Physical CPUs, 96 cpus,0.0,0.0,2024
+Physical CPUs, 128 cpus,0.0,0.0,2024
+Video Card Description, NVIDIA GeForce RTX 3060,5.88,1.05,2024
+Video Card Description, NVIDIA GeForce RTX 4060 Laptop GPU,4.9,2.38,2024
+Video Card Description, NVIDIA GeForce RTX 4060,4.72,3.54,2024
+Video Card Description, NVIDIA GeForce GTX 1650,4.39,-0.14,2024
+Video Card Description, NVIDIA GeForce RTX 4060 Ti,3.8,2.63,2024
+Video Card Description, NVIDIA GeForce RTX 3060 Ti,3.59,0.26,2024
+Video Card Description, NVIDIA GeForce RTX 3070,3.49,0.46,2024
+Video Card Description, NVIDIA GeForce RTX 3050,3.35,0.65,2024
+Video Card Description, NVIDIA GeForce RTX 3060 Laptop GPU,3.27,-0.46,2024
+Video Card Description, NVIDIA GeForce RTX 2060,3.23,-0.17,2024
+Video Card Description, NVIDIA GeForce RTX 4070,3.21,1.71,2024
+Video Card Description, NVIDIA GeForce GTX 1060,3.06,-0.52,2024
+Video Card Description, AMD Radeon Graphics,2.62,0.51,2024
+Video Card Description, Intel Iris Xe Graphics,2.42,0.44,2024
+Video Card Description, NVIDIA GeForce RTX 3080,2.35,0.24,2024
+Video Card Description, NVIDIA GeForce GTX 1050 Ti,2.26,-0.46,2024
+Video Card Description, NVIDIA GeForce GTX 1660 SUPER,2.21,-0.02,2024
+Video Card Description, NVIDIA GeForce RTX 4070 SUPER,2.15,1.99,2024
+Video Card Description, Intel(R) UHD Graphics,2.04,0.59,2024
+Video Card Description, AMD Radeon(TM) Graphics,1.86,1.01,2024
+Video Card Description, NVIDIA GeForce GTX 1660 Ti,1.6,-0.12,2024
+Video Card Description, ,1.56,0.46,2024
+Video Card Description, NVIDIA GeForce RTX 3070 Ti,1.53,0.1,2024
+Video Card Description, NVIDIA GeForce RTX 4070 Ti,1.35,0.15,2024
+Video Card Description, NVIDIA GeForce RTX 4050 Laptop GPU,1.33,0.65,2024
+Video Card Description, NVIDIA GeForce RTX 2070 SUPER,1.27,0.0,2024
+Video Card Description, NVIDIA GeForce GTX 1070,1.24,-0.09,2024
+Video Card Description, NVIDIA GeForce RTX 2060 SUPER,1.24,0.07,2024
+Video Card Description, NVIDIA GeForce RTX 4070 Laptop GPU,1.18,0.82,2024
+Video Card Description, NVIDIA GeForce RTX 4090,1.16,0.25,2024
+Video Card Description, NVIDIA GeForce GTX 1050,1.11,-0.23,2024
+Video Card Description, NVIDIA GeForce RTX 3050 Ti Laptop GPU,1.04,-0.03,2024
+Video Card Description, AMD Radeon RX 6600,0.99,0.3,2024
+Video Card Description, NVIDIA GeForce RTX 4080 SUPER,0.94,0.73,2024
+Video Card Description, AMD Radeon RX 580,0.91,-0.01,2024
+Video Card Description, NVIDIA GeForce RTX 2070,0.9,0.0,2024
+Video Card Description, NVIDIA GeForce RTX 4080,0.9,0.17,2024
+Video Card Description, NVIDIA GeForce GTX 1660,0.89,-0.08,2024
+Video Card Description, NVIDIA GeForce RTX 3080 Ti,0.85,0.04,2024
+Video Card Description, AMD Radeon RX 6700 XT,0.83,0.1,2024
+Video Card Description, NVIDIA GeForce RTX 4070 Ti SUPER,0.82,0.62,2024
+Video Card Description, NVIDIA GeForce GTX 1080,0.81,-0.05,2024
+Video Card Description, AMD Radeon RX 5700 XT,0.77,0.09,2024
+Video Card Description, NVIDIA GeForce RTX 3070 Laptop GPU,0.77,-0.05,2024
+Video Card Description, NVIDIA GeForce GTX 1650 Ti,0.69,-0.07,2024
+Video Card Description, NVIDIA GeForce RTX 3050 Laptop GPU,0.67,-0.05,2024
+Video Card Description, AMD AMD Custom GPU 0405,0.66,-0.16,2024
+Video Card Description, AMD Radeon RX 580 2048SP,0.65,0.17,2024
+Video Card Description, NVIDIA GeForce RTX 3090,0.63,0.04,2024
+Video Card Description, AMD Radeon RX 570,0.6,-0.06,2024
+Video Card Description, Intel UHD Graphics 620,0.6,0.08,2024
+Video Card Description, NVIDIA GeForce GTX 1080 Ti,0.58,-0.01,2024
+Video Card Description, AMD Radeon Vega 8 Graphics,0.55,-0.03,2024
+Video Card Description, AMD Radeon RX 7900 XTX,0.54,0.2,2024
+Video Card Description, NVIDIA GeForce RTX 2080 SUPER,0.5,0.0,2024
+Video Card Description, NVIDIA GeForce GTX 1650 SUPER,0.49,-0.04,2024
+Video Card Description, AMD Radeon RX 6600 XT,0.45,0.04,2024
+Video Card Description, NVIDIA GeForce RTX 2050,0.44,0.27,2024
+Video Card Description, NVIDIA GeForce RTX 2080,0.42,-0.02,2024
+Video Card Description, AMD Radeon RX 6750 XT,0.42,0.09,2024
+Video Card Description, NVIDIA GeForce GTX 970,0.42,-0.08,2024
+Video Card Description, Intel UHD Graphics 630,0.41,0.0,2024
+Video Card Description, NVIDIA GeForce RTX 2080 Ti,0.41,0.01,2024
+Video Card Description, NVIDIA GeForce GT 1030,0.39,-0.07,2024
+Video Card Description, NVIDIA GeForce GTX 1070 Ti,0.38,-0.03,2024
+Video Card Description, AMD Radeon RX 6650 XT,0.38,0.09,2024
+Video Card Description, NVIDIA GeForce RTX 3070 Ti Laptop GPU,0.38,-0.04,2024
+Video Card Description, AMD Radeon Graphics (RADV VANGOGH),0.37,0.22,2024
+Video Card Description, AMD Radeon RX 6800 XT,0.36,0.03,2024
+Video Card Description, NVIDIA GeForce GTX 960,0.35,-0.09,2024
+Video Card Description, AMD Radeon RX 550,0.33,0.02,2024
+Video Card Description, AMD Radeon Vega 3 Graphics,0.33,0.02,2024
+Video Card Description, NVIDIA GeForce RTX 3050 6GB Laptop GPU,0.32,0.16,2024
+Video Card Description, Intel HD Graphics 520,0.31,0.02,2024
+Video Card Description, Intel HD Graphics 620,0.31,0.01,2024
+Video Card Description, NVIDIA GeForce GTX 750 Ti,0.31,-0.1,2024
+Video Card Description, AMD Radeon (TM) Graphics,0.3,0.13,2024
+Video Card Description, AMD Radeon 780M Graphics,0.28,0.11,2024
+Video Card Description, AMD Radeon RX 6800,0.28,0.11,2024
+Video Card Description, NVIDIA GeForce RTX 4080 Laptop GPU,0.26,0.11,2024
+Video Card Description, Intel HD Graphics 4600,0.26,-0.01,2024
+Video Card Description, NVIDIA GeForce GT 730,0.25,-0.05,2024
+Video Card Description, AMD Radeon RX 6900 XT,0.25,0.01,2024
+Video Card Description, Intel UHD Graphics 600,0.24,-0.01,2024
+Video Card Description, Intel(R) Arc(TM) Graphics,0.24,0.06,2024
+Video Card Description, AMD Radeon RX 5600 XT,0.22,-0.01,2024
+Video Card Description, NVIDIA GeForce RTX 3050 Ti,0.22,-0.04,2024
+Video Card Description, AMD Radeon RX 6500 XT,0.22,0.03,2024
+Video Card Description, AMD Radeon RX 5500 XT,0.21,0.01,2024
+Video Card Description, AMD Radeon RX 6750 GRE 12GB,0.21,0.02,2024
+Video Card Description, NVIDIA GeForce RTX T10-8,0.21,0.06,2024
+Video Card Description, Intel HD Graphics 4000,0.2,-0.05,2024
+Video Card Description, AMD Radeon RX 7700 XT,0.19,0.03,2024
+Video Card Description, NVIDIA GeForce RTX 3080 Laptop GPU,0.19,0.0,2024
+Video Card Description, AMD Radeon RX 480,0.19,0.0,2024
+Video Card Description, Intel HD Graphics 530,0.18,0.03,2024
+Video Card Description, AMD Radeon RX 6950 XT,0.16,0.0,2024
+Video Card Description, AMD Radeon RX 6750 GRE 10GB,0.16,0.0,2024
+Video Card Description, Intel Ivy Bridge,0.16,-0.02,2024
+Video Card Description, NVIDIA GeForce GTX 960M,0.15,-0.04,2024
+Video Card Description, NVIDIA GeForce GT 710,0.15,-0.03,2024
+Video Card Description, AMD Radeon RX 5700,0.15,0.0,2024
+Video Card Description, NVIDIA GeForce MX450,0.15,-0.03,2024
+Video Card Description, Other,10.02,-0.01,2024
+VRAM, 512 MB,4.52,1.8,2024
+VRAM, 1 GB,4.73,-2.71,2024
+VRAM, 2 GB,4.34,-0.59,2024
+VRAM, 3 GB,1.21,-0.65,2024
+VRAM, 4 GB,7.73,-2.8,2024
+VRAM, 6 GB,12.11,-3.19,2024
+VRAM, 8 GB,34.91,3.12,2024
+VRAM, 10 GB,2.99,-0.32,2024
+VRAM, 11 GB,1.43,-0.33,2024
+VRAM, 12 GB,18.52,3.48,2024
+VRAM, 16 GB,4.26,2.45,2024
+VRAM, 24 GB,2.67,0.0,2024
+VRAM, Other,0.75,-0.09,2024
+Primary Display Resolution, 800 x 1280,0.55,0.08,2024
+Primary Display Resolution, 1280 x 1024,0.29,-0.14,2024
+Primary Display Resolution, 1280 x 720,0.22,-0.01,2024
+Primary Display Resolution, 1280 x 800,0.35,-0.13,2024
+Primary Display Resolution, 1360 x 768,0.58,-0.13,2024
+Primary Display Resolution, 1366 x 768,3.0,-1.01,2024
+Primary Display Resolution, 1440 x 900,0.89,-0.3,2024
+Primary Display Resolution, 1600 x 900,0.9,-0.23,2024
+Primary Display Resolution, 1680 x 1050,0.57,-0.18,2024
+Primary Display Resolution, 1920 x 1080,56.12,-3.58,2024
+Primary Display Resolution, 1920 x 1200,1.52,0.38,2024
+Primary Display Resolution, 2560 x 1600,4.11,0.78,2024
+Primary Display Resolution, 2560 x 1080,0.9,-0.08,2024
+Primary Display Resolution, 2560 x 1440,19.56,3.54,2024
+Primary Display Resolution, 2880 x 1800,0.39,0.11,2024
+Primary Display Resolution, 3440 x 1440,2.7,0.39,2024
+Primary Display Resolution, 3840 x 2160,4.21,0.43,2024
+Primary Display Resolution, 5120 x 1440,0.37,0.07,2024
+Primary Display Resolution, Other,2.94,0.19,2024

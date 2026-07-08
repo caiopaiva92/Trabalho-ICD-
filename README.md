@@ -57,3 +57,11 @@ Arquivos no formato `dados_anuais_<ano>.csv`.
 | `Incrementos/Decrementos` | Diferença entre o percentual final do ano e o percentual da primeira aparição da especificação naquele ano. | `0.38` |
 | `Ano` | Ano de referência do registro. | `2023` |
 
+## Acesso aos dados
+
+Os conjuntos de dados completos (bases mensais e anuais em CSV) estão hospedados no Google Drive:
+
+📁 **[Pasta de dados no Google Drive](https://drive.google.com/drive/folders/1MGE5TN2bYMApJyowDDR435jBd4QgGTV1?usp=sharing)**
+
+> A estrutura dos arquivos está descrita na seção [Dicionário de dados](#dicionário-de-dados).
+

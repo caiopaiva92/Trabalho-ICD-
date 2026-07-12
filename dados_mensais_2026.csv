@@ -1,0 +1,1062 @@
+Categoria,Especificação,Porcentagens,Incrementos/Decrementos,Mês,Ano
+OS Version,Windows,94.62%,+0.39%,Janeiro,2026
+OS Version,Windows 11 64 bit,66.71%,+0.11%,Janeiro,2026
+OS Version,Windows 10 64 bit,27.79%,+0.28%,Janeiro,2026
+OS Version,Windows 7 64 bit,0.08%,0.00%,Janeiro,2026
+OS Version,OSX,2.01%,-0.17%,Janeiro,2026
+OS Version,MacOS 26.2.0 64 bit,0.56%,+0.39%,Janeiro,2026
+OS Version,MacOS 26.1.0 64 bit,0.28%,-0.37%,Janeiro,2026
+OS Version,MacOS 15.6.1 64 bit,0.23%,-0.12%,Janeiro,2026
+OS Version,MacOS 15.7.3 64 bit,0.14%,+0.14%,Janeiro,2026
+OS Version,MacOS 15.5.0 64 bit,0.10%,-0.02%,Janeiro,2026
+OS Version,MacOS 15.6.0 64 bit,0.07%,-0.03%,Janeiro,2026
+OS Version,MacOS 26.0.1 64 bit,0.05%,-0.02%,Janeiro,2026
+OS Version,Linux,3.38%,-0.20%,Janeiro,2026
+OS Version,"Arch Linux" 64 bit,0.31%,-0.03%,Janeiro,2026
+OS Version,Linux Mint 22.2 64 bit,0.22%,-0.06%,Janeiro,2026
+OS Version,Ubuntu Core 24 64 bit,0.13%,+0.01%,Janeiro,2026
+OS Version,Ubuntu 24.04.3 LTS 64 bit,0.13%,-0.01%,Janeiro,2026
+OS Version,Linux Mint 22.3 64 bit,0.08%,+0.08%,Janeiro,2026
+OS Version,"Fedora Linux 43 (KDE Plasma Desktop Edition)" 64 bit,0.07%,0.00%,Janeiro,2026
+OS Version,"EndeavourOS Linux" 64 bit,0.06%,-0.02%,Janeiro,2026
+OS Version,"Nobara Linux 43 (KDE Plasma Desktop Edition)" 64 bit,0.06%,+0.06%,Janeiro,2026
+OS Version,Debian GNU/Linux 13 (trixie) 64 bit,0.06%,0.00%,Janeiro,2026
+OS Version,"Manjaro Linux" 64 bit,0.06%,0.00%,Janeiro,2026
+OS Version,Ubuntu 25.10 64 bit,0.05%,+0.05%,Janeiro,2026
+System RAM,Less than 4 GB,0.02%,0.00%,Janeiro,2026
+System RAM,4 GB,1.52%,-0.07%,Janeiro,2026
+System RAM,8 GB,7.78%,-0.44%,Janeiro,2026
+System RAM,12 GB,2.46%,-0.17%,Janeiro,2026
+System RAM,16 GB,40.24%,-0.53%,Janeiro,2026
+System RAM,24 GB,1.83%,-0.07%,Janeiro,2026
+System RAM,28 GB,0.52%,-0.04%,Janeiro,2026
+System RAM,32 GB,38.02%,+1.45%,Janeiro,2026
+System RAM,48 GB,1.19%,-0.01%,Janeiro,2026
+System RAM,60 GB,0.92%,+0.04%,Janeiro,2026
+System RAM,64 GB,4.26%,-0.08%,Janeiro,2026
+System RAM,More than 64 GB,0.61%,-0.03%,Janeiro,2026
+System RAM,Other,0.63%,-0.05%,Janeiro,2026
+Physical CPUs,1 cpu,0.02%,0.00%,Janeiro,2026
+Physical CPUs,2 cpus,3.16%,-0.19%,Janeiro,2026
+Physical CPUs,3 cpus,0.11%,0.00%,Janeiro,2026
+Physical CPUs,4 cpus,13.43%,-0.77%,Janeiro,2026
+Physical CPUs,5 cpus,0.14%,-0.01%,Janeiro,2026
+Physical CPUs,6 cpus,28.45%,+0.17%,Janeiro,2026
+Physical CPUs,7 cpus,0.01%,0.00%,Janeiro,2026
+Physical CPUs,8 cpus,26.67%,-0.10%,Janeiro,2026
+Physical CPUs,9 cpus,0.00%,0.00%,Janeiro,2026
+Physical CPUs,10 cpus,7.63%,+0.67%,Janeiro,2026
+Physical CPUs,11 cpus,0.04%,-0.01%,Janeiro,2026
+Physical CPUs,12 cpus,5.25%,-0.09%,Janeiro,2026
+Physical CPUs,13 cpus,0.00%,0.00%,Janeiro,2026
+Physical CPUs,14 cpus,4.91%,+0.07%,Janeiro,2026
+Physical CPUs,15 cpus,0.00%,0.00%,Janeiro,2026
+Physical CPUs,16 cpus,5.43%,+0.08%,Janeiro,2026
+Physical CPUs,17 cpus,0.00%,0.00%,Janeiro,2026
+Physical CPUs,18 cpus,0.05%,0.00%,Janeiro,2026
+Physical CPUs,19 cpus,0.00%,0.00%,Janeiro,2026
+Physical CPUs,20 cpus,2.00%,+0.13%,Janeiro,2026
+Physical CPUs,21 cpus,0.00%,0.00%,Janeiro,2026
+Physical CPUs,22 cpus,0.00%,0.00%,Janeiro,2026
+Physical CPUs,23 cpus,0.00%,0.00%,Janeiro,2026
+Physical CPUs,24 cpus,2.67%,+0.04%,Janeiro,2026
+Physical CPUs,26 cpus,0.00%,0.00%,Janeiro,2026
+Physical CPUs,27 cpus,0.00%,0.00%,Janeiro,2026
+Physical CPUs,28 cpus,0.01%,0.00%,Janeiro,2026
+Physical CPUs,30 cpus,0.00%,0.00%,Janeiro,2026
+Physical CPUs,32 cpus,0.01%,0.00%,Janeiro,2026
+Physical CPUs,36 cpus,0.00%,0.00%,Janeiro,2026
+Physical CPUs,40 cpus,0.00%,0.00%,Janeiro,2026
+Physical CPUs,44 cpus,0.00%,0.00%,Janeiro,2026
+Physical CPUs,48 cpus,0.00%,0.00%,Janeiro,2026
+Physical CPUs,52 cpus,0.00%,0.00%,Janeiro,2026
+Physical CPUs,56 cpus,0.00%,0.00%,Janeiro,2026
+Physical CPUs,64 cpus,0.00%,0.00%,Janeiro,2026
+Physical CPUs,72 cpus,0.00%,0.00%,Janeiro,2026
+Physical CPUs,80 cpus,0.00%,0.00%,Janeiro,2026
+Physical CPUs,96 cpus,0.00%,0.00%,Janeiro,2026
+Physical CPUs,112 cpus,0.00%,0.00%,Janeiro,2026
+Physical CPUs,120 cpus,0.00%,0.00%,Janeiro,2026
+Physical CPUs,128 cpus,0.00%,0.00%,Janeiro,2026
+Physical CPUs,192 cpus,0.00%,0.00%,Janeiro,2026
+Video Card Description,NVIDIA GeForce GTX 1650 SUPER,0.29%,-0.02%,Janeiro,2026
+Video Card Description,NVIDIA GeForce RTX 2050,0.45%,0.00%,Janeiro,2026
+Video Card Description,NVIDIA GeForce RTX 5090,0.37%,+0.01%,Janeiro,2026
+Video Card Description,NVIDIA GeForce RTX 3070 Ti Laptop GPU,0.24%,-0.01%,Janeiro,2026
+Video Card Description,AMD Radeon 780M Graphics,0.32%,-0.01%,Janeiro,2026
+Video Card Description,Intel UHD Graphics 620,0.45%,-0.04%,Janeiro,2026
+Video Card Description,NVIDIA GeForce GTX 960,0.19%,-0.01%,Janeiro,2026
+Video Card Description,,1.78%,-0.15%,Janeiro,2026
+Video Card Description,NVIDIA GeForce RTX 3060 Ti,2.38%,+0.03%,Janeiro,2026
+Video Card Description,NVIDIA GeForce RTX 4060 Ti,2.61%,+0.09%,Janeiro,2026
+Video Card Description,NVIDIA GeForce RTX 4070,2.02%,+0.06%,Janeiro,2026
+Video Card Description,NVIDIA GeForce RTX 4060 Laptop GPU,3.79%,-0.05%,Janeiro,2026
+Video Card Description,NVIDIA GeForce RTX 5060,2.37%,+0.68%,Janeiro,2026
+Video Card Description,NVIDIA GeForce RTX 5070,2.72%,+0.44%,Janeiro,2026
+Video Card Description,NVIDIA GeForce GTX 1050,0.61%,-0.03%,Janeiro,2026
+Video Card Description,NVIDIA GeForce RTX 4070 SUPER,1.61%,+0.02%,Janeiro,2026
+Video Card Description,Intel(R) Arc(TM) Graphics,0.26%,0.00%,Janeiro,2026
+Video Card Description,NVIDIA GeForce RTX 3050,2.88%,-0.03%,Janeiro,2026
+Video Card Description,Intel(R) UHD Graphics,1.74%,-0.07%,Janeiro,2026
+Video Card Description,NVIDIA GeForce RTX 5060 Ti,1.50%,+0.24%,Janeiro,2026
+Video Card Description,AMD Radeon RX 6800,0.20%,-0.02%,Janeiro,2026
+Video Card Description,NVIDIA GeForce GTX 1660 SUPER,1.44%,-0.06%,Janeiro,2026
+Video Card Description,Intel HD Graphics 4600,0.17%,-0.02%,Janeiro,2026
+Video Card Description,NVIDIA GeForce RTX 5070 Ti,1.43%,+0.23%,Janeiro,2026
+Video Card Description,NVIDIA GeForce RTX 3060,4.11%,+0.04%,Janeiro,2026
+Video Card Description,NVIDIA GeForce RTX 3060 Laptop GPU,1.95%,-0.11%,Janeiro,2026
+Video Card Description,NVIDIA GeForce GTX 1650 Ti,0.40%,-0.02%,Janeiro,2026
+Video Card Description,NVIDIA GeForce RTX 3070,2.19%,-0.01%,Janeiro,2026
+Video Card Description,NVIDIA GeForce RTX 3050 6GB Laptop GPU,0.53%,+0.02%,Janeiro,2026
+Video Card Description,NVIDIA GeForce RTX 5080,1.19%,+0.12%,Janeiro,2026
+Video Card Description,AMD Radeon RX 6600 XT,0.33%,-0.01%,Janeiro,2026
+Video Card Description,AMD Radeon RX 7800 XT,1.05%,+0.12%,Janeiro,2026
+Video Card Description,AMD Radeon RX 6750 XT,0.32%,-0.02%,Janeiro,2026
+Video Card Description,NVIDIA GeForce GTX 1050 Ti,1.27%,-0.08%,Janeiro,2026
+Video Card Description,AMD Radeon RX 7700 XT,0.24%,-0.01%,Janeiro,2026
+Video Card Description,NVIDIA GeForce RTX 4070 Ti,0.98%,-0.01%,Janeiro,2026
+Video Card Description,NVIDIA GeForce GTX 1070 Ti,0.22%,-0.02%,Janeiro,2026
+Video Card Description,NVIDIA GeForce RTX 3070 Ti,1.02%,0.00%,Janeiro,2026
+Video Card Description,Intel HD Graphics 520,0.22%,-0.01%,Janeiro,2026
+Video Card Description,NVIDIA GeForce RTX 2060,1.84%,-0.07%,Janeiro,2026
+Video Card Description,AMD Radeon RX 550,0.21%,-0.01%,Janeiro,2026
+Video Card Description,NVIDIA GeForce RTX 5060 Laptop GPU,0.85%,+0.04%,Janeiro,2026
+Video Card Description,AMD Radeon Vega 8 Graphics,0.35%,-0.02%,Janeiro,2026
+Video Card Description,NVIDIA GeForce GTX 1060,1.68%,-0.06%,Janeiro,2026
+Video Card Description,NVIDIA GeForce RTX 4080 Laptop GPU,0.19%,-0.01%,Janeiro,2026
+Video Card Description,AMD Radeon RX 6600,0.84%,-0.02%,Janeiro,2026
+Video Card Description,Intel UHD Graphics 630,0.28%,-0.02%,Janeiro,2026
+Video Card Description,NVIDIA GeForce RTX 4050 Laptop GPU,1.47%,+0.01%,Janeiro,2026
+Video Card Description,AMD Radeon Vega 3 Graphics,0.19%,-0.02%,Janeiro,2026
+Video Card Description,NVIDIA GeForce RTX 2060 SUPER,0.79%,-0.02%,Janeiro,2026
+Video Card Description,NVIDIA GeForce RTX 3090,0.41%,-0.02%,Janeiro,2026
+Video Card Description,NVIDIA GeForce GTX 1650,2.63%,-0.16%,Janeiro,2026
+Video Card Description,AMD Radeon RX 570,0.38%,-0.01%,Janeiro,2026
+Video Card Description,NVIDIA GeForce RTX 4090,0.76%,-0.04%,Janeiro,2026
+Video Card Description,AMD Radeon Graphics,1.85%,-0.14%,Janeiro,2026
+Video Card Description,NVIDIA GeForce RTX 2070 SUPER,0.77%,-0.03%,Janeiro,2026
+Video Card Description,NVIDIA GeForce GTX 1080 Ti,0.35%,-0.01%,Janeiro,2026
+Video Card Description,NVIDIA GeForce RTX 3080,1.50%,-0.07%,Janeiro,2026
+Video Card Description,AMD Radeon RX 6700 XT,0.57%,-0.03%,Janeiro,2026
+Video Card Description,NVIDIA GeForce RTX 4080 SUPER,0.68%,-0.01%,Janeiro,2026
+Video Card Description,NVIDIA GeForce RTX 3070 Laptop GPU,0.47%,-0.03%,Janeiro,2026
+Video Card Description,NVIDIA GeForce RTX 4070 Ti SUPER,0.78%,+0.01%,Janeiro,2026
+Video Card Description,NVIDIA GeForce RTX 2070,0.50%,-0.02%,Janeiro,2026
+Video Card Description,NVIDIA GeForce RTX 3050 Ti Laptop GPU,0.66%,-0.03%,Janeiro,2026
+Video Card Description,AMD Radeon RX 6650 XT,0.27%,-0.02%,Janeiro,2026
+Video Card Description,Intel Iris Xe Graphics,1.71%,-0.09%,Janeiro,2026
+Video Card Description,NVIDIA GeForce RTX 2080 SUPER,0.29%,-0.01%,Janeiro,2026
+Video Card Description,NVIDIA GeForce GTX 1070,0.69%,-0.05%,Janeiro,2026
+Video Card Description,AMD Radeon RX 6800 XT,0.24%,-0.02%,Janeiro,2026
+Video Card Description,NVIDIA GeForce RTX 4070 Laptop GPU,0.99%,-0.01%,Janeiro,2026
+Video Card Description,NVIDIA GeForce GT 1030,0.23%,-0.02%,Janeiro,2026
+Video Card Description,NVIDIA GeForce RTX 3080 Ti,0.58%,-0.04%,Janeiro,2026
+Video Card Description,NVIDIA GeForce RTX 3050 Laptop GPU,0.38%,-0.04%,Janeiro,2026
+Video Card Description,AMD Radeon RX 580,0.58%,-0.03%,Janeiro,2026
+Video Card Description,NVIDIA GeForce GTX 970,0.22%,-0.02%,Janeiro,2026
+Video Card Description,NVIDIA GeForce RTX 4080,0.67%,-0.03%,Janeiro,2026
+Video Card Description,NVIDIA GeForce RTX 2080 Ti,0.25%,-0.02%,Janeiro,2026
+Video Card Description,AMD Radeon RX 580 2048SP,0.57%,-0.01%,Janeiro,2026
+Video Card Description,AMD Radeon RX 6500 XT,0.19%,0.00%,Janeiro,2026
+Video Card Description,AMD Radeon(TM) Graphics,2.15%,-0.06%,Janeiro,2026
+Video Card Description,NVIDIA GeForce GTX 750 Ti,0.19%,0.00%,Janeiro,2026
+Video Card Description,NVIDIA GeForce GTX 1660 Ti,0.95%,-0.05%,Janeiro,2026
+Video Card Description,Intel HD Graphics 620,0.21%,-0.01%,Janeiro,2026
+Video Card Description,NVIDIA Graphics Device,1.21%,+0.12%,Janeiro,2026
+Video Card Description,NVIDIA GeForce RTX 2080,0.25%,-0.01%,Janeiro,2026
+Video Card Description,NVIDIA GeForce GTX 1660,0.50%,-0.03%,Janeiro,2026
+Video Card Description,AMD Raphael,0.16%,0.00%,Janeiro,2026
+Video Card Description,AMD Radeon RX 7600 XT,0.59%,+0.08%,Janeiro,2026
+Video Card Description,NVIDIA GeForce RTX 5070 Ti Laptop GPU,0.27%,+0.03%,Janeiro,2026
+Video Card Description,AMD Radeon RX 7900 XTX,0.48%,-0.03%,Janeiro,2026
+Video Card Description,AMD Radeon RX 6900 XT,0.17%,-0.01%,Janeiro,2026
+Video Card Description,NVIDIA GeForce GTX 1080,0.45%,-0.03%,Janeiro,2026
+Video Card Description,AMD Radeon (TM) Graphics,0.38%,-0.02%,Janeiro,2026
+Video Card Description,AMD AMD Custom GPU 0405,0.41%,-0.07%,Janeiro,2026
+Video Card Description,NVIDIA GeForce GT 730,0.16%,-0.01%,Janeiro,2026
+Video Card Description,AMD Radeon RX 5700 XT,0.57%,-0.03%,Janeiro,2026
+Video Card Description,Intel(R) Graphics,0.28%,0.00%,Janeiro,2026
+Video Card Description,AMD Radeon Graphics (RADV VANGOGH),0.40%,-0.05%,Janeiro,2026
+Video Card Description,NVIDIA GeForce RTX 4060,4.16%,+0.46%,Janeiro,2026
+Video Card Description,Other,9.33%,-0.23%,Janeiro,2026
+VRAM,512 MB,4.27%,-3.50%,Janeiro,2026
+VRAM,1 GB,3.46%,+0.19%,Janeiro,2026
+VRAM,2 GB,5.37%,+0.64%,Janeiro,2026
+VRAM,3 GB,1.34%,+0.48%,Janeiro,2026
+VRAM,4 GB,6.71%,+0.80%,Janeiro,2026
+VRAM,6 GB,9.26%,-0.74%,Janeiro,2026
+VRAM,8 GB,29.57%,-3.11%,Janeiro,2026
+VRAM,10 GB,2.11%,-0.27%,Janeiro,2026
+VRAM,11 GB,1.20%,+0.09%,Janeiro,2026
+VRAM,12 GB,15.07%,-4.01%,Janeiro,2026
+VRAM,16 GB,14.55%,+5.85%,Janeiro,2026
+VRAM,20 GB,0.64%,+0.64%,Janeiro,2026
+VRAM,24 GB,3.85%,+1.56%,Janeiro,2026
+VRAM,32 GB,0.87%,+0.25%,Janeiro,2026
+VRAM,Other,1.72%,+1.12%,Janeiro,2026
+Primary Display Resolution,800 x 1280,0.51%,-0.11%,Janeiro,2026
+Primary Display Resolution,1280 x 720,0.21%,-0.02%,Janeiro,2026
+Primary Display Resolution,1280 x 1024,0.22%,-0.01%,Janeiro,2026
+Primary Display Resolution,1280 x 800,0.36%,-0.01%,Janeiro,2026
+Primary Display Resolution,1360 x 768,0.44%,-0.03%,Janeiro,2026
+Primary Display Resolution,1366 x 768,2.37%,-0.16%,Janeiro,2026
+Primary Display Resolution,1440 x 900,0.79%,-0.05%,Janeiro,2026
+Primary Display Resolution,1470 x 956,0.39%,-0.01%,Janeiro,2026
+Primary Display Resolution,1512 x 982,0.28%,-0.03%,Janeiro,2026
+Primary Display Resolution,1600 x 900,0.70%,-0.04%,Janeiro,2026
+Primary Display Resolution,1680 x 1050,0.44%,-0.03%,Janeiro,2026
+Primary Display Resolution,1920 x 1200,2.18%,-0.04%,Janeiro,2026
+Primary Display Resolution,1920 x 1080,52.59%,+0.01%,Janeiro,2026
+Primary Display Resolution,2560 x 1440,21.32%,+0.73%,Janeiro,2026
+Primary Display Resolution,2560 x 1600,4.81%,-0.02%,Janeiro,2026
+Primary Display Resolution,2560 x 1080,0.75%,-0.04%,Janeiro,2026
+Primary Display Resolution,2880 x 1800,0.45%,-0.03%,Janeiro,2026
+Primary Display Resolution,3440 x 1440,3.10%,-0.02%,Janeiro,2026
+Primary Display Resolution,3840 x 2160,4.95%,+0.02%,Janeiro,2026
+Primary Display Resolution,5120 x 1440,0.40%,-0.02%,Janeiro,2026
+Primary Display Resolution,Other,2.72%,-0.09%,Janeiro,2026
+OS Version,Windows,96.61%,+1.99%,Fevereiro,2026
+OS Version,Windows 11 64 bit,56.28%,-10.43%,Fevereiro,2026
+OS Version,Windows 10 64 bit,40.25%,+12.46%,Fevereiro,2026
+OS Version,Windows 7 64 bit,0.05%,-0.03%,Fevereiro,2026
+OS Version,OSX,1.16%,-0.85%,Fevereiro,2026
+OS Version,MacOS 26.2.0 64 bit,0.44%,-0.12%,Fevereiro,2026
+OS Version,MacOS 26.3.0 64 bit,0.15%,+0.15%,Fevereiro,2026
+OS Version,MacOS 15.7.3 64 bit,0.10%,-0.04%,Fevereiro,2026
+OS Version,MacOS 15.6.1 64 bit,0.06%,-0.17%,Fevereiro,2026
+OS Version,Linux,2.23%,-1.15%,Fevereiro,2026
+OS Version,Arch Linux 64 bit,0.19%,+0.19%,Fevereiro,2026
+OS Version,Linux Mint 22.3 64 bit,0.14%,+0.06%,Fevereiro,2026
+OS Version,Ubuntu Core 24 64 bit,0.08%,-0.05%,Fevereiro,2026
+OS Version,Ubuntu 24.04.3 LTS 64 bit,0.06%,-0.07%,Fevereiro,2026
+OS Version,Linux Mint 22.2 64 bit,0.05%,-0.17%,Fevereiro,2026
+System RAM,Less than 4 GB,0.01%,-0.01%,Fevereiro,2026
+System RAM,4 GB,0.89%,-0.63%,Fevereiro,2026
+System RAM,8 GB,4.69%,-3.09%,Fevereiro,2026
+System RAM,12 GB,1.50%,-0.96%,Fevereiro,2026
+System RAM,16 GB,27.47%,-12.77%,Fevereiro,2026
+System RAM,24 GB,1.56%,-0.27%,Fevereiro,2026
+System RAM,32 GB,56.93%,+18.91%,Fevereiro,2026
+System RAM,48 GB,1.97%,+0.78%,Fevereiro,2026
+System RAM,60 GB,0.67%,-0.25%,Fevereiro,2026
+System RAM,64 GB,3.25%,-1.01%,Fevereiro,2026
+System RAM,More than 64 GB,0.37%,-0.24%,Fevereiro,2026
+System RAM,Other,0.70%,+0.07%,Fevereiro,2026
+Physical CPUs,1 cpu,0.01%,-0.01%,Fevereiro,2026
+Physical CPUs,2 cpus,1.87%,-1.29%,Fevereiro,2026
+Physical CPUs,3 cpus,0.06%,-0.05%,Fevereiro,2026
+Physical CPUs,4 cpus,8.22%,-5.21%,Fevereiro,2026
+Physical CPUs,5 cpus,0.10%,-0.04%,Fevereiro,2026
+Physical CPUs,6 cpus,29.87%,+1.42%,Fevereiro,2026
+Physical CPUs,7 cpus,0.00%,-0.01%,Fevereiro,2026
+Physical CPUs,8 cpus,28.30%,+1.63%,Fevereiro,2026
+Physical CPUs,9 cpus,0.00%,0.00%,Fevereiro,2026
+Physical CPUs,10 cpus,11.53%,+3.90%,Fevereiro,2026
+Physical CPUs,11 cpus,0.03%,-0.01%,Fevereiro,2026
+Physical CPUs,12 cpus,5.44%,+0.19%,Fevereiro,2026
+Physical CPUs,13 cpus,0.00%,0.00%,Fevereiro,2026
+Physical CPUs,14 cpus,5.71%,+0.80%,Fevereiro,2026
+Physical CPUs,15 cpus,0.00%,0.00%,Fevereiro,2026
+Physical CPUs,16 cpus,5.23%,-0.20%,Fevereiro,2026
+Physical CPUs,17 cpus,0.00%,0.00%,Fevereiro,2026
+Physical CPUs,18 cpus,0.03%,-0.02%,Fevereiro,2026
+Physical CPUs,19 cpus,0.00%,0.00%,Fevereiro,2026
+Physical CPUs,20 cpus,1.88%,-0.12%,Fevereiro,2026
+Physical CPUs,21 cpus,0.00%,0.00%,Fevereiro,2026
+Physical CPUs,22 cpus,0.00%,0.00%,Fevereiro,2026
+Physical CPUs,23 cpus,0.00%,0.00%,Fevereiro,2026
+Physical CPUs,24 cpus,1.69%,-0.98%,Fevereiro,2026
+Physical CPUs,26 cpus,0.00%,0.00%,Fevereiro,2026
+Physical CPUs,28 cpus,0.01%,0.00%,Fevereiro,2026
+Physical CPUs,29 cpus,0.00%,0.00%,Fevereiro,2026
+Physical CPUs,30 cpus,0.00%,0.00%,Fevereiro,2026
+Physical CPUs,32 cpus,0.01%,0.00%,Fevereiro,2026
+Physical CPUs,36 cpus,0.00%,0.00%,Fevereiro,2026
+Physical CPUs,38 cpus,0.00%,0.00%,Fevereiro,2026
+Physical CPUs,40 cpus,0.00%,0.00%,Fevereiro,2026
+Physical CPUs,44 cpus,0.00%,0.00%,Fevereiro,2026
+Physical CPUs,48 cpus,0.00%,0.00%,Fevereiro,2026
+Physical CPUs,52 cpus,0.00%,0.00%,Fevereiro,2026
+Physical CPUs,56 cpus,0.00%,0.00%,Fevereiro,2026
+Physical CPUs,64 cpus,0.00%,0.00%,Fevereiro,2026
+Physical CPUs,72 cpus,0.00%,0.00%,Fevereiro,2026
+Physical CPUs,96 cpus,0.00%,0.00%,Fevereiro,2026
+Physical CPUs,128 cpus,0.00%,0.00%,Fevereiro,2026
+Physical CPUs,192 cpus,0.00%,0.00%,Fevereiro,2026
+Video Card Description,NVIDIA GeForce RTX 3050 6GB Laptop GPU,0.32%,-0.21%,Fevereiro,2026
+Video Card Description,AMD AMD Custom GPU 0405,0.24%,-0.17%,Fevereiro,2026
+Video Card Description,AMD Radeon RX 570,0.22%,-0.16%,Fevereiro,2026
+Video Card Description,AMD Radeon RX 580,0.35%,-0.23%,Fevereiro,2026
+Video Card Description,AMD Radeon RX 7900 XTX,0.29%,-0.19%,Fevereiro,2026
+Video Card Description,Intel UHD Graphics 620,0.27%,-0.18%,Fevereiro,2026
+Video Card Description,Intel(R) Graphics,0.18%,-0.10%,Fevereiro,2026
+Video Card Description,NVIDIA GeForce RTX 3060,4.49%,+0.38%,Fevereiro,2026
+Video Card Description,NVIDIA GeForce RTX 3060 Ti,2.56%,+0.18%,Fevereiro,2026
+Video Card Description,NVIDIA GeForce RTX 4070,4.45%,+2.43%,Fevereiro,2026
+Video Card Description,NVIDIA GeForce RTX 4070 SUPER,3.10%,+1.49%,Fevereiro,2026
+Video Card Description,NVIDIA GeForce RTX 5060 Ti,4.14%,+2.64%,Fevereiro,2026
+Video Card Description,NVIDIA GeForce RTX 4060 Ti,5.43%,+2.82%,Fevereiro,2026
+Video Card Description,NVIDIA GeForce RTX 5060,6.51%,+4.14%,Fevereiro,2026
+Video Card Description,NVIDIA GeForce RTX 3070 Laptop GPU,0.28%,-0.19%,Fevereiro,2026
+Video Card Description,NVIDIA GeForce RTX 3070,2.86%,+0.67%,Fevereiro,2026
+Video Card Description,AMD Radeon RX 6750 XT,0.19%,-0.13%,Fevereiro,2026
+Video Card Description,NVIDIA GeForce RTX 5080,1.61%,+0.42%,Fevereiro,2026
+Video Card Description,NVIDIA GeForce RTX 5070 Ti Laptop GPU,0.18%,-0.09%,Fevereiro,2026
+Video Card Description,NVIDIA GeForce RTX 4060 Laptop GPU,2.38%,-1.41%,Fevereiro,2026
+Video Card Description,AMD Radeon RX 580 2048SP,0.35%,-0.22%,Fevereiro,2026
+Video Card Description,NVIDIA GeForce RTX 5070 Ti,1.24%,-0.19%,Fevereiro,2026
+Video Card Description,NVIDIA GeForce RTX 2070,0.48%,-0.02%,Fevereiro,2026
+Video Card Description,,1.05%,-0.73%,Fevereiro,2026
+Video Card Description,AMD Radeon Graphics (RADV VANGOGH),0.24%,-0.16%,Fevereiro,2026
+Video Card Description,NVIDIA GeForce RTX 3070 Ti,1.02%,0.00%,Fevereiro,2026
+Video Card Description,NVIDIA GeForce RTX 2050,0.28%,-0.17%,Fevereiro,2026
+Video Card Description,NVIDIA GeForce GTX 1660 SUPER,0.96%,-0.48%,Fevereiro,2026
+Video Card Description,NVIDIA GeForce RTX 2080 SUPER,0.22%,-0.07%,Fevereiro,2026
+Video Card Description,NVIDIA GeForce RTX 3050,1.84%,-1.04%,Fevereiro,2026
+Video Card Description,NVIDIA GeForce GTX 1650 SUPER,0.18%,-0.11%,Fevereiro,2026
+Video Card Description,NVIDIA GeForce RTX 2060,1.69%,-0.15%,Fevereiro,2026
+Video Card Description,NVIDIA GeForce GTX 1050,0.36%,-0.25%,Fevereiro,2026
+Video Card Description,NVIDIA GeForce RTX 4070 Ti,0.79%,-0.19%,Fevereiro,2026
+Video Card Description,NVIDIA GeForce GTX 1070 Ti,0.15%,-0.07%,Fevereiro,2026
+Video Card Description,NVIDIA GeForce RTX 3060 Laptop GPU,1.21%,-0.74%,Fevereiro,2026
+Video Card Description,NVIDIA GeForce RTX 2080,0.17%,-0.08%,Fevereiro,2026
+Video Card Description,NVIDIA GeForce RTX 2060 SUPER,0.73%,-0.06%,Fevereiro,2026
+Video Card Description,Intel UHD Graphics 630,0.17%,-0.11%,Fevereiro,2026
+Video Card Description,AMD Radeon RX 7800 XT,0.70%,-0.35%,Fevereiro,2026
+Video Card Description,NVIDIA GeForce RTX 4060,7.23%,+3.07%,Fevereiro,2026
+Video Card Description,NVIDIA GeForce RTX 4080 SUPER,0.69%,+0.01%,Fevereiro,2026
+Video Card Description,NVIDIA GeForce RTX 4070 Laptop GPU,0.60%,-0.39%,Fevereiro,2026
+Video Card Description,NVIDIA GeForce RTX 3080,1.35%,-0.15%,Fevereiro,2026
+Video Card Description,AMD Radeon(TM) Graphics,1.31%,-0.84%,Fevereiro,2026
+Video Card Description,NVIDIA GeForce GTX 1050 Ti,0.79%,-0.48%,Fevereiro,2026
+Video Card Description,NVIDIA GeForce GTX 1080,0.28%,-0.17%,Fevereiro,2026
+Video Card Description,NVIDIA GeForce RTX 5060 Laptop GPU,0.56%,-0.29%,Fevereiro,2026
+Video Card Description,AMD Radeon RX 5700 XT,0.35%,-0.22%,Fevereiro,2026
+Video Card Description,NVIDIA GeForce GTX 1060,1.20%,-0.48%,Fevereiro,2026
+Video Card Description,NVIDIA GeForce RTX 5090,0.24%,-0.13%,Fevereiro,2026
+Video Card Description,NVIDIA GeForce RTX 4050 Laptop GPU,0.92%,-0.55%,Fevereiro,2026
+Video Card Description,NVIDIA GeForce RTX 3090,0.24%,-0.17%,Fevereiro,2026
+Video Card Description,AMD Radeon RX 6600,0.51%,-0.33%,Fevereiro,2026
+Video Card Description,AMD Radeon Graphics,1.10%,-0.75%,Fevereiro,2026
+Video Card Description,NVIDIA GeForce RTX 2070 SUPER,0.55%,-0.22%,Fevereiro,2026
+Video Card Description,NVIDIA GeForce GTX 1650 Ti,0.24%,-0.16%,Fevereiro,2026
+Video Card Description,NVIDIA GeForce RTX 4080,0.54%,-0.13%,Fevereiro,2026
+Video Card Description,NVIDIA GeForce GTX 1080 Ti,0.21%,-0.14%,Fevereiro,2026
+Video Card Description,NVIDIA GeForce GTX 1650,1.61%,-1.02%,Fevereiro,2026
+Video Card Description,AMD Radeon RX 6700 XT,0.35%,-0.22%,Fevereiro,2026
+Video Card Description,NVIDIA GeForce RTX 4090,0.46%,-0.30%,Fevereiro,2026
+Video Card Description,AMD Radeon RX 6600 XT,0.21%,-0.12%,Fevereiro,2026
+Video Card Description,NVIDIA GeForce RTX 4070 Ti SUPER,0.53%,-0.25%,Fevereiro,2026
+Video Card Description,AMD Radeon RX 6650 XT,0.17%,-0.10%,Fevereiro,2026
+Video Card Description,NVIDIA GeForce GTX 1660,0.41%,-0.09%,Fevereiro,2026
+Video Card Description,AMD Radeon RX 7700 XT,0.16%,-0.08%,Fevereiro,2026
+Video Card Description,NVIDIA GeForce RTX 3050 Ti Laptop GPU,0.40%,-0.26%,Fevereiro,2026
+Video Card Description,Intel(R) Arc(TM) Graphics,0.16%,-0.10%,Fevereiro,2026
+Video Card Description,Intel Iris Xe Graphics,1.03%,-0.68%,Fevereiro,2026
+Video Card Description,NVIDIA GeForce RTX 3050 Laptop GPU,0.24%,-0.14%,Fevereiro,2026
+Video Card Description,NVIDIA GeForce RTX 3080 Ti,0.38%,-0.20%,Fevereiro,2026
+Video Card Description,Intel(R) UHD Graphics,1.06%,-0.68%,Fevereiro,2026
+Video Card Description,NVIDIA GeForce GTX 1070,0.42%,-0.27%,Fevereiro,2026
+Video Card Description,AMD Radeon Vega 8 Graphics,0.21%,-0.14%,Fevereiro,2026
+Video Card Description,NVIDIA Graphics Device,0.80%,-0.41%,Fevereiro,2026
+Video Card Description,AMD Radeon (TM) Graphics,0.24%,-0.14%,Fevereiro,2026
+Video Card Description,AMD Radeon RX 7600 XT,0.42%,-0.17%,Fevereiro,2026
+Video Card Description,AMD Radeon 780M Graphics,0.20%,-0.12%,Fevereiro,2026
+Video Card Description,NVIDIA GeForce GTX 1660 Ti,0.59%,-0.36%,Fevereiro,2026
+Video Card Description,NVIDIA GeForce RTX 5070,9.12%,+6.40%,Fevereiro,2026
+Video Card Description,Other,7.99%,-1.34%,Fevereiro,2026
+VRAM,512 MB,2.88%,-1.39%,Fevereiro,2026
+VRAM,1 GB,2.92%,-0.54%,Fevereiro,2026
+VRAM,2 GB,4.87%,-0.50%,Fevereiro,2026
+VRAM,3 GB,1.40%,+0.06%,Fevereiro,2026
+VRAM,4 GB,6.42%,-0.29%,Fevereiro,2026
+VRAM,6 GB,7.59%,-1.67%,Fevereiro,2026
+VRAM,8 GB,29.37%,-0.20%,Fevereiro,2026
+VRAM,10 GB,1.92%,-0.19%,Fevereiro,2026
+VRAM,11 GB,0.94%,-0.26%,Fevereiro,2026
+VRAM,12 GB,15.22%,+0.15%,Fevereiro,2026
+VRAM,16 GB,18.26%,+3.71%,Fevereiro,2026
+VRAM,20 GB,0.95%,+0.31%,Fevereiro,2026
+VRAM,22 GB,0.70%,+0.70%,Fevereiro,2026
+VRAM,24 GB,4.09%,+0.24%,Fevereiro,2026
+VRAM,32 GB,0.92%,+0.05%,Fevereiro,2026
+VRAM,Other,1.55%,-0.17%,Fevereiro,2026
+Primary Display Resolution,800 x 1280,0.30%,-0.21%,Fevereiro,2026
+Primary Display Resolution,1280 x 800,0.21%,-0.15%,Fevereiro,2026
+Primary Display Resolution,1360 x 768,0.26%,-0.18%,Fevereiro,2026
+Primary Display Resolution,1366 x 768,1.42%,-0.95%,Fevereiro,2026
+Primary Display Resolution,1440 x 900,0.46%,-0.33%,Fevereiro,2026
+Primary Display Resolution,1470 x 956,0.22%,-0.17%,Fevereiro,2026
+Primary Display Resolution,1600 x 900,0.43%,-0.27%,Fevereiro,2026
+Primary Display Resolution,1680 x 1050,0.27%,-0.17%,Fevereiro,2026
+Primary Display Resolution,1920 x 1080,45.04%,-7.55%,Fevereiro,2026
+Primary Display Resolution,1920 x 1200,1.36%,-0.82%,Fevereiro,2026
+Primary Display Resolution,2560 x 1440,38.64%,+17.32%,Fevereiro,2026
+Primary Display Resolution,2560 x 1600,3.09%,-1.72%,Fevereiro,2026
+Primary Display Resolution,2560 x 1080,0.46%,-0.29%,Fevereiro,2026
+Primary Display Resolution,2880 x 1800,0.28%,-0.17%,Fevereiro,2026
+Primary Display Resolution,3440 x 1440,1.92%,-1.18%,Fevereiro,2026
+Primary Display Resolution,3840 x 2160,3.06%,-1.89%,Fevereiro,2026
+Primary Display Resolution,5120 x 1440,0.25%,-0.15%,Fevereiro,2026
+Primary Display Resolution,Other,2.32%,-0.40%,Fevereiro,2026
+OS Version,Windows,92.33%,-4.28%,Março,2026
+OS Version,Windows 11 64 bit,66.85%,+10.57%,Março,2026
+OS Version,Windows 10 64 bit,25.36%,-14.89%,Março,2026
+OS Version,Windows 7 64 bit,0.08%,+0.03%,Março,2026
+OS Version,OSX,2.35%,+1.19%,Março,2026
+OS Version,MacOS 26.3.0 64 bit,0.55%,+0.40%,Março,2026
+OS Version,MacOS 26.3.1 64 bit,0.49%,+0.49%,Março,2026
+OS Version,MacOS 26.2.0 64 bit,0.23%,-0.21%,Março,2026
+OS Version,MacOS 15.7.4 64 bit,0.14%,+0.14%,Março,2026
+OS Version,MacOS 15.7.3 64 bit,0.10%,0.00%,Março,2026
+OS Version,MacOS 15.6.1 64 bit,0.10%,+0.04%,Março,2026
+OS Version,MacOS 26.4.0 64 bit,0.07%,+0.07%,Março,2026
+OS Version,MacOS 15.5.0 64 bit,0.06%,+0.06%,Março,2026
+OS Version,MacOS 26.1.0 64 bit,0.05%,+0.05%,Março,2026
+OS Version,MacOS 12.7.6 64 bit,0.05%,+0.05%,Março,2026
+OS Version,Linux,5.33%,+3.10%,Março,2026
+OS Version,Arch Linux 64 bit,0.34%,+0.15%,Março,2026
+OS Version,Linux Mint 22.3 64 bit,0.27%,+0.13%,Março,2026
+OS Version,Ubuntu Core 24 64 bit,0.14%,+0.06%,Março,2026
+OS Version,Linux Mint 22.2 64 bit,0.07%,+0.02%,Março,2026
+OS Version,Ubuntu 25.10 64 bit,0.06%,+0.06%,Março,2026
+OS Version,Manjaro Linux 64 bit,0.06%,+0.06%,Março,2026
+System RAM,Less than 4 GB,0.02%,+0.01%,Março,2026
+System RAM,4 GB,1.58%,+0.69%,Março,2026
+System RAM,8 GB,8.15%,+3.46%,Março,2026
+System RAM,12 GB,2.58%,+1.08%,Março,2026
+System RAM,16 GB,40.97%,+13.50%,Março,2026
+System RAM,24 GB,1.98%,+0.42%,Março,2026
+System RAM,28 GB,0.55%,+0.55%,Março,2026
+System RAM,32 GB,36.62%,-20.31%,Março,2026
+System RAM,48 GB,1.14%,-0.83%,Março,2026
+System RAM,60 GB,0.93%,+0.26%,Março,2026
+System RAM,64 GB,4.21%,+0.96%,Março,2026
+System RAM,More than 64 GB,0.62%,+0.25%,Março,2026
+System RAM,Other,0.66%,-0.04%,Março,2026
+Physical CPUs,1 cpu,0.03%,+0.02%,Março,2026
+Physical CPUs,2 cpus,3.24%,+1.37%,Março,2026
+Physical CPUs,3 cpus,0.12%,+0.06%,Março,2026
+Physical CPUs,4 cpus,13.59%,+5.37%,Março,2026
+Physical CPUs,5 cpus,0.17%,+0.07%,Março,2026
+Physical CPUs,6 cpus,27.77%,-2.10%,Março,2026
+Physical CPUs,7 cpus,0.00%,0.00%,Março,2026
+Physical CPUs,8 cpus,27.16%,-1.14%,Março,2026
+Physical CPUs,9 cpus,0.00%,0.00%,Março,2026
+Physical CPUs,10 cpus,7.35%,-4.18%,Março,2026
+Physical CPUs,11 cpus,0.04%,+0.01%,Março,2026
+Physical CPUs,12 cpus,5.30%,-0.14%,Março,2026
+Physical CPUs,13 cpus,0.00%,0.00%,Março,2026
+Physical CPUs,14 cpus,4.82%,-0.89%,Março,2026
+Physical CPUs,15 cpus,0.01%,+0.01%,Março,2026
+Physical CPUs,16 cpus,5.60%,+0.37%,Março,2026
+Physical CPUs,17 cpus,0.00%,0.00%,Março,2026
+Physical CPUs,18 cpus,0.06%,+0.03%,Março,2026
+Physical CPUs,19 cpus,0.00%,0.00%,Março,2026
+Physical CPUs,20 cpus,1.96%,+0.08%,Março,2026
+Physical CPUs,22 cpus,0.00%,0.00%,Março,2026
+Physical CPUs,23 cpus,0.00%,0.00%,Março,2026
+Physical CPUs,24 cpus,2.74%,+1.05%,Março,2026
+Physical CPUs,26 cpus,0.00%,0.00%,Março,2026
+Physical CPUs,28 cpus,0.01%,0.00%,Março,2026
+Physical CPUs,30 cpus,0.00%,0.00%,Março,2026
+Physical CPUs,32 cpus,0.01%,0.00%,Março,2026
+Physical CPUs,36 cpus,0.00%,0.00%,Março,2026
+Physical CPUs,40 cpus,0.00%,0.00%,Março,2026
+Physical CPUs,44 cpus,0.00%,0.00%,Março,2026
+Physical CPUs,48 cpus,0.00%,0.00%,Março,2026
+Physical CPUs,52 cpus,0.00%,0.00%,Março,2026
+Physical CPUs,56 cpus,0.00%,0.00%,Março,2026
+Physical CPUs,64 cpus,0.00%,0.00%,Março,2026
+Physical CPUs,72 cpus,0.00%,0.00%,Março,2026
+Physical CPUs,96 cpus,0.00%,0.00%,Março,2026
+Physical CPUs,112 cpus,0.00%,0.00%,Março,2026
+Physical CPUs,120 cpus,0.00%,0.00%,Março,2026
+Physical CPUs,128 cpus,0.00%,0.00%,Março,2026
+Video Card Description,NVIDIA GeForce GTX 1650 Ti,0.39%,+0.15%,Março,2026
+Video Card Description,NVIDIA GeForce GTX 1650 SUPER,0.28%,+0.10%,Março,2026
+Video Card Description,AMD Radeon RX 6900 XT,0.16%,+0.16%,Março,2026
+Video Card Description,NVIDIA GeForce RTX 5070,2.70%,-6.42%,Março,2026
+Video Card Description,AMD Radeon RX 550,0.23%,+0.23%,Março,2026
+Video Card Description,AMD Radeon RX 6800,0.20%,+0.20%,Março,2026
+Video Card Description,NVIDIA GeForce RTX 4070,1.80%,-2.65%,Março,2026
+Video Card Description,AMD Radeon RX 6800 XT,0.24%,+0.24%,Março,2026
+Video Card Description,,2.13%,+1.08%,Março,2026
+Video Card Description,NVIDIA GeForce RTX 4060 Ti,2.36%,-3.07%,Março,2026
+Video Card Description,NVIDIA GeForce RTX 5060,2.28%,-4.23%,Março,2026
+Video Card Description,NVIDIA GeForce RTX 4060 Laptop GPU,3.81%,+1.43%,Março,2026
+Video Card Description,NVIDIA GeForce RTX 3060,3.92%,-0.57%,Março,2026
+Video Card Description,AMD Radeon RX 6600 XT,0.33%,+0.12%,Março,2026
+Video Card Description,NVIDIA GeForce RTX 5060 Ti,1.58%,-2.56%,Março,2026
+Video Card Description,NVIDIA GeForce RTX 5070 Laptop GPU,0.42%,+0.42%,Março,2026
+Video Card Description,NVIDIA GeForce RTX 3050,2.97%,+1.13%,Março,2026
+Video Card Description,NVIDIA GeForce GTX 1070 Ti,0.21%,+0.06%,Março,2026
+Video Card Description,NVIDIA GeForce RTX 3060 Ti,2.22%,-0.34%,Março,2026
+Video Card Description,NVIDIA GeForce GTX 750 Ti,0.18%,+0.18%,Março,2026
+Video Card Description,NVIDIA GeForce RTX 4070 SUPER,1.51%,-1.59%,Março,2026
+Video Card Description,Intel HD Graphics 4600,0.18%,+0.18%,Março,2026
+Video Card Description,NVIDIA GeForce RTX 5070 Ti,1.47%,+0.23%,Março,2026
+Video Card Description,NVIDIA GeForce GT 730,0.16%,+0.16%,Março,2026
+Video Card Description,NVIDIA GeForce GTX 1660 SUPER,1.39%,+0.43%,Março,2026
+Video Card Description,NVIDIA GeForce RTX 2050,0.45%,+0.17%,Março,2026
+Video Card Description,NVIDIA GeForce RTX 5080,1.27%,-0.34%,Março,2026
+Video Card Description,NVIDIA GeForce GTX 1080 Ti,0.33%,+0.12%,Março,2026
+Video Card Description,NVIDIA GeForce RTX 3060 Laptop GPU,1.92%,+0.71%,Março,2026
+Video Card Description,NVIDIA GeForce RTX 3070 Laptop GPU,0.45%,+0.17%,Março,2026
+Video Card Description,NVIDIA GeForce RTX 3070,2.10%,-0.76%,Março,2026
+Video Card Description,NVIDIA GeForce GTX 1050,0.60%,+0.24%,Março,2026
+Video Card Description,AMD Radeon RX 7800 XT,1.10%,+0.40%,Março,2026
+Video Card Description,Intel(R) UHD Graphics,1.19%,+0.13%,Março,2026
+Video Card Description,NVIDIA GeForce RTX 5060 Laptop GPU,1.70%,+1.14%,Março,2026
+Video Card Description,NVIDIA GeForce RTX 3050 Laptop GPU,0.39%,+0.15%,Março,2026
+Video Card Description,NVIDIA GeForce GTX 1050 Ti,1.23%,+0.44%,Março,2026
+Video Card Description,Intel HD Graphics 520,0.23%,+0.23%,Março,2026
+Video Card Description,NVIDIA GeForce RTX 4070 Ti,0.90%,+0.11%,Março,2026
+Video Card Description,AMD Radeon RX 6500 XT,0.18%,+0.18%,Março,2026
+Video Card Description,NVIDIA GeForce RTX 3070 Ti,0.95%,-0.07%,Março,2026
+Video Card Description,AMD Radeon Vega 8 Graphics,0.36%,+0.15%,Março,2026
+Video Card Description,NVIDIA GeForce RTX 4050 Laptop GPU,1.54%,+0.62%,Março,2026
+Video Card Description,NVIDIA GeForce RTX 2080,0.24%,+0.07%,Março,2026
+Video Card Description,NVIDIA GeForce RTX 2060,1.79%,+0.10%,Março,2026
+Video Card Description,NVIDIA GeForce RTX 4080 Laptop GPU,0.18%,+0.18%,Março,2026
+Video Card Description,AMD Radeon RX 6600,0.82%,+0.31%,Março,2026
+Video Card Description,Intel UHD Graphics 630,0.30%,+0.13%,Março,2026
+Video Card Description,NVIDIA GeForce GTX 1060,1.59%,+0.39%,Março,2026
+Video Card Description,AMD Radeon Vega 3 Graphics,0.20%,+0.20%,Março,2026
+Video Card Description,NVIDIA GeForce RTX 2060 SUPER,0.76%,+0.03%,Março,2026
+Video Card Description,AMD Radeon Graphics,1.93%,+0.83%,Março,2026
+Video Card Description,NVIDIA GeForce GTX 1650,2.60%,+0.99%,Março,2026
+Video Card Description,AMD Radeon RX 570,0.36%,+0.14%,Março,2026
+Video Card Description,NVIDIA GeForce RTX 4090,0.74%,+0.28%,Março,2026
+Video Card Description,NVIDIA GeForce RTX 3050 6GB Laptop GPU,0.58%,+0.26%,Março,2026
+Video Card Description,Intel Iris Xe Graphics,1.86%,+0.83%,Março,2026
+Video Card Description,Intel Arc Graphics,0.30%,+0.30%,Março,2026
+Video Card Description,NVIDIA GeForce RTX 2070 SUPER,0.73%,+0.18%,Março,2026
+Video Card Description,AMD Radeon RX 6700 XT,0.55%,+0.20%,Março,2026
+Video Card Description,NVIDIA GeForce RTX 3080,1.46%,+0.11%,Março,2026
+Video Card Description,AMD Radeon RX 6650 XT,0.27%,+0.10%,Março,2026
+Video Card Description,NVIDIA GeForce RTX 3050 Ti Laptop GPU,0.65%,+0.25%,Março,2026
+Video Card Description,NVIDIA GeForce RTX 2070,0.48%,0.00%,Março,2026
+Video Card Description,NVIDIA GeForce RTX 4080 SUPER,0.64%,-0.05%,Março,2026
+Video Card Description,AMD Radeon RX 6750 XT,0.32%,+0.13%,Março,2026
+Video Card Description,NVIDIA GeForce RTX 4070 Ti SUPER,0.73%,+0.20%,Março,2026
+Video Card Description,NVIDIA GeForce RTX 2080 SUPER,0.28%,+0.06%,Março,2026
+Video Card Description,NVIDIA GeForce GTX 1070,0.67%,+0.25%,Março,2026
+Video Card Description,Intel UHD Graphics 620,0.50%,+0.23%,Março,2026
+Video Card Description,AMD Radeon RX 7600 XT,0.68%,+0.26%,Março,2026
+Video Card Description,AMD Radeon RX 7700 XT,0.24%,+0.08%,Março,2026
+Video Card Description,AMD Radeon RX 580 2048SP,0.58%,+0.23%,Março,2026
+Video Card Description,NVIDIA GeForce GT 1030,0.23%,+0.23%,Março,2026
+Video Card Description,NVIDIA GeForce RTX 4070 Laptop GPU,0.96%,+0.36%,Março,2026
+Video Card Description,NVIDIA GeForce GTX 970,0.21%,+0.21%,Março,2026
+Video Card Description,NVIDIA GeForce RTX 3080 Ti,0.56%,+0.18%,Março,2026
+Video Card Description,AMD Raphael,0.19%,+0.19%,Março,2026
+Video Card Description,NVIDIA GeForce GTX 1660 Ti,0.93%,+0.34%,Março,2026
+Video Card Description,NVIDIA GeForce RTX 2080 Ti,0.25%,+0.25%,Março,2026
+Video Card Description,AMD Radeon RX 580,0.54%,+0.19%,Março,2026
+Video Card Description,Intel HD Graphics 620,0.22%,+0.22%,Março,2026
+Video Card Description,NVIDIA GeForce RTX 4080,0.65%,+0.11%,Março,2026
+Video Card Description,NVIDIA GeForce GTX 960,0.18%,+0.18%,Março,2026
+Video Card Description,AMD Radeon(TM) Graphics,2.29%,+0.98%,Março,2026
+Video Card Description,Intel UHD Graphics,0.76%,+0.76%,Março,2026
+Video Card Description,NVIDIA GeForce GTX 1660,0.49%,+0.08%,Março,2026
+Video Card Description,NVIDIA GeForce RTX 5070 Ti Laptop GPU,0.29%,+0.11%,Março,2026
+Video Card Description,AMD Radeon Graphics (RADV VANGOGH),0.47%,+0.23%,Março,2026
+Video Card Description,NVIDIA GeForce RTX 3070 Ti Laptop GPU,0.24%,+0.24%,Março,2026
+Video Card Description,AMD AMD Custom GPU 0405,0.44%,+0.20%,Março,2026
+Video Card Description,NVIDIA GeForce RTX 5050 Laptop GPU,0.22%,+0.22%,Março,2026
+Video Card Description,AMD Radeon RX 7900 XTX,0.48%,+0.19%,Março,2026
+Video Card Description,AMD Radeon (TM) Graphics,0.43%,+0.19%,Março,2026
+Video Card Description,NVIDIA GeForce GTX 1080,0.44%,+0.16%,Março,2026
+Video Card Description,Intel UHD Graphics 600,0.15%,+0.15%,Março,2026
+Video Card Description,NVIDIA GeForce RTX 5090,0.40%,+0.16%,Março,2026
+Video Card Description,AMD Radeon 780M Graphics,0.37%,+0.17%,Março,2026
+Video Card Description,AMD Radeon RX 5700 XT,0.58%,+0.23%,Março,2026
+Video Card Description,Intel(R) Graphics,0.35%,+0.17%,Março,2026
+Video Card Description,NVIDIA GeForce RTX 3090,0.40%,+0.16%,Março,2026
+Video Card Description,NVIDIA GeForce RTX 4060,3.71%,-3.52%,Março,2026
+Video Card Description,Other,9.49%,+1.50%,Março,2026
+VRAM,512 MB,2.86%,-0.02%,Março,2026
+VRAM,1 GB,2.54%,-0.38%,Março,2026
+VRAM,2 GB,4.88%,+0.01%,Março,2026
+VRAM,3 GB,1.36%,-0.04%,Março,2026
+VRAM,4 GB,6.29%,-0.13%,Março,2026
+VRAM,6 GB,6.79%,-0.80%,Março,2026
+VRAM,8 GB,27.52%,-1.85%,Março,2026
+VRAM,10 GB,1.91%,-0.01%,Março,2026
+VRAM,11 GB,0.93%,-0.01%,Março,2026
+VRAM,12 GB,13.70%,-1.52%,Março,2026
+VRAM,16 GB,21.53%,+3.27%,Março,2026
+VRAM,20 GB,1.19%,+0.24%,Março,2026
+VRAM,22 GB,0.70%,0.00%,Março,2026
+VRAM,24 GB,4.84%,+0.75%,Março,2026
+VRAM,32 GB,1.18%,+0.26%,Março,2026
+VRAM,Other,1.77%,+0.22%,Março,2026
+Primary Display Resolution,800 x 1280,0.56%,+0.26%,Março,2026
+Primary Display Resolution,1280 x 720,0.23%,+0.23%,Março,2026
+Primary Display Resolution,1280 x 1024,0.21%,+0.21%,Março,2026
+Primary Display Resolution,1280 x 800,0.40%,+0.19%,Março,2026
+Primary Display Resolution,1360 x 768,0.46%,+0.20%,Março,2026
+Primary Display Resolution,1366 x 768,2.49%,+1.07%,Março,2026
+Primary Display Resolution,1440 x 900,0.83%,+0.37%,Março,2026
+Primary Display Resolution,1470 x 956,0.48%,+0.26%,Março,2026
+Primary Display Resolution,1512 x 982,0.34%,+0.34%,Março,2026
+Primary Display Resolution,1600 x 900,0.71%,+0.28%,Março,2026
+Primary Display Resolution,1680 x 1050,0.45%,+0.18%,Março,2026
+Primary Display Resolution,1920 x 1080,51.93%,+6.89%,Março,2026
+Primary Display Resolution,1920 x 1200,2.45%,+1.09%,Março,2026
+Primary Display Resolution,2560 x 1440,20.70%,-17.94%,Março,2026
+Primary Display Resolution,2560 x 1080,0.75%,+0.29%,Março,2026
+Primary Display Resolution,2560 x 1600,5.17%,+2.08%,Março,2026
+Primary Display Resolution,2880 x 1800,0.53%,+0.25%,Março,2026
+Primary Display Resolution,3440 x 1440,3.15%,+1.23%,Março,2026
+Primary Display Resolution,3840 x 2160,4.79%,+1.73%,Março,2026
+Primary Display Resolution,5120 x 1440,0.43%,+0.18%,Março,2026
+Primary Display Resolution,Other,2.95%,+0.63%,Março,2026
+OS Version,Windows,93.47%,+1.14%,Abril,2026
+OS Version,Windows 11 64 bit,67.74%,+0.89%,Abril,2026
+OS Version,Windows 10 64 bit,25.63%,+0.27%,Abril,2026
+OS Version,Windows 7 64 bit,0.07%,-0.01%,Abril,2026
+OS Version,OSX,2.01%,-0.34%,Abril,2026
+OS Version,MacOS 26.3.1 64 bit,0.49%,0.00%,Abril,2026
+OS Version,MacOS 26.4.0 64 bit,0.27%,+0.20%,Abril,2026
+OS Version,MacOS 26.4.1 64 bit,0.20%,+0.20%,Abril,2026
+OS Version,MacOS 26.2.0 64 bit,0.12%,-0.11%,Abril,2026
+OS Version,MacOS 26.3.0 64 bit,0.11%,-0.44%,Abril,2026
+OS Version,MacOS 15.7.4 64 bit,0.10%,-0.04%,Abril,2026
+OS Version,MacOS 15.6.1 64 bit,0.07%,-0.03%,Abril,2026
+OS Version,MacOS 15.7.3 64 bit,0.06%,-0.04%,Abril,2026
+OS Version,Linux,4.52%,-0.81%,Abril,2026
+OS Version,Arch Linux 64 bit,0.32%,-0.02%,Abril,2026
+OS Version,Linux Mint 22.3 64 bit,0.27%,0.00%,Abril,2026
+OS Version,Ubuntu Core 24 64 bit,0.13%,-0.01%,Abril,2026
+OS Version,Ubuntu 24.04.4 LTS 64 bit,0.09%,+0.09%,Abril,2026
+OS Version,Fedora Linux 43 (KDE Plasma Desktop Edition) 64 bit,0.06%,+0.06%,Abril,2026
+OS Version,Ubuntu 25.10 64 bit,0.06%,0.00%,Abril,2026
+OS Version,Linux Mint 22.2 64 bit,0.05%,-0.02%,Abril,2026
+OS Version,Fedora Linux 43 (Workstation Edition) 64 bit,0.05%,+0.05%,Abril,2026
+OS Version,Manjaro Linux 64 bit,0.05%,-0.01%,Abril,2026
+OS Version,Debian GNU/Linux 13 (trixie) 64 bit,0.05%,+0.05%,Abril,2026
+System RAM,Less than 4 GB,0.02%,0.00%,Abril,2026
+System RAM,4 GB,1.46%,-0.12%,Abril,2026
+System RAM,8 GB,7.66%,-0.49%,Abril,2026
+System RAM,12 GB,2.46%,-0.12%,Abril,2026
+System RAM,16 GB,40.86%,-0.11%,Abril,2026
+System RAM,24 GB,1.97%,-0.01%,Abril,2026
+System RAM,28 GB,0.55%,0.00%,Abril,2026
+System RAM,32 GB,37.55%,+0.93%,Abril,2026
+System RAM,48 GB,1.20%,+0.06%,Abril,2026
+System RAM,60 GB,0.94%,+0.01%,Abril,2026
+System RAM,64 GB,4.10%,-0.11%,Abril,2026
+System RAM,More than 64 GB,0.61%,-0.01%,Abril,2026
+System RAM,Other,0.62%,-0.04%,Abril,2026
+Physical CPUs,1 cpu,0.02%,-0.01%,Abril,2026
+Physical CPUs,2 cpus,3.04%,-0.20%,Abril,2026
+Physical CPUs,3 cpus,0.10%,-0.02%,Abril,2026
+Physical CPUs,4 cpus,13.02%,-0.57%,Abril,2026
+Physical CPUs,5 cpus,0.15%,-0.02%,Abril,2026
+Physical CPUs,6 cpus,28.62%,+0.85%,Abril,2026
+Physical CPUs,7 cpus,0.01%,+0.01%,Abril,2026
+Physical CPUs,8 cpus,26.95%,-0.21%,Abril,2026
+Physical CPUs,9 cpus,0.00%,0.00%,Abril,2026
+Physical CPUs,10 cpus,7.60%,+0.25%,Abril,2026
+Physical CPUs,11 cpus,0.04%,0.00%,Abril,2026
+Physical CPUs,12 cpus,5.10%,-0.20%,Abril,2026
+Physical CPUs,13 cpus,0.00%,0.00%,Abril,2026
+Physical CPUs,14 cpus,4.93%,+0.11%,Abril,2026
+Physical CPUs,15 cpus,0.01%,0.00%,Abril,2026
+Physical CPUs,16 cpus,5.51%,-0.09%,Abril,2026
+Physical CPUs,17 cpus,0.00%,0.00%,Abril,2026
+Physical CPUs,18 cpus,0.08%,+0.02%,Abril,2026
+Physical CPUs,19 cpus,0.00%,0.00%,Abril,2026
+Physical CPUs,20 cpus,2.06%,+0.10%,Abril,2026
+Physical CPUs,21 cpus,0.00%,0.00%,Abril,2026
+Physical CPUs,22 cpus,0.01%,+0.01%,Abril,2026
+Physical CPUs,23 cpus,0.00%,0.00%,Abril,2026
+Physical CPUs,24 cpus,2.73%,-0.01%,Abril,2026
+Physical CPUs,26 cpus,0.00%,0.00%,Abril,2026
+Physical CPUs,28 cpus,0.01%,0.00%,Abril,2026
+Physical CPUs,30 cpus,0.00%,0.00%,Abril,2026
+Physical CPUs,31 cpus,0.00%,0.00%,Abril,2026
+Physical CPUs,32 cpus,0.01%,0.00%,Abril,2026
+Physical CPUs,36 cpus,0.00%,0.00%,Abril,2026
+Physical CPUs,40 cpus,0.00%,0.00%,Abril,2026
+Physical CPUs,44 cpus,0.00%,0.00%,Abril,2026
+Physical CPUs,48 cpus,0.00%,0.00%,Abril,2026
+Physical CPUs,50 cpus,0.00%,0.00%,Abril,2026
+Physical CPUs,52 cpus,0.00%,0.00%,Abril,2026
+Physical CPUs,56 cpus,0.00%,0.00%,Abril,2026
+Physical CPUs,64 cpus,0.00%,0.00%,Abril,2026
+Physical CPUs,80 cpus,0.00%,0.00%,Abril,2026
+Physical CPUs,96 cpus,0.00%,0.00%,Abril,2026
+Physical CPUs,128 cpus,0.00%,0.00%,Abril,2026
+Physical CPUs,192 cpus,0.00%,0.00%,Abril,2026
+Video Card Description,NVIDIA GeForce GTX 1650 SUPER,0.28%,0.00%,Abril,2026
+Video Card Description,NVIDIA GeForce RTX 5070,2.86%,+0.16%,Abril,2026
+Video Card Description,NVIDIA GeForce GTX 1650 Ti,0.38%,-0.01%,Abril,2026
+Video Card Description,AMD Radeon RX 6800,0.20%,0.00%,Abril,2026
+Video Card Description,AMD Radeon RX 6900 XT,0.16%,0.00%,Abril,2026
+Video Card Description,NVIDIA GeForce RTX 3050 Laptop GPU,0.37%,-0.02%,Abril,2026
+Video Card Description,NVIDIA GeForce RTX 2080 Ti,0.24%,-0.01%,Abril,2026
+Video Card Description,Apple M2,1.77%,+1.77%,Abril,2026
+Video Card Description,NVIDIA GeForce RTX 4070,1.79%,-0.01%,Abril,2026
+Video Card Description,NVIDIA GeForce RTX 4060 Ti,2.45%,+0.09%,Abril,2026
+Video Card Description,NVIDIA GeForce RTX 5060 Ti,1.81%,+0.23%,Abril,2026
+Video Card Description,NVIDIA GeForce RTX 4060 Laptop GPU,3.78%,-0.03%,Abril,2026
+Video Card Description,NVIDIA GeForce RTX 5060,2.57%,+0.29%,Abril,2026
+Video Card Description,NVIDIA GeForce RTX 3060,3.99%,+0.07%,Abril,2026
+Video Card Description,NVIDIA GeForce RTX 5070 Laptop GPU,0.44%,+0.02%,Abril,2026
+Video Card Description,NVIDIA GeForce RTX 5070 Ti,1.62%,+0.15%,Abril,2026
+Video Card Description,Intel Arc Graphics,0.26%,-0.04%,Abril,2026
+Video Card Description,NVIDIA GeForce RTX 3060 Ti,2.32%,+0.10%,Abril,2026
+Video Card Description,NVIDIA GeForce GTX 970,0.20%,-0.01%,Abril,2026
+Video Card Description,NVIDIA GeForce RTX 3050,3.04%,+0.07%,Abril,2026
+Video Card Description,NVIDIA GeForce RTX 5070 Ti Laptop GPU,0.32%,+0.03%,Abril,2026
+Video Card Description,NVIDIA GeForce RTX 4070 SUPER,1.51%,0.00%,Abril,2026
+Video Card Description,NVIDIA GeForce RTX 3070 Ti Laptop GPU,0.23%,-0.01%,Abril,2026
+Video Card Description,NVIDIA GeForce GTX 1660 SUPER,1.46%,+0.07%,Abril,2026
+Video Card Description,AMD Radeon 780M Graphics,0.33%,-0.04%,Abril,2026
+Video Card Description,NVIDIA GeForce RTX 5080,1.37%,+0.10%,Abril,2026
+Video Card Description,AMD Radeon RX 570,0.36%,0.00%,Abril,2026
+Video Card Description,AMD Radeon RX 7800 XT,1.22%,+0.12%,Abril,2026
+Video Card Description,NVIDIA GeForce RTX 2070,0.49%,+0.01%,Abril,2026
+Video Card Description,NVIDIA GeForce RTX 3060 Laptop GPU,1.87%,-0.05%,Abril,2026
+Video Card Description,AMD Radeon RX 6650 XT,0.27%,0.00%,Abril,2026
+Video Card Description,NVIDIA GeForce RTX 3070,2.10%,0.00%,Abril,2026
+Video Card Description,AMD Radeon RX 6750 XT,0.32%,0.00%,Abril,2026
+Video Card Description,NVIDIA GeForce GTX 1050 Ti,1.21%,-0.02%,Abril,2026
+Video Card Description,AMD Radeon RX 6800 XT,0.23%,-0.01%,Abril,2026
+Video Card Description,NVIDIA GeForce RTX 5060 Laptop GPU,1.61%,-0.09%,Abril,2026
+Video Card Description,NVIDIA GeForce GT 1030,0.22%,-0.01%,Abril,2026
+Video Card Description,NVIDIA GeForce RTX 4070 Ti,0.97%,+0.07%,Abril,2026
+Video Card Description,AMD Raphael,0.19%,0.00%,Abril,2026
+Video Card Description,NVIDIA GeForce RTX 3070 Ti,0.97%,+0.02%,Abril,2026
+Video Card Description,NVIDIA GeForce GTX 750 Ti,0.18%,0.00%,Abril,2026
+Video Card Description,NVIDIA GeForce RTX 4050 Laptop GPU,1.56%,+0.02%,Abril,2026
+Video Card Description,Intel HD Graphics 620,0.20%,-0.02%,Abril,2026
+Video Card Description,NVIDIA GeForce RTX 2060,1.76%,-0.03%,Abril,2026
+Video Card Description,Intel UHD Graphics,0.70%,-0.06%,Abril,2026
+Video Card Description,AMD Radeon RX 6600,0.84%,+0.02%,Abril,2026
+Video Card Description,NVIDIA GeForce RTX 4080 Laptop GPU,0.19%,+0.01%,Abril,2026
+Video Card Description,NVIDIA GeForce GTX 1060,1.61%,+0.02%,Abril,2026
+Video Card Description,Intel UHD Graphics 630,0.28%,-0.02%,Abril,2026
+Video Card Description,NVIDIA GeForce RTX 2060 SUPER,0.79%,+0.03%,Abril,2026
+Video Card Description,AMD Radeon Vega 3 Graphics,0.19%,-0.01%,Abril,2026
+Video Card Description,NVIDIA GeForce GTX 1650,2.58%,-0.02%,Abril,2026
+Video Card Description,NVIDIA GeForce RTX 3090,0.38%,-0.02%,Abril,2026
+Video Card Description,NVIDIA GeForce RTX 4090,0.74%,0.00%,Abril,2026
+Video Card Description,NVIDIA GeForce RTX 3050 6GB Laptop GPU,0.58%,0.00%,Abril,2026
+Video Card Description,NVIDIA GeForce RTX 4070 Ti SUPER,0.78%,+0.05%,Abril,2026
+Video Card Description,NVIDIA GeForce GTX 1080 Ti,0.32%,-0.01%,Abril,2026
+Video Card Description,NVIDIA GeForce RTX 3080,1.45%,-0.01%,Abril,2026
+Video Card Description,AMD Radeon RX 6700 XT,0.54%,-0.01%,Abril,2026
+Video Card Description,NVIDIA GeForce RTX 4080 SUPER,0.66%,+0.02%,Abril,2026
+Video Card Description,AMD Radeon RX 6600 XT,0.33%,0.00%,Abril,2026
+Video Card Description,NVIDIA GeForce RTX 2070 SUPER,0.71%,-0.02%,Abril,2026
+Video Card Description,NVIDIA GeForce RTX 3070 Laptop GPU,0.44%,-0.01%,Abril,2026
+Video Card Description,AMD Radeon RX 7600 XT,0.73%,+0.05%,Abril,2026
+Video Card Description,NVIDIA GeForce RTX 2080 SUPER,0.28%,0.00%,Abril,2026
+Video Card Description,NVIDIA GeForce RTX 3050 Ti Laptop GPU,0.64%,-0.01%,Abril,2026
+Video Card Description,NVIDIA GeForce GTX 1050,0.57%,-0.03%,Abril,2026
+Video Card Description,Intel Iris Xe Graphics,1.69%,-0.17%,Abril,2026
+Video Card Description,AMD Radeon RX 7700 XT,0.25%,+0.01%,Abril,2026
+Video Card Description,AMD Radeon RX 580 2048SP,0.59%,+0.01%,Abril,2026
+Video Card Description,Intel(R) UHD Graphics,1.09%,-0.10%,Abril,2026
+Video Card Description,NVIDIA GeForce GTX 1070,0.65%,-0.02%,Abril,2026
+Video Card Description,Intel UHD Graphics 620,0.45%,-0.05%,Abril,2026
+Video Card Description,NVIDIA GeForce RTX 3080 Ti,0.56%,0.00%,Abril,2026
+Video Card Description,NVIDIA GeForce GTX 1070 Ti,0.21%,0.00%,Abril,2026
+Video Card Description,NVIDIA GeForce RTX 4080,0.66%,+0.01%,Abril,2026
+Video Card Description,AMD Radeon RX 6500 XT,0.19%,+0.01%,Abril,2026
+Video Card Description,NVIDIA GeForce RTX 4070 Laptop GPU,0.95%,-0.01%,Abril,2026
+Video Card Description,NVIDIA GeForce GTX 960,0.19%,+0.01%,Abril,2026
+Video Card Description,AMD Radeon(TM) Graphics,2.27%,-0.02%,Abril,2026
+Video Card Description,Intel HD Graphics 520,0.21%,-0.02%,Abril,2026
+Video Card Description,NVIDIA GeForce GTX 1660 Ti,0.90%,-0.03%,Abril,2026
+Video Card Description,AMD Radeon RX 550,0.21%,-0.02%,Abril,2026
+Video Card Description,AMD Radeon RX 580,0.53%,-0.01%,Abril,2026
+Video Card Description,AMD Radeon RX 9070,0.17%,+0.17%,Abril,2026
+Video Card Description,NVIDIA GeForce GTX 1660,0.49%,0.00%,Abril,2026
+Video Card Description,NVIDIA GeForce RTX 5050,0.16%,+0.16%,Abril,2026
+Video Card Description,AMD Radeon Graphics (RADV VANGOGH),0.43%,-0.04%,Abril,2026
+Video Card Description,AMD Radeon Vega 8 Graphics,0.33%,-0.03%,Abril,2026
+Video Card Description,AMD Radeon RX 7900 XTX,0.48%,0.00%,Abril,2026
+Video Card Description,NVIDIA GeForce RTX 2080,0.24%,0.00%,Abril,2026
+Video Card Description,NVIDIA GeForce RTX 5090,0.41%,+0.01%,Abril,2026
+Video Card Description,NVIDIA GeForce RTX 5050 Laptop GPU,0.24%,+0.02%,Abril,2026
+Video Card Description,NVIDIA GeForce GTX 1080,0.42%,-0.02%,Abril,2026
+Video Card Description,Intel HD Graphics 4600,0.17%,-0.01%,Abril,2026
+Video Card Description,AMD Radeon RX 5700 XT,0.57%,-0.01%,Abril,2026
+Video Card Description,AMD Radeon (TM) Graphics,0.42%,-0.01%,Abril,2026
+Video Card Description,NVIDIA GeForce RTX 2050,0.46%,+0.01%,Abril,2026
+Video Card Description,NVIDIA GeForce GT 730,0.16%,0.00%,Abril,2026
+Video Card Description,AMD AMD Custom GPU 0405,0.38%,-0.06%,Abril,2026
+Video Card Description,Intel(R) Graphics,0.33%,-0.02%,Abril,2026
+Video Card Description,AMD Radeon Graphics,1.83%,-0.10%,Abril,2026
+Video Card Description,NVIDIA GeForce RTX 4060,3.86%,+0.15%,Abril,2026
+Video Card Description,Other,9.06%,-0.43%,Abril,2026
+VRAM,512 MB,2.87%,+0.01%,Abril,2026
+VRAM,1 GB,2.17%,-0.37%,Abril,2026
+VRAM,2 GB,4.54%,-0.34%,Abril,2026
+VRAM,3 GB,1.35%,-0.01%,Abril,2026
+VRAM,4 GB,6.02%,-0.27%,Abril,2026
+VRAM,6 GB,6.35%,-0.44%,Abril,2026
+VRAM,8 GB,26.76%,-0.76%,Abril,2026
+VRAM,10 GB,1.95%,+0.04%,Abril,2026
+VRAM,11 GB,1.03%,+0.10%,Abril,2026
+VRAM,12 GB,13.45%,-0.25%,Abril,2026
+VRAM,16 GB,23.51%,+1.98%,Abril,2026
+VRAM,20 GB,1.25%,+0.06%,Abril,2026
+VRAM,22 GB,0.84%,+0.14%,Abril,2026
+VRAM,24 GB,5.03%,+0.19%,Abril,2026
+VRAM,32 GB,1.16%,-0.02%,Abril,2026
+VRAM,Other,1.73%,-0.04%,Abril,2026
+Primary Display Resolution,800 x 1280,0.52%,-0.04%,Abril,2026
+Primary Display Resolution,1280 x 720,0.21%,-0.02%,Abril,2026
+Primary Display Resolution,1280 x 1024,0.21%,0.00%,Abril,2026
+Primary Display Resolution,1280 x 800,0.33%,-0.07%,Abril,2026
+Primary Display Resolution,1360 x 768,0.42%,-0.04%,Abril,2026
+Primary Display Resolution,1366 x 768,2.31%,-0.18%,Abril,2026
+Primary Display Resolution,1440 x 900,0.74%,-0.09%,Abril,2026
+Primary Display Resolution,1470 x 956,0.40%,-0.08%,Abril,2026
+Primary Display Resolution,1512 x 982,0.29%,-0.05%,Abril,2026
+Primary Display Resolution,1600 x 900,0.69%,-0.02%,Abril,2026
+Primary Display Resolution,1680 x 1050,0.42%,-0.03%,Abril,2026
+Primary Display Resolution,1920 x 1080,52.21%,+0.28%,Abril,2026
+Primary Display Resolution,1920 x 1200,2.36%,-0.09%,Abril,2026
+Primary Display Resolution,2560 x 1600,4.87%,-0.30%,Abril,2026
+Primary Display Resolution,2560 x 1080,0.72%,-0.03%,Abril,2026
+Primary Display Resolution,2560 x 1440,21.41%,+0.71%,Abril,2026
+Primary Display Resolution,2880 x 1800,0.46%,-0.07%,Abril,2026
+Primary Display Resolution,3440 x 1440,3.14%,-0.01%,Abril,2026
+Primary Display Resolution,3840 x 2160,5.09%,+0.30%,Abril,2026
+Primary Display Resolution,5120 x 1440,0.41%,-0.02%,Abril,2026
+Primary Display Resolution,Other,2.78%,-0.17%,Abril,2026
+OS Version,Windows,93.85%,+0.38%,Maio,2026
+OS Version,Windows 11 64 bit,69.76%,+2.02%,Maio,2026
+OS Version,Windows 10 64 bit,23.99%,-1.64%,Maio,2026
+OS Version,Windows 7 64 bit,0.07%,0.00%,Maio,2026
+OS Version,OSX,2.16%,+0.15%,Maio,2026
+OS Version,MacOS 26.4.1 64 bit,0.46%,+0.26%,Maio,2026
+OS Version,MacOS 26.3.1 64 bit,0.36%,-0.13%,Maio,2026
+OS Version,MacOS 26.5.0 64 bit,0.27%,+0.27%,Maio,2026
+OS Version,MacOS 26.2.0 64 bit,0.11%,-0.01%,Maio,2026
+OS Version,MacOS 26.3.0 64 bit,0.10%,-0.01%,Maio,2026
+OS Version,MacOS 15.7.4 64 bit,0.09%,-0.01%,Maio,2026
+OS Version,MacOS 15.6.1 64 bit,0.07%,0.00%,Maio,2026
+OS Version,MacOS 26.4.0 64 bit,0.06%,-0.21%,Maio,2026
+OS Version,MacOS 15.7.3 64 bit,0.06%,0.00%,Maio,2026
+OS Version,Linux,3.99%,-0.53%,Maio,2026
+OS Version,SteamOS Holo 64 bit,0.93%,+0.09%,Maio,2026
+OS Version,CachyOS 64 bit,0.53%,+0.23%,Maio,2026
+OS Version,Arch Linux 64 bit,0.35%,+0.03%,Maio,2026
+OS Version,Linux Mint 22.3 64 bit,0.31%,+0.04%,Maio,2026
+OS Version,Bazzite 64 bit,0.29%,+0.12%,Maio,2026
+OS Version,Freedesktop SDK 25.08 (Flatpak runtime) 64 bit,0.22%,+0.07%,Maio,2026
+OS Version,Ubuntu Core 24 64 bit,0.14%,+0.01%,Maio,2026
+OS Version,Ubuntu 24.04.4 LTS 64 bit,0.11%,+0.02%,Maio,2026
+OS Version,Nobara Linux 43 (KDE Plasma Desktop Edition) 64 bit,0.08%,+0.08%,Maio,2026
+OS Version,Debian GNU/Linux 13 (trixie) 64 bit,0.07%,+0.02%,Maio,2026
+OS Version,EndeavourOS Linux 64 bit,0.07%,+0.07%,Maio,2026
+OS Version,Ubuntu 26.04 LTS 64 bit,0.07%,+0.07%,Maio,2026
+OS Version,Fedora Linux 44 (KDE Plasma Desktop Edition) 64 bit,0.06%,+0.06%,Maio,2026
+OS Version,Pop!_OS 24.04 LTS 64 bit,0.06%,+0.06%,Maio,2026
+OS Version,Fedora Linux 43 (KDE Plasma Desktop Edition) 64 bit,0.06%,0.00%,Maio,2026
+OS Version,Manjaro Linux 64 bit,0.05%,0.00%,Maio,2026
+System RAM,Less than 4 GB,0.02%,0.00%,Maio,2026
+System RAM,4 GB,1.48%,+0.02%,Maio,2026
+System RAM,8 GB,7.82%,+0.16%,Maio,2026
+System RAM,12 GB,2.54%,+0.08%,Maio,2026
+System RAM,16 GB,41.14%,+0.28%,Maio,2026
+System RAM,24 GB,2.06%,+0.09%,Maio,2026
+System RAM,28 GB,0.54%,-0.01%,Maio,2026
+System RAM,32 GB,36.87%,-0.68%,Maio,2026
+System RAM,48 GB,1.17%,-0.03%,Maio,2026
+System RAM,60 GB,0.97%,+0.03%,Maio,2026
+System RAM,64 GB,4.14%,+0.04%,Maio,2026
+System RAM,More than 64 GB,0.62%,+0.01%,Maio,2026
+System RAM,Other,0.63%,+0.01%,Maio,2026
+Physical CPUs,1 cpu,0.02%,0.00%,Maio,2026
+Physical CPUs,2 cpus,3.11%,+0.07%,Maio,2026
+Physical CPUs,3 cpus,0.09%,-0.01%,Maio,2026
+Physical CPUs,4 cpus,13.26%,+0.24%,Maio,2026
+Physical CPUs,5 cpus,0.16%,+0.01%,Maio,2026
+Physical CPUs,6 cpus,28.02%,-0.60%,Maio,2026
+Physical CPUs,7 cpus,0.01%,0.00%,Maio,2026
+Physical CPUs,8 cpus,27.45%,+0.50%,Maio,2026
+Physical CPUs,9 cpus,0.00%,0.00%,Maio,2026
+Physical CPUs,10 cpus,7.27%,-0.33%,Maio,2026
+Physical CPUs,11 cpus,0.04%,0.00%,Maio,2026
+Physical CPUs,12 cpus,5.11%,+0.01%,Maio,2026
+Physical CPUs,13 cpus,0.00%,0.00%,Maio,2026
+Physical CPUs,14 cpus,4.80%,-0.13%,Maio,2026
+Physical CPUs,15 cpus,0.02%,+0.01%,Maio,2026
+Physical CPUs,16 cpus,5.64%,+0.13%,Maio,2026
+Physical CPUs,17 cpus,0.00%,0.00%,Maio,2026
+Physical CPUs,18 cpus,0.10%,+0.02%,Maio,2026
+Physical CPUs,19 cpus,0.00%,0.00%,Maio,2026
+Physical CPUs,20 cpus,2.07%,+0.01%,Maio,2026
+Physical CPUs,21 cpus,0.00%,0.00%,Maio,2026
+Physical CPUs,22 cpus,0.00%,-0.01%,Maio,2026
+Physical CPUs,23 cpus,0.00%,0.00%,Maio,2026
+Physical CPUs,24 cpus,2.79%,+0.06%,Maio,2026
+Physical CPUs,26 cpus,0.00%,0.00%,Maio,2026
+Physical CPUs,28 cpus,0.01%,0.00%,Maio,2026
+Physical CPUs,30 cpus,0.00%,0.00%,Maio,2026
+Physical CPUs,32 cpus,0.01%,0.00%,Maio,2026
+Physical CPUs,36 cpus,0.00%,0.00%,Maio,2026
+Physical CPUs,40 cpus,0.00%,0.00%,Maio,2026
+Physical CPUs,44 cpus,0.00%,0.00%,Maio,2026
+Physical CPUs,48 cpus,0.00%,0.00%,Maio,2026
+Physical CPUs,50 cpus,0.00%,0.00%,Maio,2026
+Physical CPUs,52 cpus,0.00%,0.00%,Maio,2026
+Physical CPUs,56 cpus,0.00%,0.00%,Maio,2026
+Physical CPUs,60 cpus,0.00%,0.00%,Maio,2026
+Physical CPUs,64 cpus,0.00%,0.00%,Maio,2026
+Physical CPUs,76 cpus,0.00%,0.00%,Maio,2026
+Physical CPUs,96 cpus,0.00%,0.00%,Maio,2026
+Physical CPUs,128 cpus,0.00%,0.00%,Maio,2026
+Video Card Description,NVIDIA GeForce RTX 3090,0.38%,0.00%,Maio,2026
+Video Card Description,NVIDIA GeForce GTX 1080 Ti,0.32%,0.00%,Maio,2026
+Video Card Description,NVIDIA GeForce RTX 2080,0.23%,-0.01%,Maio,2026
+Video Card Description,NVIDIA GeForce GT 730,0.16%,0.00%,Maio,2026
+Video Card Description,NVIDIA GeForce GTX 970,0.20%,0.00%,Maio,2026
+Video Card Description,Intel HD Graphics 620,0.21%,+0.01%,Maio,2026
+Video Card Description,Apple M2,1.91%,+0.14%,Maio,2026
+Video Card Description,NVIDIA GeForce RTX 2080 SUPER,0.26%,-0.02%,Maio,2026
+Video Card Description,NVIDIA GeForce RTX 4060 Ti,2.32%,-0.13%,Maio,2026
+Video Card Description,NVIDIA GeForce RTX 5060 Ti,1.95%,+0.14%,Maio,2026
+Video Card Description,NVIDIA GeForce RTX 4060 Laptop GPU,3.77%,-0.01%,Maio,2026
+Video Card Description,NVIDIA GeForce RTX 5060,2.43%,-0.14%,Maio,2026
+Video Card Description,NVIDIA GeForce RTX 3060,3.85%,-0.14%,Maio,2026
+Video Card Description,AMD Radeon RX 6600 XT,0.34%,+0.01%,Maio,2026
+Video Card Description,NVIDIA GeForce RTX 5070 Ti,1.64%,+0.02%,Maio,2026
+Video Card Description,AMD Radeon RX 6750 XT,0.32%,0.00%,Maio,2026
+Video Card Description,NVIDIA GeForce RTX 3050,3.10%,+0.06%,Maio,2026
+Video Card Description,NVIDIA GeForce GT 1030,0.23%,+0.01%,Maio,2026
+Video Card Description,NVIDIA GeForce RTX 4070,1.72%,-0.07%,Maio,2026
+Video Card Description,NVIDIA GeForce RTX 5050,0.18%,+0.02%,Maio,2026
+Video Card Description,NVIDIA GeForce RTX 3060 Ti,2.17%,-0.15%,Maio,2026
+Video Card Description,NVIDIA GeForce RTX 5050 Laptop GPU,0.27%,+0.03%,Maio,2026
+Video Card Description,NVIDIA GeForce GTX 1660 SUPER,1.45%,-0.01%,Maio,2026
+Video Card Description,Intel HD Graphics 4600,0.18%,+0.01%,Maio,2026
+Video Card Description,NVIDIA GeForce RTX 4070 SUPER,1.44%,-0.07%,Maio,2026
+Video Card Description,NVIDIA GeForce RTX 5070,2.92%,+0.06%,Maio,2026
+Video Card Description,NVIDIA GeForce RTX 5080,1.40%,+0.03%,Maio,2026
+Video Card Description,NVIDIA GeForce GTX 1650 Ti,0.38%,0.00%,Maio,2026
+Video Card Description,AMD Radeon RX 9070 XT,1.24%,+1.24%,Maio,2026
+Video Card Description,NVIDIA GeForce GTX 1650 SUPER,0.29%,+0.01%,Maio,2026
+Video Card Description,NVIDIA GeForce RTX 3060 Laptop GPU,1.87%,0.00%,Maio,2026
+Video Card Description,AMD Radeon RX 6650 XT,0.26%,-0.01%,Maio,2026
+Video Card Description,NVIDIA GeForce RTX 3070,2.00%,-0.10%,Maio,2026
+Video Card Description,AMD Radeon RX 7700 XT,0.25%,0.00%,Maio,2026
+Video Card Description,NVIDIA GeForce RTX 5060 Laptop GPU,1.72%,+0.11%,Maio,2026
+Video Card Description,Intel UHD Graphics 620,0.48%,+0.03%,Maio,2026
+Video Card Description,NVIDIA GeForce GTX 1050 Ti,1.21%,0.00%,Maio,2026
+Video Card Description,AMD Raphael,0.20%,+0.01%,Maio,2026
+Video Card Description,NVIDIA GeForce RTX 4050 Laptop GPU,1.63%,+0.07%,Maio,2026
+Video Card Description,Intel HD Graphics 520,0.22%,+0.01%,Maio,2026
+Video Card Description,NVIDIA GeForce RTX 4070 Ti,0.93%,-0.04%,Maio,2026
+Video Card Description,NVIDIA GeForce GTX 750 Ti,0.18%,0.00%,Maio,2026
+Video Card Description,NVIDIA GeForce RTX 3070 Ti,0.93%,-0.04%,Maio,2026
+Video Card Description,NVIDIA GeForce GTX 960,0.17%,-0.02%,Maio,2026
+Video Card Description,AMD Radeon RX 6600,0.84%,0.00%,Maio,2026
+Video Card Description,AMD Radeon Vega 8 Graphics,0.35%,+0.02%,Maio,2026
+Video Card Description,NVIDIA GeForce RTX 2060,1.70%,-0.06%,Maio,2026
+Video Card Description,AMD Radeon (TM) Graphics,0.45%,+0.03%,Maio,2026
+Video Card Description,NVIDIA GeForce GTX 1060,1.53%,-0.08%,Maio,2026
+Video Card Description,Intel UHD Graphics 630,0.29%,+0.01%,Maio,2026
+Video Card Description,NVIDIA GeForce RTX 2060 SUPER,0.77%,-0.02%,Maio,2026
+Video Card Description,AMD Radeon Vega 3 Graphics,0.19%,0.00%,Maio,2026
+Video Card Description,NVIDIA GeForce GTX 1650,2.57%,-0.01%,Maio,2026
+Video Card Description,NVIDIA GeForce RTX 3050 6GB Laptop GPU,0.64%,+0.06%,Maio,2026
+Video Card Description,NVIDIA GeForce RTX 4090,0.73%,-0.01%,Maio,2026
+Video Card Description,AMD Radeon RX 570,0.36%,0.00%,Maio,2026
+Video Card Description,AMD Radeon RX 9060 XT,0.73%,+0.73%,Maio,2026
+Video Card Description,AMD Radeon RX 7900 XT,0.34%,+0.34%,Maio,2026
+Video Card Description,NVIDIA GeForce RTX 3080,1.42%,-0.03%,Maio,2026
+Video Card Description,NVIDIA GeForce RTX 5070 Laptop GPU,0.48%,+0.04%,Maio,2026
+Video Card Description,Intel Iris Xe Graphics,1.75%,+0.06%,Maio,2026
+Video Card Description,AMD Radeon RX 6700 XT,0.55%,+0.01%,Maio,2026
+Video Card Description,NVIDIA GeForce RTX 2070 SUPER,0.70%,-0.01%,Maio,2026
+Video Card Description,NVIDIA GeForce RTX 3070 Laptop GPU,0.44%,0.00%,Maio,2026
+Video Card Description,NVIDIA GeForce RTX 3050 Ti Laptop GPU,0.65%,+0.01%,Maio,2026
+Video Card Description,Intel Arc Graphics,0.26%,0.00%,Maio,2026
+Video Card Description,NVIDIA GeForce RTX 4070 Ti SUPER,0.74%,-0.04%,Maio,2026
+Video Card Description,NVIDIA GeForce GTX 1050,0.56%,-0.01%,Maio,2026
+Video Card Description,NVIDIA GeForce RTX 4080 SUPER,0.64%,-0.02%,Maio,2026
+Video Card Description,NVIDIA GeForce RTX 2070,0.45%,-0.04%,Maio,2026
+Video Card Description,NVIDIA GeForce GTX 1070,0.64%,-0.01%,Maio,2026
+Video Card Description,Intel(R) UHD Graphics,1.15%,+0.06%,Maio,2026
+Video Card Description,AMD Radeon RX 580 2048SP,0.57%,-0.02%,Maio,2026
+Video Card Description,AMD Radeon RX 6800 XT,0.23%,0.00%,Maio,2026
+Video Card Description,NVIDIA GeForce RTX 4070 Laptop GPU,0.96%,+0.01%,Maio,2026
+Video Card Description,NVIDIA GeForce RTX 3050 Laptop GPU,0.37%,0.00%,Maio,2026
+Video Card Description,AMD Radeon RX 580,0.56%,+0.03%,Maio,2026
+Video Card Description,NVIDIA GeForce GTX 1070 Ti,0.21%,0.00%,Maio,2026
+Video Card Description,NVIDIA GeForce RTX 3080 Ti,0.56%,0.00%,Maio,2026
+Video Card Description,NVIDIA GeForce RTX 5070 Ti Laptop GPU,0.35%,+0.03%,Maio,2026
+Video Card Description,NVIDIA GeForce RTX 4080,0.66%,0.00%,Maio,2026
+Video Card Description,AMD Radeon RX 6500 XT,0.19%,0.00%,Maio,2026
+Video Card Description,AMD Radeon RX 7800 XT,0.64%,-0.58%,Maio,2026
+Video Card Description,AMD Radeon RX 550,0.21%,0.00%,Maio,2026
+Video Card Description,NVIDIA GeForce GTX 1660 Ti,0.91%,+0.01%,Maio,2026
+Video Card Description,AMD Radeon RX 9070,0.17%,0.00%,Maio,2026
+Video Card Description,Steam Deck GPU,0.50%,+0.50%,Maio,2026
+Video Card Description,NVIDIA GeForce RTX 2080 Ti,0.23%,-0.01%,Maio,2026
+Video Card Description,NVIDIA GeForce GTX 1660,0.48%,-0.01%,Maio,2026
+Video Card Description,AMD Radeon RX 6800,0.20%,0.00%,Maio,2026
+Video Card Description,AMD Radeon RX 7600,0.45%,+0.45%,Maio,2026
+Video Card Description,AMD Radeon(TM) Graphics,0.88%,-1.39%,Maio,2026
+Video Card Description,AMD Radeon RX 7900 XTX,0.47%,-0.01%,Maio,2026
+Video Card Description,Intel UHD Graphics,0.72%,+0.02%,Maio,2026
+Video Card Description,AMD AMD Custom GPU 0405,0.42%,+0.04%,Maio,2026
+Video Card Description,NVIDIA GeForce RTX 3070 Ti Laptop GPU,0.22%,-0.01%,Maio,2026
+Video Card Description,NVIDIA GeForce RTX 5090,0.41%,0.00%,Maio,2026
+Video Card Description,NVIDIA GeForce RTX 4080 Laptop GPU,0.19%,0.00%,Maio,2026
+Video Card Description,NVIDIA GeForce GTX 1080,0.42%,0.00%,Maio,2026
+Video Card Description,AMD Radeon RX 6900 XT,0.16%,0.00%,Maio,2026
+Video Card Description,NVIDIA GeForce RTX 2050,0.48%,+0.02%,Maio,2026
+Video Card Description,AMD Radeon 780M Graphics,0.34%,+0.01%,Maio,2026
+Video Card Description,AMD Radeon Graphics,1.92%,+0.09%,Maio,2026
+Video Card Description,Intel(R) Graphics,0.37%,+0.04%,Maio,2026
+Video Card Description,AMD Radeon RX 5700 XT,0.57%,0.00%,Maio,2026
+Video Card Description,NVIDIA GeForce RTX 4060,3.55%,-0.31%,Maio,2026
+Video Card Description,Other,9.25%,+0.19%,Maio,2026
+VRAM,512 MB,2.86%,-0.01%,Maio,2026
+VRAM,1 GB,1.95%,-0.22%,Maio,2026
+VRAM,2 GB,4.55%,+0.01%,Maio,2026
+VRAM,3 GB,1.60%,+0.25%,Maio,2026
+VRAM,4 GB,6.20%,+0.18%,Maio,2026
+VRAM,6 GB,6.09%,-0.26%,Maio,2026
+VRAM,8 GB,25.89%,-0.87%,Maio,2026
+VRAM,10 GB,1.87%,-0.08%,Maio,2026
+VRAM,11 GB,0.95%,-0.08%,Maio,2026
+VRAM,12 GB,12.77%,-0.68%,Maio,2026
+VRAM,16 GB,24.05%,+0.54%,Maio,2026
+VRAM,20 GB,1.26%,+0.01%,Maio,2026
+VRAM,22 GB,1.81%,+0.97%,Maio,2026
+VRAM,24 GB,5.22%,+0.19%,Maio,2026
+VRAM,32 GB,1.20%,+0.04%,Maio,2026
+VRAM,Other,1.75%,+0.02%,Maio,2026
+Primary Display Resolution,800 x 1280,0.57%,+0.05%,Maio,2026
+Primary Display Resolution,1280 x 720,0.22%,+0.01%,Maio,2026
+Primary Display Resolution,1280 x 1024,0.21%,0.00%,Maio,2026
+Primary Display Resolution,1280 x 800,0.37%,+0.04%,Maio,2026
+Primary Display Resolution,1360 x 768,0.44%,+0.02%,Maio,2026
+Primary Display Resolution,1366 x 768,2.41%,+0.10%,Maio,2026
+Primary Display Resolution,1440 x 900,0.76%,+0.02%,Maio,2026
+Primary Display Resolution,1470 x 956,0.43%,+0.03%,Maio,2026
+Primary Display Resolution,1512 x 982,0.31%,+0.02%,Maio,2026
+Primary Display Resolution,1600 x 900,0.71%,+0.02%,Maio,2026
+Primary Display Resolution,1680 x 1050,0.43%,+0.01%,Maio,2026
+Primary Display Resolution,1920 x 1080,51.89%,-0.32%,Maio,2026
+Primary Display Resolution,1920 x 1200,2.50%,+0.14%,Maio,2026
+Primary Display Resolution,2560 x 1600,4.91%,+0.04%,Maio,2026
+Primary Display Resolution,2560 x 1080,0.71%,-0.01%,Maio,2026
+Primary Display Resolution,2560 x 1440,21.20%,-0.21%,Maio,2026
+Primary Display Resolution,2880 x 1800,0.47%,+0.01%,Maio,2026
+Primary Display Resolution,3440 x 1440,3.18%,+0.04%,Maio,2026
+Primary Display Resolution,3840 x 2160,5.00%,-0.09%,Maio,2026
+Primary Display Resolution,5120 x 1440,0.42%,+0.01%,Maio,2026
+Primary Display Resolution,Other,2.87%,+0.09%,Maio,2026

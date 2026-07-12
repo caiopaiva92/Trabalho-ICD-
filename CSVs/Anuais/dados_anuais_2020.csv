@@ -1,0 +1,181 @@
+Categoria,Especificação,Porcentagens,Incrementos/Decrementos,Ano
+OS Version, Windows,96.51,0.42,2020
+OS Version, Windows 10 64 bit,91.44,12.21,2020
+OS Version, Windows 7 64 bit,3.57,-9.99,2020
+OS Version, Windows 8.1 64 bit,1.11,-1.11,2020
+OS Version, Windows 7,0.17,-0.51,2020
+OS Version, Windows 10,0.1,-0.05,2020
+OS Version, Windows 8 64 bit,0.08,-0.08,2020
+OS Version, OSX,2.74,-0.27,2020
+OS Version, MacOS 10.15.7 64 bit,0.74,-0.11,2020
+OS Version, MacOS 10.16.0 64 bit,0.71,0.66,2020
+OS Version, MacOS 10.14.6 64 bit,0.36,-0.46,2020
+OS Version, MacOS 10.13.6 64 bit,0.31,-0.11,2020
+OS Version, MacOS 10.15.6 64 bit,0.17,0.05,2020
+OS Version, MacOS 10.12.6 64 bit,0.1,-0.06,2020
+OS Version, MacOS 10.15.5 64 bit,0.07,-1.09,2020
+OS Version, MacOS 10.11.6 64 bit,0.07,-0.03,2020
+OS Version, Linux,0.74,-0.16,2020
+OS Version, Ubuntu 20.04.1 LTS 64 bit,0.18,0.02,2020
+OS Version," ""Arch Linux"" 64 bit",0.08,-0.02,2020
+OS Version," ""Manjaro Linux"" 64 bit",0.08,-0.01,2020
+System RAM, Less than 2 GB,0.05,-0.07,2020
+System RAM, 2 GB,0.29,-0.43,2020
+System RAM, 3 GB,1.23,-1.02,2020
+System RAM, 4 GB,4.39,-3.1,2020
+System RAM, 5 GB,0.22,-0.15,2020
+System RAM, 6 GB,2.07,-0.26,2020
+System RAM, 7 GB,2.1,-0.3,2020
+System RAM, 8 GB,25.32,-9.65,2020
+System RAM, 9 GB,0.02,-0.01,2020
+System RAM, 10 GB,0.28,-0.02,2020
+System RAM, 11 GB,0.17,-0.02,2020
+System RAM, 12 GB,2.36,-0.73,2020
+System RAM, 13 GB,0.02,0.01,2020
+System RAM, 14 GB,0.47,0.24,2020
+System RAM, 15 GB,1.16,0.73,2020
+System RAM, 16 GB,49.95,11.68,2020
+System RAM, More than 16 GB,9.89,3.09,2020
+Physical CPUs, 1 cpu,0.26,-0.27,2020
+Physical CPUs, 2 cpus,13.86,-7.71,2020
+Physical CPUs, 3 cpus,0.77,-0.62,2020
+Physical CPUs, 4 cpus,39.55,-10.8,2020
+Physical CPUs, 5 cpus,0.01,0.0,2020
+Physical CPUs, 6 cpus,32.74,12.68,2020
+Physical CPUs, 7 cpus,0.0,0.0,2020
+Physical CPUs, 8 cpus,11.64,5.93,2020
+Physical CPUs, 9 cpus,0.0,0.0,2020
+Physical CPUs, 10 cpus,0.34,0.26,2020
+Physical CPUs, 12 cpus,0.65,0.43,2020
+Physical CPUs, 14 cpus,0.01,0.0,2020
+Physical CPUs, 15 cpus,0.0,0.0,2020
+Physical CPUs, 16 cpus,0.15,0.08,2020
+Physical CPUs, 18 cpus,0.01,0.0,2020
+Physical CPUs, 20 cpus,0.0,0.0,2020
+Physical CPUs, 22 cpus,0.0,0.0,2020
+Physical CPUs, 24 cpus,0.01,0.0,2020
+Physical CPUs, 28 cpus,0.0,0.0,2020
+Physical CPUs, 32 cpus,0.01,0.01,2020
+Physical CPUs, 52 cpus,0.0,0.0,2020
+Video Card Description, NVIDIA GeForce GTX 1060,11.31,-1.72,2020
+Video Card Description, NVIDIA GeForce GTX 1050 Ti,6.14,-2.66,2020
+Video Card Description, NVIDIA GeForce RTX 2060,4.94,2.82,2020
+Video Card Description, NVIDIA GeForce GTX 1650,4.03,2.46,2020
+Video Card Description, NVIDIA GeForce GTX 1050,3.79,-1.48,2020
+Video Card Description, NVIDIA GeForce GTX 1070,3.32,-1.09,2020
+Video Card Description, NVIDIA GeForce RTX 2070,2.96,1.28,2020
+Video Card Description, NVIDIA GeForce GTX 1660 Ti,2.82,0.92,2020
+Video Card Description, NVIDIA GeForce RTX 2070 SUPER,2.8,2.03,2020
+Video Card Description, NVIDIA Graphics Device,2.61,2.45,2020
+Video Card Description, NVIDIA GeForce GTX 1660,2.48,1.35,2020
+Video Card Description, NVIDIA GeForce GTX 1080,2.21,-0.5,2020
+Video Card Description, NVIDIA GeForce GTX 1660 SUPER,2.14,1.97,2020
+Video Card Description, NVIDIA GeForce RTX 2060 SUPER,1.96,1.48,2020
+Video Card Description, AMD Radeon RX 580,1.78,-0.01,2020
+Video Card Description, NVIDIA GeForce GTX 970,1.42,-1.0,2020
+Video Card Description, NVIDIA GeForce RTX 2080 SUPER,1.34,1.03,2020
+Video Card Description, NVIDIA GeForce GTX 960,1.27,-0.83,2020
+Video Card Description, AMD Radeon RX 570,1.25,0.28,2020
+Video Card Description, NVIDIA GeForce GTX 1080 Ti,1.22,-0.45,2020
+Video Card Description, NVIDIA GeForce GTX 1070 Ti,1.12,-0.07,2020
+Video Card Description, NVIDIA GeForce RTX 2080,1.11,0.08,2020
+Video Card Description, NVIDIA GeForce GTX 750 Ti,0.98,-0.94,2020
+Video Card Description, Intel UHD Graphics 620,0.9,0.12,2020
+Video Card Description, AMD Radeon Vega 8 Graphics,0.86,0.43,2020
+Video Card Description, AMD Radeon RX 5700 XT,0.86,0.42,2020
+Video Card Description, NVIDIA GeForce RTX 2080 Ti,0.74,0.04,2020
+Video Card Description, NVIDIA GeForce GTX 960M,0.7,-0.52,2020
+Video Card Description, NVIDIA GeForce GTX 1650 SUPER,0.69,0.51,2020
+Video Card Description, Intel HD Graphics 620,0.62,-0.09,2020
+Video Card Description, Intel HD Graphics 4000,0.61,-0.33,2020
+Video Card Description, NVIDIA GeForce 940M,0.6,-0.29,2020
+Video Card Description, NVIDIA GeForce GTX 1650 Ti,0.57,0.4,2020
+Video Card Description, Intel UHD Graphics 630,0.55,0.0,2020
+Video Card Description, NVIDIA GeForce GT 1030,0.5,-0.16,2020
+Video Card Description, Intel HD Graphics 520,0.46,-0.11,2020
+Video Card Description, NVIDIA GeForce RTX 3080,0.45,0.23,2020
+Video Card Description, NVIDIA GeForce GT 730,0.45,-0.34,2020
+Video Card Description, NVIDIA GeForce MX150,0.44,-0.13,2020
+Video Card Description, NVIDIA GeForce GTX 950M,0.42,-0.27,2020
+Video Card Description, Intel Haswell,0.42,-0.2,2020
+Video Card Description, AMD Radeon RX 480,0.4,-0.2,2020
+Video Card Description, Intel UHD Graphics,0.39,0.23,2020
+Video Card Description, NVIDIA GeForce GTX 950,0.38,-0.32,2020
+Video Card Description, Intel HD Graphics 6000,0.38,-0.07,2020
+Video Card Description, NVIDIA GeForce MX250,0.37,0.19,2020
+Video Card Description, AMD Radeon R7 Graphics,0.36,-0.25,2020
+Video Card Description, AMD Radeon R5 Graphics,0.35,-0.15,2020
+Video Card Description, Intel HD Graphics 4600,0.34,-0.11,2020
+Video Card Description, Intel HD Graphics 3000,0.34,-0.17,2020
+Video Card Description, Intel Iris Plus Graphics 640,0.34,0.04,2020
+Video Card Description, AMD Radeon RX 560,0.32,-0.05,2020
+Video Card Description, Intel HD Graphics 5500,0.32,-0.11,2020
+Video Card Description, AMD Radeon RX 550,0.32,0.07,2020
+Video Card Description, AMD Radeon RX 590 Series,0.31,-0.05,2020
+Video Card Description, NVIDIA GeForce GT 720M,0.31,-0.21,2020
+Video Card Description, NVIDIA GeForce GTX 980,0.29,-0.19,2020
+Video Card Description, Intel Ivy Bridge,0.29,-0.14,2020
+Video Card Description, Intel HD Graphics 630,0.28,-0.17,2020
+Video Card Description, NVIDIA GeForce GTX 750,0.28,-0.26,2020
+Video Card Description, NVIDIA GeForce GTX 760,0.28,-0.29,2020
+Video Card Description, AMD Radeon RX Vega 11 Graphics,0.28,0.08,2020
+Video Card Description, NVIDIA GeForce GT 710,0.27,-0.05,2020
+Video Card Description, AMD Radeon RX 470,0.27,-0.05,2020
+Video Card Description, AMD Radeon Vega 3 Graphics,0.27,0.11,2020
+Video Card Description, AMD Radeon RX 580 2048SP,0.27,0.07,2020
+Video Card Description, NVIDIA GeForce GTX 980 Ti,0.27,-0.17,2020
+Video Card Description, NVIDIA GeForce GTX 660,0.26,-0.21,2020
+Video Card Description, NVIDIA GeForce GTX 650,0.25,-0.24,2020
+Video Card Description, AMD Radeon RX Vega,0.23,-0.11,2020
+Video Card Description, NVIDIA GeForce MX110,0.23,0.05,2020
+Video Card Description, NVIDIA GeForce MX130,0.22,0.0,2020
+Video Card Description, AMD Radeon RX 5600 XT,0.22,0.04,2020
+Video Card Description, AMD Radeon RX 460,0.21,-0.13,2020
+Video Card Description, AMD Radeon HD 8800 Series,0.21,-0.09,2020
+Video Card Description, NVIDIA GeForce 920M,0.21,-0.13,2020
+Video Card Description, AMD Radeon RX 5700,0.2,0.05,2020
+Video Card Description, AMD Radeon(TM) Graphics,0.2,0.0,2020
+Video Card Description, Intel HD Graphics 530,0.2,-0.1,2020
+Video Card Description, AMD Radeon RX 5500 XT,0.2,0.04,2020
+Video Card Description, Intel Iris Plus Graphics,0.2,0.02,2020
+Video Card Description, NVIDIA GeForce 840M,0.19,-0.12,2020
+Video Card Description, NVIDIA GeForce 920MX,0.18,-0.07,2020
+Video Card Description, NVIDIA GeForce GTX 970M,0.17,-0.13,2020
+Video Card Description, NVIDIA GeForce RTX 2070 with Max-Q Design,0.17,0.02,2020
+Video Card Description, NVIDIA GeForce GT 630,0.17,-0.18,2020
+Video Card Description, Intel Valleyview Baytrail,0.16,-0.11,2020
+Video Card Description, AMD Radeon HD 7900 Series,0.16,-0.16,2020
+Video Card Description, Intel Cherryview Cherrytrail,0.16,-0.05,2020
+Video Card Description, Intel Sandy Bridge,0.16,-0.07,2020
+Video Card Description, AMD Radeon HD 7700 Series,0.16,-0.15,2020
+Video Card Description, NVIDIA GeForce GTX 770,0.16,-0.14,2020
+Video Card Description, AMD Radeon R5 M330,0.15,-0.04,2020
+Video Card Description, AMD Radeon Pro 460,0.15,-0.01,2020
+Video Card Description, Other,10.67,-0.06,2020
+VRAM, 512 MB,0.93,-0.91,2020
+VRAM, 1024 MB,8.07,-4.88,2020
+VRAM, 2047 MB,9.24,-7.05,2020
+VRAM, 3071 MB,4.96,-0.89,2020
+VRAM, 4095 MB,14.17,-3.57,2020
+VRAM, 5119 MB,2.41,1.69,2020
+VRAM, 6143 MB,27.08,8.89,2020
+VRAM, 8191 MB,27.02,8.41,2020
+VRAM, 10239 MB,0.74,0.0,2020
+VRAM, 11263 MB,3.12,-0.72,2020
+VRAM, Other,2.27,-1.05,2020
+Primary Display Resolution, 1024 x 768,0.26,-0.19,2020
+Primary Display Resolution, 1280 x 800,0.41,-0.17,2020
+Primary Display Resolution, 1280 x 720,0.28,-0.07,2020
+Primary Display Resolution, 1280 x 1024,0.88,-0.71,2020
+Primary Display Resolution, 1360 x 768,1.2,-0.47,2020
+Primary Display Resolution, 1366 x 768,7.44,-2.9,2020
+Primary Display Resolution, 1440 x 900,2.49,-0.62,2020
+Primary Display Resolution, 1600 x 900,1.99,-0.88,2020
+Primary Display Resolution, 1680 x 1050,1.45,-0.8,2020
+Primary Display Resolution, 1920 x 1080,67.06,2.65,2020
+Primary Display Resolution, 1920 x 1200,0.65,-0.2,2020
+Primary Display Resolution, 2560 x 1080,1.02,-0.09,2020
+Primary Display Resolution, 2560 x 1440,10.09,4.23,2020
+Primary Display Resolution, 3440 x 1440,0.94,0.2,2020
+Primary Display Resolution, 3840 x 2160,2.01,0.04,2020
+Primary Display Resolution, Other,1.84,0.0,2020

@@ -57,6 +57,17 @@ Arquivos no formato `dados_anuais_<ano>.csv`.
 | `Incrementos/Decrementos` | Diferença entre o percentual final do ano e o percentual da primeira aparição da especificação naquele ano. | `0.38` |
 | `Ano` | Ano de referência do registro. | `2023` |
 
+## Estudos complementares dos dados
+
+Além das perguntas de pesquisa originais, o relatório final (`relatorio-final.ipynb`) inclui uma seção de estudos complementares que usa a categoria `Video Card Description` para investigar hipóteses sobre o mercado de placas de vídeo:
+
+- Evolução da popularidade dos patamares **xx60/xx70/xx80/xx90** entre 2019 e 2026.
+- Disputa mensal entre **RTX 3060** e **RTX 4060** em 2025-2026.
+- Avanço geracional da série **xx70** (RTX 2070 até RTX 5070, somando variantes SUPER).
+- Comparação lado a lado entre **xx70** e **xx60** ao longo de três gerações (3000, 4000 e 5000).
+
+Essas análises também foram incorporadas à apresentação (`apresentacao-projeto-final.pptx`), que ganhou uma nova seção "Estudos Complementares" entre a conclusão e as referências.
+
 ## Acesso aos dados
 
 Os conjuntos de dados completos (bases mensais e anuais em CSV) estão hospedados no Google Drive:
